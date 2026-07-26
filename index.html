@@ -122,9 +122,9 @@
 body:not(.is-admin) .admin-only {
     display: none !important;
 }
-/* 强制管理员模式下显示为 flex */
+/* 修复：恢复元素原本的 display 类型，不强制 flex */
 body.is-admin .admin-only {
-    display: flex !important;
+    display: revert !important;
 }
 /* 确保站点容器有足够的右侧内边距，防止文字盖住按钮 */
 .group.relative {
@@ -348,14 +348,6 @@ body.is-admin .admin-only {
         let editingSectionId = null;  // 记录当前编辑链接所属的区域ID
 
 
-        // ══════════════════════════════════════════
-        // 【新增】编辑功能全局状态
-        // editingLinkIndex === null 表示新增，有值表示编辑对应索引的站点
-        // editingSectionId 用于动态区域的站点编辑
-        // ══════════════════════════════════════════
-        let editingLinkIndex = null;
-        let editingSectionId = null;
-
         // 全局云端配置中心
         let cloudConfig = { wallpaper: "", dynamicSections: [], adminPwd: "" };
 
@@ -453,12 +445,16 @@ body.is-admin .admin-only {
             const currentValidPwd = cloudConfig.adminPwd || "admin888";
             if (pwd === currentValidPwd) {
                 localStorage.setItem('nav_admin_auth', 'true'); alert(t('pwdSuccess')); checkAdminSession();
+                // 修复：登录后重新渲染以显示 admin-only 元素
+                loadCustomLinks(); loadFriendLinks(); renderDynamicSections();
             } else { alert(t('pwdFail')); }
         }
 
         function logoutAdmin() {
             localStorage.removeItem('nav_admin_auth'); alert(t('logoutMsg'));
             isCustomLinksExpanded = false; expandedDynamicSections = {}; checkAdminSession(); document.getElementById('theme-panel').classList.add('hidden');
+            // 修复：登出后重新渲染以隐藏 admin-only 元素
+            loadCustomLinks(); loadFriendLinks(); renderDynamicSections();
         }
 
         async function updateAdminPwd() {
