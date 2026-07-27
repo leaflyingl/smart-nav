@@ -325,9 +325,9 @@
         let currentModalTarget = 'custom';
         let currentEngineKey = 'google';
         
-        // 全局编辑状态
-        let editingLinkIndex = null; // 记录正在编辑的链接索引
-        let editingSectionId = null; // 记录正在编辑链接所在的分类 ID
+        // 全局编辑状态控制变量
+        let editingLinkIndex = null;
+        let editingSectionId = null;
 
         // 全局云端配置中心
         let cloudConfig = { wallpaper: "", dynamicSections: [], adminPwd: "" };
@@ -741,7 +741,7 @@
                 urlInput.value = '';
                 titleEl.innerText = t(target === 'friend' ? 'modalAddFriend' : 'modalAddCloud');
             } else {
-                // 编辑模式，数据回显
+                // 编辑模式
                 let item = null;
                 if (target === 'custom') {
                     item = JSON.parse(localStorage.getItem('nav_custom_links') || '[]')[editIndex];
@@ -785,7 +785,6 @@
             const newLink = { name, url };
 
             if (editingSectionId) {
-                // 1. 保存动态自定义区域
                 let secs = cloudConfig.dynamicSections || [];
                 const sec = secs.find(s => s.id === editingSectionId);
                 if (sec) {
@@ -794,14 +793,12 @@
                     saveDynamicSections(secs);
                 }
             } else if (currentModalTarget === 'friend') {
-                // 2. 保存友情链接
                 let links = JSON.parse(localStorage.getItem('nav_friend_links') || '[]');
                 if (editingLinkIndex === null) links.push(newLink);
                 else links[editingLinkIndex] = newLink;
                 localStorage.setItem('nav_friend_links', JSON.stringify(links));
                 loadFriendLinks();
             } else {
-                // 3. 保存站长推荐（云端）
                 let links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]');
                 if (editingLinkIndex === null) links.push(newLink);
                 else links[editingLinkIndex] = newLink;
