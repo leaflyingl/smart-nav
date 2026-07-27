@@ -542,105 +542,124 @@
         }
 
        function renderDynamicSections() {
-            document.querySelectorAll('.dynamic-section-card').forEach(el => el.remove());
-            const grid = document.getElementById('main-nav-grid');
-            const addBtnCard = document.getElementById('add-section-card');
-            let secs = cloudConfig.dynamicSections || [];
+    document.querySelectorAll('.dynamic-section-card').forEach(el => el.remove());
+    const grid = document.getElementById('main-nav-grid');
+    const addBtnCard = document.getElementById('add-section-card');
+    let secs = cloudConfig.dynamicSections || [];
 
-            secs.forEach((sec) => {
-                const isExpanded = !!expandedDynamicSections[sec.id];
-                const linkCount = sec.links.length;
-                const isCompact = linkCount > 6;
+    secs.forEach((sec) => {
+        const isExpanded = !!expandedDynamicSections[sec.id];
+        const linkCount = sec.links.length;
+        const isCompact = linkCount > 6;
 
-                let gridCols = isCompact ? 'grid-cols-3 gap-2' : 'grid-cols-2 gap-3';
-                let visibleLinks = sec.links;
-                let showExpandBtn = false;
+        let gridCols = isCompact ? 'grid-cols-3 gap-2' : 'grid-cols-2 gap-3';
+        let visibleLinks = sec.links;
+        let showExpandBtn = false;
+        let isOverThirty = linkCount > 30; // 判定是否超过30个
 
-                if (linkCount > 9) {
-                    showExpandBtn = true;
-                    if (!isExpanded) {
-                        visibleLinks = sec.links.slice(0, 9);
-                    }
-                }
-
-                const card = document.createElement('div');
-                card.className = "dynamic-section-card glass-card rounded-2xl p-6 shadow-xl hover:border-indigo-500/30 transition-all duration-300 relative xl:col-span-1";
-                card.id = `section-${sec.id}`;
-                card.draggable = true;
-                card.ondragstart = (e) => handleDragStart(e, 'section', sec.id);
-                card.ondragend = handleDragEnd;
-                card.ondragover = (e) => handleDragOver(e, 'section');
-                card.ondrop = (e) => handleDrop(e, 'section', sec.id);
-
-                let linksHtml = '';
-                if (linkCount === 0) {
-                    linksHtml = `<div class="col-span-full text-center text-xs text-slate-400/60 py-4">${t('noCloudLinks')}</div>`;
-                } else {
-                    const pClass = isCompact ? 'p-2' : 'p-3';
-                    const spaceXClass = isCompact ? 'space-x-1.5' : 'space-x-2.5';
-                    const iconSizeClass = isCompact ? 'w-4 h-4 text-[9px]' : 'w-5 h-5 text-[10px]';
-                    const imgSizeClass = isCompact ? 'w-4 h-4' : 'w-5 h-5';
-                    const textSizeClass = isCompact ? 'text-[11px]' : 'text-sm';
-                    const dragMrClass = isCompact ? 'mr-1.5' : 'mr-2.5';
-
-                    visibleLinks.forEach((link, idx) => {
-                        const displayName = getLocalizedLinkName(link.name, link.url);
-                        let displayIcon = `<div class="${iconSizeClass} rounded-full bg-indigo-500/20 text-indigo-400 flex items-center justify-center font-bold shrink-0">${displayName.charAt(0).toUpperCase()}</div>`;
-                        try { if(link.url) displayIcon = `<img src="https://unavatar.io/duckduckgo/${new URL(link.url).hostname}" draggable="false" onerror="this.style.display='none'" class="${imgSizeClass} rounded object-contain shrink-0" alt="icon" />`; } catch(e){}
-
-                        // 重点修复：重构右侧操作按钮区 (pr-16 预留按钮位，弹性布局放置编辑与删除)
-                        linksHtml += `
-                        <div class="group relative flex items-center justify-between p-2.5 bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-indigo-600/10 transition-all overflow-visible">
-    <div class="flex items-center w-full min-w-0 pr-14">
-        <i class="fas fa-grip-vertical text-slate-500 opacity-0 group-hover:opacity-50 transition-opacity mr-2 cursor-move admin-only text-[10px] shrink-0"></i>
-        <a href="${link.url}" target="_blank" rel="noopener noreferrer" class="flex items-center space-x-2 truncate w-full">
-            ${displayIcon} <span class="text-xs font-medium truncate">${displayName}</span>
-        </a>
-    </div>
-    <!-- 右侧操作栏强制置顶且不换行 -->
-    <div class="admin-only absolute right-1 top-1/2 -translate-y-1/2 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-30 shrink-0 bg-slate-900/90 p-1 rounded-lg shadow-lg">
-        <button type="button" onclick="editSectionLink(event, '${sec.id}', ${idx})" title="编辑" class="text-slate-300 hover:text-indigo-400 p-1 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-pen"></i></button>
-        <button type="button" onclick="deleteSectionLink(event, '${sec.id}', ${idx})" title="删除" class="text-slate-300 hover:text-red-400 p-1 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-trash-alt"></i></button>
-    </div>
-</div>`;
-                    });
-                }
-
-                let expandHtml = '';
-                if (showExpandBtn) {
-                    const btnText = isExpanded
-                        ? `<span data-i18n="collapseMore">${t('collapseMore')}</span> <i class="fas fa-chevron-up text-[10px]"></i>`
-                        : `<span data-i18n="expandMore">${t('expandMore')}</span> (${linkCount - 9}) <i class="fas fa-chevron-down text-[10px]"></i>`;
-                    expandHtml = `
-                        <div class="mt-4 pt-2 border-t border-slate-500/10 text-center">
-                            <button type="button" onclick="toggleDynamicSectionExpand('${sec.id}')" class="text-xs font-semibold text-indigo-400 hover:text-indigo-300 transition-colors cursor-pointer inline-flex items-center gap-1">
-                                ${btnText}
-                            </button>
-                        </div>
-                    `;
-                }
-
-                card.innerHTML = `
-                    <div class="flex justify-between items-center mb-4">
-                        <h3 class="text-lg font-semibold text-indigo-400 flex items-center cursor-move" title="长按拖拽排序" style="cursor: grab;">
-                            <i class="fas fa-grip-vertical mr-2 text-slate-500 opacity-60 admin-only text-sm"></i>
-                            <i class="fas fa-layer-group mr-2.5"></i> <span>${sec.title}</span>
-                        </h3>
-                        <div class="flex gap-1.5 shrink-0 ml-2">
-                            <button type="button" onclick="openLinkModal('section_${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-indigo-600/20 text-indigo-400 border border-indigo-500/20 rounded-md hover:bg-indigo-600/40 transition-colors cursor-pointer z-[50]">${t('addCloud')}</button>
-                            <button type="button" onclick="renameCustomSection('${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-sky-600/20 text-sky-400 border border-sky-500/20 rounded-md hover:bg-sky-600/40 transition-colors cursor-pointer z-[50]"><i class="fas fa-pen"></i></button>
-                            <button type="button" onclick="deleteCustomSection('${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-red-600/20 text-red-400 border border-red-500/20 rounded-md hover:bg-red-600/40 transition-colors cursor-pointer z-[50]"><i class="fas fa-trash"></i></button>
-                        </div>
-                    </div>
-                    <div class="grid ${gridCols}" style="min-height: 40px;" ondragover="handleDragOver(event, 'section')" ondrop="handleDrop(event, 'section', '${sec.id}')">
-                        ${linksHtml}
-                    </div>
-                    ${expandHtml}
-                `;
-                grid.insertBefore(card, addBtnCard);
-            });
-            checkAdminSession();
+        // 策略处理：超过30个只截取前9个，未超过30个且>9个开启折叠机制
+        if (isOverThirty) {
+            visibleLinks = sec.links.slice(0, 9);
+        } else if (linkCount > 9) {
+            showExpandBtn = true;
+            if (!isExpanded) {
+                visibleLinks = sec.links.slice(0, 9);
+            }
         }
+
+        // 使用语义化 section 标签，增强 SEO
+        const card = document.createElement('section');
+        card.className = "dynamic-section-card glass-card rounded-2xl p-6 shadow-xl hover:border-indigo-500/30 transition-all duration-300 relative xl:col-span-1";
+        card.id = `section-${sec.id}`;
+        card.draggable = true;
+        card.ondragstart = (e) => handleDragStart(e, 'section', sec.id);
+        card.ondragend = handleDragEnd;
+        card.ondragover = (e) => handleDragOver(e, 'section');
+        card.ondrop = (e) => handleDrop(e, 'section', sec.id);
+
+        let linksHtml = '';
+        if (linkCount === 0) {
+            linksHtml = `<div class="col-span-full text-center text-xs text-slate-400/60 py-4">${t('noCloudLinks')}</div>`;
+        } else {
+            const pClass = isCompact ? 'p-2' : 'p-3';
+            const spaceXClass = isCompact ? 'space-x-1.5' : 'space-x-2.5';
+            const iconSizeClass = isCompact ? 'w-4 h-4 text-[9px]' : 'w-5 h-5 text-[10px]';
+            const imgSizeClass = isCompact ? 'w-4 h-4' : 'w-5 h-5';
+            const textSizeClass = isCompact ? 'text-[11px]' : 'text-sm';
+
+            visibleLinks.forEach((link, idx) => {
+                const displayName = getLocalizedLinkName(link.name, link.url);
+                // 自动化 SEO 描述兜底
+                const linkDesc = link.desc || `${displayName} - ${sec.title}推荐优质站点`;
+                let displayIcon = `<div class="${iconSizeClass} rounded-full bg-indigo-500/20 text-indigo-400 flex items-center justify-center font-bold shrink-0">${displayName.charAt(0).toUpperCase()}</div>`;
+                try { if(link.url) displayIcon = `<img src="https://www.google.com/s2/favicons?domain=${new URL(link.url).hostname}&sz=64" draggable="false" onerror="this.style.display='none'" class="${imgSizeClass} rounded object-contain shrink-0" alt="${displayName} 图标" />`; } catch(e){}
+
+                // SEO 关键：加上 rel="noopener noreferrer nofollow" 防止权重要外流，加上 article 语义标签
+                linksHtml += `
+                <article class="group relative flex items-center justify-between ${pClass} pr-16 bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-indigo-600/10 transition-all overflow-visible">
+                    <div class="flex items-center w-full min-w-0">
+                        <i class="fas fa-grip-vertical text-slate-500 opacity-0 group-hover:opacity-50 transition-opacity mr-2 cursor-move admin-only text-[10px] shrink-0"></i>
+                        <a href="${link.url}" draggable="false" target="_blank" rel="noopener noreferrer nofollow" title="${linkDesc}" class="flex items-center ${spaceXClass} truncate w-full">
+                            ${displayIcon} 
+                            <span class="${textSizeClass} font-medium truncate text-slate-200 hover:text-indigo-400 transition-colors">${displayName}</span>
+                        </a>
+                    </div>
+                    <div class="admin-only absolute right-1.5 top-1/2 -translate-y-1/2 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-30 shrink-0 bg-slate-900/90 p-1 rounded-lg">
+                        <button type="button" onclick="editSectionLink(event, '${sec.id}', ${idx})" title="编辑" class="text-slate-400 hover:text-indigo-400 p-1 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-pen"></i></button>
+                        <button type="button" onclick="deleteSectionLink(event, '${sec.id}', ${idx})" title="删除" class="text-slate-400 hover:text-red-400 p-1 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-trash-alt"></i></button>
+                    </div>
+                </article>`;
+            });
+        }
+
+        // 底部动作按钮区（处理折叠 / 超过30个跳转机制）
+        let footerHtml = '';
+        if (isOverThirty) {
+            footerHtml = `
+                <div class="mt-4 pt-2 border-t border-slate-500/10 text-center">
+                    <a href="/category.html?id=${sec.id}" target="_blank" class="text-xs font-semibold text-indigo-400 hover:text-indigo-300 transition-colors inline-flex items-center gap-1">
+                        查看完整【${sec.title}】分类 (共 ${linkCount} 项) <i class="fas fa-arrow-right text-[10px]"></i>
+                    </a>
+                </div>`;
+        } else if (showExpandBtn) {
+            const btnText = isExpanded
+                ? `<span data-i18n="collapseMore">${t('collapseMore')}</span> <i class="fas fa-chevron-up text-[10px]"></i>`
+                : `<span data-i18n="expandMore">${t('expandMore')}</span> (${linkCount - 9}) <i class="fas fa-chevron-down text-[10px]"></i>`;
+            footerHtml = `
+                <div class="mt-4 pt-2 border-t border-slate-500/10 text-center">
+                    <button type="button" onclick="toggleDynamicSectionExpand('${sec.id}')" class="text-xs font-semibold text-indigo-400 hover:text-indigo-300 transition-colors cursor-pointer inline-flex items-center gap-1">
+                        ${btnText}
+                    </button>
+                </div>`;
+        }
+
+        // 语义化 description 区域
+        const secDesc = sec.description || `包含${sec.title}相关的精选工具与常用优质网站汇聚。`;
+
+        card.innerHTML = `
+            <header class="mb-3">
+                <div class="flex justify-between items-center">
+                    <h3 class="text-lg font-semibold text-indigo-400 flex items-center cursor-move" style="cursor: grab;">
+                        <i class="fas fa-grip-vertical mr-2 text-slate-500 opacity-60 admin-only text-sm"></i>
+                        <i class="fas fa-layer-group mr-2.5"></i> <span>${sec.title}</span>
+                    </h3>
+                    <div class="flex gap-1.5 shrink-0 ml-2">
+                        <button type="button" onclick="openLinkModal('section_${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-indigo-600/20 text-indigo-400 border border-indigo-500/20 rounded-md hover:bg-indigo-600/40 transition-colors cursor-pointer z-20">${t('addCloud')}</button>
+                        <button type="button" onclick="renameCustomSection('${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-sky-600/20 text-sky-400 border border-sky-500/20 rounded-md hover:bg-sky-600/40 transition-colors cursor-pointer z-20"><i class="fas fa-pen"></i></button>
+                        <button type="button" onclick="deleteCustomSection('${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-red-600/20 text-red-400 border border-red-500/20 rounded-md hover:bg-red-600/40 transition-colors cursor-pointer z-20"><i class="fas fa-trash"></i></button>
+                    </div>
+                </div>
+                <p class="text-[11px] text-slate-400/80 mt-1 line-clamp-1">${secDesc}</p>
+            </header>
+            <div class="grid ${gridCols}" style="min-height: 40px;">
+                ${linksHtml}
+            </div>
+            ${footerHtml}
+        `;
+        grid.insertBefore(card, addBtnCard);
+    });
+    checkAdminSession();
+}
 
         function deleteSectionLink(e, secId, linkIdx) {
             e.preventDefault(); e.stopPropagation();
