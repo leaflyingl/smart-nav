@@ -519,15 +519,40 @@
             saveDynamicSections(secs);
         }
 
-        function renameCustomSection(id) {
-            let secs = cloudConfig.dynamicSections || [];
-            const sec = secs.find(s => s.id === id);
-            if(!sec) return;
-            const newTitle = prompt(t('renameSectionPrompt'), sec.title);
-            if(!newTitle || newTitle.trim() === '' || newTitle === sec.title) return;
-            sec.title = newTitle.trim();
-            saveDynamicSections(secs);
-        }
+        // 修改：支持同时编辑分类名称和分类描述
+async function renameCustomSection(secId) {
+    let secs = cloudConfig.dynamicSections || [];
+    let secObj = secs.find(s => s.id === secId);
+    if (!secObj) return;
+
+    // 1. 获取新名称
+    const newTitle = prompt("请输入新的分类名称：", secObj.title);
+    if (newTitle === null) return; // 用户点击取消
+    const trimmedTitle = newTitle.trim();
+    if (!trimmedTitle) {
+        alert("分类名称不能为空！");
+        return;
+    }
+
+    // 2. 获取新的 SEO 描述
+    const currentDesc = secObj.description || "";
+    const newDesc = prompt("请输入该分类的 SEO 描述（用于搜索引擎抓取，建议15-30字）：", currentDesc);
+    if (newDesc === null) return; // 用户点击取消
+
+    // 3. 更新内存中的数据
+    secObj.title = trimmedTitle;
+    secObj.description = newDesc.trim();
+
+    // 4. 保存到云端 (KV) 并重新渲染
+    try {
+        await saveCloudConfig();
+        renderDynamicSections();
+        showToast("分类信息更新成功！");
+    } catch (e) {
+        console.error("保存分类配置失败:", e);
+        alert("保存失败，请检查网络或后端配置！");
+    }
+}
 
         function deleteCustomSection(id) {
             if(!confirm(t('delSectionConfirm'))) return;
@@ -633,8 +658,10 @@
                 </div>`;
         }
 
-        // 语义化 description 区域
-        const secDesc = sec.description || `包含${sec.title}相关的精选工具与常用优质网站汇聚。`;
+       // 动态读取配置中的 description，若没有设置则使用兜底逻辑
+        const secDesc = sec.description && sec.description.trim() 
+            ? sec.description 
+            : `包含${sec.title}相关的精选工具与常用优质网站汇聚。`;
 
         card.innerHTML = `
             <header class="mb-3">
@@ -645,10 +672,12 @@
                     </h3>
                     <div class="flex gap-1.5 shrink-0 ml-2">
                         <button type="button" onclick="openLinkModal('section_${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-indigo-600/20 text-indigo-400 border border-indigo-500/20 rounded-md hover:bg-indigo-600/40 transition-colors cursor-pointer z-20">${t('addCloud')}</button>
-                        <button type="button" onclick="renameCustomSection('${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-sky-600/20 text-sky-400 border border-sky-500/20 rounded-md hover:bg-sky-600/40 transition-colors cursor-pointer z-20"><i class="fas fa-pen"></i></button>
+                        <!-- 点击此铅笔按钮即可同时修改名称和描述 -->
+                        <button type="button" onclick="renameCustomSection('${sec.id}')" title="修改分类名称及描述" class="admin-only text-[10px] px-2 py-1 bg-sky-600/20 text-sky-400 border border-sky-500/20 rounded-md hover:bg-sky-600/40 transition-colors cursor-pointer z-20"><i class="fas fa-pen"></i></button>
                         <button type="button" onclick="deleteCustomSection('${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-red-600/20 text-red-400 border border-red-500/20 rounded-md hover:bg-red-600/40 transition-colors cursor-pointer z-20"><i class="fas fa-trash"></i></button>
                     </div>
                 </div>
+                <!-- 实时渲染修改后的 SEO 描述 -->
                 <p class="text-[11px] text-slate-400/80 mt-1 line-clamp-1">${secDesc}</p>
             </header>
             <div class="grid ${gridCols}" style="min-height: 40px;">
