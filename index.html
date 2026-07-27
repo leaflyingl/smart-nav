@@ -541,7 +541,7 @@
             renderDynamicSections();
         }
 
-        function renderDynamicSections() {
+       function renderDynamicSections() {
             document.querySelectorAll('.dynamic-section-card').forEach(el => el.remove());
             const grid = document.getElementById('main-nav-grid');
             const addBtnCard = document.getElementById('add-section-card');
@@ -581,7 +581,6 @@
                     const iconSizeClass = isCompact ? 'w-4 h-4 text-[9px]' : 'w-5 h-5 text-[10px]';
                     const imgSizeClass = isCompact ? 'w-4 h-4' : 'w-5 h-5';
                     const textSizeClass = isCompact ? 'text-[11px]' : 'text-sm';
-                    const prClass = isCompact ? 'pr-12' : 'pr-14';
                     const dragMrClass = isCompact ? 'mr-1.5' : 'mr-2.5';
 
                     visibleLinks.forEach((link, idx) => {
@@ -589,8 +588,9 @@
                         let displayIcon = `<div class="${iconSizeClass} rounded-full bg-indigo-500/20 text-indigo-400 flex items-center justify-center font-bold shrink-0">${displayName.charAt(0).toUpperCase()}</div>`;
                         try { if(link.url) displayIcon = `<img src="https://unavatar.io/duckduckgo/${new URL(link.url).hostname}" draggable="false" onerror="this.style.display='none'" class="${imgSizeClass} rounded object-contain shrink-0" alt="icon" />`; } catch(e){}
 
+                        // 重点修复：重构右侧操作按钮区 (pr-16 预留按钮位，弹性布局放置编辑与删除)
                         linksHtml += `
-                        <div class="group relative flex items-center justify-between ${pClass} bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-indigo-600/10 transition-all"
+                        <div class="group relative flex items-center justify-between ${pClass} pr-16 bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-indigo-600/10 transition-all"
                              draggable="true"
                              ondragstart="handleDragStart(event, 'link', '${sec.id}', ${idx})"
                              ondragend="handleDragEnd(event)"
@@ -598,13 +598,13 @@
                              ondrop="handleDrop(event, 'link', '${sec.id}', ${idx})">
                             <div class="flex items-center w-full overflow-hidden">
                                 <i class="fas fa-grip-vertical text-slate-500 opacity-0 group-hover:opacity-50 transition-opacity ${dragMrClass} cursor-move admin-only text-[10px] shrink-0"></i>
-                                <a href="${link.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="flex items-center ${spaceXClass} truncate w-full ${prClass}">
+                                <a href="${link.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="flex items-center ${spaceXClass} truncate w-full">
                                     ${displayIcon} <span class="${textSizeClass} font-medium truncate">${displayName}</span>
                                 </a>
                             </div>
                             <div class="admin-only absolute right-1.5 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-20">
-                                <button type="button" onclick="editSectionLink(event, '${sec.id}', ${idx})" class="text-slate-400 hover:text-indigo-400 bg-slate-500/20 px-1 py-0.5 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-pen"></i></button>
-                                <button type="button" onclick="deleteSectionLink(event, '${sec.id}', ${idx})" class="text-slate-400 hover:text-red-400 bg-slate-500/20 px-1 py-0.5 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-trash-alt"></i></button>
+                                <button type="button" onclick="editSectionLink(event, '${sec.id}', ${idx})" title="编辑链接" class="text-slate-400 hover:text-indigo-400 bg-slate-500/20 hover:bg-slate-500/40 p-1 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-pen"></i></button>
+                                <button type="button" onclick="deleteSectionLink(event, '${sec.id}', ${idx})" title="删除链接" class="text-slate-400 hover:text-red-400 bg-slate-500/20 hover:bg-slate-500/40 p-1 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-trash-alt"></i></button>
                             </div>
                         </div>`;
                     });
