@@ -689,7 +689,7 @@ linksHtml += `
                     `;
                 }
 
-                const finalHtml = `
+                card.innerHTML = `
                     <div class="flex justify-between items-center mb-4">
                         <h2 class="text-lg font-semibold text-indigo-400 flex items-center cursor-move" title="长按拖拽排序" style="cursor: grab;">
                             <i class="fas fa-grip-vertical mr-2 text-slate-500 opacity-60 admin-only text-sm"></i>
@@ -706,14 +706,9 @@ linksHtml += `
                     </div>
                     ${expandHtml}
                 `;
-                card.innerHTML = finalHtml;
-                // 【调试】输出按钮组 HTML 到控制台
-                console.log('【调试】动态区域按钮组 HTML:', linksHtml);
                 grid.insertBefore(card, addBtnCard);
             });
             checkAdminSession();
-            // 【调试】输出容器 HTML
-            console.log('【调试】站长推荐容器 HTML:', container.innerHTML.substring(0, 500));
         }
 
         function deleteSectionLink(e, secId, linkIdx) {
@@ -885,7 +880,6 @@ async function saveActiveLink() {
             try { const res = await fetch('/api/links'); if(res.ok) links = await res.json(); else throw new Error(); }
             catch(e) { links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]'); }
             container.innerHTML = '';
-            // 【调试】清空容器
 
             if (links.length === 0) {
                 container.innerHTML = `<div class="col-span-full text-center text-xs text-slate-400/60 py-10">${t('noCloudLinks')}</div>`;
@@ -940,8 +934,6 @@ async function saveActiveLink() {
             } else { actionWrapper.classList.add('hidden'); }
 
             checkAdminSession();
-            // 【调试】输出容器 HTML
-            console.log('【调试】站长推荐容器 HTML:', container.innerHTML.substring(0, 500));
         }
 
         function toggleExpandCustomLinks() { isCustomLinksExpanded = !isCustomLinksExpanded; loadCustomLinks(); }
@@ -974,7 +966,6 @@ async function saveActiveLink() {
             let linksStr = localStorage.getItem('nav_friend_links');
             let links = linksStr ? JSON.parse(linksStr) : [];
             container.innerHTML = '';
-            // 【调试】清空容器
             if (links.length === 0) {
                 links = [
                     { name: "IT头条博客", url: "https://it-toutiao.blogspot.com" },
@@ -994,8 +985,6 @@ async function saveActiveLink() {
                     </div>`;
             });
             checkAdminSession();
-            // 【调试】输出容器 HTML
-            console.log('【调试】站长推荐容器 HTML:', container.innerHTML.substring(0, 500));
         }
 
         function deleteFriendLink(e, index) {
@@ -1024,6 +1013,35 @@ async function saveActiveLink() {
         updateClockAndGreeting();
         fetchWeather();
         initCloudData();
+
+        // 【调试】页面加载完成后检查 DOM
+        setTimeout(() => {
+            console.log('【调试】页面加载完成');
+            console.log('【调试】body 是否有 is-admin:', document.body.classList.contains('is-admin'));
+            console.log('【调试】admin-only 元素数量:', document.querySelectorAll('.admin-only').length);
+            console.log('【调试】link-actions 元素数量:', document.querySelectorAll('.link-actions').length);
+            console.log('【调试】group 元素数量:', document.querySelectorAll('.group').length);
+
+            // 检查第一个 admin-only 元素的内容
+            const firstAdmin = document.querySelector('.admin-only');
+            if (firstAdmin) {
+                console.log('【调试】第一个 admin-only 内容:', firstAdmin.outerHTML.substring(0, 200));
+            }
+
+            // 检查自媒体区域的链接
+            const zimeiti = document.getElementById('section-');
+            if (zimeiti) {
+                const links = zimeiti.querySelectorAll('.group');
+                console.log('【调试】自媒体区域链接数量:', links.length);
+                links.forEach((link, i) => {
+                    const buttons = link.querySelectorAll('button');
+                    console.log(`【调试】链接 ${i} 的按钮数量:`, buttons.length);
+                    buttons.forEach((btn, j) => {
+                        console.log(`【调试】  按钮 ${j}:`, btn.outerHTML.substring(0, 100));
+                    });
+                });
+            }
+        }, 2000);
     </script>
 </body>
 </html>
