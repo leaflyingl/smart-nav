@@ -3,62 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO 基础优化 -->
+    <title id="page-title">科技共享-智能多功能响应式导航</title>
+    <meta name="description" content="科技共享-智能多功能响应式导航。提供高效的搜索、云端自定义网址管理、动态天气与专属壁纸等个性化功能。">
+    <meta name="keywords" content="网址导航, 科技共享, 开发者导航, 智能导航, 响应式网站, 云端同步">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://kjgx668.blogspot.com">
 
-    <!-- ══════════════════════════════════════════
-         SEO 基础 Meta
-    ══════════════════════════════════════════ -->
-    <title id="page-title">GoldenBuds导航 - AI及开发工具与互联网服务导航</title>
-
-    <meta name="description" content="GoldenBuds导航，收录 AI 工具、开发工具、SEO 工具、站长工具、搜索引擎和常用互联网服务，帮助用户快速访问常用在线网站。智能多功能响应式导航，支持云端同步。">
-    <meta name="keywords" content="网址导航,导航网站,AI工具,开发工具,站长工具,SEO工具,互联网导航,科技共享,智能导航,响应式网站,云端同步">
-    <meta name="author" content="GoldenBuds">
-    <meta name="robots" content="index,follow,max-image-preview:large">
-
-    <!-- 规范链接：正式上线后请替换为绑定的正式域名 -->
-    <link rel="canonical" href="https://4d038ad1.smart-nav-b1o.pages.dev/">
-
-    <!-- ══════════════════════════════════════════
-         Open Graph / 社交分享
-    ══════════════════════════════════════════ -->
+    <!-- SEO Open Graph (社交媒体卡片) -->
     <meta property="og:type" content="website">
-    <meta property="og:locale" content="zh_CN">
-    <meta property="og:title" content="GoldenBuds导航 - AI及开发工具与互联网服务导航">
-    <meta property="og:description" content="收录 AI 工具、开发工具、SEO 工具、站长工具和常用互联网服务的智能网址导航，支持云端同步。">
-    <meta property="og:url" content="https://4d038ad1.smart-nav-b1o.pages.dev/">
-    <meta property="og:site_name" content="GoldenBuds导航">
+    <meta property="og:title" content="科技共享-智能多功能响应式导航">
+    <meta property="og:description" content="高效搜索、云端自定义网址管理、动态天气与专属壁纸。">
+    <meta property="og:url" content="https://kjgx668.blogspot.com">
+    <meta property="og:site_name" content="科技共享导航">
 
-    <!-- Twitter Card -->
+    <!-- SEO Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="GoldenBuds导航 - AI及开发工具与互联网服务导航">
-    <meta name="twitter:description" content="快速访问 AI 工具、开发工具和常用互联网服务。">
+    <meta name="twitter:title" content="科技共享-智能多功能响应式导航">
+    <meta name="twitter:description" content="高效搜索、云端自定义网址管理、动态天气与专属壁纸。">
 
-    <!-- ══════════════════════════════════════════
-         JSON-LD 结构化数据
-    ══════════════════════════════════════════ -->
+    <!-- SEO JSON-LD 结构化数据 (搜索引擎识读) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "GoldenBuds导航",
-      "alternateName": "TechShare Smart Navigation",
-      "url": "https://4d038ad1.smart-nav-b1o.pages.dev/",
-      "description": "收录 AI 工具、开发工具、SEO 工具、站长工具和常用互联网服务的智能网址导航，支持云端同步。",
-      "inLanguage": "zh-CN"
+      "name": "科技共享-智能多功能响应式导航",
+      "url": "https://kjgx668.blogspot.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.google.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
     }
     </script>
-
-    <!-- ══════════════════════════════════════════
-         性能优化：DNS 预解析与预连接
-    ══════════════════════════════════════════ -->
+    
+    <!-- 性能优化：DNS 预解析与预连接 -->
     <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
-
+    
     <!-- Google AdSense 基础脚本 -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
 
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
+    
     <style>
         /* 日间模式 (Light) 基础样式 */
         body.theme-light {
@@ -111,46 +100,20 @@
         body, .glass-card, .glass-input, #custom-links-container {
             transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
         }
-
+        
         .dragging {
             opacity: 0.4;
             transform: scale(0.98);
             border: 2px dashed #6366f1 !important;
         }
 
-        /* 隐藏与显示管理员组件 */
+        /* 管理员权限控制类：默认非管理员隐藏编辑元素 */
         body:not(.is-admin) .admin-only {
             display: none !important;
-        }
-        /* 强制管理员模式下显示为 flex */
-        body.is-admin .admin-only {
-            display: flex !important;
-        }
-        /* 确保站点容器有足够的右侧内边距，防止文字盖住按钮 */
-        .group.relative {
-            padding-right: 4rem !important; /* 预留给编辑和删除按钮的空间 */
-        }
-
-        /* SEO：对搜索引擎可见但视觉隐藏的 h1 */
-        .sr-only {
-            position: absolute;
-            width: 1px;
-            height: 1px;
-            padding: 0;
-            margin: -1px;
-            overflow: hidden;
-            clip: rect(0,0,0,0);
-            white-space: nowrap;
-            border: 0;
         }
     </style>
 </head>
 <body class="theme-dark font-sans antialiased selection:bg-indigo-500 selection:text-white">
-
-    <!-- ══════════════════════════════════════════
-         SEO 语义 h1（视觉隐藏，搜索引擎可读）
-    ══════════════════════════════════════════ -->
-    <h1 class="sr-only">GoldenBuds智能网址导航 - AI及开发工具与互联网服务导航</h1>
 
     <!-- 个性化设置浮窗 -->
     <div class="fixed top-5 right-5 z-[150] relative">
@@ -169,7 +132,7 @@
                 <button onclick="setBaseTheme('theme-light')" class="flex-1 py-1.5 rounded-lg bg-slate-800 text-slate-200 text-xs text-center hover:bg-slate-700 transition-colors cursor-pointer flex items-center justify-center gap-1"><i class="fas fa-sun text-amber-500"></i> <span data-i18n="themeLight">日间</span></button>
                 <button onclick="setBaseTheme('theme-dark')" class="flex-1 py-1.5 rounded-lg bg-slate-800 text-slate-200 text-xs text-center hover:bg-slate-700 transition-colors cursor-pointer flex items-center justify-center gap-1"><i class="fas fa-moon text-indigo-400"></i> <span data-i18n="themeDark">夜间</span></button>
             </div>
-
+            
             <div class="admin-only space-y-1.5 px-1 border-t border-slate-800 pt-3 mt-1">
                 <div class="flex justify-between items-center">
                     <label class="text-[11px] text-slate-400 font-bold" data-i18n="bgTitle">自定义背景 (全站同步)</label>
@@ -180,7 +143,7 @@
                     <button onclick="applyCustomBg()" class="bg-indigo-600 text-white px-2 py-1 rounded-lg text-xs hover:bg-indigo-500 cursor-pointer shrink-0" data-i18n="applyBtn">应用</button>
                 </div>
             </div>
-
+            
             <!-- 修改管理员密码区域 (仅管理员可见) -->
             <div class="admin-only space-y-1.5 px-1 border-t border-slate-800 pt-3 mt-1">
                 <label class="text-[11px] text-slate-400 font-bold" data-i18n="pwdTitle">修改管理员密码 (全站同步)</label>
@@ -197,10 +160,10 @@
     </div>
 
     <div class="max-w-7xl mx-auto px-4 py-12 lg:py-20 flex flex-col items-center">
-
+        
         <!-- 时间与问候语组件 -->
         <div class="text-center mb-10 animate-fade-in">
-            <div id="clock" class="text-5xl lg:text-7xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 mb-2">00:00:00</div>
+            <h1 id="clock" class="text-5xl lg:text-7xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 mb-2">00:00:00</h1>
             <div class="flex items-center justify-center space-x-3 text-sm md:text-base font-medium tracking-wide opacity-90">
                 <span id="greeting" class="text-indigo-400">正在筹备问候语...</span>
                 <span class="opacity-30">|</span>
@@ -236,9 +199,9 @@
 
         <!-- 导航卡片网格 -->
         <div id="main-nav-grid" class="w-full grid grid-cols-1 xl:grid-cols-3 gap-8 mb-8 relative z-10 items-start">
-
+            
             <div id="card-recommend" class="glass-card rounded-2xl p-6 shadow-xl hover:border-indigo-500/30 transition-all duration-300">
-                <h2 class="text-lg font-semibold text-indigo-400 mb-4 flex items-center"><i class="fas fa-star mr-2.5"></i> <span data-i18n="cardRec">常用推荐</span></h2>
+                <h3 class="text-lg font-semibold text-indigo-400 mb-4 flex items-center"><i class="fas fa-star mr-2.5"></i> <span data-i18n="cardRec">常用推荐</span></h3>
                 <div class="grid grid-cols-2 gap-3">
                     <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="flex items-center space-x-3 p-3 bg-slate-500/5 rounded-xl hover:bg-indigo-600/20 transition-all"><i class="fab fa-github text-xl text-slate-400"></i> <span class="text-sm font-medium">GitHub</span></a>
                     <a href="https://www.youtube.com/@kejigongxiang" target="_blank" rel="noopener noreferrer" class="flex items-center space-x-3 p-3 bg-slate-500/5 rounded-xl hover:bg-indigo-600/20 transition-all"><i class="fab fa-youtube text-xl text-red-500"></i> <span class="text-sm font-medium">YouTube</span></a>
@@ -250,7 +213,7 @@
             </div>
 
             <div id="card-develop" class="glass-card rounded-2xl p-6 shadow-xl hover:border-purple-500/30 transition-all duration-300">
-                <h2 class="text-lg font-semibold text-purple-400 mb-4 flex items-center"><i class="fas fa-code mr-2.5"></i> <span data-i18n="cardDev">效率与开发</span></h2>
+                <h3 class="text-lg font-semibold text-purple-400 mb-4 flex items-center"><i class="fas fa-code mr-2.5"></i> <span data-i18n="cardDev">效率与开发</span></h3>
                 <div class="grid grid-cols-2 gap-3">
                     <a href="https://dash.cloudflare.com" target="_blank" rel="noopener noreferrer" class="flex items-center space-x-3 p-3 bg-slate-500/5 rounded-xl hover:bg-purple-600/20 transition-all"><i class="fas fa-cloud text-xl text-orange-400"></i> <span class="text-sm font-medium">Cloudflare</span></a>
                     <a href="https://chatgpt.com" target="_blank" rel="noopener noreferrer" class="flex items-center space-x-3 p-3 bg-slate-500/5 rounded-xl hover:bg-purple-600/20 transition-all"><i class="fas fa-robot text-xl text-emerald-400"></i> <span class="text-sm font-medium">ChatGPT</span></a>
@@ -263,7 +226,7 @@
 
             <div id="card-custom" class="glass-card rounded-2xl p-6 shadow-xl hover:border-pink-500/30 transition-all duration-300 xl:col-span-1">
                 <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-lg font-semibold text-pink-400 flex items-center"><i class="fas fa-folder-plus mr-2.5"></i> <span data-i18n="cardCustom">站长推荐</span></h2>
+                    <h3 class="text-lg font-semibold text-pink-400 flex items-center"><i class="fas fa-folder-plus mr-2.5"></i> <span data-i18n="cardCustom">站长推荐</span></h3>
                     <button type="button" onclick="openLinkModal('custom')" class="admin-only text-xs px-2.5 py-1 bg-pink-600/20 text-pink-400 border border-pink-500/20 rounded-lg hover:bg-pink-600/40 transition-colors cursor-pointer z-[50]" data-i18n="addCloud">添加 (云端)</button>
                 </div>
                 <div id="custom-links-container"></div>
@@ -282,32 +245,18 @@
 
         </div>
 
-        <!-- 友情链接 -->
         <div class="w-full relative z-10 mb-12">
             <div class="glass-card rounded-2xl p-6 shadow-xl hover:border-emerald-500/20 transition-all duration-300">
                 <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-base font-semibold text-emerald-400 flex items-center"><i class="fas fa-handshake mr-2.5"></i> <span data-i18n="cardFriend">友情链接</span></h2>
+                    <h3 class="text-base font-semibold text-emerald-400 flex items-center"><i class="fas fa-handshake mr-2.5"></i> <span data-i18n="cardFriend">友情链接</span></h3>
                     <button type="button" onclick="openLinkModal('friend')" class="admin-only text-xs px-2.5 py-1 bg-emerald-600/20 text-emerald-400 border border-emerald-500/20 rounded-lg hover:bg-emerald-600/40 transition-colors cursor-pointer z-[50]" data-i18n="addLocal">添加 (本地)</button>
                 </div>
                 <div id="friend-links-container" class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-3"></div>
             </div>
         </div>
 
-        <!-- SEO：静态介绍文字 -->
-        <section class="w-full relative z-10 mb-8" aria-label="关于GoldenBuds导航">
-            <div class="glass-card rounded-2xl p-6 shadow-xl">
-                <h2 class="text-base font-semibold text-slate-400 mb-3 flex items-center">
-                    <i class="fas fa-info-circle mr-2 text-indigo-400"></i>
-                    <span id="about-title">关于本导航</span>
-                </h2>
-                <p id="about-text" class="text-sm leading-7 text-slate-500">
-                    GoldenBuds导航是一个面向开发者、站长和互联网用户的智能网址导航平台，收录常用的 AI 工具、开发工具、SEO 工具、站长工具、搜索引擎和在线服务，帮助用户快速找到并访问常用网站。支持中英双语切换、云端数据同步、智能天气定位和个性化壁纸设置。
-                </p>
-            </div>
-        </section>
-
         <footer id="admin-trigger" ondblclick="triggerAdminLogin()" class="text-slate-500 text-xs mt-4 cursor-pointer select-none tracking-wide hover:text-indigo-400/70 transition-colors" title="后台入口 (双击 / Double Click)">
-            <span data-i18n="footerText">&copy; 2026 GoldenBuds-智能生态导航 · Powered by Cloudflare</span> <span id="admin-badge" class="ml-1 text-[10px] px-1.5 py-0.5 rounded bg-indigo-500/20 text-indigo-400 font-bold hidden" data-i18n="adminBadge">已登入</span>
+            <span data-i18n="footerText">&copy; 2026 科技共享-智能生态导航 · Powered by Cloudflare</span> <span id="admin-badge" class="ml-1 text-[10px] px-1.5 py-0.5 rounded bg-indigo-500/20 text-indigo-400 font-bold hidden" data-i18n="adminBadge">已登入</span>
         </footer>
     </div>
 
@@ -336,71 +285,57 @@
         // --- 0. 全局状态与配置 ---
         let currentLang = localStorage.getItem('nav_lang') || 'zh';
         let isCustomLinksExpanded = false;
-        let expandedDynamicSections = {};
-        let currentModalTarget = 'custom';
+        let expandedDynamicSections = {}; 
+        let currentModalTarget = 'custom'; 
+        let currentEditingIndex = -1; // 标记编辑索引
         let currentEngineKey = 'google';
-
-        // 编辑功能全局状态（唯一变量声明）
-        let editingLinkIndex = null;
-        let editingSectionId = null;
-
-        // 全局云端配置中心
+        
         let cloudConfig = { wallpaper: "", dynamicSections: [], adminPwd: "" };
 
-        let dragType = null;
-        let dragSecId = null;
+        let dragType = null; 
+        let dragSecId = null; 
         let dragLinkIdx = null;
 
         const i18n = {
             zh: {
-                pageTitle: "GoldenBuds导航 - AI及开发工具与互联网服务导航",
-                langTitle: "语言 / Language", themeTitle: "基础色彩模式 (本地偏好)",
+                pageTitle: "科技共享-智能多功能响应式导航", langTitle: "语言 / Language", themeTitle: "基础色彩模式 (本地偏好)",
                 themeLight: "日间", themeDark: "夜间", bgTitle: "自定义背景 (全站同步)", bgInputPlace: "输入图片网址 https://...",
                 applyBtn: "应用", clearBg: "清除壁纸", logoutBtn: "退出后台管理", weatherLoading: "正在定位测算天气...",
-                enGoogle: "谷歌 Google", enBing: "必应 Bing", enBaidu: "百度 Baidu",
-                searchGoogle: "在 Google 中搜索...", searchBing: "在 必应 Bing 中搜索...", searchBaidu: "在 百度 Baidu 中搜索...", searchGithub: "在 GitHub 中搜索仓库...",
+                enGoogle: "谷歌 Google", enBing: "必应 Bing", enBaidu: "百度 Baidu", searchGoogle: "在 Google 中搜索...", searchBing: "在 必应 Bing 中搜索...", searchBaidu: "在 百度 Baidu 中搜索...", searchGithub: "在 GitHub 中搜索仓库...",
                 cardRec: "常用推荐", cardDev: "效率与开发", cardCustom: "站长推荐", cardFriend: "友情链接",
                 linkBlog: "科技共享博客", linkBili: "哔哩哔哩", linkZhihu: "知乎", linkWeibo: "微博", linkJuejin: "稀土掘金",
                 addCloud: "添加 (云端)", addLocal: "添加 (本地)", expandMore: "展开显示更多", collapseMore: "收起部分站点",
                 footerText: "&copy; 2026 科技共享-智能生态导航 · Powered by Cloudflare", adminBadge: "已登入",
-                modalAddCloud: "添加云端站长推荐", modalAddFriend: "添加友情链接", siteName: "网站名称", siteNamePlace: "例如：百度", siteUrl: "网站网址 (URL)",
+                modalAddCloud: "添加云端站长推荐", modalEditCloud: "编辑云端站长推荐", modalAddFriend: "添加友情链接", modalEditFriend: "编辑友情链接", modalAddSection: "添加到自定义区域", modalEditSection: "编辑自定义区域站点", siteName: "网站名称", siteNamePlace: "例如：百度", siteUrl: "网站网址 (URL)",
                 btnCancel: "取消", btnSave: "保存站点", noCloudLinks: "暂无自定义链接", loadingCloud: "正在从云端加载...",
                 delConfirm: "确定要删除这个链接吗？", pwdPrompt: "🔐 请输入后台管理员安全密码：", pwdSuccess: "🎉 认证成功！管理功能已全部解锁。", pwdFail: "❌ 密码错误，鉴权失败！", logoutMsg: "🔒 已安全退出管理后台，页面回归只读状态。",
                 weatherCloudy: "多云", weatherClear: "晴朗", weatherRain: "阵雨", weatherSnow: "降雪", weatherThunder: "雷阵雨", weatherDefault: "风调雨顺 · 晴", validUrlMsg: "提示：请输入有效的网址！",
-                addSectionBtn: "添加自定义区域", promptSectionName: "请输入新区域的名称 (例如：AI工具)：", delSectionConfirm: "确定要删除整个区域及其所有链接吗？", modalAddSection: "添加到自定义区域",
+                addSectionBtn: "添加自定义区域", promptSectionName: "请输入新区域的名称 (例如：AI工具)：", delSectionConfirm: "确定要删除整个区域及其所有链接吗？",
                 renameSectionPrompt: "请输入新的区域名称：",
-                pwdTitle: "修改管理员密码 (全站同步)", pwdInputPlace: "输入新密码", saveBtn: "保存", pwdUpdateSuccess: "管理员密码修改成功！下次登录生效。",
-                editCustomLink: "编辑站长推荐", editFriendLink: "编辑友情链接", editSectionLink: "编辑自定义区域站点",
-                aboutTitle: "关于本导航",
-                aboutText: "GoldenBuds导航是一个面向开发者、站长和互联网用户的智能网址导航平台，收录常用的 AI 工具、开发工具、SEO 工具、站长工具、搜索引擎和在线服务，帮助用户快速找到并访问常用网站。支持中英双语切换、云端数据同步、智能天气定位和个性化壁纸设置。"
+                pwdTitle: "修改管理员密码 (全站同步)", pwdInputPlace: "输入新密码", saveBtn: "保存", pwdUpdateSuccess: "管理员密码修改成功！下次登录生效。"
             },
             en: {
-                pageTitle: "TechShare Nav - AI Tools, Dev Tools & Webmaster Navigation",
-                langTitle: "Language / 语言", themeTitle: "Color Theme (Local Pref)",
+                pageTitle: "TechShare - Smart Responsive Nav", langTitle: "Language / 语言", themeTitle: "Color Theme (Local Pref)",
                 themeLight: "Light", themeDark: "Dark", bgTitle: "Custom Wallpaper (Cloud Sync)", bgInputPlace: "Image URL https://...",
                 applyBtn: "Apply", clearBg: "Clear Wallpaper", logoutBtn: "Logout Admin", weatherLoading: "Fetching weather...",
-                enGoogle: "Google", enBing: "Bing", enBaidu: "Baidu",
-                searchGoogle: "Search in Google...", searchBing: "Search in Bing...", searchBaidu: "Search in Baidu...", searchGithub: "Search in GitHub...",
+                enGoogle: "Google", enBing: "Bing", enBaidu: "Baidu", searchGoogle: "Search in Google...", searchBing: "Search in Bing...", searchBaidu: "Search in Baidu...", searchGithub: "Search in GitHub...",
                 cardRec: "Recommended", cardDev: "Dev & Tools", cardCustom: "Webmaster Picks", cardFriend: "Friend Links",
                 linkBlog: "TechShare Blog", linkBili: "Bilibili", linkZhihu: "Zhihu", linkWeibo: "Weibo", linkJuejin: "Juejin",
                 addCloud: "Add (Cloud)", addLocal: "Add (Local)", expandMore: "Show More", collapseMore: "Collapse",
                 footerText: "&copy; 2026 TechShare Smart Nav · Powered by Cloudflare", adminBadge: "Logged In",
-                modalAddCloud: "Add Cloud Link", modalAddFriend: "Add Friend Link", siteName: "Site Name", siteNamePlace: "e.g., Google", siteUrl: "Site URL",
+                modalAddCloud: "Add Cloud Link", modalEditCloud: "Edit Cloud Link", modalAddFriend: "Add Friend Link", modalEditFriend: "Edit Friend Link", modalAddSection: "Add to Custom Section", modalEditSection: "Edit Custom Section Link", siteName: "Site Name", siteNamePlace: "e.g., Google", siteUrl: "Site URL",
                 btnCancel: "Cancel", btnSave: "Save Site", noCloudLinks: "No custom links yet", loadingCloud: "Loading from cloud...",
                 delConfirm: "Are you sure you want to delete this link?", pwdPrompt: "🔐 Enter Admin Password:", pwdSuccess: "🎉 Authenticated! Admin features unlocked.", pwdFail: "❌ Incorrect password!", logoutMsg: "🔒 Logged out safely. Read-only mode activated.",
                 weatherCloudy: "Cloudy", weatherClear: "Clear", weatherRain: "Rain", weatherSnow: "Snow", weatherThunder: "Thunder", weatherDefault: "Good Weather · Clear", validUrlMsg: "Please enter a valid URL!",
-                addSectionBtn: "Add Custom Section", promptSectionName: "Enter new section name (e.g., AI Tools):", delSectionConfirm: "Are you sure you want to delete this entire section?", modalAddSection: "Add to Custom Section",
+                addSectionBtn: "Add Custom Section", promptSectionName: "Enter new section name (e.g., AI Tools):", delSectionConfirm: "Are you sure you want to delete this entire section?",
                 renameSectionPrompt: "Enter new section name:",
-                pwdTitle: "Change Admin Password (Cloud Sync)", pwdInputPlace: "Enter new password", saveBtn: "Save", pwdUpdateSuccess: "Admin password updated successfully! Valid on next login.",
-                editCustomLink: "Edit Webmaster Link", editFriendLink: "Edit Friend Link", editSectionLink: "Edit Custom Section Link",
-                aboutTitle: "About This Navigation",
-                aboutText: "TechShare Navigation is a smart web navigation platform for developers, webmasters, and internet users. It curates AI tools, development tools, SEO tools, webmaster tools, search engines, and common online services to help users quickly access frequently used websites. Supports bilingual switching, cloud sync, smart weather, and custom wallpapers."
+                pwdTitle: "Change Admin Password (Cloud Sync)", pwdInputPlace: "Enter new password", saveBtn: "Save", pwdUpdateSuccess: "Admin password updated successfully! Valid on next login."
             }
         };
 
         const dynamicLinkDict = {
-            "https://kjgx668.blogspot.com": { zh: "GoldenBuds", en: "GoldenBuds Blog" },
-            "https://kjgx.168668520.xyz": { zh: "GoldenBuds导航", en: "TechShare Nav" },
+            "https://kjgx668.blogspot.com": { zh: "科技共享", en: "TechShare Blog" },
+            "https://kjgx.168668520.xyz": { zh: "科技共享导航", en: "TechShare Nav" },
             "https://it-toutiao.blogspot.com": { zh: "IT头条博客", en: "IT Toutiao Blog" }
         };
 
@@ -417,30 +352,28 @@
             document.getElementById('page-title').innerText = t('pageTitle');
             document.querySelectorAll('[data-i18n]').forEach(el => { el.innerHTML = t(el.getAttribute('data-i18n')); });
             document.querySelectorAll('[data-i18n-placeholder]').forEach(el => { el.placeholder = t(el.getAttribute('data-i18n-placeholder')); });
-            const aboutTitle = document.getElementById('about-title');
-            const aboutText = document.getElementById('about-text');
-            if (aboutTitle) aboutTitle.innerText = t('aboutTitle');
-            if (aboutText) aboutText.innerText = t('aboutText');
             loadCustomLinks(); loadFriendLinks(); renderDynamicSections();
         }
 
-        // --- 1. 管理员鉴权 (动态密码校验) ---
+        // --- 1. 管理员鉴权 ---
         function checkAdminSession() {
             const isAdmin = localStorage.getItem('nav_admin_auth') === 'true';
-            if (isAdmin) { document.body.classList.add('is-admin'); document.getElementById('admin-badge').classList.remove('hidden'); }
+            if (isAdmin) { document.body.classList.add('is-admin'); document.getElementById('admin-badge').classList.remove('hidden'); } 
             else { document.body.classList.remove('is-admin'); document.getElementById('admin-badge').classList.add('hidden'); }
         }
-
+        
         function triggerAdminLogin() {
             if (localStorage.getItem('nav_admin_auth') === 'true') { alert(currentLang === 'zh' ? "提示：您已处于后台管理模式。" : "Notice: You are already in admin mode."); return; }
             const pwd = prompt(t('pwdPrompt'));
             if (pwd === null) return;
+            
             const currentValidPwd = cloudConfig.adminPwd || "admin888";
-            if (pwd === currentValidPwd) {
-                localStorage.setItem('nav_admin_auth', 'true'); alert(t('pwdSuccess')); checkAdminSession();
-            } else { alert(t('pwdFail')); }
+            if (pwd === currentValidPwd) { 
+                localStorage.setItem('nav_admin_auth', 'true'); alert(t('pwdSuccess')); checkAdminSession(); 
+            } 
+            else { alert(t('pwdFail')); }
         }
-
+        
         function logoutAdmin() {
             localStorage.removeItem('nav_admin_auth'); alert(t('logoutMsg'));
             isCustomLinksExpanded = false; expandedDynamicSections = {}; checkAdminSession(); document.getElementById('theme-panel').classList.add('hidden');
@@ -452,15 +385,18 @@
             cloudConfig.adminPwd = newPwd;
             document.getElementById('custom-pwd-input').value = '';
             document.getElementById('theme-panel').classList.add('hidden');
-            try {
-                await fetch('/api/config', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(cloudConfig) });
+            
+            try { 
+                await fetch('/api/config', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(cloudConfig) }); 
                 alert(t('pwdUpdateSuccess'));
-            } catch (e) { console.error("云端密码同步失败", e); }
+            } catch (e) { 
+                console.error("云端密码同步失败", e); 
+            }
         }
 
         // --- 2. 拖拽核心控制逻辑 ---
         function handleDragStart(e, type, secId, linkIdx = null) {
-            e.stopPropagation();
+            e.stopPropagation(); 
             if (localStorage.getItem('nav_admin_auth') !== 'true') { e.preventDefault(); return; }
             dragType = type; dragSecId = secId; dragLinkIdx = linkIdx;
             e.dataTransfer.effectAllowed = 'move';
@@ -469,37 +405,52 @@
         }
 
         function handleDragEnd(e) {
-            e.stopPropagation();
+            e.stopPropagation(); 
             e.currentTarget.classList.remove('dragging');
             document.querySelectorAll('.dynamic-section-card, .group').forEach(el => el.style.border = '');
         }
 
-        function handleDragOver(e, type) {
-            e.preventDefault(); e.stopPropagation(); e.dataTransfer.dropEffect = 'move'; return false;
+        function handleDragOver(e, type) { 
+            e.preventDefault(); 
+            e.stopPropagation(); 
+            e.dataTransfer.dropEffect = 'move'; 
+            return false; 
         }
 
         function handleDrop(e, type, targetSecId, targetLinkIdx = null) {
-            e.stopPropagation(); e.preventDefault();
+            e.stopPropagation(); 
+            e.preventDefault();
             if (localStorage.getItem('nav_admin_auth') !== 'true') return;
+
             let secs = cloudConfig.dynamicSections || [];
+
             if (dragType === 'section' && type === 'section') {
                 if (dragSecId === targetSecId) return;
                 const fromIdx = secs.findIndex(s => s.id === dragSecId);
                 const toIdx = secs.findIndex(s => s.id === targetSecId);
-                if(fromIdx > -1 && toIdx > -1) { const [moved] = secs.splice(fromIdx, 1); secs.splice(toIdx, 0, moved); }
-            } else if (dragType === 'link' && type === 'link') {
+                if(fromIdx > -1 && toIdx > -1) {
+                    const [moved] = secs.splice(fromIdx, 1);
+                    secs.splice(toIdx, 0, moved);
+                }
+            } 
+            else if (dragType === 'link' && type === 'link') {
                 if (dragSecId === targetSecId && dragLinkIdx === targetLinkIdx) return;
                 const fromSec = secs.find(s => s.id === dragSecId);
                 const toSec = secs.find(s => s.id === targetSecId);
-                if (fromSec && toSec) { const [movedLink] = fromSec.links.splice(dragLinkIdx, 1); toSec.links.splice(targetLinkIdx, 0, movedLink); }
-            } else if (dragType === 'link' && type === 'section') {
-                const fromSec = secs.find(s => s.id === dragSecId);
-                const toSec = secs.find(s => s.id === targetSecId);
                 if (fromSec && toSec) {
-                    if (fromSec === toSec) return;
+                    let actualTargetIdx = targetLinkIdx;
                     const [movedLink] = fromSec.links.splice(dragLinkIdx, 1);
-                    toSec.links.push(movedLink);
+                    toSec.links.splice(actualTargetIdx, 0, movedLink);
                 }
+            } 
+            else if (dragType === 'link' && type === 'section') {
+                 const fromSec = secs.find(s => s.id === dragSecId);
+                 const toSec = secs.find(s => s.id === targetSecId);
+                 if (fromSec && toSec) {
+                     if (fromSec === toSec) return; 
+                     const [movedLink] = fromSec.links.splice(dragLinkIdx, 1);
+                     toSec.links.push(movedLink);
+                 }
             }
             saveDynamicSections(secs);
         }
@@ -508,16 +459,17 @@
         async function initCloudData() {
             const savedTheme = localStorage.getItem('nav_theme_mode') || 'theme-dark';
             document.body.classList.remove('theme-light', 'theme-dark'); document.body.classList.add(savedTheme);
-            const globalDefaultBg = "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop";
+            const globalDefaultBg = "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop"; 
             let savedBg = localStorage.getItem('nav_custom_wallpaper');
             cloudConfig.dynamicSections = JSON.parse(localStorage.getItem('nav_dynamic_sections') || '[]');
+            
             try {
                 const res = await fetch('/api/config');
                 if (res.ok) {
                     const configData = await res.json();
                     if (configData) {
                         if (configData.wallpaper !== undefined) {
-                            if (configData.wallpaper === "") { savedBg = null; localStorage.removeItem('nav_custom_wallpaper'); document.body.classList.add('bg-cleared'); }
+                            if (configData.wallpaper === "") { savedBg = null; localStorage.removeItem('nav_custom_wallpaper'); document.body.classList.add('bg-cleared'); } 
                             else { savedBg = configData.wallpaper; localStorage.setItem('nav_custom_wallpaper', savedBg); document.body.classList.remove('bg-cleared'); }
                         }
                         if (configData.dynamicSections) { cloudConfig.dynamicSections = configData.dynamicSections; localStorage.setItem('nav_dynamic_sections', JSON.stringify(cloudConfig.dynamicSections)); }
@@ -525,7 +477,8 @@
                     }
                 }
             } catch (e) {}
-            if (!savedBg && !document.body.classList.contains('bg-cleared')) savedBg = globalDefaultBg;
+
+            if (!savedBg && !document.body.classList.contains('bg-cleared')) savedBg = globalDefaultBg; 
             if (savedBg) { applyWallpaperStyles(savedBg); document.getElementById('custom-bg-input').value = savedBg; document.getElementById('clear-bg-btn').classList.remove('hidden'); }
             renderDynamicSections();
         }
@@ -605,7 +558,9 @@
 
                 if (linkCount > 9) {
                     showExpandBtn = true;
-                    if (!isExpanded) { visibleLinks = sec.links.slice(0, 9); }
+                    if (!isExpanded) {
+                        visibleLinks = sec.links.slice(0, 9);
+                    }
                 }
 
                 const card = document.createElement('div');
@@ -626,6 +581,7 @@
                     const iconSizeClass = isCompact ? 'w-4 h-4 text-[9px]' : 'w-5 h-5 text-[10px]';
                     const imgSizeClass = isCompact ? 'w-4 h-4' : 'w-5 h-5';
                     const textSizeClass = isCompact ? 'text-[11px]' : 'text-sm';
+                    const prClass = isCompact ? 'pr-12' : 'pr-14';
                     const dragMrClass = isCompact ? 'mr-1.5' : 'mr-2.5';
 
                     visibleLinks.forEach((link, idx) => {
@@ -634,7 +590,7 @@
                         try { if(link.url) displayIcon = `<img src="https://unavatar.io/duckduckgo/${new URL(link.url).hostname}" draggable="false" onerror="this.style.display='none'" class="${imgSizeClass} rounded object-contain shrink-0" alt="icon" />`; } catch(e){}
 
                         linksHtml += `
-                        <div class="group relative flex items-center ${pClass} bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-indigo-600/10 transition-all pr-16"
+                        <div class="group relative flex items-center justify-between ${pClass} bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-indigo-600/10 transition-all"
                              draggable="true"
                              ondragstart="handleDragStart(event, 'link', '${sec.id}', ${idx})"
                              ondragend="handleDragEnd(event)"
@@ -642,14 +598,13 @@
                              ondrop="handleDrop(event, 'link', '${sec.id}', ${idx})">
                             <div class="flex items-center w-full overflow-hidden">
                                 <i class="fas fa-grip-vertical text-slate-500 opacity-0 group-hover:opacity-50 transition-opacity ${dragMrClass} cursor-move admin-only text-[10px] shrink-0"></i>
-                                <a href="${link.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="flex items-center ${spaceXClass} truncate w-full">
+                                <a href="${link.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="flex items-center ${spaceXClass} truncate w-full ${prClass}">
                                     ${displayIcon} <span class="${textSizeClass} font-medium truncate">${displayName}</span>
                                 </a>
                             </div>
-                            <!-- 统一的编辑 + 删除按钮组 -->
-                            <div class="admin-only absolute right-1 top-0 bottom-0 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-20">
-                                <button type="button" onclick="openLinkModal('section_${sec.id}', ${idx}, '${sec.id}')" class="text-sky-400 bg-slate-800/80 p-1 rounded hover:bg-sky-500 hover:text-white" title="编辑"><i class="fas fa-pen text-[10px]"></i></button>
-                                <button type="button" onclick="deleteSectionLink(event, '${sec.id}', ${idx})" class="text-red-400 bg-slate-800/80 p-1 rounded hover:bg-red-500 hover:text-white" title="删除"><i class="fas fa-trash-alt text-[10px]"></i></button>
+                            <div class="admin-only absolute right-1.5 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-20">
+                                <button type="button" onclick="editSectionLink(event, '${sec.id}', ${idx})" class="text-slate-400 hover:text-indigo-400 bg-slate-500/20 px-1 py-0.5 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-pen"></i></button>
+                                <button type="button" onclick="deleteSectionLink(event, '${sec.id}', ${idx})" class="text-slate-400 hover:text-red-400 bg-slate-500/20 px-1 py-0.5 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-trash-alt"></i></button>
                             </div>
                         </div>`;
                     });
@@ -671,12 +626,12 @@
 
                 card.innerHTML = `
                     <div class="flex justify-between items-center mb-4">
-                        <h2 class="text-lg font-semibold text-indigo-400 flex items-center cursor-move" title="长按拖拽排序" style="cursor: grab;">
+                        <h3 class="text-lg font-semibold text-indigo-400 flex items-center cursor-move" title="长按拖拽排序" style="cursor: grab;">
                             <i class="fas fa-grip-vertical mr-2 text-slate-500 opacity-60 admin-only text-sm"></i>
                             <i class="fas fa-layer-group mr-2.5"></i> <span>${sec.title}</span>
-                        </h2>
+                        </h3>
                         <div class="flex gap-1.5 shrink-0 ml-2">
-                            <button type="button" onclick="openLinkModal('section_${sec.id}', null, '${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-indigo-600/20 text-indigo-400 border border-indigo-500/20 rounded-md hover:bg-indigo-600/40 transition-colors cursor-pointer z-[50]">${t('addCloud')}</button>
+                            <button type="button" onclick="openLinkModal('section_${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-indigo-600/20 text-indigo-400 border border-indigo-500/20 rounded-md hover:bg-indigo-600/40 transition-colors cursor-pointer z-[50]">${t('addCloud')}</button>
                             <button type="button" onclick="renameCustomSection('${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-sky-600/20 text-sky-400 border border-sky-500/20 rounded-md hover:bg-sky-600/40 transition-colors cursor-pointer z-[50]"><i class="fas fa-pen"></i></button>
                             <button type="button" onclick="deleteCustomSection('${sec.id}')" class="admin-only text-[10px] px-2 py-1 bg-red-600/20 text-red-400 border border-red-500/20 rounded-md hover:bg-red-600/40 transition-colors cursor-pointer z-[50]"><i class="fas fa-trash"></i></button>
                         </div>
@@ -696,6 +651,16 @@
             let secs = cloudConfig.dynamicSections || [];
             const sec = secs.find(s => s.id === secId);
             if(sec) { sec.links.splice(linkIdx, 1); saveDynamicSections(secs); }
+        }
+
+        function editSectionLink(e, secId, linkIdx) {
+            e.preventDefault(); e.stopPropagation();
+            let secs = cloudConfig.dynamicSections || [];
+            const sec = secs.find(s => s.id === secId);
+            if(sec && sec.links[linkIdx]) {
+                const link = sec.links[linkIdx];
+                openLinkModal(`section_${sec.id}`, linkIdx, link.name, link.url);
+            }
         }
 
         // --- 5. 智能时间预测系统 ---
@@ -741,116 +706,102 @@
         function toggleEngineMenu(e) { e.stopPropagation(); document.getElementById('engine-menu').classList.toggle('hidden'); }
         function selectEngine(key) { currentEngineKey = key; const form = document.getElementById('search-form'); const input = document.getElementById('search-input'); const icon = document.getElementById('engine-icon'); form.action = engines[key].action; input.name = engines[key].name; input.setAttribute('data-i18n-placeholder', engines[key].placeholderKey); input.placeholder = t(engines[key].placeholderKey); icon.className = engines[key].icon; document.getElementById('engine-menu').classList.add('hidden'); }
 
-        // ══════════════════════════════════════════
-        // --- 8. 弹窗管理（含统一编辑功能）---
-        // ══════════════════════════════════════════
-
-        function openLinkModal(target, editIndex = null, sectionId = null) {
-            currentModalTarget = target;
-            editingLinkIndex = editIndex;
-            editingSectionId = sectionId;
-
-            const nameInput = document.getElementById('site-name');
-            const urlInput = document.getElementById('site-url');
-            const titleEl = document.getElementById('modal-title-text');
-
-            if (editIndex === null) {
-                // 新增模式
-                nameInput.value = '';
-                urlInput.value = '';
-                titleEl.innerText = t(target === 'friend' ? 'modalAddFriend' : 'modalAddCloud');
+        // --- 8. 网址添加与编辑模态框控制 ---
+        function openLinkModal(target, index = -1, defaultName = '', defaultUrl = '') { 
+            currentModalTarget = target; 
+            currentEditingIndex = index;
+            const textEl = document.getElementById('modal-title-text'); 
+            
+            if(index >= 0) {
+                if(target === 'friend') textEl.innerText = t('modalEditFriend');
+                else if(target === 'custom') textEl.innerText = t('modalEditCloud');
+                else textEl.innerText = t('modalEditSection');
             } else {
-                // 编辑模式：自动回填数据
-                let item = null;
-                if (target === 'custom') {
-                    item = JSON.parse(localStorage.getItem('nav_custom_links') || '[]')[editIndex];
-                } else if (target === 'friend') {
-                    item = JSON.parse(localStorage.getItem('nav_friend_links') || '[]')[editIndex];
-                } else if (sectionId) {
-                    const sec = (cloudConfig.dynamicSections || []).find(s => s.id === sectionId);
-                    if (sec) item = sec.links[editIndex];
-                }
-                if (item) {
-                    nameInput.value = item.name;
-                    urlInput.value = item.url;
-                    titleEl.innerText = "编辑站点链接";
-                }
+                if(target === 'friend') textEl.innerText = t('modalAddFriend');
+                else if(target === 'custom') textEl.innerText = t('modalAddCloud');
+                else textEl.innerText = t('modalAddSection');
             }
-            document.getElementById('modal').classList.remove('hidden');
+
+            toggleModal(true, defaultName, defaultUrl); 
         }
 
-        function toggleModal(show) {
-            const modal = document.getElementById('modal');
-            if (show) {
-                modal.classList.remove('hidden');
-            } else {
-                modal.classList.add('hidden');
-                editingLinkIndex = null;
-                editingSectionId = null;
-                currentModalTarget = 'custom';
-                document.getElementById('site-name').value = '';
-                document.getElementById('site-url').value = '';
-            }
+        function toggleModal(show, defaultName = '', defaultUrl = '') { 
+            const modal = document.getElementById('modal'); 
+            if (show) { 
+                document.getElementById('site-name').value = defaultName; 
+                document.getElementById('site-url').value = defaultUrl; 
+                modal.classList.remove('hidden'); 
+            } else { 
+                modal.classList.add('hidden'); 
+                currentEditingIndex = -1;
+            } 
         }
-
         function closeModalOnBlank(e) { if(e.target.id === 'modal') toggleModal(false); }
 
         async function saveActiveLink() {
-            const name = document.getElementById('site-name').value.trim();
-            let url = document.getElementById('site-url').value.trim();
-            if (!name || !url) return alert(t('validUrlMsg'));
-            if (!/^https?:\/\//i.test(url)) url = 'https://' + url;
+            const name = document.getElementById('site-name').value.trim(); let url = document.getElementById('site-url').value.trim();
+            if(!name || !url) return alert(currentLang === 'zh' ? '请完整填写名称和网址！' : 'Please fill in both name and URL!');
+            if(!/^https?:\/\//i.test(url)) url = 'https://' + url;
 
-            const newLink = { name, url };
-
-            if (editingSectionId) {
-                // 1. 动态自定义区域保存
-                let secs = cloudConfig.dynamicSections || [];
-                const sec = secs.find(s => s.id === editingSectionId);
-                if (sec) {
-                    if (editingLinkIndex === null) sec.links.push(newLink);
-                    else sec.links[editingLinkIndex] = newLink;
-                    saveDynamicSections(secs);
+            if (currentModalTarget.startsWith('section_')) {
+                const secId = currentModalTarget.replace('section_', ''); 
+                let secs = cloudConfig.dynamicSections || []; 
+                const sec = secs.find(s => s.id === secId);
+                if(sec) { 
+                    if(currentEditingIndex >= 0) {
+                        sec.links[currentEditingIndex] = { name, url };
+                    } else {
+                        sec.links.push({ name, url }); 
+                    }
+                    saveDynamicSections(secs); 
                 }
-            } else if (currentModalTarget === 'friend') {
-                // 2. 友情链接保存
-                let links = JSON.parse(localStorage.getItem('nav_friend_links') || '[]');
-                if (editingLinkIndex === null) links.push(newLink);
-                else links[editingLinkIndex] = newLink;
-                localStorage.setItem('nav_friend_links', JSON.stringify(links));
+            } else if(currentModalTarget === 'friend') {
+                let links = JSON.parse(localStorage.getItem('nav_friend_links') || '[]'); 
+                if(currentEditingIndex >= 0) {
+                    links[currentEditingIndex] = { name, url };
+                } else {
+                    links.push({ name, url }); 
+                }
+                localStorage.setItem('nav_friend_links', JSON.stringify(links)); 
                 loadFriendLinks();
             } else {
-                // 3. 站长推荐（云端）保存
-                let links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]');
-                if (editingLinkIndex === null) links.push(newLink);
-                else links[editingLinkIndex] = newLink;
-                try {
-                    await fetch('/api/links', { method: 'POST', body: JSON.stringify(links) });
-                } catch (e) {}
-                localStorage.setItem('nav_custom_links', JSON.stringify(links));
-                loadCustomLinks();
-            }
+                try { 
+                    const res = await fetch('/api/links'); 
+                    let links = res.ok ? await res.json() : JSON.parse(localStorage.getItem('nav_custom_links') || '[]'); 
+                    if(currentEditingIndex >= 0) {
+                        links[currentEditingIndex] = { name, url };
+                    } else {
+                        links.push({ name, url }); 
+                    }
+                    await fetch('/api/links', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(links) }); 
+                    localStorage.setItem('nav_custom_links', JSON.stringify(links)); 
+                    loadCustomLinks(); 
+                } 
+                catch (error) { 
+                    const links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]'); 
+                    if(currentEditingIndex >= 0) {
+                        links[currentEditingIndex] = { name, url };
+                    } else {
+                        links.push({ name, url }); 
+                    }
+                    localStorage.setItem('nav_custom_links', JSON.stringify(links)); 
+                    loadCustomLinks(); 
+                }
+            } 
             toggleModal(false);
         }
 
-        // ══════════════════════════════════════════
-        // --- 9. 站长推荐（含编辑按钮）---
-        // ══════════════════════════════════════════
         async function loadCustomLinks() {
-            const container = document.getElementById('custom-links-container');
-            const actionWrapper = document.getElementById('expand-action-wrapper');
+            const container = document.getElementById('custom-links-container'); const actionWrapper = document.getElementById('expand-action-wrapper');
             container.innerHTML = `<div class="col-span-full text-center text-xs text-slate-400/60 py-10"><i class="fas fa-spinner fa-spin"></i> ${t('loadingCloud')}</div>`;
-            let links = [];
-            try { const res = await fetch('/api/links'); if(res.ok) links = await res.json(); else throw new Error(); }
-            catch(e) { links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]'); }
+            let links = []; try { const res = await fetch('/api/links'); if(res.ok) links = await res.json(); else throw new Error(); } catch(e) { links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]'); }
             container.innerHTML = '';
-
-            if (links.length === 0) {
-                container.innerHTML = `<div class="col-span-full text-center text-xs text-slate-400/60 py-10">${t('noCloudLinks')}</div>`;
-                actionWrapper.classList.add('hidden');
+            
+            if(links.length === 0) { 
+                container.innerHTML = `<div class="col-span-full text-center text-xs text-slate-400/60 py-10">${t('noCloudLinks')}</div>`; 
+                actionWrapper.classList.add('hidden'); 
                 container.className = 'grid grid-cols-2 gap-3';
-                checkAdminSession();
-                return;
+                return; 
             }
 
             const isCompact = links.length > 6;
@@ -860,127 +811,76 @@
             let showExpandBtn = false;
             if (links.length > 9) { showExpandBtn = true; if (!isCustomLinksExpanded) visibleLinks = links.slice(0, 9); }
 
-            const pClass = isCompact ? 'p-2' : 'p-3';
-            const spaceXClass = isCompact ? 'space-x-1.5' : 'space-x-2.5';
-            const iconSizeClass = isCompact ? 'w-4 h-4 text-[9px]' : 'w-5 h-5 text-[10px]';
-            const imgSizeClass = isCompact ? 'w-4 h-4' : 'w-5 h-5';
-            const textSizeClass = isCompact ? 'text-[11px]' : 'text-sm';
+            const pClass = isCompact ? 'p-2' : 'p-3'; const spaceXClass = isCompact ? 'space-x-1.5' : 'space-x-2.5';
+            const iconSizeClass = isCompact ? 'w-4 h-4 text-[9px]' : 'w-5 h-5 text-[10px]'; const imgSizeClass = isCompact ? 'w-4 h-4' : 'w-5 h-5';
+            const textSizeClass = isCompact ? 'text-[11px]' : 'text-sm'; const prClass = isCompact ? 'pr-12' : 'pr-14';
 
             visibleLinks.forEach((item, index) => {
                 const displayName = getLocalizedLinkName(item.name, item.url);
                 let displayIcon = `<div class="${iconSizeClass} rounded-full bg-indigo-500/20 text-indigo-400 flex items-center justify-center font-bold shrink-0">${displayName.charAt(0).toUpperCase()}</div>`;
                 try { if(item.url) displayIcon = `<img src="https://unavatar.io/duckduckgo/${new URL(item.url).hostname}" draggable="false" onerror="this.style.display='none'" class="${imgSizeClass} rounded object-contain shrink-0" alt="icon" />`; } catch(err){}
-
+                
                 container.innerHTML += `
-                    <div class="group relative flex items-center ${pClass} bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-indigo-600/10 transition-all pr-16">
+                    <div class="group relative flex items-center justify-between ${pClass} bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-indigo-600/10 transition-all">
                         <div class="flex items-center w-full overflow-hidden">
-                            <a href="${item.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="flex items-center ${spaceXClass} truncate w-full">
+                            <a href="${item.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="flex items-center ${spaceXClass} truncate w-full ${prClass}">
                                 ${displayIcon} <span class="${textSizeClass} font-medium truncate">${displayName}</span>
                             </a>
                         </div>
-                        <!-- 统一的编辑 + 删除按钮组 -->
-                        <div class="admin-only absolute right-1 top-0 bottom-0 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-20">
-                            <button type="button" onclick="openLinkModal('custom', ${index})" class="text-sky-400 bg-slate-800/80 p-1 rounded hover:bg-sky-500 hover:text-white" title="编辑"><i class="fas fa-pen text-[10px]"></i></button>
-                            <button type="button" onclick="deleteCustomLink(event, ${index})" class="text-red-400 bg-slate-800/80 p-1 rounded hover:bg-red-500 hover:text-white" title="删除"><i class="fas fa-trash-alt text-[10px]"></i></button>
+                        <div class="admin-only absolute right-1.5 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-20">
+                            <button type="button" onclick="editCustomLink(event, ${index})" class="text-slate-400 hover:text-indigo-400 bg-slate-500/20 px-1 py-0.5 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-pen"></i></button>
+                            <button type="button" onclick="deleteCustomLink(event, ${index})" class="text-slate-400 hover:text-red-400 bg-slate-500/20 px-1 py-0.5 rounded cursor-pointer shrink-0 text-[10px]"><i class="fas fa-trash-alt"></i></button>
                         </div>
                     </div>`;
             });
 
-            if (showExpandBtn) {
-                actionWrapper.classList.remove('hidden');
-                const btn = document.getElementById('expand-btn');
-                btn.innerHTML = isCustomLinksExpanded
-                    ? `<span data-i18n="collapseMore">${t('collapseMore')}</span> <i class="fas fa-chevron-up text-[10px]"></i>`
-                    : `<span data-i18n="expandMore">${t('expandMore')}</span> (${links.length - 9}) <i class="fas fa-chevron-down text-[10px]"></i>`;
+            if (showExpandBtn) { 
+                actionWrapper.classList.remove('hidden'); const btn = document.getElementById('expand-btn'); 
+                btn.innerHTML = isCustomLinksExpanded ? `<span data-i18n="collapseMore">${t('collapseMore')}</span> <i class="fas fa-chevron-up text-[10px]"></i>` : `<span data-i18n="expandMore">${t('expandMore')}</span> (${links.length - 9}) <i class="fas fa-chevron-down text-[10px]"></i>`; 
             } else { actionWrapper.classList.add('hidden'); }
-
-            checkAdminSession();
         }
 
         function toggleExpandCustomLinks() { isCustomLinksExpanded = !isCustomLinksExpanded; loadCustomLinks(); }
-
-        async function deleteCustomLink(e, index) {
+        
+        async function editCustomLink(e, index) {
             e.preventDefault(); e.stopPropagation();
-            if (!confirm(t('delConfirm'))) return;
-            try {
-                const res = await fetch('/api/links');
-                let links = res.ok ? await res.json() : JSON.parse(localStorage.getItem('nav_custom_links') || '[]');
-                links.splice(index, 1);
-                await fetch('/api/links', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(links) });
-                localStorage.setItem('nav_custom_links', JSON.stringify(links));
-                if (links.length <= 9) isCustomLinksExpanded = false;
-                loadCustomLinks();
-            } catch(error) {
-                const links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]');
-                links.splice(index, 1);
-                localStorage.setItem('nav_custom_links', JSON.stringify(links));
-                if (links.length <= 9) isCustomLinksExpanded = false;
-                loadCustomLinks();
+            let links = [];
+            try { const res = await fetch('/api/links'); if(res.ok) links = await res.json(); else throw new Error(); } catch(err) { links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]'); }
+            if(links[index]) {
+                openLinkModal('custom', index, links[index].name, links[index].url);
             }
         }
 
-        // ══════════════════════════════════════════
-        // --- 10. 友情链接（含编辑按钮）---
-        // ══════════════════════════════════════════
+        async function deleteCustomLink(e, index) { e.preventDefault(); e.stopPropagation(); if(!confirm(t('delConfirm'))) return; try { const res = await fetch('/api/links'); let links = res.ok ? await res.json() : JSON.parse(localStorage.getItem('nav_custom_links') || '[]'); links.splice(index, 1); await fetch('/api/links', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(links) }); localStorage.setItem('nav_custom_links', JSON.stringify(links)); if(links.length <= 9) isCustomLinksExpanded = false; loadCustomLinks(); } catch(error) { const links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]'); links.splice(index, 1); localStorage.setItem('nav_custom_links', JSON.stringify(links)); if(links.length <= 9) isCustomLinksExpanded = false; loadCustomLinks(); } }
+
         function loadFriendLinks() {
-            const container = document.getElementById('friend-links-container');
-            let linksStr = localStorage.getItem('nav_friend_links');
-            let links = linksStr ? JSON.parse(linksStr) : [];
-            container.innerHTML = '';
-            if (links.length === 0) {
-                links = [
-                    { name: "IT头条博客", url: "https://it-toutiao.blogspot.com" },
-                    { name: "科技共享导航", url: "https://kjgx.168668520.xyz" }
-                ];
-            }
+            const container = document.getElementById('friend-links-container'); let linksStr = localStorage.getItem('nav_friend_links'); let links = linksStr ? JSON.parse(linksStr) : []; container.innerHTML = '';
+            if(links.length === 0) { links = [ { name: "IT头条博客", url: "https://it-toutiao.blogspot.com" }, { name: "科技共享导航", url: "https://kjgx.168668520.xyz" } ]; }
             links.forEach((item, index) => {
                 const displayName = getLocalizedLinkName(item.name, item.url);
                 container.innerHTML += `
                     <div class="group relative flex items-center justify-between p-2.5 bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-emerald-600/10 transition-all text-center">
-                        <a href="${item.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="w-full text-xs font-medium text-slate-400 hover:text-emerald-400 transition-colors truncate px-2 pr-14">${displayName}</a>
-                        <!-- 编辑 + 删除按钮组 -->
-                        <div class="admin-only absolute right-1 flex gap-1 opacity-0 group-hover:opacity-100 transition-opacity">
-                            <button type="button" onclick="openLinkModal('friend', ${index})" class="text-slate-400 hover:text-sky-400 bg-slate-500/10 px-1.5 py-1 rounded cursor-pointer" title="编辑"><i class="fas fa-pen text-[10px]"></i></button>
-                            <button type="button" onclick="deleteFriendLink(event, ${index})" class="text-slate-400 hover:text-red-400 bg-slate-500/10 px-1.5 py-1 rounded cursor-pointer" title="删除"><i class="fas fa-times text-[10px]"></i></button>
+                        <a href="${item.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="w-full text-xs font-medium text-slate-400 hover:text-emerald-400 transition-colors truncate px-2">${displayName}</a>
+                        <div class="admin-only absolute right-1 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity bg-slate-900/80 px-1 py-0.5 rounded">
+                            <button type="button" onclick="editFriendLink(event, ${index})" class="text-[10px] text-slate-400 hover:text-emerald-400 cursor-pointer"><i class="fas fa-pen"></i></button>
+                            <button type="button" onclick="deleteFriendLink(event, ${index})" class="text-[10px] text-slate-400 hover:text-red-400 cursor-pointer"><i class="fas fa-times"></i></button>
                         </div>
                     </div>`;
             });
-            checkAdminSession();
         }
-
-        function deleteFriendLink(e, index) {
+        function editFriendLink(e, index) {
             e.preventDefault(); e.stopPropagation();
-            let linksStr = localStorage.getItem('nav_friend_links');
-            let links = linksStr ? JSON.parse(linksStr) : [];
-            if (links.length === 0) {
-                links = [
-                    { name: "IT头条博客", url: "https://it-toutiao.blogspot.com" },
-                    { name: "科技共享导航", url: "https://kjgx.168668520.xyz" }
-                ];
+            let linksStr = localStorage.getItem('nav_friend_links'); 
+            let links = linksStr ? JSON.parse(linksStr) : [ { name: "IT头条博客", url: "https://it-toutiao.blogspot.com" }, { name: "科技共享导航", url: "https://kjgx.168668520.xyz" } ];
+            if(links[index]) {
+                openLinkModal('friend', index, links[index].name, links[index].url);
             }
-            links.splice(index, 1);
-            localStorage.setItem('nav_friend_links', JSON.stringify(links));
-            loadFriendLinks();
         }
+        function deleteFriendLink(e, index) { e.preventDefault(); e.stopPropagation(); let linksStr = localStorage.getItem('nav_friend_links'); let links = linksStr ? JSON.parse(linksStr) : []; if(links.length === 0) { links = [ { name: "IT头条博客", url: "https://it-toutiao.blogspot.com" }, { name: "科技共享导航", url: "https://kjgx.168668520.xyz" } ]; } links.splice(index, 1); localStorage.setItem('nav_friend_links', JSON.stringify(links)); loadFriendLinks(); }
 
         // --- 初始化运转 ---
-        document.addEventListener('click', () => {
-            document.getElementById('engine-menu').classList.add('hidden');
-            document.getElementById('theme-panel').classList.add('hidden');
-        });
-        checkAdminSession();
-        document.documentElement.lang = currentLang === 'zh' ? 'zh-CN' : 'en';
-        applyLanguage();
-        updateClockAndGreeting();
-        fetchWeather();
-        initCloudData();
-
-        // 【调试】页面加载完成后检查 DOM
-        setTimeout(() => {
-            console.log('【调试】页面加载完成');
-            console.log('【调试】body 是否有 is-admin:', document.body.classList.contains('is-admin'));
-            console.log('【调试】admin-only 元素数量:', document.querySelectorAll('.admin-only').length);
-        }, 2000);
+        document.addEventListener('click', () => { document.getElementById('engine-menu').classList.add('hidden'); document.getElementById('theme-panel').classList.add('hidden'); });
+        checkAdminSession(); document.documentElement.lang = currentLang === 'zh' ? 'zh-CN' : 'en'; applyLanguage(); updateClockAndGreeting(); fetchWeather(); initCloudData();
     </script>
 </body>
 </html>
