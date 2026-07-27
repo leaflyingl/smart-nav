@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- SEO 基础 Meta -->
+    <!-- ══════════════════════════════════════════
+         SEO 基础 Meta
+    ══════════════════════════════════════════ -->
     <title id="page-title">GoldenBuds导航 - AI及开发工具与互联网服务导航</title>
 
     <meta name="description" content="GoldenBuds导航，收录 AI 工具、开发工具、SEO 工具、站长工具、搜索引擎和常用互联网服务，帮助用户快速访问常用在线网站。智能多功能响应式导航，支持云端同步。">
@@ -12,10 +14,12 @@
     <meta name="author" content="GoldenBuds">
     <meta name="robots" content="index,follow,max-image-preview:large">
 
-    <!-- 规范链接 -->
+    <!-- 规范链接：正式上线后请替换为绑定的正式域名 -->
     <link rel="canonical" href="https://4d038ad1.smart-nav-b1o.pages.dev/">
 
-    <!-- Open Graph / 社交分享 -->
+    <!-- ══════════════════════════════════════════
+         Open Graph / 社交分享
+    ══════════════════════════════════════════ -->
     <meta property="og:type" content="website">
     <meta property="og:locale" content="zh_CN">
     <meta property="og:title" content="GoldenBuds导航 - AI及开发工具与互联网服务导航">
@@ -28,7 +32,9 @@
     <meta name="twitter:title" content="GoldenBuds导航 - AI及开发工具与互联网服务导航">
     <meta name="twitter:description" content="快速访问 AI 工具、开发工具和常用互联网服务。">
 
-    <!-- JSON-LD 结构化数据 -->
+    <!-- ══════════════════════════════════════════
+         JSON-LD 结构化数据
+    ══════════════════════════════════════════ -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -41,11 +47,15 @@
     }
     </script>
 
-    <!-- 性能优化 -->
+    <!-- ══════════════════════════════════════════
+         性能优化：DNS 预解析与预连接
+    ══════════════════════════════════════════ -->
     <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
 
+    <!-- Google AdSense 基础脚本 -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -108,19 +118,20 @@
             border: 2px dashed #6366f1 !important;
         }
 
-        /* 管理员控制控制相关样式 */
+        /* 隐藏与显示管理员组件 */
         body:not(.is-admin) .admin-only {
             display: none !important;
         }
+        /* 强制管理员模式下显示为 flex */
         body.is-admin .admin-only {
             display: flex !important;
         }
-
-        /* 预留编辑和删除按钮控件的空间 */
+        /* 确保站点容器有足够的右侧内边距，防止文字盖住按钮 */
         .group.relative {
-            padding-right: 4rem !important; 
+            padding-right: 4rem !important; /* 预留给编辑和删除按钮的空间 */
         }
 
+        /* SEO：对搜索引擎可见但视觉隐藏的 h1 */
         .sr-only {
             position: absolute;
             width: 1px;
@@ -136,6 +147,9 @@
 </head>
 <body class="theme-dark font-sans antialiased selection:bg-indigo-500 selection:text-white">
 
+    <!-- ══════════════════════════════════════════
+         SEO 语义 h1（视觉隐藏，搜索引擎可读）
+    ══════════════════════════════════════════ -->
     <h1 class="sr-only">GoldenBuds智能网址导航 - AI及开发工具与互联网服务导航</h1>
 
     <!-- 个性化设置浮窗 -->
@@ -167,6 +181,7 @@
                 </div>
             </div>
 
+            <!-- 修改管理员密码区域 (仅管理员可见) -->
             <div class="admin-only space-y-1.5 px-1 border-t border-slate-800 pt-3 mt-1">
                 <label class="text-[11px] text-slate-400 font-bold" data-i18n="pwdTitle">修改管理员密码 (全站同步)</label>
                 <div class="flex gap-1.5">
@@ -259,7 +274,7 @@
                 </div>
             </div>
 
-            <!-- 添加动态分类按钮 -->
+            <!-- 添加动态分类按钮 (管理员可见) -->
             <div id="add-section-card" class="admin-only glass-card rounded-2xl p-6 flex flex-col items-center justify-center cursor-pointer hover:border-indigo-500/50 transition-all border-dashed border-2 border-slate-500/30 xl:col-span-1" onclick="addCustomSection()" style="min-height: 180px;">
                 <i class="fas fa-plus text-3xl text-slate-400 mb-2"></i>
                 <span class="text-sm font-medium text-slate-400 mt-1" data-i18n="addSectionBtn">添加自定义区域</span>
@@ -278,7 +293,7 @@
             </div>
         </div>
 
-        <!-- 静态介绍文字 -->
+        <!-- SEO：静态介绍文字 -->
         <section class="w-full relative z-10 mb-8" aria-label="关于GoldenBuds导航">
             <div class="glass-card rounded-2xl p-6 shadow-xl">
                 <h2 class="text-base font-semibold text-slate-400 mb-3 flex items-center">
@@ -324,8 +339,8 @@
         let expandedDynamicSections = {};
         let currentModalTarget = 'custom';
         let currentEngineKey = 'google';
-        
-        // 全局编辑状态控制变量
+
+        // 编辑功能全局状态（唯一变量声明）
         let editingLinkIndex = null;
         let editingSectionId = null;
 
@@ -409,7 +424,7 @@
             loadCustomLinks(); loadFriendLinks(); renderDynamicSections();
         }
 
-        // --- 1. 管理员鉴权 ---
+        // --- 1. 管理员鉴权 (动态密码校验) ---
         function checkAdminSession() {
             const isAdmin = localStorage.getItem('nav_admin_auth') === 'true';
             if (isAdmin) { document.body.classList.add('is-admin'); document.getElementById('admin-badge').classList.remove('hidden'); }
@@ -443,7 +458,7 @@
             } catch (e) { console.error("云端密码同步失败", e); }
         }
 
-        // --- 2. 拖拽控制逻辑 ---
+        // --- 2. 拖拽核心控制逻辑 ---
         function handleDragStart(e, type, secId, linkIdx = null) {
             e.stopPropagation();
             if (localStorage.getItem('nav_admin_auth') !== 'true') { e.preventDefault(); return; }
@@ -489,7 +504,7 @@
             saveDynamicSections(secs);
         }
 
-        // --- 3. 云端同步 ---
+        // --- 3. 云端调度器 ---
         async function initCloudData() {
             const savedTheme = localStorage.getItem('nav_theme_mode') || 'theme-dark';
             document.body.classList.remove('theme-light', 'theme-dark'); document.body.classList.add(savedTheme);
@@ -631,6 +646,7 @@
                                     ${displayIcon} <span class="${textSizeClass} font-medium truncate">${displayName}</span>
                                 </a>
                             </div>
+                            <!-- 统一的编辑 + 删除按钮组 -->
                             <div class="admin-only absolute right-1 top-0 bottom-0 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-20">
                                 <button type="button" onclick="openLinkModal('section_${sec.id}', ${idx}, '${sec.id}')" class="text-sky-400 bg-slate-800/80 p-1 rounded hover:bg-sky-500 hover:text-white" title="编辑"><i class="fas fa-pen text-[10px]"></i></button>
                                 <button type="button" onclick="deleteSectionLink(event, '${sec.id}', ${idx})" class="text-red-400 bg-slate-800/80 p-1 rounded hover:bg-red-500 hover:text-white" title="删除"><i class="fas fa-trash-alt text-[10px]"></i></button>
@@ -682,7 +698,7 @@
             if(sec) { sec.links.splice(linkIdx, 1); saveDynamicSections(secs); }
         }
 
-        // --- 5. 时间问候语组件 ---
+        // --- 5. 智能时间预测系统 ---
         const sTermNames = ["小寒", "大寒", "立春", "雨水", "惊蛰", "春分", "清明", "谷雨", "立夏", "小满", "芒种", "夏至", "小暑", "大暑", "立秋", "处暑", "白露", "秋分", "寒露", "霜降", "立冬", "小雪", "大雪", "冬至"];
         const sTermInfo = [0, 21208, 42467, 63836, 85337, 107014, 128867, 150921, 173149, 195551, 218072, 240693, 263343, 285989, 308563, 331033, 353350, 375494, 397447, 419210, 440795, 462224, 483532, 504758];
         function getSolarTerm(y, m, d) { const baseDate = new Date(1900, 0, 6, 2, 5, 0); const termDate = new Date((31556925974.7 * (y - 1900) + sTermInfo[(m * 2)]) + baseDate.getTime()); if (termDate.getMonth() == m && termDate.getDate() == d) return sTermNames[m * 2]; const termDate2 = new Date((31556925974.7 * (y - 1900) + sTermInfo[(m * 2 + 1)]) + baseDate.getTime()); if (termDate2.getMonth() == m && termDate2.getDate() == d) return sTermNames[m * 2 + 1]; return null; }
@@ -702,7 +718,7 @@
         }
         setInterval(updateClockAndGreeting, 1000);
 
-        // --- 6. 天气组件 ---
+        // --- 6. 多语言智能天气定位 ---
         let weatherState = { city: "Earth", temp: 26, code: 0, fetched: false };
         async function fetchWeather() {
             try { const ipRes = await fetch('https://ipapi.co/json/'); if(!ipRes.ok) throw new Error(); const ipData = await ipRes.json(); const { latitude, longitude, city } = ipData; if(!latitude || !longitude) throw new Error();
@@ -725,7 +741,10 @@
         function toggleEngineMenu(e) { e.stopPropagation(); document.getElementById('engine-menu').classList.toggle('hidden'); }
         function selectEngine(key) { currentEngineKey = key; const form = document.getElementById('search-form'); const input = document.getElementById('search-input'); const icon = document.getElementById('engine-icon'); form.action = engines[key].action; input.name = engines[key].name; input.setAttribute('data-i18n-placeholder', engines[key].placeholderKey); input.placeholder = t(engines[key].placeholderKey); icon.className = engines[key].icon; document.getElementById('engine-menu').classList.add('hidden'); }
 
-        // --- 8. 弹窗与逻辑处理 ---
+        // ══════════════════════════════════════════
+        // --- 8. 弹窗管理（含统一编辑功能）---
+        // ══════════════════════════════════════════
+
         function openLinkModal(target, editIndex = null, sectionId = null) {
             currentModalTarget = target;
             editingLinkIndex = editIndex;
@@ -741,7 +760,7 @@
                 urlInput.value = '';
                 titleEl.innerText = t(target === 'friend' ? 'modalAddFriend' : 'modalAddCloud');
             } else {
-                // 编辑模式
+                // 编辑模式：自动回填数据
                 let item = null;
                 if (target === 'custom') {
                     item = JSON.parse(localStorage.getItem('nav_custom_links') || '[]')[editIndex];
@@ -785,6 +804,7 @@
             const newLink = { name, url };
 
             if (editingSectionId) {
+                // 1. 动态自定义区域保存
                 let secs = cloudConfig.dynamicSections || [];
                 const sec = secs.find(s => s.id === editingSectionId);
                 if (sec) {
@@ -793,12 +813,14 @@
                     saveDynamicSections(secs);
                 }
             } else if (currentModalTarget === 'friend') {
+                // 2. 友情链接保存
                 let links = JSON.parse(localStorage.getItem('nav_friend_links') || '[]');
                 if (editingLinkIndex === null) links.push(newLink);
                 else links[editingLinkIndex] = newLink;
                 localStorage.setItem('nav_friend_links', JSON.stringify(links));
                 loadFriendLinks();
             } else {
+                // 3. 站长推荐（云端）保存
                 let links = JSON.parse(localStorage.getItem('nav_custom_links') || '[]');
                 if (editingLinkIndex === null) links.push(newLink);
                 else links[editingLinkIndex] = newLink;
@@ -811,7 +833,9 @@
             toggleModal(false);
         }
 
-        // --- 9. 站长推荐模块 ---
+        // ══════════════════════════════════════════
+        // --- 9. 站长推荐（含编辑按钮）---
+        // ══════════════════════════════════════════
         async function loadCustomLinks() {
             const container = document.getElementById('custom-links-container');
             const actionWrapper = document.getElementById('expand-action-wrapper');
@@ -854,6 +878,7 @@
                                 ${displayIcon} <span class="${textSizeClass} font-medium truncate">${displayName}</span>
                             </a>
                         </div>
+                        <!-- 统一的编辑 + 删除按钮组 -->
                         <div class="admin-only absolute right-1 top-0 bottom-0 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity z-20">
                             <button type="button" onclick="openLinkModal('custom', ${index})" class="text-sky-400 bg-slate-800/80 p-1 rounded hover:bg-sky-500 hover:text-white" title="编辑"><i class="fas fa-pen text-[10px]"></i></button>
                             <button type="button" onclick="deleteCustomLink(event, ${index})" class="text-red-400 bg-slate-800/80 p-1 rounded hover:bg-red-500 hover:text-white" title="删除"><i class="fas fa-trash-alt text-[10px]"></i></button>
@@ -894,7 +919,9 @@
             }
         }
 
-        // --- 10. 友情链接模块 ---
+        // ══════════════════════════════════════════
+        // --- 10. 友情链接（含编辑按钮）---
+        // ══════════════════════════════════════════
         function loadFriendLinks() {
             const container = document.getElementById('friend-links-container');
             let linksStr = localStorage.getItem('nav_friend_links');
@@ -911,6 +938,7 @@
                 container.innerHTML += `
                     <div class="group relative flex items-center justify-between p-2.5 bg-slate-500/5 border border-slate-500/10 rounded-xl hover:bg-emerald-600/10 transition-all text-center">
                         <a href="${item.url}" draggable="false" target="_blank" rel="noopener noreferrer" class="w-full text-xs font-medium text-slate-400 hover:text-emerald-400 transition-colors truncate px-2 pr-14">${displayName}</a>
+                        <!-- 编辑 + 删除按钮组 -->
                         <div class="admin-only absolute right-1 flex gap-1 opacity-0 group-hover:opacity-100 transition-opacity">
                             <button type="button" onclick="openLinkModal('friend', ${index})" class="text-slate-400 hover:text-sky-400 bg-slate-500/10 px-1.5 py-1 rounded cursor-pointer" title="编辑"><i class="fas fa-pen text-[10px]"></i></button>
                             <button type="button" onclick="deleteFriendLink(event, ${index})" class="text-slate-400 hover:text-red-400 bg-slate-500/10 px-1.5 py-1 rounded cursor-pointer" title="删除"><i class="fas fa-times text-[10px]"></i></button>
@@ -935,7 +963,7 @@
             loadFriendLinks();
         }
 
-        // --- 初始化启动 ---
+        // --- 初始化运转 ---
         document.addEventListener('click', () => {
             document.getElementById('engine-menu').classList.add('hidden');
             document.getElementById('theme-panel').classList.add('hidden');
@@ -946,6 +974,13 @@
         updateClockAndGreeting();
         fetchWeather();
         initCloudData();
+
+        // 【调试】页面加载完成后检查 DOM
+        setTimeout(() => {
+            console.log('【调试】页面加载完成');
+            console.log('【调试】body 是否有 is-admin:', document.body.classList.contains('is-admin'));
+            console.log('【调试】admin-only 元素数量:', document.querySelectorAll('.admin-only').length);
+        }, 2000);
     </script>
 </body>
 </html>
