@@ -363,33 +363,24 @@
         };
 
 
-// 1. 填入你刚才创建的 Cloudflare Worker 专属域名 (结尾不要带斜杠)
-const MY_WORKER_API = "my-news-api.ericluom.workers.dev";
-
-// 2. 新闻源配置 (对应 Worker 中的 type)
+// 使用完全开源免费且自带 CORS Header 的公共热榜 API
 const HOT_NEWS_SOURCES = [
     { id: 'baidu', name: '百度热搜', icon: 'fa-search text-blue-400', type: 'baidu' },
     { id: 'weibo', name: '微博热搜', icon: 'fa-hashtag text-red-400', type: 'weibo' },
     { id: 'bilibili', name: '哔哩哔哩', icon: 'fa-tv text-pink-400', type: 'bilibili' },
-    { id: 'cls', name: '财联社', icon: 'fa-chart-line text-red-500', type: 'cls' }
+    { id: 'douyin', name: '抖音热搜', icon: 'fa-tiktok text-slate-200', type: 'douyin' }
 ];
 
-// 安全转义 HTML，防止特殊字符打断布局
 function escapeHtml(str) {
     if (!str) return '';
-    return String(str)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;')
-        .replace(/'/g, '&#039;');
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
 async function renderHorizontalHotNews() {
     const container = document.getElementById('hot-news-scroll');
     if (!container) return;
 
-    // 1. 渲染骨架卡片 (保持精美的拟态玻璃外观)
+    // 1. 渲染卡片外壳
     container.innerHTML = HOT_NEWS_SOURCES.map(s => `
         <div id="news-card-${s.id}" class="snap-start flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300">
             <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30">
@@ -404,30 +395,19 @@ async function renderHorizontalHotNews() {
         </div>
     `).join('');
 
-    // 2. 并行请求你专属的 Worker 节点
+    // 2. 逐个获取热榜
     HOT_NEWS_SOURCES.forEach(async (source) => {
         const cardUl = document.querySelector(`#news-card-${source.id} .news-list-content`);
         if (!cardUl) return;
 
         try {
-            const res = await fetch(`${MY_WORKER_API}?type=${source.type}`);
+            // 直接请求 API，不经过任何中间件/Worker
+            const res = await fetch(`https://api.vvhan.com/api/hotlist/${source.type}`);
+            if (!res.ok) throw new Error("网络响应异常");
+
             const json = await res.json();
-            
-            // 解析不同官方源的数据结构
-            let items = [];
-            if (source.type === 'baidu') {
-                items = (json.data?.cards?.[0]?.content || []).map(i => ({ title: i.word, url: i.url }));
-            } else if (source.type === 'weibo') {
-                items = (json.data?.realtime || []).map(i => ({ title: i.note || i.word, url: `https://s.weibo.com/weibo?q=${encodeURIComponent(i.word)}` }));
-            } else if (source.type === 'bilibili') {
-                items = (json.data?.list || []).map(i => ({ title: i.title, url: i.short_link_v2 || i.arcurl }));
-            } else if (source.type === 'cls') {
-                items = (json.data?.roll_data || json.data || []).map(i => ({ title: i.title || i.content, url: 'https://www.cls.cn/telegraph' }));
-            }
-
-            items = items.slice(0, 5);
-
-            if (items.length > 0) {
+            if (json.success && json.data) {
+                const items = json.data.slice(0, 5);
                 cardUl.innerHTML = items.map((item, idx) => `
                     <li class="truncate hover:text-indigo-300 transition-colors">
                         <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2" title="${escapeHtml(item.title)}">
