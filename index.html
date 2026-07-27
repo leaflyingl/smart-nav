@@ -362,22 +362,22 @@
             }
         };
 
-        // 任意扩充的热源列表（定宽卡片，横向排列）
+// 升级后的新闻源配置（使用更稳定、支持 CORS 的公共 API 端点）
 const HOT_NEWS_SOURCES = [
-    { id: 'baidu', name: '百度热搜', icon: 'fa-search text-blue-400', api: 'https://dailyhot-api.zeabur.app/baidu' },
-    { id: 'weibo', name: '微博热搜', icon: 'fa-hashtag text-red-400', api: 'https://dailyhot-api.zeabur.app/weibo' },
-    { id: 'douyin', name: '抖音热搜', icon: 'fa-tiktok text-slate-200', api: 'https://dailyhot-api.zeabur.app/douyin' },
-    { id: 'cls', name: '财联社', icon: 'fa-chart-line text-red-500', api: 'https://dailyhot-api.zeabur.app/cls' },
-    { id: 'gelonghui', name: '格隆汇', icon: 'fa-coins text-amber-400', api: 'https://dailyhot-api.zeabur.app/gelonghui' },
-    { id: 'scmp', name: '南华早报', icon: 'fa-newspaper text-sky-400', api: 'https://dailyhot-api.zeabur.app/scmp' },
-    { id: 'caixin', name: '财新网', icon: 'fa-book-open text-indigo-400', api: 'https://dailyhot-api.zeabur.app/caixin' }
+    { id: 'baidu', name: '百度热搜', icon: 'fa-search text-blue-400', type: 'baidu' },
+    { id: 'weibo', name: '微博热搜', icon: 'fa-hashtag text-red-400', type: 'weibo' },
+    { id: 'douyin', name: '抖音热搜', icon: 'fa-tiktok text-slate-200', type: 'douyin' },
+    { id: 'cls', name: '财联社', icon: 'fa-chart-line text-red-500', type: 'cls' },
+    { id: 'gelonghui', name: '格隆汇', icon: 'fa-coins text-amber-400', type: 'gelonghui' },
+    { id: 'scmp', name: '南华早报', icon: 'fa-newspaper text-sky-400', type: 'scmp' },
+    { id: 'caixin', name: '财新网', icon: 'fa-book-open text-indigo-400', type: 'caixin' }
 ];
 
 async function renderHorizontalHotNews() {
     const container = document.getElementById('hot-news-scroll');
     if (!container) return;
 
-    // 渲染骨架卡片（固定宽度 w-64 或 w-72，契合导航页质感）
+    // 1. 渲染骨架卡片
     container.innerHTML = HOT_NEWS_SOURCES.map(s => `
         <div id="news-card-${s.id}" class="snap-start flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300">
             <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30">
@@ -392,20 +392,33 @@ async function renderHorizontalHotNews() {
         </div>
     `).join('');
 
-    // 请求公共 API 获取热榜
+    // 2. 并行获取热榜数据 (带有 CORS 跨域代理与备用源)
     HOT_NEWS_SOURCES.forEach(async (source) => {
         const cardUl = document.querySelector(`#news-card-${source.id} .news-list-content`);
+        
+        // 拼接带有 CORS 代理的请求链接，防止跨域拦截
+        const targetApi = `https://api.shadiao.pro/${source.type}`;
+        const proxyApi = `https://corsproxy.io/?${encodeURIComponent(targetApi)}`;
+
         try {
-            const res = await fetch(source.api);
+            let res = await fetch(proxyApi);
+            if (!res.ok) {
+                // 如果代理失败，尝试直接请求备用源
+                res = await fetch(`https://api.vvhan.com/api/hotlist/${source.type}`);
+            }
+
             const json = await res.json();
             
-            const rawList = json.data || json.result || json || [];
-            const items = (Array.isArray(rawList) ? rawList : (rawList.data || [])).slice(0, 5);
+            // 解析兼容不同的 API 返回格式
+            let rawList = json.data || json.result || json.data?.data || [];
+            if (!Array.isArray(rawList) && rawList.list) rawList = rawList.list;
+            
+            const items = (Array.isArray(rawList) ? rawList : []).slice(0, 5);
 
             if (cardUl && items.length > 0) {
                 cardUl.innerHTML = items.map((item, idx) => {
-                    const title = item.title || item.name || '';
-                    const url = item.url || item.link || item.mobileUrl || '#';
+                    const title = item.title || item.name || item.title_full || '无标题';
+                    const url = item.url || item.link || item.mobilUrl || '#';
                     return `
                     <li class="truncate hover:text-indigo-300 transition-colors">
                         <a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2" title="${title}">
@@ -418,6 +431,7 @@ async function renderHorizontalHotNews() {
                 cardUl.innerHTML = `<li class="text-slate-500 text-[10px]">暂无数据</li>`;
             }
         } catch (err) {
+            console.error(`加载 ${source.name} 失败:`, err);
             if (cardUl) cardUl.innerHTML = `<li class="text-slate-500 text-[10px]">获取失败</li>`;
         }
     });
