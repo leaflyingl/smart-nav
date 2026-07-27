@@ -362,18 +362,19 @@
             }
         };
 
-// 升级后的新闻源配置
+
+// 1. 填入你刚才创建的 Cloudflare Worker 专属域名 (结尾不要带斜杠)
+const MY_WORKER_API = "my-news-api.ericluom.workers.dev";
+
+// 2. 新闻源配置 (对应 Worker 中的 type)
 const HOT_NEWS_SOURCES = [
     { id: 'baidu', name: '百度热搜', icon: 'fa-search text-blue-400', type: 'baidu' },
     { id: 'weibo', name: '微博热搜', icon: 'fa-hashtag text-red-400', type: 'weibo' },
-    { id: 'douyin', name: '抖音热搜', icon: 'fa-tiktok text-slate-200', type: 'douyin' },
-    { id: 'cls', name: '财联社', icon: 'fa-chart-line text-red-500', type: 'cls' },
-    { id: 'gelonghui', name: '格隆汇', icon: 'fa-coins text-amber-400', type: 'gelonghui' },
-    { id: 'scmp', name: '南华早报', icon: 'fa-newspaper text-sky-400', type: 'scmp' },
-    { id: 'caixin', name: '财新网', icon: 'fa-book-open text-indigo-400', type: 'caixin' }
+    { id: 'bilibili', name: '哔哩哔哩', icon: 'fa-tv text-pink-400', type: 'bilibili' },
+    { id: 'cls', name: '财联社', icon: 'fa-chart-line text-red-500', type: 'cls' }
 ];
 
-// 辅助函数：安全转义 HTML 字符串
+// 安全转义 HTML，防止特殊字符打断布局
 function escapeHtml(str) {
     if (!str) return '';
     return String(str)
@@ -384,44 +385,11 @@ function escapeHtml(str) {
         .replace(/'/g, '&#039;');
 }
 
-async function fetchHotListData(sourceType) {
-    // 方案 1: 优先尝试公共每日热榜接口 (自带 CORS，支持度较高)
-    const primaryUrl = `https://api.vvhan.com/api/hotlist/${sourceType}`;
-    
-    try {
-        const res = await fetch(primaryUrl);
-        if (res.ok) {
-            const json = await res.json();
-            if (json.success && json.data) {
-                return json.data;
-            }
-        }
-    } catch (e) {
-        console.warn(`[${sourceType}] 主源请求失败，尝试备用代理源...`, e);
-    }
-
-    // 方案 2: 使用 AllOrigins / CorsProxy 代理获取第三方接口数据
-    const targetApi = `https://api.shadiao.pro/${sourceType}`;
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(targetApi)}`;
-
-    try {
-        const res = await fetch(proxyUrl);
-        if (res.ok) {
-            const json = await res.json();
-            return json.data || json.result || json.list || [];
-        }
-    } catch (e) {
-        console.error(`[${sourceType}] 备用源同样失败:`, e);
-    }
-
-    return [];
-}
-
 async function renderHorizontalHotNews() {
     const container = document.getElementById('hot-news-scroll');
     if (!container) return;
 
-    // 1. 渲染骨架卡片
+    // 1. 渲染骨架卡片 (保持精美的拟态玻璃外观)
     container.innerHTML = HOT_NEWS_SOURCES.map(s => `
         <div id="news-card-${s.id}" class="snap-start flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300">
             <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30">
@@ -436,31 +404,38 @@ async function renderHorizontalHotNews() {
         </div>
     `).join('');
 
-    // 2. 并行获取热榜数据
+    // 2. 并行请求你专属的 Worker 节点
     HOT_NEWS_SOURCES.forEach(async (source) => {
         const cardUl = document.querySelector(`#news-card-${source.id} .news-list-content`);
         if (!cardUl) return;
 
         try {
-            const rawList = await fetchHotListData(source.type);
+            const res = await fetch(`${MY_WORKER_API}?type=${source.type}`);
+            const json = await res.json();
             
-            // 兼容多层级嵌套列表 (如 rawList.data 或 rawList.list)
-            let list = Array.isArray(rawList) ? rawList : (rawList?.list || rawList?.data || []);
-            const items = list.slice(0, 5);
+            // 解析不同官方源的数据结构
+            let items = [];
+            if (source.type === 'baidu') {
+                items = (json.data?.cards?.[0]?.content || []).map(i => ({ title: i.word, url: i.url }));
+            } else if (source.type === 'weibo') {
+                items = (json.data?.realtime || []).map(i => ({ title: i.note || i.word, url: `https://s.weibo.com/weibo?q=${encodeURIComponent(i.word)}` }));
+            } else if (source.type === 'bilibili') {
+                items = (json.data?.list || []).map(i => ({ title: i.title, url: i.short_link_v2 || i.arcurl }));
+            } else if (source.type === 'cls') {
+                items = (json.data?.roll_data || json.data || []).map(i => ({ title: i.title || i.content, url: 'https://www.cls.cn/telegraph' }));
+            }
+
+            items = items.slice(0, 5);
 
             if (items.length > 0) {
-                cardUl.innerHTML = items.map((item, idx) => {
-                    const title = item.title || item.name || item.title_full || '无标题';
-                    const url = item.url || item.link || item.mobilUrl || '#';
-                    
-                    return `
+                cardUl.innerHTML = items.map((item, idx) => `
                     <li class="truncate hover:text-indigo-300 transition-colors">
-                        <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2" title="${escapeHtml(title)}">
+                        <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2" title="${escapeHtml(item.title)}">
                             <span class="font-bold text-[10px] ${idx < 3 ? 'text-amber-400' : 'text-slate-500'} w-3 shrink-0">${idx + 1}</span>
-                            <span class="truncate text-slate-300 hover:text-indigo-300 text-[11px]">${escapeHtml(title)}</span>
+                            <span class="truncate text-slate-300 hover:text-indigo-300 text-[11px]">${escapeHtml(item.title)}</span>
                         </a>
-                    </li>`;
-                }).join('');
+                    </li>
+                `).join('');
             } else {
                 cardUl.innerHTML = `<li class="text-slate-500 text-[10px]">暂无数据</li>`;
             }
@@ -472,7 +447,7 @@ async function renderHorizontalHotNews() {
 }
 
 document.addEventListener('DOMContentLoaded', renderHorizontalHotNews);
-
+        
 // 动态链接字典示例
 const dynamicLinkDict = {
     "https://kjgx668.blogspot.com": { zh: "科技共享", en: "TechShare Blog" },
