@@ -197,6 +197,35 @@
             </form>
         </div>
 
+
+        <!-- 新闻热榜板块（横向滑动卡片盒） -->
+<div class="max-w-7xl mx-auto px-4 mb-8">
+    <div class="flex items-center justify-between mb-3 px-1">
+        <div class="flex items-center gap-2">
+            <i class="fas fa-fire text-red-500 animate-pulse text-xs"></i>
+            <span class="text-xs font-bold text-slate-200">实时资讯看板</span>
+        </div>
+        <div class="text-[11px] text-slate-400 flex items-center gap-1">
+            <span>👈 左右滑动查看更多</span>
+        </div>
+    </div>
+
+    <!-- 可横向滑动的容器（隐藏滚动条，支持动态无限扩展热源） -->
+    <div class="relative group">
+        <div id="hot-news-scroll" class="flex gap-4 overflow-x-auto pb-2 scrollbar-none snap-x snap-mandatory">
+            <!-- JS 将动态注入定宽卡片 -->
+        </div>
+        <!-- 右侧遮罩，提示可继续滑动 -->
+        <div class="absolute right-0 top-0 bottom-2 w-12 bg-gradient-to-l from-[#0b0f19] to-transparent pointer-events-none"></div>
+    </div>
+</div>
+
+<!-- 隐藏滚动条样式 -->
+<style>
+    .scrollbar-none::-webkit-scrollbar { display: none; }
+    .scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
+
         <!-- 导航卡片网格 -->
         <div id="main-nav-grid" class="w-full grid grid-cols-1 xl:grid-cols-3 gap-8 mb-8 relative z-10 items-start">
             
@@ -333,6 +362,70 @@
             }
         };
 
+        // 任意扩充的热源列表（定宽卡片，横向排列）
+const HOT_NEWS_SOURCES = [
+    { id: 'baidu', name: '百度热搜', icon: 'fa-search text-blue-400', api: 'https://dailyhot-api.zeabur.app/baidu' },
+    { id: 'weibo', name: '微博热搜', icon: 'fa-hashtag text-red-400', api: 'https://dailyhot-api.zeabur.app/weibo' },
+    { id: 'douyin', name: '抖音热搜', icon: 'fa-tiktok text-slate-200', api: 'https://dailyhot-api.zeabur.app/douyin' },
+    { id: 'cls', name: '财联社', icon: 'fa-chart-line text-red-500', api: 'https://dailyhot-api.zeabur.app/cls' },
+    { id: 'gelonghui', name: '格隆汇', icon: 'fa-coins text-amber-400', api: 'https://dailyhot-api.zeabur.app/gelonghui' },
+    { id: 'scmp', name: '南华早报', icon: 'fa-newspaper text-sky-400', api: 'https://dailyhot-api.zeabur.app/scmp' },
+    { id: 'caixin', name: '财新网', icon: 'fa-book-open text-indigo-400', api: 'https://dailyhot-api.zeabur.app/caixin' }
+];
+
+async function renderHorizontalHotNews() {
+    const container = document.getElementById('hot-news-scroll');
+    if (!container) return;
+
+    // 渲染骨架卡片（固定宽度 w-64 或 w-72，契合导航页质感）
+    container.innerHTML = HOT_NEWS_SOURCES.map(s => `
+        <div id="news-card-${s.id}" class="snap-start flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300">
+            <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30">
+                <span class="text-xs font-bold text-slate-200 flex items-center gap-1.5 truncate">
+                    <i class="fas ${s.icon} text-xs"></i> <span class="truncate">${s.name}</span>
+                </span>
+                <span class="text-[9px] text-slate-400 bg-slate-800/60 px-1.5 py-0.5 rounded-full">Top 5</span>
+            </div>
+            <ul class="space-y-2 text-[11px] news-list-content">
+                <li class="text-slate-500 animate-pulse text-[10px]">加载中...</li>
+            </ul>
+        </div>
+    `).join('');
+
+    // 请求公共 API 获取热榜
+    HOT_NEWS_SOURCES.forEach(async (source) => {
+        const cardUl = document.querySelector(`#news-card-${source.id} .news-list-content`);
+        try {
+            const res = await fetch(source.api);
+            const json = await res.json();
+            
+            const rawList = json.data || json.result || json || [];
+            const items = (Array.isArray(rawList) ? rawList : (rawList.data || [])).slice(0, 5);
+
+            if (cardUl && items.length > 0) {
+                cardUl.innerHTML = items.map((item, idx) => {
+                    const title = item.title || item.name || '';
+                    const url = item.url || item.link || item.mobileUrl || '#';
+                    return `
+                    <li class="truncate hover:text-indigo-300 transition-colors">
+                        <a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2" title="${title}">
+                            <span class="font-bold text-[10px] ${idx < 3 ? 'text-amber-400' : 'text-slate-500'} w-3 shrink-0">${idx + 1}</span>
+                            <span class="truncate text-slate-300 hover:text-indigo-300 text-[11px]">${title}</span>
+                        </a>
+                    </li>`;
+                }).join('');
+            } else if (cardUl) {
+                cardUl.innerHTML = `<li class="text-slate-500 text-[10px]">暂无数据</li>`;
+            }
+        } catch (err) {
+            if (cardUl) cardUl.innerHTML = `<li class="text-slate-500 text-[10px]">获取失败</li>`;
+        }
+    });
+}
+
+document.addEventListener('DOMContentLoaded', renderHorizontalHotNews);
+        
+        
         const dynamicLinkDict = {
             "https://kjgx668.blogspot.com": { zh: "科技共享", en: "TechShare Blog" },
             "https://kjgx.168668520.xyz": { zh: "科技共享导航", en: "TechShare Nav" },
