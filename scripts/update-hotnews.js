@@ -28,7 +28,7 @@ async function fetchWithUA(url, customHeaders = {}, retries = 3) {
   return null;
 }
 
-// ==================== 数据源函数 ====================
+// ==================== 稳定数据源 ====================
 
 async function getBaidu() {
   const json = await fetchWithUA("https://top.baidu.com/api/board?tab=realtime");
@@ -54,41 +54,12 @@ async function getIThome() {
   return list.slice(0, 5).map(i => ({ title: i.title, url: i.url }));
 }
 
-async function getZhihu() {
-  const json = await fetchWithUA("https://www.zhihu.com/api/v3/feed/topstory/hot-lists?limit=10");
-  const list = json?.data || [];
-  return list.slice(0, 5).map(i => ({
-    title: i.target?.title || i.title || "知乎热榜",
-    url: i.target ? `https://zhihu.com/question/${i.target.id}` : "https://www.zhihu.com/hot"
-  }));
-}
-
 async function getWeibo() {
   const json = await fetchWithUA("https://weibo.com/ajax/side/hotSearch");
   const list = json?.data?.realtime || json?.data?.band_list || [];
   return list.slice(0, 5).map(i => ({
     title: i.word || i.note || i.title,
     url: i.url || `https://weibo.com/hot/${i.mid}`
-  }));
-}
-
-async function getXueqiu() {
-  const json = await fetchWithUA("https://xueqiu.com/v4/statuses/public_timeline.json?count=10");
-  const list = json?.items || [];
-  return list.slice(0, 5).map(i => ({
-    title: i.title || (i.text || "").slice(0, 45),
-    url: `https://xueqiu.com${i.target || i.url || ''}`
-  })).filter(i => i.title.length > 5);
-}
-
-async function getEastmoney() {
-  const json = await fetchWithUA("https://np-listapi.eastmoney.com/comm/web/getFastNewsList?client=web&biz=web_news&pageIndex=1&pageSize=8", {
-    "Referer": "https://kuaixun.eastmoney.com/"
-  });
-  const list = json?.data?.fastNewsList || json?.Data || [];
-  return list.slice(0, 5).map(i => ({
-    title: i.title || i.Title,
-    url: i.url || "https://kuaixun.eastmoney.com/"
   }));
 }
 
@@ -105,15 +76,19 @@ async function getHuggingFace() {
 }
 
 async function main() {
-  console.log("开始抓取所有数据源...");
+  console.log("开始抓取...");
 
   const results = await Promise.all([
-    getBaidu(), getBilibili(), getToutiao(), getIThome(),
-    getZhihu(), getWeibo(), getXueqiu(), getEastmoney(),
-    getGithub(), getHuggingFace()
+    getBaidu(), 
+    getBilibili(), 
+    getToutiao(), 
+    getIThome(),
+    getWeibo(), 
+    getGithub(), 
+    getHuggingFace()
   ]);
 
-  const keys = ["baidu", "bilibili", "toutiao", "ithome", "zhihu", "weibo", "xueqiu", "eastmoney", "github", "huggingface"];
+  const keys = ["baidu", "bilibili", "toutiao", "ithome", "weibo", "github", "huggingface"];
 
   const finalData = { updatedAt: new Date().toISOString() };
 
