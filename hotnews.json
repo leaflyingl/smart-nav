@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T09:55:02.931Z",
+  "updatedAt": "2026-07-28T10:17:42.018Z",
   "baidu": [
     {
       "title": "日本熊本县发生7.1级地震 余震不断",
@@ -14,12 +14,12 @@
       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%85%83%E5%A4%9C%E6%B8%B8%E6%BF%80%E5%8F%91%E6%96%87%E6%97%85%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“全款买房”的人在变多",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E2%80%9D%E7%9A%84%E4%BA%BA%E5%9C%A8%E5%8F%98%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "著名相声表演艺术家常佩业去世",
+      "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E7%9B%B8%E5%A3%B0%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%B8%B8%E4%BD%A9%E4%B8%9A%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
-      "url": "https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E6%92%AC%E5%BC%80%E7%84%8A%E6%AD%BB6%E5%B9%B4%E5%AD%98%E9%92%B1%E7%AE%B1%E5%8A%A9%E5%AD%99%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“全款买房”的人在变多",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E2%80%9D%E7%9A%84%E4%BA%BA%E5%9C%A8%E5%8F%98%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -68,49 +68,37 @@
   ],
   "ithome": [
     {
-      "title": "TCL 回音壁旗舰 Q95K 发售：11.1.4 物理 Hi-Fi 级声学架构、支持 360° 全向声场，7999 元",
-      "url": "/0/982/695.htm"
+      "title": "我国先登航天针栓式燃气发生器点火试车取得圆满成功",
+      "url": "/0/982/715.htm"
     },
     {
-      "title": "微软罕见听劝：Outlook 邮件 Copilot 搜索功能已取消上线计划",
-      "url": "/0/982/686.htm"
+      "title": "微软为 Node.js 推出动态 Windows Runtime 语言投影工具，简化原生 API 调用流程",
+      "url": "/0/982/713.htm"
     },
     {
-      "title": "英伟达 CEO 黄仁勋：AI 消灭的是任务，而非工作",
-      "url": "/0/982/685.htm"
+      "title": "因入境检查时使用 GrapheneOS“胁迫密码”功能删除手机数据，一男子被美国司法部控罪",
+      "url": "/0/982/712.htm"
     },
     {
-      "title": "盛夏速度囤：京东京造 PA+++ 防水防汗防晒乳 59.9 → 12.5 元买到即赚到",
-      "url": "https://lapin.ithome.com/html/digi/982684.htm"
+      "title": "纯棉款可选：森马短袖 T 恤等 28 元官方上新清仓（门店 139 元）",
+      "url": "https://lapin.ithome.com/html/digi/982711.htm"
     },
     {
-      "title": "小米推出米家大容量商务双肩包 2：多仓分区结构、23L 容量，首发价 449 元",
-      "url": "/0/982/683.htm"
-    }
-  ],
-  "netease": [
-    {
-      "title": "《名侦探柯南, 绀青之拳》原来之前基德偷走柯南是预告之一啊",
-      "url": "https://3g.163.com/touch/article/E3LG3O8405356DKS.html"
-    }
-  ],
-  "sinafinance": [
-    {
-      "title": "新浪财经 7x24 直播",
-      "url": "https://finance.sina.com.cn/7x24/"
+      "title": "网易《逆水寒：新世界》官宣“大富绅 2.0”玩法，支持双人组队",
+      "url": "/0/982/710.htm"
     }
   ],
   "github": [
     {
-      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lo",
+      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
-      "title": "obra/superpowers: An agentic skills framework & software development methodolo",
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, i",
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
@@ -118,8 +106,8 @@
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Co",
-      "url": "https://github.com/ultraworkers/claw-code"
+      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     }
   ],
   "huggingface": [
@@ -142,12 +130,6 @@
     {
       "title": "Model: google/electra-base-discriminator",
       "url": "https://huggingface.co/google/electra-base-discriminator"
-    }
-  ],
-  "tonghuashun": [
-    {
-      "title": "同花顺 7x24 实时快讯",
-      "url": "https://news.10jqka.com.cn/realtimenews.html"
     }
   ]
 }
