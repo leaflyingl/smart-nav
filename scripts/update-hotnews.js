@@ -76,7 +76,7 @@ async function getHuggingFace() {
 }
 
 async function main() {
-  console.log("开始抓取...");
+  console.log("开始抓取稳定数据源...");
 
   const results = await Promise.all([
     getBaidu(), 
