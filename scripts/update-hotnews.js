@@ -41,9 +41,14 @@ async function getBaidu() {
 }
 
 async function getBilibili() {
-  const json = await fetchWithUA("https://api.bilibili.com/x/web-interface/popular?ps=5&pn=1");
+  const json = await fetchWithUA("https://api.bilibili.com/x/web-interface/popular?ps=10&pn=1", {
+    "Referer": "https://www.bilibili.com/"
+  });
   const list = json?.data?.list || [];
-  return list.slice(0, 5).map(i => ({ title: i.title, url: i.short_link_v2 || i.arcurl || `https://www.bilibili.com/video/${i.bvid}` }));
+  return list.slice(0, 5).map(i => ({ 
+    title: i.title, 
+    url: i.short_link_v2 || i.arcurl || `https://www.bilibili.com/video/${i.bvid}` 
+  }));
 }
 
 async function getToutiao() {
@@ -76,37 +81,37 @@ async function getNetease() {
 }
 
 async function getWallstreet() {
-  const json = await fetchWithUA("https://api-one-wscn.wallstreetcn.com/apiv1/content/lives?channel=global-channel&limit=15", {
-    "Origin": "https://wallstreetcn.com", "Referer": "https://wallstreetcn.com/"
+  const json = await fetchWithUA("https://api-one-wscn.wallstreetcn.com/apiv1/content/lives?channel=global-channel&limit=10", {
+    "Origin": "https://wallstreetcn.com",
+    "Referer": "https://wallstreetcn.com/"
   });
   const list = json?.data?.items || [];
-  const items = [];
-  for (const i of list) {
-    if (items.length >= 5) break;
+  return list.slice(0,5).map(i => {
     const text = (i.title || i.content_text || "").replace(/<[^>]+>/g, "").trim();
-    if (text) items.push({ title: text.slice(0, 60) + "...", url: i.uri || "https://wallstreetcn.com/live/global" });
-  }
-  return items;
+    return { title: text.slice(0, 55) + "...", url: i.uri || "https://wallstreetcn.com/live/global" };
+  }).filter(i => i.title.length > 15);
 }
 
 async function getJiemian() {
-  let json = await fetchWithUA("https://www.jiemian.com/api/v1/news/getNewsListByChannel.json?channel_id=1&page=1");
+  const json = await fetchWithUA("https://www.jiemian.com/api/v1/news/getNewsListByChannel.json?channel_id=1&page=1", {
+    "Referer": "https://www.jiemian.com/"
+  });
   let list = json?.data?.list || [];
-  if (!list.length) {
-    json = await fetchWithUA("https://m.jiemian.com/index.php?m=article&a=ajaxNews&page=1");
-    list = Array.isArray(json) ? json : (json?.rst || json?.data || []);
-  }
-  return list.slice(0, 5).map(i => ({ title: i.title, url: i.ar_url || `https://www.jiemian.com/article/${i.id}.html` }));
+  return list.slice(0,5).map(i => ({
+    title: i.title,
+    url: i.ar_url || i.url || `https://www.jiemian.com/article/${i.id}.html`
+  }));
 }
 
 async function getEastmoney() {
-  const json = await fetchWithUA("https://np-listapi.eastmoney.com/comm/web/getFastNewsList?client=web&biz=web_news&pageIndex=1&pageSize=8", {
-    "Referer": "https://kuaixun.eastmoney.com/"
+  const json = await fetchWithUA("https://np-listapi.eastmoney.com/comm/web/getFastNewsList?client=web&biz=web_news&pageIndex=1&pageSize=10", {
+    "Referer": "https://kuaixun.eastmoney.com/",
+    "Origin": "https://eastmoney.com"
   });
   const list = json?.data?.fastNewsList || json?.Data || [];
-  return list.slice(0, 5).map(i => ({
+  return list.slice(0,5).map(i => ({
     title: i.title || i.Title,
-    url: i.url || `https://kuaixun.eastmoney.com/news/${i.code}.html`
+    url: i.url || `https://kuaixun.eastmoney.com/`
   }));
 }
 
