@@ -28,38 +28,38 @@ async function fetchWithUA(url, customHeaders = {}, retries = 3) {
   return null;
 }
 
-// ==================== 数据源 ====================
+// ==================== 数据源函数 ====================
 
-async function getBaidu() { /* ... 保持 */ 
+async function getBaidu() {
   const json = await fetchWithUA("https://top.baidu.com/api/board?tab=realtime");
   const list = json?.data?.cards?.[0]?.content || [];
   return list.slice(0, 5).map(i => ({ title: i.word, url: i.url || `https://www.baidu.com/s?wd=${encodeURIComponent(i.word)}` }));
 }
 
-async function getBilibili() { /* ... */ 
+async function getBilibili() {
   const json = await fetchWithUA("https://api.bilibili.com/x/web-interface/popular?ps=10&pn=1", {"Referer": "https://www.bilibili.com/"});
   const list = json?.data?.list || [];
   return list.slice(0, 5).map(i => ({ title: i.title, url: i.short_link_v2 || `https://www.bilibili.com/video/${i.bvid}` }));
 }
 
-async function getToutiao() { /* ... */ 
+async function getToutiao() {
   const json = await fetchWithUA("https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc");
   const list = json?.data || [];
   return list.slice(0, 5).map(i => ({ title: i.Title, url: `https://www.toutiao.com/trending/${i.ClusterIdStr}/` }));
 }
 
-async function getIThome() { /* ... */ 
+async function getIThome() {
   const json = await fetchWithUA("https://api.ithome.com/json/newslist/news", {"Referer": "https://www.ithome.com/"});
   let list = Array.isArray(json) ? json : (json?.newslist || []);
   return list.slice(0, 5).map(i => ({ title: i.title, url: i.url }));
 }
 
 async function getZhihu() {
-  const json = await fetchWithUA("https://www.zhihu.com/api/v3/feed/topstory/hot-lists?limit=5");
+  const json = await fetchWithUA("https://www.zhihu.com/api/v3/feed/topstory/hot-lists?limit=10");
   const list = json?.data || [];
   return list.slice(0, 5).map(i => ({
-    title: i.target?.title || i.title,
-    url: `https://zhihu.com/question/${i.target?.id || ''}`
+    title: i.target?.title || i.title || "知乎热榜",
+    url: i.target ? `https://zhihu.com/question/${i.target.id}` : "https://www.zhihu.com/hot"
   }));
 }
 
@@ -67,32 +67,53 @@ async function getWeibo() {
   const json = await fetchWithUA("https://weibo.com/ajax/side/hotSearch");
   const list = json?.data?.realtime || json?.data?.band_list || [];
   return list.slice(0, 5).map(i => ({
-    title: i.word || i.note,
-    url: `https://weibo.com/hot/${i.mid || ''}`
+    title: i.word || i.note || i.title,
+    url: i.url || `https://weibo.com/hot/${i.mid}`
   }));
 }
 
-async function getGithub() { /* ... */ 
+async function getXueqiu() {
+  const json = await fetchWithUA("https://xueqiu.com/v4/statuses/public_timeline.json?count=10");
+  const list = json?.items || [];
+  return list.slice(0, 5).map(i => ({
+    title: i.title || (i.text || "").slice(0, 45),
+    url: `https://xueqiu.com${i.target || i.url || ''}`
+  })).filter(i => i.title.length > 5);
+}
+
+async function getEastmoney() {
+  const json = await fetchWithUA("https://np-listapi.eastmoney.com/comm/web/getFastNewsList?client=web&biz=web_news&pageIndex=1&pageSize=8", {
+    "Referer": "https://kuaixun.eastmoney.com/"
+  });
+  const list = json?.data?.fastNewsList || json?.Data || [];
+  return list.slice(0, 5).map(i => ({
+    title: i.title || i.Title,
+    url: i.url || "https://kuaixun.eastmoney.com/"
+  }));
+}
+
+async function getGithub() {
   const json = await fetchWithUA("https://api.github.com/search/repositories?q=created:>2025-01-01&sort=stars&order=desc&per_page=5");
   const list = json?.items || [];
   return list.slice(0, 5).map(i => ({ title: `${i.full_name}: ${i.description || "无描述"}`, url: i.html_url }));
 }
 
-async function getHuggingFace() { /* ... */ 
+async function getHuggingFace() {
   const json = await fetchWithUA("https://huggingface.co/api/models?sort=downloads&direction=-1&limit=5");
   const list = Array.isArray(json) ? json : [];
   return list.slice(0,5).map(i => ({ title: `Model: ${i.id}`, url: `https://huggingface.co/${i.id}` }));
 }
 
 async function main() {
-  console.log("开始抓取...");
+  console.log("开始抓取所有数据源...");
 
   const results = await Promise.all([
     getBaidu(), getBilibili(), getToutiao(), getIThome(),
-    getZhihu(), getWeibo(), getGithub(), getHuggingFace()
+    getZhihu(), getWeibo(), getXueqiu(), getEastmoney(),
+    getGithub(), getHuggingFace()
   ]);
 
-  const keys = ["baidu", "bilibili", "toutiao", "ithome", "zhihu", "weibo", "github", "huggingface"];
+  const keys = ["baidu", "bilibili", "toutiao", "ithome", "zhihu", "weibo", "xueqiu", "eastmoney", "github", "huggingface"];
 
   const finalData = { updatedAt: new Date().toISOString() };
 
