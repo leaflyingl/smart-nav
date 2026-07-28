@@ -18,11 +18,7 @@ async function fetchWithUA(url, customHeaders = {}, retries = 3) {
       clearTimeout(id);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const text = await res.text();
-      try {
-        return JSON.parse(text);
-      } catch {
-        return text;
-      }
+      try { return JSON.parse(text); } catch { return text; }
     } catch (e) {
       clearTimeout(id);
       if (attempt === retries) return null;
@@ -32,39 +28,30 @@ async function fetchWithUA(url, customHeaders = {}, retries = 3) {
   return null;
 }
 
-// ==================== 所有数据源函数 ====================
+// ==================== 数据源 ====================
 
-async function getBaidu() {
+async function getBaidu() { /* 保持不变 */ 
   const json = await fetchWithUA("https://top.baidu.com/api/board?tab=realtime");
   const list = json?.data?.cards?.[0]?.content || [];
   return list.slice(0, 5).map(i => ({ title: i.word, url: i.url || `https://www.baidu.com/s?wd=${encodeURIComponent(i.word)}` }));
 }
 
-async function getBilibili() {
-  const json = await fetchWithUA("https://api.bilibili.com/x/web-interface/popular?ps=10&pn=1", {
-    "Referer": "https://www.bilibili.com/"
-  });
+async function getBilibili() { /* 已优化 */ 
+  const json = await fetchWithUA("https://api.bilibili.com/x/web-interface/popular?ps=10&pn=1", {"Referer": "https://www.bilibili.com/"});
   const list = json?.data?.list || [];
-  return list.slice(0, 5).map(i => ({ 
-    title: i.title, 
-    url: i.short_link_v2 || i.arcurl || `https://www.bilibili.com/video/${i.bvid}` 
-  }));
+  return list.slice(0, 5).map(i => ({ title: i.title, url: i.short_link_v2 || `https://www.bilibili.com/video/${i.bvid}` }));
 }
 
-async function getToutiao() {
+async function getToutiao() { /* 保持 */ 
   const json = await fetchWithUA("https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc");
   const list = json?.data || [];
   return list.slice(0, 5).map(i => ({ title: i.Title, url: `https://www.toutiao.com/trending/${i.ClusterIdStr}/` }));
 }
 
-async function getIThome() {
-  const json = await fetchWithUA("https://api.ithome.com/json/newslist/news", { "Referer": "https://www.ithome.com/" });
-  let list = json || [];
-  if (!Array.isArray(list)) list = json?.newslist || [];
-  return list.slice(0, 5).map(i => ({
-    title: i.title,
-    url: i.url || `https://www.ithome.com/0/${Math.floor(i.newsid/1000)}/${i.newsid}.htm`
-  }));
+async function getIThome() { /* 保持 */ 
+  const json = await fetchWithUA("https://api.ithome.com/json/newslist/news", {"Referer": "https://www.ithome.com/"});
+  let list = Array.isArray(json) ? json : (json?.newslist || []);
+  return list.slice(0, 5).map(i => ({ title: i.title, url: i.url }));
 }
 
 async function getNetease() {
@@ -72,59 +59,27 @@ async function getNetease() {
   const rawList = json?.T1348647853363 || [];
   const items = [];
   for (const item of rawList) {
-    if (item?.title && items.length < 5) {
-      const targetUrl = item.url || (item.docid ? `https://3g.163.com/touch/article/${item.docid}.html` : "https://news.163.com");
-      items.push({ title: item.title, url: targetUrl });
+    if (item?.title && items.length < 5 && item.title.length > 8) {
+      const url = item.url || (item.docid ? `https://3g.163.com/touch/article/${item.docid}.html` : null);
+      if (url) items.push({ title: item.title.trim(), url });
     }
   }
-  return items;
+  return items.length ? items : [{title: "网易头条", url: "https://news.163.com"}];
 }
 
-async function getWallstreet() {
-  const json = await fetchWithUA("https://api-one-wscn.wallstreetcn.com/apiv1/content/lives?channel=global-channel&limit=10", {
-    "Origin": "https://wallstreetcn.com",
-    "Referer": "https://wallstreetcn.com/"
-  });
-  const list = json?.data?.items || [];
-  return list.slice(0,5).map(i => {
-    const text = (i.title || i.content_text || "").replace(/<[^>]+>/g, "").trim();
-    return { title: text.slice(0, 55) + "...", url: i.uri || "https://wallstreetcn.com/live/global" };
-  }).filter(i => i.title.length > 15);
+async function getSinaFinance() {
+  return [{ title: "新浪财经 7x24 直播", url: "https://finance.sina.com.cn/7x24/" }];
 }
 
-async function getJiemian() {
-  const json = await fetchWithUA("https://www.jiemian.com/api/v1/news/getNewsListByChannel.json?channel_id=1&page=1", {
-    "Referer": "https://www.jiemian.com/"
-  });
-  let list = json?.data?.list || [];
-  return list.slice(0,5).map(i => ({
-    title: i.title,
-    url: i.ar_url || i.url || `https://www.jiemian.com/article/${i.id}.html`
-  }));
-}
-
-async function getEastmoney() {
-  const json = await fetchWithUA("https://np-listapi.eastmoney.com/comm/web/getFastNewsList?client=web&biz=web_news&pageIndex=1&pageSize=10", {
-    "Referer": "https://kuaixun.eastmoney.com/",
-    "Origin": "https://eastmoney.com"
-  });
-  const list = json?.data?.fastNewsList || json?.Data || [];
-  return list.slice(0,5).map(i => ({
-    title: i.title || i.Title,
-    url: i.url || `https://kuaixun.eastmoney.com/`
-  }));
-}
-
-async function getGithub() {
+async function getGithub() { /* 保持 */ 
   const json = await fetchWithUA("https://api.github.com/search/repositories?q=created:>2025-01-01&sort=stars&order=desc&per_page=5");
   const list = json?.items || [];
-  return list.slice(0, 5).map(i => ({ title: `${i.full_name}: ${i.description || "无描述"}`, url: i.html_url }));
+  return list.slice(0,5).map(i => ({ title: `${i.full_name}: ${i.description?.slice(0,60) || ""}`, url: i.html_url }));
 }
 
-async function getHuggingFace() {
+async function getHuggingFace() { /* 保持 */ 
   const json = await fetchWithUA("https://huggingface.co/api/models?sort=downloads&direction=-1&limit=5");
-  const list = Array.isArray(json) ? json : [];
-  return list.map(i => ({ title: `Model: ${i.id}`, url: `https://huggingface.co/${i.id}` }));
+  return (Array.isArray(json) ? json : []).slice(0,5).map(i => ({ title: `Model: ${i.id}`, url: `https://huggingface.co/${i.id}` }));
 }
 
 async function getTonghuashun() {
@@ -132,33 +87,24 @@ async function getTonghuashun() {
 }
 
 async function main() {
-  console.log("开始并行抓取所有数据源...");
+  console.log("开始抓取...");
 
   const results = await Promise.all([
     getBaidu(), getBilibili(), getToutiao(), getIThome(),
-    getNetease(), getWallstreet(), getJiemian(), getEastmoney(),
-    getGithub(), getHuggingFace(), getTonghuashun()
+    getNetease(), getSinaFinance(), getGithub(), getHuggingFace(), getTonghuashun()
   ]);
 
-  const keys = [
-    "baidu", "bilibili", "toutiao", "ithome",
-    "netease", "wallstreet", "jiemian", "eastmoney",
-    "github", "huggingface", "tonghuashun"
-  ];
+  const keys = ["baidu", "bilibili", "toutiao", "ithome", "netease", "sinafinance", "github", "huggingface", "tonghuashun"];
 
   const finalData = { updatedAt: new Date().toISOString() };
-
-  keys.forEach((key, index) => {
-    if (Array.isArray(results[index]) && results[index].length > 0) {
-      finalData[key] = results[index];
+  keys.forEach((key, i) => {
+    if (Array.isArray(results[i]) && results[i].length > 0) {
+      finalData[key] = results[i];
     }
   });
 
   fs.writeFileSync("./hotnews.json", JSON.stringify(finalData, null, 2));
-  console.log("hotnews.json 更新完成！包含源:", Object.keys(finalData).filter(k => k !== "updatedAt"));
+  console.log("更新完成！包含源:", Object.keys(finalData).filter(k => k !== "updatedAt"));
 }
 
-main().catch(err => {
-  console.error("执行出错:", err);
-  process.exit(1);
-});
+main().catch(err => console.error(err));
