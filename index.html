@@ -363,12 +363,11 @@
         };
 
 
-// 使用完全开源免费且自带 CORS Header 的公共热榜 API
 const HOT_NEWS_SOURCES = [
-    { id: 'baidu', name: '百度热搜', icon: 'fa-search text-blue-400', type: 'baidu' },
-    { id: 'weibo', name: '微博热搜', icon: 'fa-hashtag text-red-400', type: 'weibo' },
-    { id: 'bilibili', name: '哔哩哔哩', icon: 'fa-tv text-pink-400', type: 'bilibili' },
-    { id: 'douyin', name: '抖音热搜', icon: 'fa-tiktok text-slate-200', type: 'douyin' }
+    { id: 'baidu', name: '百度热搜', icon: 'fa-search text-blue-400', key: 'baidu' },
+    { id: 'weibo', name: '微博热搜', icon: 'fa-hashtag text-red-400', key: 'weibo' },
+    { id: 'bilibili', name: '哔哩哔哩', icon: 'fa-tv text-pink-400', key: 'bilibili' },
+    { id: 'douyin', name: '抖音热搜', icon: 'fa-tiktok text-slate-200', key: 'douyin' }
 ];
 
 function escapeHtml(str) {
@@ -380,7 +379,7 @@ async function renderHorizontalHotNews() {
     const container = document.getElementById('hot-news-scroll');
     if (!container) return;
 
-    // 1. 渲染卡片外壳
+    // 1. 先渲染卡片外壳
     container.innerHTML = HOT_NEWS_SOURCES.map(s => `
         <div id="news-card-${s.id}" class="snap-start flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300">
             <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30">
@@ -395,19 +394,21 @@ async function renderHorizontalHotNews() {
         </div>
     `).join('');
 
-    // 2. 逐个获取热榜
-    HOT_NEWS_SOURCES.forEach(async (source) => {
-        const cardUl = document.querySelector(`#news-card-${source.id} .news-list-content`);
-        if (!cardUl) return;
+    try {
+        // 2. 一次性获取同目录下的静态 JSON 文件
+        const res = await fetch('./hotnews.json');
+        if (!res.ok) throw new Error('静态文件不存在或未准备好');
+        
+        const newsMap = await res.json();
 
-        try {
-            // 直接请求 API，不经过任何中间件/Worker
-            const res = await fetch(`https://api.vvhan.com/api/hotlist/${source.type}`);
-            if (!res.ok) throw new Error("网络响应异常");
+        // 3. 填充各个板块的数据
+        HOT_NEWS_SOURCES.forEach(source => {
+            const cardUl = document.querySelector(`#news-card-${source.id} .news-list-content`);
+            if (!cardUl) return;
 
-            const json = await res.json();
-            if (json.success && json.data) {
-                const items = json.data.slice(0, 5);
+            const items = newsMap[source.key] || [];
+
+            if (items.length > 0) {
                 cardUl.innerHTML = items.map((item, idx) => `
                     <li class="truncate hover:text-indigo-300 transition-colors">
                         <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2" title="${escapeHtml(item.title)}">
@@ -419,11 +420,16 @@ async function renderHorizontalHotNews() {
             } else {
                 cardUl.innerHTML = `<li class="text-slate-500 text-[10px]">暂无数据</li>`;
             }
-        } catch (err) {
-            console.error(`加载 ${source.name} 失败:`, err);
-            cardUl.innerHTML = `<li class="text-slate-500 text-[10px]">获取失败</li>`;
-        }
-    });
+        });
+
+    } catch (err) {
+        console.error('获取热点数据失败:', err);
+        // 如果本地 json 还没生成时的友好提示
+        HOT_NEWS_SOURCES.forEach(source => {
+            const cardUl = document.querySelector(`#news-card-${source.id} .news-list-content`);
+            if (cardUl) cardUl.innerHTML = `<li class="text-slate-500 text-[10px]">数据更新中...</li>`;
+        });
+    }
 }
 
 document.addEventListener('DOMContentLoaded', renderHorizontalHotNews);
