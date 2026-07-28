@@ -20,69 +20,91 @@ jobs:
           node -e '
           const fs = require("fs");
 
-          // 通用请求工具，模拟真实浏览器 Header
-          async function fetchWithUserAgent(url, headers = {}) {
+          async function fetchWithUA(url) {
             try {
               const res = await fetch(url, {
                 headers: {
-                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                  "Accept": "application/json, text/plain, */*",
-                  ...headers
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
               });
-              if (!res.ok) throw new Error(`HTTP status ${res.status}`);
+              if (!res.ok) return null;
               return await res.json();
             } catch (e) {
-              console.error(`Fetch error for ${url}:`, e.message);
               return null;
             }
           }
 
-          // 1. 直连百度官方热搜
+          // 1. 百度热搜
           async function getBaidu() {
-            const data = await fetchWithUserAgent("https://top.baidu.com/api/board?tab=realtime");
-            const list = data?.data?.cards?.[0]?.content || [];
-            return list.slice(0, 5).map(item => ({
-              title: item.word || "百度热搜",
-              url: item.url || `https://www.baidu.com/s?wd=${encodeURIComponent(item.word)}`
+            const json = await fetchWithUA("https://top.baidu.com/api/board?tab=realtime");
+            const list = json?.data?.cards?.[0]?.content || [];
+            return list.slice(0, 5).map(i => ({
+              title: i.word,
+              url: i.url || `https://www.baidu.com/s?wd=${encodeURIComponent(i.word)}`
             }));
           }
 
-          // 2. 直连微博官方热搜
-          async function getWeibo() {
-            const data = await fetchWithUserAgent("https://weibo.com/ajax/side/hotSearch");
-            const list = data?.data?.realtime || [];
-            return list.slice(0, 5).map(item => ({
-              title: item.note || item.word || "微博热搜",
-              url: `https://s.weibo.com/weibo?q=${encodeURIComponent(item.word)}`
-            }));
-          }
-
-          // 3. 直连 B 站官方热门视频榜
+          // 2. B站热门
           async function getBilibili() {
-            const data = await fetchWithUserAgent("https://api.bilibili.com/x/web-interface/popular?ps=5&pn=1");
-            const list = data?.data?.list || [];
-            return list.slice(0, 5).map(item => ({
-              title: item.title || "B站热门",
-              url: item.short_link_v2 || item.arcurl || `https://www.bilibili.com/video/${item.bvid}`
+            const json = await fetchWithUA("https://api.bilibili.com/x/web-interface/popular?ps=5&pn=1");
+            const list = json?.data?.list || [];
+            return list.slice(0, 5).map(i => ({
+              title: i.title,
+              url: i.short_link_v2 || i.arcurl || `https://www.bilibili.com/video/${i.bvid}`
+            }));
+          }
+
+          // 3. 知乎热榜 (开放API)
+          async function getZhihu() {
+            const json = await fetchWithUA("https://www.zhihu.com/api/v4/creators/rank/hot?domain=0&limit=5");
+            const list = json?.data || [];
+            return list.slice(0, 5).map(i => ({
+              title: i.question?.title || i.title || "知乎讨论",
+              url: i.question?.url ? `https://www.zhihu.com/question/${i.question.id}` : "https://www.zhihu.com"
+            }));
+          }
+
+          // 4. 36氪 (科技)
+          async function get36Kr() {
+            const json = await fetchWithUA("https://36kr.com/pp/api/info-flow/mstation/home");
+            const list = json?.data?.itemList || [];
+            return list.filter(i => i.templateMaterial?.widgetTitle).slice(0, 5).map(i => ({
+              title: i.templateMaterial.widgetTitle,
+              url: `https://36kr.com/p/${i.itemId}`
+            }));
+          }
+
+          // 5. IT之家 (科技)
+          async function getIThome() {
+            const json = await fetchWithUA("https://m.ithome.com/api/news/getnewslist?type=hotrank");
+            const list = json?.dataList || json?.data || [];
+            return list.slice(0, 5).map(i => ({
+              title: i.title || i.newsTitle,
+              url: i.url || `https://www.ithome.com/0/${Math.floor(i.newsid/1000)}/${i.newsid}.htm`
             }));
           }
 
           async function main() {
-            console.log("正在直连官方数据源抓取...");
+            console.log("开始并行抓取多源...");
             
-            const baidu = await getBaidu();
-            const weibo = await getWeibo();
-            const bilibili = await getBilibili();
+            const [baidu, bilibili, zhihu, kr36, ithome] = await Promise.all([
+              getBaidu(),
+              getBilibili(),
+              getZhihu(),
+              get36Kr(),
+              getIThome()
+            ]);
 
             const result = {
               baidu,
-              weibo,
               bilibili,
+              zhihu,
+              kr36,
+              ithome,
               updatedAt: new Date().toISOString()
             };
 
-            console.log("抓取到的结果预览:\n", JSON.stringify(result, null, 2));
+            console.log("有效的抓取源结果:", Object.keys(result).filter(k => Array.isArray(result[k]) && result[k].length > 0));
             fs.writeFileSync("./hotnews.json", JSON.stringify(result, null, 2));
           }
 
