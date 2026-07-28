@@ -363,20 +363,34 @@
         };
 
 
-// 映射配置：源 ID -> 界面显示名称与图标
+// 16 大数据源样式、中文名称与图标的对应映射
 const SOURCE_META = {
     baidu: { name: '百度热搜', icon: 'fa-search text-blue-400' },
     bilibili: { name: '哔哩哔哩', icon: 'fa-tv text-pink-400' },
-    zhihu: { name: '知乎热榜', icon: 'fa-quora text-blue-500' },
-    kr36: { name: '36氪', icon: 'fa-newspaper text-blue-300' },
     ithome: { name: 'IT之家', icon: 'fa-laptop-code text-red-400' },
-    cls: { name: '财联社', icon: 'fa-chart-line text-red-500' },
-    weibo: { name: '微博热搜', icon: 'fa-hashtag text-red-400' }
+    cls: { name: '财联社电报', icon: 'fa-bolt text-amber-400' },
+    gelonghui: { name: '格隆汇', icon: 'fa-chart-line text-blue-500' },
+    stcn: { name: '证券时报', icon: 'fa-newspaper text-red-500' },
+    xueqiu: { name: '雪球热帖', icon: 'fa-snowflake text-sky-400' },
+    github: { name: 'GitHub Trending', icon: 'fa-code-branch text-purple-400' },
+    huggingface: { name: 'Hugging Face', icon: 'fa-brain text-yellow-400' },
+    thepaper: { name: '澎湃新闻', icon: 'fa-paper-plane text-cyan-400' },
+    zaobao: { name: '联合早报', icon: 'fa-globe text-emerald-400' },
+    bbc: { name: 'BBC 新闻', icon: 'fa-broadcast-tower text-red-600' },
+    ifeng: { name: '凤凰新闻', icon: 'fa-feather text-red-500' },
+    netease: { name: '网易新闻', icon: 'fa-paper-plane text-red-600' },
+    weread: { name: '微信读书', icon: 'fa-book text-emerald-400' },
+    sina: { name: '新浪热点', icon: 'fa-eye text-amber-500' }
 };
 
+// 避免 HTML 字符注入
 function escapeHtml(str) {
     if (!str) return '';
-    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
 }
 
 async function renderHorizontalHotNews() {
@@ -384,22 +398,23 @@ async function renderHorizontalHotNews() {
     if (!container) return;
 
     try {
-        const res = await fetch('./hotnews.json?t=' + Date.now()); // 加时间戳防本地强缓存
-        if (!res.ok) throw new Error('静态文件未准备好');
+        // 请求 JSON 数据，增加时间戳防止浏览器强缓存
+        const res = await fetch('./hotnews.json?t=' + Date.now());
+        if (!res.ok) throw new Error('hotnews.json 未就绪');
         
         const newsMap = await res.json();
         
-        // 1. 过滤掉无数据或未定义的源 (核心动态筛选逻辑)
+        // 核心过滤：只保留请求成功且数组长度 > 0 的有效源
         const validSources = Object.keys(newsMap).filter(key => {
             return key !== 'updatedAt' && Array.isArray(newsMap[key]) && newsMap[key].length > 0;
         });
 
         if (validSources.length === 0) {
-            container.innerHTML = `<div class="text-xs text-slate-500 p-2">热点更新中...</div>`;
+            container.innerHTML = `<div class="text-xs text-slate-500 p-2">实时资讯更新中...</div>`;
             return;
         }
 
-        // 2. 仅针对“有数据”的源进行卡片渲染
+        // 仅对有效源生成 UI 卡片
         container.innerHTML = validSources.map(key => {
             const meta = SOURCE_META[key] || { name: key.toUpperCase(), icon: 'fa-fire text-amber-400' };
             const items = newsMap[key];
@@ -427,7 +442,7 @@ async function renderHorizontalHotNews() {
         }).join('');
 
     } catch (err) {
-        console.error('获取热点数据失败:', err);
+        console.error('渲染热榜失败:', err);
     }
 }
 
