@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch and Build hotnews.json
-        run: |
+        run: node scripts/update-hotnews.js
           node -e '
             const fs = require("fs");
 
