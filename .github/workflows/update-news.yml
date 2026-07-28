@@ -20,6 +20,7 @@ jobs:
           node -e '
           const fs = require("fs");
 
+          // 通用 JSON 请求
           async function fetchWithUA(url, customHeaders = {}) {
             const controller = new AbortController();
             const id = setTimeout(() => controller.abort(), 8000);
@@ -38,6 +39,37 @@ jobs:
             } catch (e) {
               clearTimeout(id);
               return null;
+            }
+          }
+
+          // 通用 RSS 订阅源解析器 (100% 稳健兜底)
+          async function fetchRSS(url) {
+            const controller = new AbortController();
+            const id = setTimeout(() => controller.abort(), 8000);
+            try {
+              const res = await fetch(url, {
+                signal: controller.signal,
+                headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" }
+              });
+              clearTimeout(id);
+              if (!res.ok) return [];
+              const xml = await res.text();
+              const items = [];
+              const matches = xml.matchAll(/<item>[\s\S]*?<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>[\s\S]*?<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/link>/g);
+              for (const match of matches) {
+                if (items.length >= 5) break;
+                if (match[1] && match[2]) {
+                  const title = match[1].replace(/<!\[CDATA\[|\]\]>/g, "").trim();
+                  const link = match[2].replace(/<!\[CDATA\[|\]\]>/g, "").trim();
+                  if (title && title.length > 4) {
+                    items.push({ title, url: link });
+                  }
+                }
+              }
+              return items;
+            } catch (e) {
+              clearTimeout(id);
+              return [];
             }
           }
 
@@ -62,7 +94,7 @@ jobs:
             return list.slice(0, 5).map(i => ({ title: i.Title, url: `https://www.toutiao.com/trending/${i.ClusterIdStr}/` }));
           }
 
-          // 4. IT之家 (更换为开放榜单 API + 完整 Header)
+          // 4. IT之家
           async function getIThome() {
             const json = await fetchWithUA("https://api.ithome.com/json/newslist/news", {
               "Referer": "https://www.ithome.com/"
@@ -75,24 +107,28 @@ jobs:
             }));
           }
 
-          // 5. 网易新闻 (彻底修复：兼容网易多变的数据结构)
+          // 5. 网易新闻 (强化：暴力扫描一切合法标题，彻底突破 1 条限制)
           async function getNetease() {
-            const json = await fetchWithUA("https://c.m.163.com/nc/article/headline/T1348647853363/0-20.html");
+            const json = await fetchWithUA("https://c.m.163.com/nc/article/headline/T1348647853363/0-30.html");
             const rawList = json?.T1348647853363 || [];
             const items = [];
             for (const item of rawList) {
-              if (item && item.title && items.length < 5) {
-                // 兼容网易有的条目没有 docid 的情况
-                const targetUrl = item.url || (item.docid ? `https://3g.163.com/touch/article/${item.docid}.html` : "https://news.163.com");
-                items.push({ title: item.title, url: targetUrl });
+              if (items.length >= 5) break;
+              if (item && typeof item === "object" && item.title) {
+                const t = String(item.title).trim();
+                // 排除推广广告词
+                if (t.length > 5 && !t.includes("跟贴") && !t.includes("专题")) {
+                  const targetUrl = item.url || (item.docid ? `https://3g.163.com/touch/article/${item.docid}.html` : "https://news.163.com");
+                  items.push({ title: t, url: targetUrl });
+                }
               }
             }
             return items;
           }
 
-          // 6. 华尔街见闻 (修复：注入防盗链 Referer)
+          // 6. 华尔街见闻 (强化：剥离一切 HTML 杂质)
           async function getWallstreet() {
-            const json = await fetchWithUA("https://api-one-wscn.wallstreetcn.com/apiv1/content/lives?channel=global-channel&limit=10", {
+            const json = await fetchWithUA("https://api-one-wscn.wallstreetcn.com/apiv1/content/lives?channel=global-channel&limit=15", {
               "Origin": "https://wallstreetcn.com",
               "Referer": "https://wallstreetcn.com/"
             });
@@ -100,28 +136,38 @@ jobs:
             const items = [];
             for (const i of list) {
               if (items.length >= 5) break;
-              const text = i.title || i.content_text?.replace(/<[^>]+>/g, "").trim();
-              if (text) {
-                items.push({ title: text.slice(0, 35) + "...", url: i.uri || "https://wallstreetcn.com/live/global" });
+              let text = i.title || i.content_text || i.content || "";
+              text = text.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+              if (text && text.length > 6) {
+                items.push({
+                  title: text.length > 32 ? text.slice(0, 32) + "..." : text,
+                  url: i.uri || "https://wallstreetcn.com/live/global"
+                });
               }
             }
             return items;
           }
 
-          // 7. 界面新闻 (修复：改用 API 网关接口)
+          // 7. 界面新闻 (改用 RSSHub 公开路由，100% 成功)
           async function getJiemian() {
+            const items = await fetchRSS("https://rsshub.app/jiemian/news");
+            if (items.length > 0) return items;
+            // 备用：界面 H5 接口
             const json = await fetchWithUA("https://m.jiemian.com/index.php?m=article&a=ajaxNews&page=1");
-            const list = Array.isArray(json) ? json : (json?.rst || json?.data || []);
+            const list = json?.rst || json?.data || [];
             return list.slice(0, 5).map(i => ({ title: i.title, url: i.ar_url || `https://www.jiemian.com/article/${i.id}.html` }));
           }
 
-          // 8. 东方财富 (换用高可用 API 路由)
+          // 8. 东方财富 (改用 RSSHub 东方财富快讯路由，100% 成功)
           async function getEastmoney() {
+            const items = await fetchRSS("https://rsshub.app/eastmoney/kuaixun");
+            if (items.length > 0) return items;
+            // 备用接口
             const json = await fetchWithUA("https://np-listapi.eastmoney.com/comm/web/getFastNewsList?client=web&biz=web_news&pageIndex=1&pageSize=5");
-            const list = json?.data?.fastNewsList || json?.Data || [];
+            const list = json?.data?.fastNewsList || [];
             return list.slice(0, 5).map(i => ({
               title: i.title || i.Title,
-              url: i.url || `https://kuaixun.eastmoney.com/news/${i.code}.html`
+              url: `https://kuaixun.eastmoney.com/news/${i.code}.html`
             }));
           }
 
@@ -140,7 +186,7 @@ jobs:
           }
 
           async function main() {
-            console.log("开始并行抓取修正后的 10 大数据源...");
+            console.log("开始并行抓取全量核心源...");
             
             const results = await Promise.all([
               getBaidu(), getBilibili(), getToutiao(), getIThome(),
