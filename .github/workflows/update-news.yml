@@ -55,60 +55,74 @@ jobs:
             return list.slice(0, 5).map(i => ({ title: i.title, url: i.short_link_v2 || i.arcurl || `https://www.bilibili.com/video/${i.bvid}` }));
           }
 
-          // 3. 今日头条热搜 (新增)
+          // 3. 今日头条热搜
           async function getToutiao() {
             const json = await fetchWithUA("https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc");
             const list = json?.data || [];
             return list.slice(0, 5).map(i => ({ title: i.Title, url: `https://www.toutiao.com/trending/${i.ClusterIdStr}/` }));
           }
 
-          // 4. IT之家 (修复：加入 Referer 标头)
+          // 4. IT之家 (更换为开放榜单 API + 完整 Header)
           async function getIThome() {
-            const json = await fetchWithUA("https://m.ithome.com/api/news/getnewslist?type=hotrank", {
-              "Referer": "https://m.ithome.com/"
+            const json = await fetchWithUA("https://api.ithome.com/json/newslist/news", {
+              "Referer": "https://www.ithome.com/"
             });
-            const list = json?.dataList || json?.data || [];
-            return list.slice(0, 5).map(i => ({ title: i.title || i.newsTitle, url: i.url || `https://www.ithome.com/0/${Math.floor(i.newsid/1000)}/${i.newsid}.htm` }));
+            let list = json || [];
+            if (!Array.isArray(list)) list = json?.newslist || [];
+            return list.slice(0, 5).map(i => ({
+              title: i.title,
+              url: i.url || `https://www.ithome.com/0/${Math.floor(i.newsid/1000)}/${i.newsid}.htm`
+            }));
           }
 
-          // 5. 网易新闻 (修复：解析算法优化，提取多条真实新闻)
+          // 5. 网易新闻 (彻底修复：兼容网易多变的数据结构)
           async function getNetease() {
-            const json = await fetchWithUA("https://c.m.163.com/nc/article/headline/T1348647853363/0-30.html");
+            const json = await fetchWithUA("https://c.m.163.com/nc/article/headline/T1348647853363/0-20.html");
             const rawList = json?.T1348647853363 || [];
             const items = [];
             for (const item of rawList) {
-              if (item && item.title && !item.skipType && items.length < 5) {
-                items.push({
-                  title: item.title,
-                  url: item.url || `https://3g.163.com/touch/article/${item.docid}.html`
-                });
+              if (item && item.title && items.length < 5) {
+                // 兼容网易有的条目没有 docid 的情况
+                const targetUrl = item.url || (item.docid ? `https://3g.163.com/touch/article/${item.docid}.html` : "https://news.163.com");
+                items.push({ title: item.title, url: targetUrl });
               }
             }
             return items;
           }
 
-          // 6. 华尔街见闻 (新增核心财经)
+          // 6. 华尔街见闻 (修复：注入防盗链 Referer)
           async function getWallstreet() {
-            const json = await fetchWithUA("https://api-one-wscn.wallstreetcn.com/apiv1/content/lives?channel=global-channel&limit=5");
+            const json = await fetchWithUA("https://api-one-wscn.wallstreetcn.com/apiv1/content/lives?channel=global-channel&limit=10", {
+              "Origin": "https://wallstreetcn.com",
+              "Referer": "https://wallstreetcn.com/"
+            });
             const list = json?.data?.items || [];
-            return list.slice(0, 5).map(i => ({
-              title: i.title || i.content_text?.replace(/<[^>]+>/g, "").slice(0, 30) + "...",
-              url: i.uri || "https://wallstreetcn.com/live/global"
-            }));
+            const items = [];
+            for (const i of list) {
+              if (items.length >= 5) break;
+              const text = i.title || i.content_text?.replace(/<[^>]+>/g, "").trim();
+              if (text) {
+                items.push({ title: text.slice(0, 35) + "...", url: i.uri || "https://wallstreetcn.com/live/global" });
+              }
+            }
+            return items;
           }
 
-          // 7. 界面新闻 (新增核心财经)
+          // 7. 界面新闻 (修复：改用 API 网关接口)
           async function getJiemian() {
-            const json = await fetchWithUA("https://a.jiemian.com/index.php?m=lists&a=ajaxNews&page=1");
-            const list = json?.data?.rst || json?.rst || [];
+            const json = await fetchWithUA("https://m.jiemian.com/index.php?m=article&a=ajaxNews&page=1");
+            const list = Array.isArray(json) ? json : (json?.rst || json?.data || []);
             return list.slice(0, 5).map(i => ({ title: i.title, url: i.ar_url || `https://www.jiemian.com/article/${i.id}.html` }));
           }
 
-          // 8. 东方财富快讯 (新增核心财经)
+          // 8. 东方财富 (换用高可用 API 路由)
           async function getEastmoney() {
-            const json = await fetchWithUA("https://fastcheck.eastmoney.com/api/FastCheck/GetFastNewsList?pageIndex=1&pageSize=5");
-            const list = json?.Data || json?.data || [];
-            return list.slice(0, 5).map(i => ({ title: i.Title || i.title, url: i.Url || "https://kuaixun.eastmoney.com" }));
+            const json = await fetchWithUA("https://np-listapi.eastmoney.com/comm/web/getFastNewsList?client=web&biz=web_news&pageIndex=1&pageSize=5");
+            const list = json?.data?.fastNewsList || json?.Data || [];
+            return list.slice(0, 5).map(i => ({
+              title: i.title || i.Title,
+              url: i.url || `https://kuaixun.eastmoney.com/news/${i.code}.html`
+            }));
           }
 
           // 9. GitHub Trending
@@ -126,7 +140,7 @@ jobs:
           }
 
           async function main() {
-            console.log("开始并行抓取精选黄金源...");
+            console.log("开始并行抓取修正后的 10 大数据源...");
             
             const results = await Promise.all([
               getBaidu(), getBilibili(), getToutiao(), getIThome(),
@@ -148,7 +162,7 @@ jobs:
               }
             });
 
-            console.log("最终成功抓取的源:", Object.keys(finalData).filter(k => k !== "updatedAt"));
+            console.log("最终成功提取的源:", Object.keys(finalData).filter(k => k !== "updatedAt"));
             fs.writeFileSync("./hotnews.json", JSON.stringify(finalData, null, 2));
           }
 
