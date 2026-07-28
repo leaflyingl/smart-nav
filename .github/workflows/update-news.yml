@@ -20,16 +20,14 @@ jobs:
           node -e '
           const fs = require("fs");
 
-          // 通用 fetch 封装 (可自定义 UA)
-          async function fetchWithUA(url, customUA = "", customHeaders = {}) {
+          async function fetchWithUA(url, customHeaders = {}) {
             const controller = new AbortController();
             const id = setTimeout(() => controller.abort(), 8000);
-            const defaultUA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
             try {
               const res = await fetch(url, {
                 signal: controller.signal,
                 headers: {
-                  "User-Agent": customUA || defaultUA,
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
                   "Accept": "application/json, text/plain, */*",
                   ...customHeaders
                 }
@@ -43,39 +41,9 @@ jobs:
             }
           }
 
-          // 通用 RSS 订阅源解析器
-          async function fetchRSS(url) {
-            const controller = new AbortController();
-            const id = setTimeout(() => controller.abort(), 8000);
-            try {
-              const res = await fetch(url, {
-                signal: controller.signal,
-                headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" }
-              });
-              clearTimeout(id);
-              if (!res.ok) return [];
-              const xml = await res.text();
-              const items = [];
-              const matches = xml.matchAll(/<item>[\s\S]*?<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>[\s\S]*?<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/link>/g);
-              for (const match of matches) {
-                if (items.length >= 5) break;
-                if (match[1] && match[2]) {
-                  items.push({ title: match[1].trim(), url: match[2].trim() });
-                }
-              }
-              return items;
-            } catch (e) {
-              clearTimeout(id);
-              return [];
-            }
-          }
-
-          // --- 抓取逻辑 ---
-
-          // 1. 百度热搜 (修复：恢复 PC 端 UA 确保正常返回)
+          // 1. 百度热搜
           async function getBaidu() {
-            const PC_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
-            const json = await fetchWithUA("https://top.baidu.com/api/board?tab=realtime", PC_UA);
+            const json = await fetchWithUA("https://top.baidu.com/api/board?tab=realtime");
             const list = json?.data?.cards?.[0]?.content || [];
             return list.slice(0, 5).map(i => ({ title: i.word, url: i.url || `https://www.baidu.com/s?wd=${encodeURIComponent(i.word)}` }));
           }
@@ -87,96 +55,89 @@ jobs:
             return list.slice(0, 5).map(i => ({ title: i.title, url: i.short_link_v2 || i.arcurl || `https://www.bilibili.com/video/${i.bvid}` }));
           }
 
-          // 3. IT之家
+          // 3. 今日头条热搜 (新增)
+          async function getToutiao() {
+            const json = await fetchWithUA("https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc");
+            const list = json?.data || [];
+            return list.slice(0, 5).map(i => ({ title: i.Title, url: `https://www.toutiao.com/trending/${i.ClusterIdStr}/` }));
+          }
+
+          // 4. IT之家 (修复：加入 Referer 标头)
           async function getIThome() {
-            const json = await fetchWithUA("https://m.ithome.com/api/news/getnewslist?type=hotrank");
+            const json = await fetchWithUA("https://m.ithome.com/api/news/getnewslist?type=hotrank", {
+              "Referer": "https://m.ithome.com/"
+            });
             const list = json?.dataList || json?.data || [];
             return list.slice(0, 5).map(i => ({ title: i.title || i.newsTitle, url: i.url || `https://www.ithome.com/0/${Math.floor(i.newsid/1000)}/${i.newsid}.htm` }));
           }
 
-          // 4. 网易新闻 (修复：过滤纯文章条目，多提取 Top 5)
+          // 5. 网易新闻 (修复：解析算法优化，提取多条真实新闻)
           async function getNetease() {
-            const json = await fetchWithUA("https://c.m.163.com/nc/article/headline/T1348647853363/0-20.html");
-            const list = json?.T1348647853363 || [];
-            return list.filter(i => i && i.title && i.docid).slice(0, 5).map(i => ({
-              title: i.title,
-              url: i.url || `https://3g.163.com/touch/article/${i.docid}.html`
+            const json = await fetchWithUA("https://c.m.163.com/nc/article/headline/T1348647853363/0-30.html");
+            const rawList = json?.T1348647853363 || [];
+            const items = [];
+            for (const item of rawList) {
+              if (item && item.title && !item.skipType && items.length < 5) {
+                items.push({
+                  title: item.title,
+                  url: item.url || `https://3g.163.com/touch/article/${item.docid}.html`
+                });
+              }
+            }
+            return items;
+          }
+
+          // 6. 华尔街见闻 (新增核心财经)
+          async function getWallstreet() {
+            const json = await fetchWithUA("https://api-one-wscn.wallstreetcn.com/apiv1/content/lives?channel=global-channel&limit=5");
+            const list = json?.data?.items || [];
+            return list.slice(0, 5).map(i => ({
+              title: i.title || i.content_text?.replace(/<[^>]+>/g, "").slice(0, 30) + "...",
+              url: i.uri || "https://wallstreetcn.com/live/global"
             }));
           }
 
-          // 5. 财联社 (引入免封备用节点)
-          async function getCls() {
-            let json = await fetchWithUA("https://m.cls.cn/v1/roll/get_roll_list?app=cstate&os=android");
-            let list = json?.data?.roll_data || json?.data || [];
-            if (!list.length) {
-              json = await fetchWithUA("https://api.vvhan.com/api/hotlist/cls");
-              list = json?.data || [];
-              return list.slice(0, 5).map(i => ({ title: i.title, url: i.url }));
-            }
-            return list.slice(0, 5).map(i => ({ title: i.title || i.content, url: "https://www.cls.cn/telegraph" }));
+          // 7. 界面新闻 (新增核心财经)
+          async function getJiemian() {
+            const json = await fetchWithUA("https://a.jiemian.com/index.php?m=lists&a=ajaxNews&page=1");
+            const list = json?.data?.rst || json?.rst || [];
+            return list.slice(0, 5).map(i => ({ title: i.title, url: i.ar_url || `https://www.jiemian.com/article/${i.id}.html` }));
           }
 
-          // 6. 雪球热帖 (引入免封备份 API)
-          async function getXueqiu() {
-            const json = await fetchWithUA("https://api.vvhan.com/api/hotlist/xueqiu");
-            const list = json?.data || [];
-            if (list.length) {
-              return list.slice(0, 5).map(i => ({ title: i.title, url: i.url }));
-            }
-            return [];
+          // 8. 东方财富快讯 (新增核心财经)
+          async function getEastmoney() {
+            const json = await fetchWithUA("https://fastcheck.eastmoney.com/api/FastCheck/GetFastNewsList?pageIndex=1&pageSize=5");
+            const list = json?.Data || json?.data || [];
+            return list.slice(0, 5).map(i => ({ title: i.Title || i.title, url: i.Url || "https://kuaixun.eastmoney.com" }));
           }
 
-          // 7. GitHub Trending
+          // 9. GitHub Trending
           async function getGithub() {
             const json = await fetchWithUA("https://api.github.com/search/repositories?q=created:>2026-01-01&sort=stars&order=desc&per_page=5");
             const list = json?.items || [];
             return list.slice(0, 5).map(i => ({ title: `${i.full_name}: ${i.description || "无描述"}`, url: i.html_url }));
           }
 
-          // 8. Hugging Face
+          // 10. Hugging Face
           async function getHuggingFace() {
             const json = await fetchWithUA("https://huggingface.co/api/models?sort=downloads&direction=-1&limit=5");
             const list = Array.isArray(json) ? json : [];
             return list.map(i => ({ title: `Model: ${i.id}`, url: `https://huggingface.co/${i.id}` }));
           }
 
-          // 9. 澎湃新闻
-          async function getThePaper() {
-            return await fetchRSS("https://www.thepaper.cn/rss.jsp");
-          }
-
-          // 10. 凤凰新闻
-          async function getIfeng() {
-            return await fetchRSS("https://news.ifeng.com/rss/index.xml");
-          }
-
-          // 11. 微信读书
-          async function getWeread() {
-            const json = await fetchWithUA("https://weread.qq.com/web/bookListByCategoryId?categoryId=rising&maxIndex=5");
-            const list = json?.books || [];
-            return list.slice(0, 5).map(i => ({ title: `${i.bookInfo?.title} - ${i.bookInfo?.author}`, url: `https://weread.qq.com/web/bookDetail/${i.bookInfo?.bookId}` }));
-          }
-
-          // 12. 新浪热点
-          async function getSina() {
-            const json = await fetchWithUA("https://news.sina.com.cn/project/fdd/index/top_news.json");
-            const list = json?.data || [];
-            return list.slice(0, 5).map(i => ({ title: i.title, url: i.url }));
-          }
-
           async function main() {
-            console.log("开始抓取全量核心源...");
+            console.log("开始并行抓取精选黄金源...");
             
             const results = await Promise.all([
-              getBaidu(), getBilibili(), getIThome(), getNetease(),
-              getCls(), getXueqiu(), getGithub(), getHuggingFace(),
-              getThePaper(), getIfeng(), getWeread(), getSina()
+              getBaidu(), getBilibili(), getToutiao(), getIThome(),
+              getNetease(), getWallstreet(), getJiemian(), getEastmoney(),
+              getGithub(), getHuggingFace()
             ]);
 
             const keys = [
-              "baidu", "bilibili", "ithome", "netease",
-              "cls", "xueqiu", "github", "huggingface",
-              "thepaper", "ifeng", "weread", "sina"
+              "baidu", "bilibili", "toutiao", "ithome",
+              "netease", "wallstreet", "jiemian", "eastmoney",
+              "github", "huggingface"
             ];
             
             const finalData = { updatedAt: new Date().toISOString() };
@@ -187,7 +148,7 @@ jobs:
               }
             });
 
-            console.log("最终成功提取的源:", Object.keys(finalData).filter(k => k !== "updatedAt"));
+            console.log("最终成功抓取的源:", Object.keys(finalData).filter(k => k !== "updatedAt"));
             fs.writeFileSync("./hotnews.json", JSON.stringify(finalData, null, 2));
           }
 
