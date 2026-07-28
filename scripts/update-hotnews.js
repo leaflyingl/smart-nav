@@ -22,7 +22,7 @@ async function fetchWithUA(url, customHeaders = {}, retries = 3) {
     } catch (e) {
       clearTimeout(id);
       if (attempt === retries) return null;
-      await new Promise(r => setTimeout(r, 2000 * (attempt + 1)));
+      await new Promise(r => setTimeout(r, 2000));
     }
   }
   return null;
@@ -30,60 +30,63 @@ async function fetchWithUA(url, customHeaders = {}, retries = 3) {
 
 // ==================== 数据源 ====================
 
-async function getBaidu() { /* 保持不变 */ 
+async function getBaidu() {
   const json = await fetchWithUA("https://top.baidu.com/api/board?tab=realtime");
   const list = json?.data?.cards?.[0]?.content || [];
   return list.slice(0, 5).map(i => ({ title: i.word, url: i.url || `https://www.baidu.com/s?wd=${encodeURIComponent(i.word)}` }));
 }
 
-async function getBilibili() { /* 已优化 */ 
+async function getBilibili() {
   const json = await fetchWithUA("https://api.bilibili.com/x/web-interface/popular?ps=10&pn=1", {"Referer": "https://www.bilibili.com/"});
   const list = json?.data?.list || [];
   return list.slice(0, 5).map(i => ({ title: i.title, url: i.short_link_v2 || `https://www.bilibili.com/video/${i.bvid}` }));
 }
 
-async function getToutiao() { /* 保持 */ 
+async function getToutiao() {
   const json = await fetchWithUA("https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc");
   const list = json?.data || [];
   return list.slice(0, 5).map(i => ({ title: i.Title, url: `https://www.toutiao.com/trending/${i.ClusterIdStr}/` }));
 }
 
-async function getIThome() { /* 保持 */ 
+async function getIThome() {
   const json = await fetchWithUA("https://api.ithome.com/json/newslist/news", {"Referer": "https://www.ithome.com/"});
   let list = Array.isArray(json) ? json : (json?.newslist || []);
   return list.slice(0, 5).map(i => ({ title: i.title, url: i.url }));
 }
 
-async function getNetease() {
-  const json = await fetchWithUA("https://c.m.163.com/nc/article/headline/T1348647853363/0-40.html");
-  const rawList = json?.T1348647853363 || [];
-  const items = [];
-  for (const item of rawList) {
-    if (item?.title && items.length < 5 && item.title.length > 8) {
-      const url = item.url || (item.docid ? `https://3g.163.com/touch/article/${item.docid}.html` : null);
-      if (url) items.push({ title: item.title.trim(), url });
-    }
-  }
-  return items.length ? items : [{title: "网易头条", url: "https://news.163.com"}];
+async function getXueqiu() {
+  const json = await fetchWithUA("https://xueqiu.com/v4/statuses/public_timeline.json?count=10");
+  const list = json?.items || [];
+  return list.slice(0, 5).map(i => ({
+    title: i.title || (i.text || "").slice(0, 50),
+    url: `https://xueqiu.com${i.target || ''}`
+  })).filter(i => i.title.length > 5);
 }
 
-async function getSinaFinance() {
-  return [{ title: "新浪财经 7x24 直播", url: "https://finance.sina.com.cn/7x24/" }];
+async function get36kr() {
+  const json = await fetchWithUA("https://api.36kr.com/v1/article/latest?per_page=5");
+  const list = json?.data?.items || [];
+  return list.slice(0, 5).map(i => ({
+    title: i.title,
+    url: `https://36kr.com/p/${i.id}`
+  }));
 }
 
-async function getGithub() { /* 保持 */ 
+async function getGithub() {
   const json = await fetchWithUA("https://api.github.com/search/repositories?q=created:>2025-01-01&sort=stars&order=desc&per_page=5");
   const list = json?.items || [];
-  return list.slice(0,5).map(i => ({ title: `${i.full_name}: ${i.description?.slice(0,60) || ""}`, url: i.html_url }));
+  return list.slice(0, 5).map(i => ({ title: `${i.full_name}: ${i.description || "无描述"}`, url: i.html_url }));
 }
 
-async function getHuggingFace() { /* 保持 */ 
+async function getHuggingFace() {
   const json = await fetchWithUA("https://huggingface.co/api/models?sort=downloads&direction=-1&limit=5");
-  return (Array.isArray(json) ? json : []).slice(0,5).map(i => ({ title: `Model: ${i.id}`, url: `https://huggingface.co/${i.id}` }));
+  const list = Array.isArray(json) ? json : [];
+  return list.slice(0,5).map(i => ({ title: `Model: ${i.id}`, url: `https://huggingface.co/${i.id}` }));
 }
 
-async function getTonghuashun() {
-  return [{ title: "同花顺 7x24 实时快讯", url: "https://news.10jqka.com.cn/realtimenews.html" }];
+// 占位（防止空卡片）
+async function getPlaceholder(name, url) {
+  return [{ title: `${name} 实时资讯`, url }];
 }
 
 async function main() {
@@ -91,15 +94,17 @@ async function main() {
 
   const results = await Promise.all([
     getBaidu(), getBilibili(), getToutiao(), getIThome(),
-    getNetease(), getSinaFinance(), getGithub(), getHuggingFace(), getTonghuashun()
+    getXueqiu(), get36kr(), getGithub(), getHuggingFace()
   ]);
 
-  const keys = ["baidu", "bilibili", "toutiao", "ithome", "netease", "sinafinance", "github", "huggingface", "tonghuashun"];
+  const keys = ["baidu", "bilibili", "toutiao", "ithome", "xueqiu", "36kr", "github", "huggingface"];
 
   const finalData = { updatedAt: new Date().toISOString() };
-  keys.forEach((key, i) => {
-    if (Array.isArray(results[i]) && results[i].length > 0) {
-      finalData[key] = results[i];
+
+  keys.forEach((key, index) => {
+    const data = results[index];
+    if (Array.isArray(data) && data.length > 0) {
+      finalData[key] = data;
     }
   });
 
@@ -107,4 +112,4 @@ async function main() {
   console.log("更新完成！包含源:", Object.keys(finalData).filter(k => k !== "updatedAt"));
 }
 
-main().catch(err => console.error(err));
+main().catch(err => console.error("执行出错:", err));
