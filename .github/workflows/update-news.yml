@@ -28,7 +28,7 @@ jobs:
               const res = await fetch(url, {
                 signal: controller.signal,
                 headers: {
-                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
                   "Accept": "application/json, text/plain, */*",
                   ...customHeaders
                 }
@@ -42,14 +42,14 @@ jobs:
             }
           }
 
-          // 通用 RSS 订阅源解析器
+          // 通用 RSS 订阅源解析器 (含 RSSHub 兼容)
           async function fetchRSS(url) {
             const controller = new AbortController();
             const id = setTimeout(() => controller.abort(), 8000);
             try {
               const res = await fetch(url, {
                 signal: controller.signal,
-                headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" }
+                headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" }
               });
               clearTimeout(id);
               if (!res.ok) return [];
@@ -69,7 +69,7 @@ jobs:
             }
           }
 
-          // --- 16 大数据源抓取逻辑 ---
+          // --- 14 大核心数据源抓取逻辑 (引入 RSSHub / 移动端接口) ---
 
           // 1. 百度热搜
           async function getBaidu() {
@@ -92,29 +92,33 @@ jobs:
             return list.slice(0, 5).map(i => ({ title: i.title || i.newsTitle, url: i.url || `https://www.ithome.com/0/${Math.floor(i.newsid/1000)}/${i.newsid}.htm` }));
           }
 
-          // 4. 财联社 (财经)
+          // 4. 财联社 (移动端 H5 接口)
           async function getCls() {
-            const json = await fetchWithUA("https://www.cls.cn/v1/roll/get_roll_list?app=Cstate&os=android");
+            const json = await fetchWithUA("https://m.cls.cn/v1/roll/get_roll_list?app=cstate&os=android");
             const list = json?.data?.roll_data || json?.data || [];
             return list.slice(0, 5).map(i => ({ title: i.title || i.content, url: "https://www.cls.cn/telegraph" }));
           }
 
-          // 5. 格隆汇 (财经)
+          // 5. 格隆汇 (RSSHub 优化节点)
           async function getGelonghui() {
+            const items = await fetchRSS("https://rsshub.app/gelonghui/home");
+            if (items.length > 0) return items;
             const json = await fetchWithUA("https://www.gelonghui.com/api/post/v2/promotes/article/web");
             const list = json?.result || json?.data || [];
             return list.slice(0, 5).map(i => ({ title: i.title, url: `https://www.gelonghui.com/p/${i.id}` }));
           }
 
-          // 6. 证券时报 (财经)
+          // 6. 证券时报 (移动端接口)
           async function getStcn() {
             const json = await fetchWithUA("https://news.stcn.com/val/data/json/index/express.json");
             const list = Array.isArray(json) ? json : (json?.data || []);
             return list.slice(0, 5).map(i => ({ title: i.title, url: i.url || "https://www.stcn.com" }));
           }
 
-          // 7. 雪球 (财经)
+          // 7. 雪球 (RSSHub 镜像)
           async function getXueqiu() {
+            const items = await fetchRSS("https://rsshub.app/xueqiu/today");
+            if (items.length > 0) return items;
             const json = await fetchWithUA("https://xueqiu.com/v4/statuses/public_timeline_by_category.json?category=-1", {
               "Referer": "https://xueqiu.com"
             });
@@ -144,36 +148,26 @@ jobs:
             return await fetchRSS("https://www.thepaper.cn/rss.jsp");
           }
 
-          // 11. 联合早报 (RSS)
-          async function getZaobao() {
-            return await fetchRSS("https://www.zaobao.com.sg/realtime/china/rss.xml");
-          }
-
-          // 12. BBC 中文 (RSS)
-          async function getBBC() {
-            return await fetchRSS("https://feeds.bbci.co.uk/zhongwen/simp/rss.xml");
-          }
-
-          // 13. 凤凰网 (RSS)
+          // 11. 凤凰新闻 (RSS)
           async function getIfeng() {
             return await fetchRSS("https://news.ifeng.com/rss/index.xml");
           }
 
-          // 14. 网易新闻
+          // 12. 网易新闻
           async function getNetease() {
             const json = await fetchWithUA("https://c.m.163.com/nc/article/headline/T1348647853363/0-10.html");
             const list = json?.T1348647853363 || [];
             return list.slice(0, 5).map(i => ({ title: i.title, url: i.url || `https://3g.163.com/touch/article/${i.docid}.html` }));
           }
 
-          // 15. 微信读书
+          // 13. 微信读书
           async function getWeread() {
             const json = await fetchWithUA("https://weread.qq.com/web/bookListByCategoryId?categoryId=rising&maxIndex=5");
             const list = json?.books || [];
             return list.slice(0, 5).map(i => ({ title: `${i.bookInfo?.title} - ${i.bookInfo?.author}`, url: `https://weread.qq.com/web/bookDetail/${i.bookInfo?.bookId}` }));
           }
 
-          // 16. 新浪热点
+          // 14. 新浪热点
           async function getSina() {
             const json = await fetchWithUA("https://news.sina.com.cn/project/fdd/index/top_news.json");
             const list = json?.data || [];
@@ -181,20 +175,20 @@ jobs:
           }
 
           async function main() {
-            console.log("开始并行抓取 16 个核心数据源...");
+            console.log("开始并行抓取 14 个核心数据源...");
             
             const results = await Promise.all([
               getBaidu(), getBilibili(), getIThome(), getCls(),
               getGelonghui(), getStcn(), getXueqiu(), getGithub(),
-              getHuggingFace(), getThePaper(), getZaobao(), getBBC(),
-              getIfeng(), getNetease(), getWeread(), getSina()
+              getHuggingFace(), getThePaper(), getIfeng(), getNetease(),
+              getWeread(), getSina()
             ]);
 
             const keys = [
               "baidu", "bilibili", "ithome", "cls", 
               "gelonghui", "stcn", "xueqiu", "github", 
-              "huggingface", "thepaper", "zaobao", "bbc",
-              "ifeng", "netease", "weread", "sina"
+              "huggingface", "thepaper", "ifeng", "netease", 
+              "weread", "sina"
             ];
             
             const finalData = { updatedAt: new Date().toISOString() };
