@@ -363,7 +363,7 @@
         };
 
 
-// 16 大数据源样式、中文名称与图标的对应映射
+// 16 大数据源映射配置
 const SOURCE_META = {
     baidu: { name: '百度热搜', icon: 'fa-search text-blue-400' },
     bilibili: { name: '哔哩哔哩', icon: 'fa-tv text-pink-400' },
@@ -376,14 +376,12 @@ const SOURCE_META = {
     huggingface: { name: 'Hugging Face', icon: 'fa-brain text-yellow-400' },
     thepaper: { name: '澎湃新闻', icon: 'fa-paper-plane text-cyan-400' },
     zaobao: { name: '联合早报', icon: 'fa-globe text-emerald-400' },
-    bbc: { name: 'BBC 新闻', icon: 'fa-broadcast-tower text-red-600' },
     ifeng: { name: '凤凰新闻', icon: 'fa-feather text-red-500' },
     netease: { name: '网易新闻', icon: 'fa-paper-plane text-red-600' },
     weread: { name: '微信读书', icon: 'fa-book text-emerald-400' },
     sina: { name: '新浪热点', icon: 'fa-eye text-amber-500' }
 };
 
-// 避免 HTML 字符注入
 function escapeHtml(str) {
     if (!str) return '';
     return String(str)
@@ -398,13 +396,12 @@ async function renderHorizontalHotNews() {
     if (!container) return;
 
     try {
-        // 请求 JSON 数据，增加时间戳防止浏览器强缓存
         const res = await fetch('./hotnews.json?t=' + Date.now());
         if (!res.ok) throw new Error('hotnews.json 未就绪');
         
         const newsMap = await res.json();
         
-        // 核心过滤：只保留请求成功且数组长度 > 0 的有效源
+        // 过滤出有数据的源
         const validSources = Object.keys(newsMap).filter(key => {
             return key !== 'updatedAt' && Array.isArray(newsMap[key]) && newsMap[key].length > 0;
         });
@@ -414,13 +411,13 @@ async function renderHorizontalHotNews() {
             return;
         }
 
-        // 仅对有效源生成 UI 卡片
+        // 渲染卡片
         container.innerHTML = validSources.map(key => {
             const meta = SOURCE_META[key] || { name: key.toUpperCase(), icon: 'fa-fire text-amber-400' };
             const items = newsMap[key];
 
             return `
-                <div class="snap-start flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300">
+                <div class="snap-start flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300 select-none">
                     <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30">
                         <span class="text-xs font-bold text-slate-200 flex items-center gap-1.5 truncate">
                             <i class="fas ${meta.icon} text-xs"></i> <span class="truncate">${escapeHtml(meta.name)}</span>
@@ -430,7 +427,7 @@ async function renderHorizontalHotNews() {
                     <ul class="space-y-2 text-[11px]">
                         ${items.map((item, idx) => `
                             <li class="truncate hover:text-indigo-300 transition-colors">
-                                <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2" title="${escapeHtml(item.title)}">
+                                <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2 drag-link" title="${escapeHtml(item.title)}">
                                     <span class="font-bold text-[10px] ${idx < 3 ? 'text-amber-400' : 'text-slate-500'} w-3 shrink-0">${idx + 1}</span>
                                     <span class="truncate text-slate-300 hover:text-indigo-300 text-[11px]">${escapeHtml(item.title)}</span>
                                 </a>
@@ -441,9 +438,60 @@ async function renderHorizontalHotNews() {
             `;
         }).join('');
 
+        // 绑定鼠标拖拽滑动逻辑
+        enableDragScroll(container);
+
     } catch (err) {
         console.error('渲染热榜失败:', err);
     }
+}
+
+// 🖱️ 实现鼠标按住左键拖拽平滑滚动
+function enableDragScroll(slider) {
+    let isDown = false;
+    let startX;
+    let scrollLeft;
+    let isDragging = false;
+
+    slider.style.cursor = 'grab';
+
+    slider.addEventListener('mousedown', (e) => {
+        isDown = true;
+        isDragging = false;
+        slider.style.cursor = 'grabbing';
+        startX = e.pageX - slider.offsetLeft;
+        scrollLeft = slider.scrollLeft;
+    });
+
+    slider.addEventListener('mouseleave', () => {
+        isDown = false;
+        slider.style.cursor = 'grab';
+    });
+
+    slider.addEventListener('mouseup', () => {
+        isDown = false;
+        slider.style.cursor = 'grab';
+    });
+
+    slider.addEventListener('mousemove', (e) => {
+        if (!isDown) return;
+        e.preventDefault();
+        const x = e.pageX - slider.offsetLeft;
+        const walk = (x - startX) * 1.5; // 拖拽灵敏度乘以 1.5
+        if (Math.abs(walk) > 5) {
+            isDragging = true; // 判定为拖拽而不是点击
+        }
+        slider.scrollLeft = scrollLeft - walk;
+    });
+
+    // 防止拖拽松开时误触发链接点击
+    slider.querySelectorAll('.drag-link').forEach(link => {
+        link.addEventListener('click', (e) => {
+            if (isDragging) {
+                e.preventDefault();
+            }
+        });
+    });
 }
 
 document.addEventListener('DOMContentLoaded', renderHorizontalHotNews);
