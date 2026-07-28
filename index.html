@@ -363,7 +363,7 @@
         };
 
 
-// 16 大数据源映射配置
+// 14 大数据源映射配置 (已移除 BBC 和 联合早报)
 const SOURCE_META = {
     baidu: { name: '百度热搜', icon: 'fa-search text-blue-400' },
     bilibili: { name: '哔哩哔哩', icon: 'fa-tv text-pink-400' },
@@ -375,7 +375,6 @@ const SOURCE_META = {
     github: { name: 'GitHub Trending', icon: 'fa-code-branch text-purple-400' },
     huggingface: { name: 'Hugging Face', icon: 'fa-brain text-yellow-400' },
     thepaper: { name: '澎湃新闻', icon: 'fa-paper-plane text-cyan-400' },
-    zaobao: { name: '联合早报', icon: 'fa-globe text-emerald-400' },
     ifeng: { name: '凤凰新闻', icon: 'fa-feather text-red-500' },
     netease: { name: '网易新闻', icon: 'fa-paper-plane text-red-600' },
     weread: { name: '微信读书', icon: 'fa-book text-emerald-400' },
@@ -401,7 +400,7 @@ async function renderHorizontalHotNews() {
         
         const newsMap = await res.json();
         
-        // 过滤出有数据的源
+        // 动态过滤无数据的源
         const validSources = Object.keys(newsMap).filter(key => {
             return key !== 'updatedAt' && Array.isArray(newsMap[key]) && newsMap[key].length > 0;
         });
@@ -411,13 +410,13 @@ async function renderHorizontalHotNews() {
             return;
         }
 
-        // 渲染卡片
+        // 渲染卡片 (注意：移除容易导致鼠标滑动阻断的 snap-start 类)
         container.innerHTML = validSources.map(key => {
             const meta = SOURCE_META[key] || { name: key.toUpperCase(), icon: 'fa-fire text-amber-400' };
             const items = newsMap[key];
 
             return `
-                <div class="snap-start flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300 select-none">
+                <div class="flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300 select-none">
                     <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30">
                         <span class="text-xs font-bold text-slate-200 flex items-center gap-1.5 truncate">
                             <i class="fas ${meta.icon} text-xs"></i> <span class="truncate">${escapeHtml(meta.name)}</span>
@@ -438,7 +437,7 @@ async function renderHorizontalHotNews() {
             `;
         }).join('');
 
-        // 绑定鼠标拖拽滑动逻辑
+        // 激活鼠标按住拖拽
         enableDragScroll(container);
 
     } catch (err) {
@@ -446,51 +445,53 @@ async function renderHorizontalHotNews() {
     }
 }
 
-// 🖱️ 实现鼠标按住左键拖拽平滑滚动
+// 🖱️ 重构：全局精准鼠标拖拽滑动逻辑
 function enableDragScroll(slider) {
     let isDown = false;
     let startX;
     let scrollLeft;
-    let isDragging = false;
+    let dragged = false;
 
     slider.style.cursor = 'grab';
 
-    slider.addEventListener('mousedown', (e) => {
+    slider.onmousedown = (e) => {
         isDown = true;
-        isDragging = false;
+        dragged = false;
         slider.style.cursor = 'grabbing';
         startX = e.pageX - slider.offsetLeft;
         scrollLeft = slider.scrollLeft;
-    });
+    };
 
-    slider.addEventListener('mouseleave', () => {
+    slider.onmouseleave = () => {
         isDown = false;
         slider.style.cursor = 'grab';
-    });
+    };
 
-    slider.addEventListener('mouseup', () => {
+    slider.onmouseup = () => {
         isDown = false;
         slider.style.cursor = 'grab';
-    });
+    };
 
-    slider.addEventListener('mousemove', (e) => {
+    slider.onmousemove = (e) => {
         if (!isDown) return;
         e.preventDefault();
         const x = e.pageX - slider.offsetLeft;
-        const walk = (x - startX) * 1.5; // 拖拽灵敏度乘以 1.5
+        const walk = (x - startX) * 1.8; // 增加滑动灵敏度
         if (Math.abs(walk) > 5) {
-            isDragging = true; // 判定为拖拽而不是点击
+            dragged = true; // 判断用户确实在拖拽，避免触发跳转
         }
         slider.scrollLeft = scrollLeft - walk;
-    });
+    };
 
-    // 防止拖拽松开时误触发链接点击
-    slider.querySelectorAll('.drag-link').forEach(link => {
-        link.addEventListener('click', (e) => {
-            if (isDragging) {
+    // 拖拽时阻断 link 默认跳转，仅单击时正常跳转
+    const links = slider.querySelectorAll('.drag-link');
+    links.forEach(link => {
+        link.onclick = (e) => {
+            if (dragged) {
                 e.preventDefault();
+                e.stopPropagation();
             }
-        });
+        };
     });
 }
 
