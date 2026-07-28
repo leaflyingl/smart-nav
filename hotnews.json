@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T21:11:26.695Z",
+  "updatedAt": "2026-07-28T22:34:34.840Z",
   "baidu": [
     {
       "title": "2.87亿人感染！肝脏保卫战进入关键期",
@@ -40,8 +40,8 @@
       "url": "https://b23.tv/BV1cggC6QE1T"
     },
     {
-      "title": "【苏新皓｜4K直拍】囍 直拍｜梦寐以求·演唱会",
-      "url": "https://b23.tv/BV1Dx3i6nEm8"
+      "title": "锅已就位",
+      "url": "https://b23.tv/BV1Qy3v6JEiq"
     }
   ],
   "toutiao": [
@@ -94,7 +94,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "退货千万不要提前给取件码",
+      "title": "印度成首个被AI做空的国家",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -102,11 +102,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "印度成首个被AI做空的国家",
+      "title": "日本坍塌购物中心多人确认死亡",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "蜘蛛侠",
+      "title": "原来这就是英语思维",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -130,28 +130,6 @@
     {
       "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    }
-  ],
-  "huggingface": [
-    {
-      "title": "Model: sentence-transformers/all-MiniLM-L6-v2",
-      "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
-    },
-    {
-      "title": "Model: google-bert/bert-base-uncased",
-      "url": "https://huggingface.co/google-bert/bert-base-uncased"
-    },
-    {
-      "title": "Model: cross-encoder/ms-marco-MiniLM-L6-v2",
-      "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2"
-    },
-    {
-      "title": "Model: BAAI/bge-small-en-v1.5",
-      "url": "https://huggingface.co/BAAI/bge-small-en-v1.5"
-    },
-    {
-      "title": "Model: google/electra-base-discriminator",
-      "url": "https://huggingface.co/google/electra-base-discriminator"
     }
   ]
 }
