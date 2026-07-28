@@ -5,7 +5,6 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
-# 显式赋予写权限，解决 Exit Code 128 报错
 permissions:
   contents: write
 
@@ -21,31 +20,41 @@ jobs:
           node -e '
           const fs = require("fs");
 
-          async function fetchNews(type) {
+          async function fetchNews(url) {
             try {
-              const res = await fetch(`https://api.vvhan.com/api/hotlist/${type}`);
+              const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" } });
               const json = await res.json();
+              
+              // 兼容 TenApi (code: 200, data: [])
+              if (json.code === 200 && Array.isArray(json.data)) {
+                return json.data.slice(0, 5).map(i => ({
+                  title: i.name || i.title || "最新热点",
+                  url: i.url || i.link || "#"
+                }));
+              }
+              // 兼容 Vvhan (success: true, data: [])
               if (json.success && Array.isArray(json.data)) {
                 return json.data.slice(0, 5).map(i => ({
-                  title: i.title || i.name || "最新资讯",
+                  title: i.title || i.name || "最新热点",
                   url: i.url || i.link || "#"
                 }));
               }
             } catch (e) {
-              console.error(`Fetch ${type} error:`, e);
+              console.error(`Fetch error for ${url}:`, e.message);
             }
             return [];
           }
 
           async function main() {
             const data = {
-              baidu: await fetchNews("baidu"),
-              weibo: await fetchNews("weibo"),
-              bilibili: await fetchNews("bilibili"),
+              baidu: await fetchNews("https://tenapi.cn/v2/baiduhot"),
+              weibo: await fetchNews("https://tenapi.cn/v2/weibohot"),
+              bilibili: await fetchNews("https://tenapi.cn/v2/bilibilihot"),
               updatedAt: new Date().toISOString()
             };
+
+            console.log("抓取到的数据预览:", JSON.stringify(data, null, 2));
             fs.writeFileSync("./hotnews.json", JSON.stringify(data, null, 2));
-            console.log("hotnews.json updated successfully!");
           }
 
           main();
