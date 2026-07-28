@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-28T08:39:54.534Z",
+  "updatedAt": "2026-07-28T09:22:30.143Z",
   "baidu": [
     {
-      "title": "日本熊本县附近发生7.1级地震",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "日本熊本县发生7.1级地震 余震不断",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%BD%99%E9%9C%87%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "“全款买房”的人在变多",
@@ -28,42 +28,42 @@
       "url": "https://www.toutiao.com/trending/7667479822087491091/"
     },
     {
-      "title": "全球市场暴跌原因找到了",
-      "url": "https://www.toutiao.com/trending/7666615326374248502/"
+      "title": "“老虎”段成刚贪1.44亿被判无期",
+      "url": "https://www.toutiao.com/trending/7667501205152599595/"
     },
     {
       "title": "中国新新三样全球圈粉",
       "url": "https://www.toutiao.com/trending/7666712707080503305/"
     },
     {
-      "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
-      "url": "https://www.toutiao.com/trending/7667434242044936238/"
+      "title": "全球市场暴跌原因找到了",
+      "url": "https://www.toutiao.com/trending/7666615326374248502/"
     },
     {
-      "title": "尹锡悦当选韩国总统或无效",
-      "url": "https://www.toutiao.com/trending/7667146044668562971/"
+      "title": "日本地震 杭州上海江苏有震感",
+      "url": "https://www.toutiao.com/trending/7667478428581625862/"
     }
   ],
   "ithome": [
     {
-      "title": "KTC 推出“棱镜 Q27 Plus”27 英寸显示器：2K 275Hz + 双扬，999 元",
-      "url": "/0/982/625.htm"
+      "title": "消息称亚马逊大规模调整 AI 战略，集中资源攻坚前沿大模型",
+      "url": "/0/982/676.htm"
     },
     {
-      "title": "兰博基尼 Urus SE 士官长联名款亮相，涂装将上线《极限竞速：地平线 6》",
-      "url": "/0/982/624.htm"
+      "title": "24 小时留香无惧汗味：清扬男士清爽沐浴露 14 元 / 斤商超半价 1 天 3 洗不心疼",
+      "url": "https://lapin.ithome.com/html/digi/982675.htm"
     },
     {
-      "title": "2026 年《财富》世界 500 强排行榜揭晓：亚马逊终结沃尔玛 12 年领跑纪录，谷歌母公司全球利润第一",
-      "url": "/0/982/623.htm"
+      "title": "京东物流宣布全国首创“无人车 + 地铁”同城配送新模式，用户可提前半天收货",
+      "url": "/0/982/674.htm"
     },
     {
-      "title": "华为 MatePad 系列平板“教育空间”适配进度更新，月底前还将支持 6 款机型",
-      "url": "/0/982/621.htm"
+      "title": "华为 HarmonyOS 7 花粉 Beta 版超百项更新曝光：全局沉浸空间、小艺基于 Agentic 全面进化重构等",
+      "url": "/0/982/673.htm"
     },
     {
-      "title": "周二还得坚持下：旺旺邦德咖啡 1.45 元 / 罐探底清仓（3 元 / 斤闭眼囤）",
-      "url": "https://lapin.ithome.com/html/digi/982620.htm"
+      "title": "金山办公 2026 年半年度归母净利润 23.16 亿元～ 27.19 亿元，同比预增 209.98%~263.89%",
+      "url": "/0/982/672.htm"
     }
   ],
   "netease": [
@@ -74,24 +74,24 @@
   ],
   "github": [
     {
+      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
       "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
       "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
-    },
-    {
-      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "url": "https://github.com/garrytan/gstack"
     }
   ],
   "huggingface": [
@@ -118,7 +118,7 @@
   ],
   "tonghuashun": [
     {
-      "title": "同花顺 7x24 快讯",
+      "title": "同花顺 7x24 实时快讯",
       "url": "https://news.10jqka.com.cn/realtimenews.html"
     }
   ]
