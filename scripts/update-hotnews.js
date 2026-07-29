@@ -153,7 +153,6 @@ async function main() {
     getWeibo(), 
     getGithub(), 
     getHuggingFace(),
-    // ✅ 新增
     getWallstreet(),
     getCLS(),
     getTHS(),
@@ -163,9 +162,20 @@ async function main() {
   const keys = [
     "baidu", "bilibili", "toutiao", "ithome", 
     "weibo", "github", "huggingface",
-    // ✅ 新增
     "wallstreet", "cls", "ths", "sina"
   ];
+
+  // ✅ 临时调试：查看每个源的返回情况
+  console.log("\n========== 调试输出 ==========");
+  keys.forEach((key, index) => {
+    const data = results[index];
+    if (Array.isArray(data)) {
+      console.log(`${key}: ✅ ${data.length}条 - ${data[0]?.title?.substring(0, 30) || '无标题'}`);
+    } else {
+      console.log(`${key}: ❌ 返回非数组 -`, typeof data);
+    }
+  });
+  console.log("==============================\n");
 
   const finalData = { updatedAt: new Date().toISOString() };
 
@@ -179,5 +189,6 @@ async function main() {
   fs.writeFileSync("./hotnews.json", JSON.stringify(finalData, null, 2));
   console.log("更新完成！包含源:", Object.keys(finalData).filter(k => k !== "updatedAt"));
 }
+
 
 main().catch(err => console.error("执行出错:", err));
