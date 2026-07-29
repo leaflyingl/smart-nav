@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-29T20:31:13.846Z",
+  "updatedAt": "2026-07-29T22:03:34.149Z",
   "sina": [
+    {
+      "title": "高通盈利展望疲软 手机业务面临压力",
+      "url": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnut1327432.shtml"
+    },
+    {
+      "title": "Arm营收展望超过预期 但未能打动对芯片业愈发谨慎的投资者",
+      "url": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnux2151299.shtml"
+    },
+    {
+      "title": "Meta第三财季营收展望逊于预期 上调全年资本开支预估下限",
+      "url": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnux2142517.shtml"
+    },
     {
       "title": "360集团回应前董秘追讨2649万股权激励：支持她依法解决争议，这是最清晰、最公平的方式",
       "url": "https://finance.sina.com.cn/jjxw/2026-07-29/doc-iniknrri2549041.shtml"
@@ -28,60 +40,48 @@
     {
       "title": "美团月付遭批量盗刷，多地用户中招？官方暂无回应，客服提醒谨防电信诈骗",
       "url": "https://finance.sina.com.cn/jjxw/2026-07-29/doc-iniknrrf5719925.shtml"
-    },
-    {
-      "title": "联想披露“乐享”智能体运营数据：月活突破700万，拉动超50亿销售额",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-29/doc-iniknmim2627816.shtml"
-    },
-    {
-      "title": "曝月之暗面完成超35亿美元F轮融资，估值升至500亿美元",
-      "url": "https://finance.sina.com.cn/tech/it/2026-07-29/doc-iniknmic0034839.shtml"
-    },
-    {
-      "title": "AI板块股价大跌 对冲基金遭追加保证金要求",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-iniknmic0027365.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "微软未来租赁3290亿美元，之前为1970亿美元。",
-      "url": "https://wallstreetcn.com/lives/3141904"
+      "title": "周四亚太盘初，WTI原油期货低开至85美元下方，投资者关注中东风险。",
+      "url": "https://wallstreetcn.com/lives/3141936"
     },
     {
-      "title": "星巴克美股盘后涨11%，该公司上调全年调整后每股收益（EPS）指引。",
-      "url": "https://wallstreetcn.com/lives/3141903"
+      "title": "洛克希德-马丁公司（LMT）获得美国五角大楼590亿美元承包合同。",
+      "url": "https://wallstreetcn.com/lives/3141935"
     },
     {
-      "title": "墨式烤肉（Chipotle，CMG）二季度营收33.5亿美元，分析师预期33.3亿美元。",
-      "url": "https://wallstreetcn.com/lives/3141902"
+      "title": "30年期美债收益率涨11个基点突破5.2%，两年期TIPS收益率跌超10个基点，沃什谈及实际收益率",
+      "url": "https://wallstreetcn.com/lives/3141934"
     },
     {
-      "title": "拉姆研究美股盘后涨6%，该公司给出了强劲的第一财季调整后每股收益（EPS）指引。",
-      "url": "https://wallstreetcn.com/lives/3141900"
+      "title": "美联储维持利率不变后，花旗仍维持降息预测",
+      "url": "https://wallstreetcn.com/lives/3141933"
     },
     {
-      "title": "扎克伯格上调全年资本开支预估区间的底部",
-      "url": "https://wallstreetcn.com/lives/3141899"
+      "title": "美国CME计划推出与体育相关的期货合约，旨在作为对冲工具",
+      "url": "https://wallstreetcn.com/lives/3141928"
     },
     {
-      "title": "VIX波动率日内涨幅达14.0%，报20.77。",
-      "url": "https://wallstreetcn.com/lives/3141897"
+      "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌",
+      "url": "https://wallstreetcn.com/lives/3141927"
     },
     {
-      "title": "辛巴克第三财季净营收39亿美元，分析师预期91.6亿美元。",
-      "url": "https://wallstreetcn.com/lives/3141896"
+      "title": "美国炼油商正以新冠疫情前以来的最高水平生产燃料",
+      "url": "https://wallstreetcn.com/lives/3141926"
     },
     {
-      "title": "Arm控股预计第二财季营收13.3亿-14.3亿美元，分析师预期13.5亿美元。",
-      "url": "https://wallstreetcn.com/lives/3141895"
+      "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。",
+      "url": "https://wallstreetcn.com/lives/3141925"
     },
     {
-      "title": "微软：Azure收入突破1000亿美元，对Anthropic的投资带来超30亿美元季度收入",
-      "url": "https://wallstreetcn.com/lives/3141894"
+      "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
+      "url": "https://wallstreetcn.com/lives/3141924"
     },
     {
-      "title": "Meta旗下现实实验室亏损超预期",
-      "url": "https://wallstreetcn.com/lives/3141893"
+      "title": "强生公司：维持全年销售额预期在1008亿-1014亿美元不变。",
+      "url": "https://wallstreetcn.com/lives/3141923"
     }
   ],
   "baidu": [
@@ -106,20 +106,20 @@
       "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E9%A5%AD%E5%89%8D%E7%83%AB%E7%A2%97%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "下班了 年轻人赶着去做副业",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E7%8F%AD%E4%BA%86+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%B6%E7%9D%80%E5%8E%BB%E5%81%9A%E5%89%AF%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "银行大面积调整营业时间",
       "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%B0%83%E6%95%B4%E8%90%A5%E4%B8%9A%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "罗马尼亚男子遇熊淡定玩手机后逃离",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E7%94%B7%E5%AD%90%E9%81%87%E7%86%8A%E6%B7%A1%E5%AE%9A%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%90%8E%E9%80%83%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "下班了 年轻人赶着去做副业",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E7%8F%AD%E4%BA%86+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%B6%E7%9D%80%E5%8E%BB%E5%81%9A%E5%89%AF%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "公寓酒店月租万元走红",
-      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AF%93%E9%85%92%E5%BA%97%E6%9C%88%E7%A7%9F%E4%B8%87%E5%85%83%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "演员修杰楷当庭认罪",
+      "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E4%BF%AE%E6%9D%B0%E6%A5%B7%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "颜宁：我勉强算人才 王虹是天才",
+      "url": "https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%EF%BC%9A%E6%88%91%E5%8B%89%E5%BC%BA%E7%AE%97%E4%BA%BA%E6%89%8D+%E7%8E%8B%E8%99%B9%E6%98%AF%E5%A4%A9%E6%89%8D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "赵心童6比2淘汰丁俊晖",
@@ -132,14 +132,6 @@
       "url": "https://b23.tv/BV1XU3z6AEQi"
     },
     {
-      "title": "【命运-冠位指定×上美影】简中版十周年专属PV——行迹",
-      "url": "https://b23.tv/BV1xAK865ESF"
-    },
-    {
-      "title": "和解剖了4000具尸体的法医，一起看了影片中的尸体...",
-      "url": "https://b23.tv/BV1QEgZ6rEGj"
-    },
-    {
       "title": "是铁环传递了灵动给她还是她共鸣灵魂于铁环，是功夫带来的丝滑还是丝滑表达了功夫",
       "url": "https://b23.tv/BV12Ngo6aEeq"
     },
@@ -148,24 +140,32 @@
       "url": "https://b23.tv/BV1Qq3k6TEs5"
     },
     {
-      "title": "兄弟们，刚哥的烤肠上线了，今天带大家检验一下刚哥黑猪烤肠的生产流程，让大家每一口都吃得放心！",
-      "url": "https://b23.tv/BV16t3v6cE85"
+      "title": "和解剖了4000具尸体的法医，一起看了影片中的尸体...",
+      "url": "https://b23.tv/BV1QEgZ6rEGj"
     },
     {
-      "title": "【乾乾特工·剧场版】大制作来啦！！！",
-      "url": "https://b23.tv/BV1VC3q6ZEtP"
+      "title": "【命运-冠位指定×上美影】简中版十周年专属PV——行迹",
+      "url": "https://b23.tv/BV1xAK865ESF"
+    },
+    {
+      "title": "兄弟们，刚哥的烤肠上线了，今天带大家检验一下刚哥黑猪烤肠的生产流程，让大家每一口都吃得放心！",
+      "url": "https://b23.tv/BV16t3v6cE85"
     },
     {
       "title": "欧盟打算同时对抗中美",
       "url": "https://b23.tv/BV1Ja3q6KENJ"
     },
     {
-      "title": "【TF家族】《2026TF家族运动会》Day1（上）",
-      "url": "https://b23.tv/BV1F4326hE1p"
+      "title": "【乾乾特工·剧场版】大制作来啦！！！",
+      "url": "https://b23.tv/BV1VC3q6ZEtP"
     },
     {
-      "title": "卢本伟的打牌日记1|输了有惩罚之骨头咔嗒响",
-      "url": "https://b23.tv/BV1G23q6dEEc"
+      "title": "我逮住蕾米埃尔了！",
+      "url": "https://b23.tv/BV1d23r6GEqQ"
+    },
+    {
+      "title": "【TF家族】《2026TF家族运动会》Day1（上）",
+      "url": "https://b23.tv/BV1F4326hE1p"
     }
   ],
   "weibo": [
@@ -182,7 +182,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "Mikimoto高级珠宝亚洲首展",
+      "title": "奇瑞捷豹路虎神行者8首车下线",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "美联储宣布维持利率不变",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,23 +194,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "赵昭仪演戏一直这样吗",
+      "title": "小区电梯失控从31楼下坠到负2楼",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "自家冰箱里拿出来的雪糕不要着急吃",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "神州租车 大品牌 放心租",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "张泽禹道歉",
+      "title": "十日终焉杀青出现了血月",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "不抠字眼是一种认知高的表现",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "日本在731这天成立新特高课其心可诛",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -228,28 +228,28 @@
       "url": "https://www.toutiao.com/trending/7667443664234627078/"
     },
     {
-      "title": "17岁小将爆冷击败世界冠军蒯曼",
-      "url": "https://www.toutiao.com/trending/7667361696147898411/"
+      "title": "曝胖东来设置的直饮水成免费取水点",
+      "url": "https://www.toutiao.com/trending/7667612671155617846/"
     },
     {
       "title": "演员修杰楷当庭认罪",
       "url": "https://www.toutiao.com/trending/7667560240677896228/"
     },
     {
-      "title": "周星驰反客为主采访董宇辉",
-      "url": "https://www.toutiao.com/trending/7667077780371095595/"
-    },
-    {
       "title": "女子修手机被店主导出40多张私密照",
       "url": "https://www.toutiao.com/trending/7667415040820101171/"
     },
     {
-      "title": "散户集体抗议 韩国会前摆满吊唁花圈",
-      "url": "https://www.toutiao.com/trending/7667031142685032458/"
+      "title": "周星驰反客为主采访董宇辉",
+      "url": "https://www.toutiao.com/trending/7667077780371095595/"
     },
     {
-      "title": "基辅无人机展遭导弹突袭11名高官身亡",
-      "url": "https://www.toutiao.com/trending/7667291007528075270/"
+      "title": "智驾小蓝灯将被禁用",
+      "url": "https://www.toutiao.com/trending/7667602898458476590/"
+    },
+    {
+      "title": "日本强震致神社垮塌列车脱轨",
+      "url": "https://www.toutiao.com/trending/7667713008373894707/"
     }
   ],
   "ithome": [
@@ -266,6 +266,10 @@
       "url": "/0/983/357.htm"
     },
     {
+      "title": "门店 999 元：波司登短款羽绒服 363 元官方反季清仓（赠退货宝）",
+      "url": "https://lapin.ithome.com/html/digi/983033.htm"
+    },
+    {
       "title": "荣耀起诉一电商平台手机壳商家商标侵权，双方现已达成和解",
       "url": "/0/983/353.htm"
     },
@@ -276,10 +280,6 @@
     {
       "title": "美团回应“多名月付用户称被批量盗刷”：很大概率是新型电信诈骗，正积极配合警方调查",
       "url": "/0/983/347.htm"
-    },
-    {
-      "title": "门店 999 元：波司登短款羽绒服 363 元官方反季清仓（赠退货宝）",
-      "url": "https://lapin.ithome.com/html/digi/983033.htm"
     },
     {
       "title": "华为鸿蒙 HarmonyOS 7 花粉 Beta 版再曝新特性，搭配星闪 / 有线耳机可在播控中心“K 歌”",
