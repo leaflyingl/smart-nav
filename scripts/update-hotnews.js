@@ -76,50 +76,18 @@ async function getHuggingFace() {
 }
 
 // ==================== 新增财经数据源 ====================
-
-// ✅ 财联社 7x24 快讯
-async function getCLS() {
-  try {
-    const controller = new AbortController();
-    const id = setTimeout(() => controller.abort(), 12000);
-    const res = await fetch("https://www.cls.cn/api/sw?app=CailianpressWeb&os=web&sv=8.4.6", {
-      method: "POST",
-      signal: controller.signal,
-      headers: {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "Content-Type": "application/json",
-        "Referer": "https://www.cls.cn/",
-        "Accept": "application/json"
-      },
-      body: JSON.stringify({
-        app: "CailianpressWeb",
-        os: "web",
-        sv: "8.4.6",
-        sign: "9f8797a0c1c73f23a957f0b5e6f9b6c1"
-      })
-    });
-    clearTimeout(id);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    const list = data?.data?.roll_data || [];
-    return list.slice(0, 5).map(i => ({ title: i.title, url: i.url || `https://www.cls.cn/detail/${i.id}` }));
-  } catch (e) {
-    console.error("财联社抓取失败:", e.message);
-    return [];
-  }
-}
-
-// ✅ 同花顺热股榜
-async function getTHS() {
-  const json = await fetchWithUA("https://basic.10jqka.com.cn/api/stockph/popularityrank/?type=stock", {
-    "Referer": "https://basic.10jqka.com.cn/"
+// ✅ 华尔街见闻 7x24 快讯（修复：改用官方快讯 API）
+async function getWallstreet() {
+  const json = await fetchWithUA("https://api-prod.wallstreetcn.com/apiv1/content/lives/pc?limit=5", {
+    "Referer": "https://wallstreetcn.com/"
   });
-  const list = json?.data?.list || [];
+  const list = json?.data?.items || [];
   return list.slice(0, 5).map(i => ({
-    title: `${i.name}(${i.code}) 热度:${i.popularity}`,
-    url: `https://stockpage.10jqka.com.cn/${i.code}/`
+    title: i.content || i.title || i.display_time,
+    url: i.uri ? `https://wallstreetcn.com/${i.uri}` : `https://wallstreetcn.com/lives/${i.id}`
   }));
 }
+
 
 // ✅ 新浪财经滚动新闻
 async function getSina() {
@@ -130,17 +98,7 @@ async function getSina() {
   return list.slice(0, 5).map(i => ({ title: i.title, url: i.url }));
 }
 
-// ✅ 华尔街见闻热文榜
-async function getWallstreet() {
-  const json = await fetchWithUA("https://api-one-wscn.awtmt.com/apiv1/content/articles/hot?period=all", {
-    "Referer": "https://wallstreetcn.com/"
-  });
-  const list = json?.data?.items || [];
-  return list.slice(0, 5).map(i => ({
-    title: i.title,
-    url: `https://wallstreetcn.com/${i.uri}`
-  }));
-}
+
 
 async function main() {
   console.log("开始抓取数据源...");
@@ -153,16 +111,16 @@ async function main() {
     getWeibo(), 
     getGithub(), 
     getHuggingFace(),
+    // ✅ 财经快讯：华尔街见闻 7x24 + 新浪
     getWallstreet(),
-    getCLS(),
-    getTHS(),
     getSina()
   ]);
 
   const keys = [
     "baidu", "bilibili", "toutiao", "ithome", 
     "weibo", "github", "huggingface",
-    "wallstreet", "cls", "ths", "sina"
+    // ✅ 财经快讯
+    "wallstreet", "sina"
   ];
 
   // ✅ 临时调试：查看每个源的返回情况
