@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:51:36.639Z",
+  "updatedAt": "2026-07-29T17:07:36.743Z",
   "sina": [
     {
       "title": "360集团回应前董秘追讨2649万股权激励：支持她依法解决争议，这是最清晰、最公平的方式",
@@ -44,6 +44,22 @@
   ],
   "wallstreet": [
     {
+      "title": "空中客车二季度调整后EBIT为24.3亿欧元，分析师预期21.8亿欧元。",
+      "url": "https://wallstreetcn.com/lives/3141806"
+    },
+    {
+      "title": "雷诺上半年净利润7.05亿欧元，分析师预期7.576亿欧元。",
+      "url": "https://wallstreetcn.com/lives/3141805"
+    },
+    {
+      "title": "国际铜夜盘收跌0.25%，沪铜收跌0.26%，沪铝收涨0.41%，沪锌收跌0.06%，沪铅收涨0.06%，沪镍收涨0.6",
+      "url": "https://wallstreetcn.com/lives/3141804"
+    },
+    {
+      "title": "LME期铜收跌104美元，报13581美元/吨。",
+      "url": "https://wallstreetcn.com/lives/3141803"
+    },
+    {
       "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
       "url": "https://wallstreetcn.com/lives/3141802"
     },
@@ -66,22 +82,6 @@
     {
       "title": "美国三大股指均跌超1%，道指目前跌860点、跌幅1.6%，纳指跌1.4%，半导体指数跌4.1%，银行指数跌1.9%，罗素",
       "url": "https://wallstreetcn.com/lives/3141797"
-    },
-    {
-      "title": "据英奇角航运服务公司（Inchcape Shipping Services）报告，埃及达米埃塔港（Damietta Po",
-      "url": "https://wallstreetcn.com/lives/3141796"
-    },
-    {
-      "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美",
-      "url": "https://wallstreetcn.com/lives/3141795"
-    },
-    {
-      "title": "CBOT大豆日内跌幅达2.0%，报1192.92。",
-      "url": "https://wallstreetcn.com/lives/3141794"
-    },
-    {
-      "title": "长江存储：网传“核心 3DNAND专利全部19项权利要求被裁定无效”系严重误导性描述",
-      "url": "https://wallstreetcn.com/lives/3141793"
     }
   ],
   "baidu": [
@@ -170,11 +170,11 @@
   ],
   "weibo": [
     {
-      "title": "网友曝胖东来直饮水成免费取水点",
+      "title": "千万不要把手机交给商家写好评",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "莫氏鸡煲首轮遭淘汰",
+      "title": "网友曝胖东来直饮水成免费取水点",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,15 +182,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "小米澎程技术发布会今晚见",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "张泽禹道歉",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "千万不要把手机交给商家写好评",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "小区电梯失控从31楼下坠到负2楼",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,15 +194,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "女子隐私照未打码被医美发朋友圈",
+      "title": "小区电梯失控从31楼下坠到负2楼",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "KPL",
+      "title": "这两个误区踩中就是自损肝脏",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "丁俊晖vs赵心童",
+      "title": "莫氏鸡煲首轮遭淘汰",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "开车是最容易进入心流状态的活动",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -224,12 +224,12 @@
       "url": "https://www.toutiao.com/trending/7667925801056390702/"
     },
     {
-      "title": "媒体：金正恩女儿亮相朝鲜纪念日活动",
-      "url": "https://www.toutiao.com/trending/7667888296424525362/"
-    },
-    {
       "title": "智驾“小蓝灯”将禁用？官方机构发声",
       "url": "https://www.toutiao.com/trending/7667949253871799814/"
+    },
+    {
+      "title": "小区电梯失控从31楼下坠到负2楼",
+      "url": "https://www.toutiao.com/trending/7667443664234627078/"
     },
     {
       "title": "周星驰反客为主采访董宇辉",
@@ -244,12 +244,12 @@
       "url": "https://www.toutiao.com/trending/7667415040820101171/"
     },
     {
-      "title": "赵心童淘汰丁俊晖晋级上海大师赛八强",
-      "url": "https://www.toutiao.com/trending/7667950413148065318/"
-    },
-    {
       "title": "斯洛伐克总统怀疑中国机器人藏真人",
       "url": "https://www.toutiao.com/trending/7667207733225029638/"
+    },
+    {
+      "title": "赵心童淘汰丁俊晖晋级上海大师赛八强",
+      "url": "https://www.toutiao.com/trending/7667950413148065318/"
     }
   ],
   "ithome": [
