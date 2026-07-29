@@ -76,16 +76,27 @@ async function getHuggingFace() {
 }
 
 // ==================== 新增财经数据源 ====================
-// ✅ 华尔街见闻 7x24 快讯（修复：改用官方快讯 API）
+// ✅ 华尔街见闻 7x24 快讯（修复：取 global 频道最新 5 条）
 async function getWallstreet() {
-  const json = await fetchWithUA("https://api-prod.wallstreetcn.com/apiv1/content/lives/pc?limit=5", {
+  const json = await fetchWithUA("https://api-prod.wallstreetcn.com/apiv1/content/lives/pc?limit=20", {
     "Referer": "https://wallstreetcn.com/"
   });
-  const list = json?.data?.items || [];
-  return list.slice(0, 5).map(i => ({
-    title: i.content || i.title || i.display_time,
-    url: i.uri ? `https://wallstreetcn.com/${i.uri}` : `https://wallstreetcn.com/lives/${i.id}`
-  }));
+  
+  // 取 global 频道的快讯（综合/宏观，最全面）
+  const list = json?.data?.global?.items || [];
+  
+  return list.slice(0, 5).map(i => {
+    // title 经常为空，用 content_text 的第一行或前 50 字作为标题
+    const text = i.content_text || i.content?.replace(/<[^>]+>/g, '') || '';
+    const title = (i.title && i.title.trim()) 
+      ? i.title 
+      : (text.split('\n')[0].slice(0, 60) || '华尔街见闻快讯');
+    
+    return {
+      title: title,
+      url: i.uri ? `https://wallstreetcn.com/${i.uri}` : `https://wallstreetcn.com/lives/${i.id}`
+    };
+  });
 }
 
 
