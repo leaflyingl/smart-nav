@@ -401,20 +401,15 @@
 
 // 14 大数据源映射配置 (已移除 BBC 和 联合早报)
 const SOURCE_META = {
-    baidu: { name: '百度热搜', icon: 'fa-search text-blue-400' },
     sina: { name: '新浪财经', icon: 'fa-chart-bar text-red-400' },
+    wallstreet: { name: '华尔街见闻', icon: 'fa-chart-line text-blue-500' },
+    baidu: { name: '百度热搜', icon: 'fa-search text-blue-400' },
     bilibili: { name: '哔哩哔哩', icon: 'fa-tv text-pink-400' },
+    weibo: { name: '微博热搜', icon: 'fa-fire text-red-500' },
     toutiao: { name: '今日头条', icon: 'fa-newspaper text-red-500' },
     ithome: { name: 'IT之家', icon: 'fa-laptop-code text-red-400' },
-    weibo: { name: '微博热搜', icon: 'fa-fire text-red-500' },  // ✅ 修复中文显示
     github: { name: 'GitHub Trending', icon: 'fa-code-branch text-purple-400' },
-    huggingface: { name: 'Hugging Face', icon: 'fa-brain text-yellow-400' },
-    
-    // ✅ 新增财经源
-    wallstreet: { name: '华尔街见闻', icon: 'fa-chart-line text-blue-500' },
-    cls: { name: '财联社7x24', icon: 'fa-bolt text-red-500' },
-    ths: { name: '同花顺热股', icon: 'fa-fire text-orange-500' }
-    
+    huggingface: { name: 'Hugging Face', icon: 'fa-brain text-yellow-400' }
 };
 
 
@@ -434,12 +429,12 @@ async function renderHorizontalHotNews() {
     try {
         const res = await fetch('./hotnews.json?t=' + Date.now());
         if (!res.ok) throw new Error('hotnews.json 未就绪');
-        
+
         const newsMap = await res.json();
-        
-        // 动态过滤无数据的源
-        const validSources = Object.keys(newsMap).filter(key => {
-            return key !== 'updatedAt' && Array.isArray(newsMap[key]) && newsMap[key].length > 0;
+
+        // 按 SOURCE_META 定义的顺序过滤有效数据源
+        const validSources = Object.keys(SOURCE_META).filter(key => {
+            return Array.isArray(newsMap[key]) && newsMap[key].length > 0;
         });
 
         if (validSources.length === 0) {
@@ -447,20 +442,20 @@ async function renderHorizontalHotNews() {
             return;
         }
 
-        // 渲染卡片 (注意：移除容易导致鼠标滑动阻断的 snap-start 类)
+        // 渲染卡片：固定高度，内部纵向滚动显示10条
         container.innerHTML = validSources.map(key => {
             const meta = SOURCE_META[key] || { name: key.toUpperCase(), icon: 'fa-fire text-amber-400' };
             const items = newsMap[key];
 
             return `
-                <div class="flex-none w-64 sm:w-72 rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300 select-none">
-                    <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30">
+                <div class="flex-none w-64 sm:w-72 h-[380px] rounded-2xl p-3.5 bg-slate-900/40 backdrop-blur-md border border-slate-700/30 hover:border-indigo-500/40 transition-all duration-300 select-none flex flex-col">
+                    <div class="flex justify-between items-center pb-2 mb-2.5 border-b border-slate-700/30 shrink-0">
                         <span class="text-xs font-bold text-slate-200 flex items-center gap-1.5 truncate">
                             <i class="fas ${meta.icon} text-xs"></i> <span class="truncate">${escapeHtml(meta.name)}</span>
                         </span>
-                        <span class="text-[9px] text-slate-400 bg-slate-800/60 px-1.5 py-0.5 rounded-full">Top 5</span>
+                        <span class="text-[9px] text-slate-400 bg-slate-800/60 px-1.5 py-0.5 rounded-full">Top 10</span>
                     </div>
-                    <ul class="space-y-2 text-[11px]">
+                    <ul class="space-y-2 text-[11px] overflow-y-auto scrollbar-none pr-1 flex-1">
                         ${items.map((item, idx) => `
                             <li class="truncate hover:text-indigo-300 transition-colors">
                                 <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer nofollow" class="flex items-center gap-2 drag-link" title="${escapeHtml(item.title)}">
@@ -474,14 +469,13 @@ async function renderHorizontalHotNews() {
             `;
         }).join('');
 
-        // 激活鼠标按住拖拽
+        // 激活鼠标按住拖拽（横向滑动卡片）
         enableDragScroll(container);
 
     } catch (err) {
         console.error('渲染热榜失败:', err);
     }
 }
-
 // 🖱️ 重构：全局精准鼠标拖拽滑动逻辑
 function enableDragScroll(slider) {
     let isDown = false;
