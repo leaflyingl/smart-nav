@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-08-05T03:44:31.702Z",
+  "updatedAt": "2026-08-05T06:31:23.070Z",
   "sina": [
+    {
+      "title": "西贝推出全新子品牌“天边羊多” 首店即将在北京开业",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-08-05/doc-inimfwqp4668786.shtml"
+    },
     {
       "title": "分子之心创始人许锦波：AI推动生物药研发从“大规模筛选”转向“可编程设计”",
       "url": "https://finance.sina.com.cn/tech/shenji/2026-08-05/doc-inimfshi3648323.shtml"
@@ -36,104 +40,96 @@
     {
       "title": "鸿蒙智行回应“竹知了”事件：针对的是侵权内容，并非“竹知了”玩具",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-04/doc-inimekpi1944751.shtml"
-    },
-    {
-      "title": "嘀嗒出行：暑期顺风车跨城出游200公里以内下单超6成，短途周边游是主体",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-04/doc-inimeefm2019641.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "中国财政部发行28天期债券，规模200亿元，发行利率0.7826%，边际利率0.9784%，预期0.8700%，投标倍数",
-      "url": "https://wallstreetcn.com/lives/3145138"
+      "title": "诺和诺德：需要通过补强式收购来扩展业务。",
+      "url": "https://wallstreetcn.com/lives/3145199"
     },
     {
-      "title": "武汉1宗宅地溢价20.98%成交",
-      "url": "https://wallstreetcn.com/lives/3145137"
+      "title": "特朗普：霍尔木兹海峡很快开放 否则伊朗将遭打击",
+      "url": "https://wallstreetcn.com/lives/3145198"
     },
     {
-      "title": "印度卢比兑美元上涨0.5%。",
-      "url": "https://wallstreetcn.com/lives/3145136"
+      "title": "广期所铂主力合约大涨8%，报436.5元/克。",
+      "url": "https://wallstreetcn.com/lives/3145197"
     },
     {
-      "title": "上证指数早盘收报3873.56点，涨1.34%。",
-      "url": "https://wallstreetcn.com/lives/3145133"
+      "title": "嘉能可上半年调整后EBITDA为101.2亿美元，市场预估98.1亿美元。",
+      "url": "https://wallstreetcn.com/lives/3145196"
     },
     {
-      "title": "8月5日午间收评：科创50指数半日涨超5%，半导体芯片股集体走强",
-      "url": "https://wallstreetcn.com/lives/3145132"
+      "title": "中际旭创成交额突破600亿",
+      "url": "https://wallstreetcn.com/lives/3145194"
     },
     {
-      "title": "三大指数均涨超1%，半导体芯片、贵金属、AI应用、算力硬件等方向涨幅居前，沪深京三市上涨个股近4000只。",
-      "url": "https://wallstreetcn.com/lives/3145129"
+      "title": "特朗普敦促美参议院通过全年采用夏令时法案",
+      "url": "https://wallstreetcn.com/lives/3145193"
     },
     {
-      "title": "海南三亚发布暴雨红色预警信号",
-      "url": "https://wallstreetcn.com/lives/3145123"
+      "title": "A股半导体材料板块震荡走高，有研硅20cm涨停，此前雅克科技、康强电子、有研新材等股涨停，神工股份、欧莱新材、西安奕材涨",
+      "url": "https://wallstreetcn.com/lives/3145192"
     },
     {
-      "title": "科创50指数涨超5%。",
-      "url": "https://wallstreetcn.com/lives/3145121"
+      "title": "科创50指数涨幅扩大至6%，中微公司涨超14％，拓荆科技涨超12％，盛美上海涨超9％。",
+      "url": "https://wallstreetcn.com/lives/3145191"
     },
     {
-      "title": "特朗普：霍尔木兹海峡将很快重新开放。",
-      "url": "https://wallstreetcn.com/lives/3145117"
+      "title": "央行上海总部：扎实落实适度宽松的货币政策 积极推动金融机构深挖有效信贷需求",
+      "url": "https://wallstreetcn.com/lives/3145189"
     },
     {
-      "title": "科创50指数涨超4%，沪指、深成指均涨超1%，半导体芯片、贵金属、PCB等方向涨幅居前，沪深京三市上涨个股超3900只。",
-      "url": "https://wallstreetcn.com/lives/3145116"
+      "title": "现货黄金日内涨幅达2.0%，报4158.87美元/盎司。",
+      "url": "https://wallstreetcn.com/lives/3145188"
     }
   ],
   "baidu": [
     {
-      "title": "多地出新政“抢”3.2亿老年人",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%87%BA%E6%96%B0%E6%94%BF%E2%80%9C%E6%8A%A2%E2%80%9D3.2%E4%BA%BF%E8%80%81%E5%B9%B4%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "中国首批高快速迎到期免费潮",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E9%AB%98%E5%BF%AB%E9%80%9F%E8%BF%8E%E5%88%B0%E6%9C%9F%E5%85%8D%E8%B4%B9%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "亲人离世家人不知存款在哪 怎么办",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%B2%E4%BA%BA%E7%A6%BB%E4%B8%96%E5%AE%B6%E4%BA%BA%E4%B8%8D%E7%9F%A5%E5%AD%98%E6%AC%BE%E5%9C%A8%E5%93%AA+%E6%80%8E%E4%B9%88%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "河南：领导干部要带头休假",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%EF%BC%9A%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E8%A6%81%E5%B8%A6%E5%A4%B4%E4%BC%91%E5%81%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "创新药凭什么成中国新名片",
       "url": "https://www.baidu.com/s?wd=%E5%88%9B%E6%96%B0%E8%8D%AF%E5%87%AD%E4%BB%80%E4%B9%88%E6%88%90%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%90%8D%E7%89%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "台风白海豚体型堪比东北三省",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BD%93%E5%9E%8B%E5%A0%AA%E6%AF%94%E4%B8%9C%E5%8C%97%E4%B8%89%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "员工用代码17小时删光公司89TB数据",
+      "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E7%94%A8%E4%BB%A3%E7%A0%8117%E5%B0%8F%E6%97%B6%E5%88%A0%E5%85%89%E5%85%AC%E5%8F%B889TB%E6%95%B0%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "男子出狱前8天被改判死缓",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%89%8D8%E5%A4%A9%E8%A2%AB%E6%94%B9%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "男子健身2年从90斤涨到120斤",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB2%E5%B9%B4%E4%BB%8E90%E6%96%A4%E6%B6%A8%E5%88%B0120%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "尊界MPV及华为新品发布会",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "你家楼下的兰州拉面要改名字了",
       "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AE%B6%E6%A5%BC%E4%B8%8B%E7%9A%84%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E8%A6%81%E6%94%B9%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "女子带10岁儿子从成都坐火车去意大利",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A610%E5%B2%81%E5%84%BF%E5%AD%90%E4%BB%8E%E6%88%90%E9%83%BD%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E6%84%8F%E5%A4%A7%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "6岁女孩篮球场上接连带球过人引欢呼",
+      "url": "https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%AF%AE%E7%90%83%E5%9C%BA%E4%B8%8A%E6%8E%A5%E8%BF%9E%E5%B8%A6%E7%90%83%E8%BF%87%E4%BA%BA%E5%BC%95%E6%AC%A2%E5%91%BC&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“易中天”集体回应光模块禁令传闻",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%98%93%E4%B8%AD%E5%A4%A9%E2%80%9D%E9%9B%86%E4%BD%93%E5%9B%9E%E5%BA%94%E5%85%89%E6%A8%A1%E5%9D%97%E7%A6%81%E4%BB%A4%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "C罗未婚妻乔治娜回击身材羞辱",
-      "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E6%9C%AA%E5%A9%9A%E5%A6%BB%E4%B9%94%E6%B2%BB%E5%A8%9C%E5%9B%9E%E5%87%BB%E8%BA%AB%E6%9D%90%E7%BE%9E%E8%BE%B1&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "《八仙！》进中国影史动画片票房前十",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E5%8A%A8%E7%94%BB%E7%89%87%E7%A5%A8%E6%88%BF%E5%89%8D%E5%8D%81&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "中国首批高快速迎到期免费潮",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E9%AB%98%E5%BF%AB%E9%80%9F%E8%BF%8E%E5%88%B0%E6%9C%9F%E5%85%8D%E8%B4%B9%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "被审视的“网红”钟美美",
+      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%AE%A1%E8%A7%86%E7%9A%84%E2%80%9C%E7%BD%91%E7%BA%A2%E2%80%9D%E9%92%9F%E7%BE%8E%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "我竟然打败了职业选手……",
-      "url": "https://b23.tv/BV1Rkuw69ELC"
-    },
-    {
-      "title": "美利坚糖门黄油大胃袋VS国产味真族良子板面长老",
-      "url": "https://b23.tv/BV1JmMf69EZY"
+      "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
+      "url": "https://b23.tv/BV17vuw68E58"
     },
     {
       "title": "你说偷吃零食被发现会死是吗？",
@@ -144,37 +140,41 @@
       "url": "https://b23.tv/BV1uPMZ6NEBb"
     },
     {
+      "title": "【独家】有兽焉 第六季 第1集 寻母之路【总第61集】",
+      "url": "https://b23.tv/BV1Nc346mEEk"
+    },
+    {
       "title": "《最讨厌复联の一集》",
       "url": "https://b23.tv/BV1KduF6ME4b"
     },
     {
-      "title": "【有线耳机推荐2026】8月大合集！游戏耳机推荐/HiFi耳机/入耳式游戏耳机推荐，内含游戏实测和音质测试！学生党性价比推荐！有线耳机选购指南！建议收藏！",
-      "url": "https://b23.tv/BV1pmuA6gEtG"
+      "title": "当我被外星人取代",
+      "url": "https://b23.tv/BV1RoMf6mEra"
     },
     {
-      "title": "8月份返校的高三生",
-      "url": "https://b23.tv/BV1QgMX6REzf"
+      "title": "美利坚糖门黄油大胃袋VS国产味真族良子板面长老",
+      "url": "https://b23.tv/BV1JmMf69EZY"
     },
     {
       "title": "【非遗】AE特效——战斗鸡",
       "url": "https://b23.tv/BV1sR396sEx5"
     },
     {
-      "title": "十年之后，再筑新馆",
-      "url": "https://b23.tv/BV1EEM96uEPh"
+      "title": "大家还想看我搬空什么店",
+      "url": "https://b23.tv/BV1bz3Q6oEMP"
     },
     {
-      "title": "当我被外星人取代",
-      "url": "https://b23.tv/BV1RoMf6mEra"
+      "title": "8月份返校的高三生",
+      "url": "https://b23.tv/BV1QgMX6REzf"
     }
   ],
   "weibo": [
     {
-      "title": "短剧演员日薪四万",
+      "title": "韩国宣布国家灾难状态",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "韩国宣布国家灾难状态",
+      "title": "短剧演员日薪四万",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,31 +182,31 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "张凌赫最爱吃的薯片藏不住了",
+      "title": "为什么领导很少请假",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "抱冬瓜睡觉的第一批受害者出现了",
+      "title": "瘦了后感受到了朋友微妙的恶意",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "泰国素万那普国际机场致歉",
+      "title": "发现了一种很新的老人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "花钱劝对手弃考考生已拟聘公示",
+      "title": "娇兰蓝调淡香精",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "乐高灵感花店",
+      "title": "金饰大跌金股大涨",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "C罗告诉乔治娜你不靠外表生活",
+      "title": "张凌赫让章若楠金靖别扯衣服",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "天才女友语文成绩148",
+      "title": "员工用代码17小时删光公司89TB数据",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -216,82 +216,82 @@
       "url": "https://www.toutiao.com/trending/7670356667871235594/"
     },
     {
-      "title": "22名中国乘客遭拒载 泰国机场致歉",
-      "url": "https://www.toutiao.com/trending/7669828239829254170/"
+      "title": "游客睡自己车里被酒店收150元住宿费",
+      "url": "https://www.toutiao.com/trending/7670360225141014571/"
     },
     {
       "title": "“十五五”开局之年各省份经济半年报",
       "url": "https://www.toutiao.com/trending/7670363646614146606/"
     },
     {
-      "title": "朝鲜：将根据日本动态制定军事选项",
-      "url": "https://www.toutiao.com/trending/7669566344827928630/"
+      "title": "护士戴手链做美甲为婴儿打针被停职",
+      "url": "https://www.toutiao.com/trending/7670355068243214363/"
     },
     {
-      "title": "鸿蒙智行回应“竹知了”争议",
-      "url": "https://www.toutiao.com/trending/7669737948003794994/"
+      "title": "女生预约参观北大没成功后考上北大",
+      "url": "https://www.toutiao.com/trending/7669433893754110006/"
+    },
+    {
+      "title": "新台风鲸鱼生成 路径公布",
+      "url": "https://www.toutiao.com/trending/7669963502744223795/"
+    },
+    {
+      "title": "李在明：韩国进入国家灾难状态",
+      "url": "https://www.toutiao.com/trending/7669975409655808036/"
     },
     {
       "title": "男子健身2年从90斤涨到120斤",
       "url": "https://www.toutiao.com/trending/7670076323029057599/"
     },
     {
-      "title": "90后飞手找到失联4天男孩",
-      "url": "https://www.toutiao.com/trending/7669195771694497846/"
+      "title": "3.23亿老人成各地政府的香饽饽了吗",
+      "url": "https://www.toutiao.com/trending/7670200369644834367/"
     },
     {
-      "title": "郑丽文呼吁进军大陆市场",
-      "url": "https://www.toutiao.com/trending/7669855093994373130/"
-    },
-    {
-      "title": "中国海警水炮驱离菲船只",
-      "url": "https://www.toutiao.com/trending/7669711889485561899/"
-    },
-    {
-      "title": "哈尔滨遇极端强降雨 省委书记踏查调度",
-      "url": "https://www.toutiao.com/trending/7670340876664573482/"
+      "title": "医生喊停“无效养生”晒背",
+      "url": "https://www.toutiao.com/trending/7670322129581260842/"
     }
   ],
   "ithome": [
     {
-      "title": "小天才电话手表 Z12 少年版发布：全新青春系统 5.0，售价 2699 元起",
-      "url": "/0/985/878.htm"
+      "title": "李肖爽晒小米澎程 N90 Max 高速爆胎测试视频：非 AI 非 CG，一镜到底全实拍",
+      "url": "/0/985/920.htm"
     },
     {
-      "title": "北京首例“破坏人工智能模型刑事案件”宣判：涉案工程师因“删库”被判有期徒刑五年十个月、赔偿 20.4 万余元",
-      "url": "/0/985/876.htm"
+      "title": "一周过半坚持下：旺旺邦德咖啡 1.37 元 / 罐探底清仓（2.9 元 / 斤闭眼囤）",
+      "url": "https://lapin.ithome.com/html/digi/985919.htm"
     },
     {
-      "title": "上诉法院推翻原裁决，Perplexity 智能体重获亚马逊电商访问法律许可",
-      "url": "/0/985/871.htm"
+      "title": "《生化危机》30 周年展筹备中，卡普空将打造里昂等身雕像",
+      "url": "/0/985/918.htm"
     },
     {
-      "title": "初探 DoomPaint：在 Win11 画图应用中运行《毁灭战士》游戏",
-      "url": "/0/985/864.htm"
+      "title": "HWiNFO 即将支持监控 NVIDIA、AMD 显卡单个显存颗粒温度",
+      "url": "/0/985/917.htm"
     },
     {
-      "title": "门店 999 元：波司登短款羽绒服 363 元官方反季清仓（赠退货宝）",
-      "url": "https://lapin.ithome.com/html/digi/985861.htm"
+      "title": "汉王预热 N6 Pro 黑白墨水屏阅读器 8 月 11 日上市，搭 6 英寸面板支持手写",
+      "url": "/0/985/915.htm"
     },
     {
-      "title": "弱水时砂 OpenFeel Mk2 耳夹式耳机发售：39g 重量、采用“Planck 2.0 换能器”，338 元",
-      "url": "/0/985/860.htm"
+      "title": "AI 监考效果不佳，导致约 5.8 万名墨西哥国立自治大学考生需重考",
+      "url": "/0/985/914.htm"
     },
     {
-      "title": "AI 智能体“失控”风险再现：OpenAI、Anthropic 模型被发现执行未授权操作",
-      "url": "/0/985/859.htm"
+      "title": "利民 TR-APFX1000 系列白金电源发售：10 年质保、可选黑白双色，809 元起",
+      "url": "/0/985/913.htm"
     },
     {
-      "title": "卸载后会重装：微软 Win11 静默推送 OneDrive Photos，附隐藏快捷方式脚本",
-      "url": "/0/985/858.htm"
+      "title": "华为鸿蒙 HarmonyOS API 设备量占比数据更新，7.0.0 Beta2 突破 3.36%",
+      "url": "/0/985/912.htm"
     },
     {
-      "title": "今年上半年全国抽查排查发现不合格充电桩 1783 台，发现问题加油机 6489 台",
-      "url": "/0/985/857.htm"
+      "title": "消息称三星、SK 海力士测试中国芯片设备，应对美出口限制风险",
+      "url": "/0/985/911.htm"
     },
     {
-      "title": "Sharkoon 推出 PureWriter W100 键盘：环诺机械矮轴，全配列双模",
-      "url": "/0/985/855.htm"
+      "title": "热门 JavaScript 套件 keyv 维护者 GitHub 账号遭入侵，导致 npm 生态 444 个软件包受蠕虫污染",
+      "url": "/0/985/910.htm"
     }
   ],
   "github": [
