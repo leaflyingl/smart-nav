@@ -1,9 +1,29 @@
 {
-  "updatedAt": "2026-08-06T10:09:58.669Z",
+  "updatedAt": "2026-08-06T12:26:46.249Z",
   "sina": [
+    {
+      "title": "宇树科技：本次发行价格150.80元/股，本次发行数量占发行后总股本10%",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimkskz4559695.shtml"
+    },
+    {
+      "title": "华为智选车产品总监彭磊：享界 G9 预售 24 小时小订破 1 万台，Ultra 及以上版本占比达 90%",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-06/doc-inimksmi0548226.shtml"
+    },
+    {
+      "title": "尊界V800/V680上市：百万级MPV市场，第一次有了中国答案",
+      "url": "https://finance.sina.com.cn/tech/it/2026-08-06/doc-inimkncc4651728.shtml"
+    },
     {
       "title": "首开股份聚焦城市更新赛道 “增量开发+存量更新+多元转型”驱动增长",
       "url": "https://finance.sina.com.cn/stock/observe/2026-08-06/doc-inimknaz3039768.shtml"
+    },
+    {
+      "title": "三十多亿收入囊中！尊界V680/V800上市24小时大定破3500台",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-06/doc-inimknaz3041812.shtml"
+    },
+    {
+      "title": "存储焦虑终结者！华为Mate 80 16GB+1TB版发布：6499元",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimkncm0649789.shtml"
     },
     {
       "title": "任天堂业绩：Switch 2销量下滑，但一季度利润、营收超预期",
@@ -14,116 +34,96 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimknci3866773.shtml"
     },
     {
+      "title": "逆版本而行：华为 Mate 80 标准版手机新增“16GB+1TB”版本规格，学生价 6199 元",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-06/doc-inimknci3871817.shtml"
+    },
+    {
       "title": "张朝阳：AI无法取代“新闻网站”，因为人类要看的不是“效率”而是“视角”",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimknaz3006595.shtml"
-    },
-    {
-      "title": "软银季度业绩胜预期 投资英特尔大赚85亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimknaz2999884.shtml"
-    },
-    {
-      "title": "谷歌150亿美元印度数据中心深陷水资源与野生动物保护争议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimkncc4601181.shtml"
-    },
-    {
-      "title": "OpenAI请求法院驳回苹果公司诉讼 称其借助窃密官司应对人才流失",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimkncm0616083.shtml"
-    },
-    {
-      "title": "张朝阳：英语是一门非常精确的语言，学好能提升理性思维",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimknci3821210.shtml"
-    },
-    {
-      "title": "京东外卖上线“今日半价”",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimkfvf4676680.shtml"
-    },
-    {
-      "title": "字节举行年中全员会 梁汝波：接受短期落后 坚持大模型自研",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimkfvp0704798.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "SK海力士：Solidigm子公司正审议约5万亿韩元的Pre-IPO融资。",
-      "url": "https://wallstreetcn.com/lives/3145982"
+      "title": "昂立教育：长甲投资拟减持不超过3%。",
+      "url": "https://wallstreetcn.com/lives/3146051"
     },
     {
-      "title": "爱丽家居：如公司股票价格进一步异常上涨，公司可能再次申请停牌核查。",
-      "url": "https://wallstreetcn.com/lives/3145981"
+      "title": "Alphabet寻求通过债券发行筹集至多250亿美元",
+      "url": "https://wallstreetcn.com/lives/3146048"
     },
     {
-      "title": "马东辉启动内部改革，理想直面被模仿困境",
-      "url": "https://wallstreetcn.com/lives/3145980"
+      "title": "百利天恒：向香港联交所递交H股发行上市申请，2026年8月6日刊发申请资料",
+      "url": "https://wallstreetcn.com/lives/3146046"
     },
     {
-      "title": "江钨装备：公司无注入矿山资产的安排或活动",
-      "url": "https://wallstreetcn.com/lives/3145974"
+      "title": "美债跌幅扩大，10年期美债收益率升至约4.65%，当日上行3.5个基点。",
+      "url": "https://wallstreetcn.com/lives/3146045"
     },
     {
-      "title": "消息人士称美国拒绝乌增购“爱国者”导弹请求",
-      "url": "https://wallstreetcn.com/lives/3145972"
+      "title": "阿里云：视频生成模型Wan3.0开启公测",
+      "url": "https://wallstreetcn.com/lives/3146044"
     },
     {
-      "title": "马云罕见海外投资布局公示",
-      "url": "https://wallstreetcn.com/lives/3145971"
+      "title": "报道：若未来几周通胀数据偏热，沃什或准备加息",
+      "url": "https://wallstreetcn.com/lives/3146043"
     },
     {
-      "title": "享界汽车宣布，享界G9 预售24小时订单突破10300台，Ultra及Ultra+版本占比达90%。",
-      "url": "https://wallstreetcn.com/lives/3145970"
+      "title": "谷歌母公司Alphabet提交申请，拟发行最多400亿美元的A类和C类股票。",
+      "url": "https://wallstreetcn.com/lives/3146042"
     },
     {
-      "title": "行云科技：在手算力长单超150亿元 客户主动加价扩量",
-      "url": "https://wallstreetcn.com/lives/3145969"
+      "title": "Susquehanna将闪迪目标价从3050美元下调至2745美元。",
+      "url": "https://wallstreetcn.com/lives/3146041"
     },
     {
-      "title": "专家辟谣“车市半年发了五六百款新车”",
-      "url": "https://wallstreetcn.com/lives/3145968"
+      "title": "波罗的海干散货运价指数涨0.2%，至3057点。",
+      "url": "https://wallstreetcn.com/lives/3146040"
     },
     {
-      "title": "美国7月挑战者企业裁员人数同比 -46.1%，前值 -4.5%。",
-      "url": "https://wallstreetcn.com/lives/3145965"
+      "title": "第八代五粮液市场批价近日持续走强",
+      "url": "https://wallstreetcn.com/lives/3146039"
     }
   ],
   "baidu": [
     {
-      "title": "台风“白海豚”影响中国已成定局",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%99%BD%E6%B5%B7%E8%B1%9A%E2%80%9D%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90%E5%AE%9A%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "感觉全东北都在等7号",
+      "url": "https://www.baidu.com/s?wd=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "宇树科技发行价格150.80元/股",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "“China Cool”成海外热词",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9CChina+Cool%E2%80%9D%E6%88%90%E6%B5%B7%E5%A4%96%E7%83%AD%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "DeepSeek、腾讯等获宇树科技战略配售",
+      "url": "https://www.baidu.com/s?wd=DeepSeek%E3%80%81%E8%85%BE%E8%AE%AF%E7%AD%89%E8%8E%B7%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%88%98%E7%95%A5%E9%85%8D%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "起底浙江如是书院：导师为传销头目",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E6%B5%99%E6%B1%9F%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%EF%BC%9A%E5%AF%BC%E5%B8%88%E4%B8%BA%E4%BC%A0%E9%94%80%E5%A4%B4%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "女子利用漏洞0元买了3千台电器",
       "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%A9%E7%94%A8%E6%BC%8F%E6%B4%9E0%E5%85%83%E4%B9%B0%E4%BA%863%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "防大汛防强台风 多省份关键期这样做",
-      "url": "https://www.baidu.com/s?wd=%E9%98%B2%E5%A4%A7%E6%B1%9B%E9%98%B2%E5%BC%BA%E5%8F%B0%E9%A3%8E+%E5%A4%9A%E7%9C%81%E4%BB%BD%E5%85%B3%E9%94%AE%E6%9C%9F%E8%BF%99%E6%A0%B7%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "台风白海豚或吞掉台风鲸鱼",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%88%96%E5%90%9E%E6%8E%89%E5%8F%B0%E9%A3%8E%E9%B2%B8%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "上海一酒店房间爬满床虱 住客反被怼",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E7%88%AC%E6%BB%A1%E5%BA%8A%E8%99%B1+%E4%BD%8F%E5%AE%A2%E5%8F%8D%E8%A2%AB%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "中国五箭齐发反制美国",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "80后女柜员获聘4200亿银行副行长",
-      "url": "https://www.baidu.com/s?wd=80%E5%90%8E%E5%A5%B3%E6%9F%9C%E5%91%98%E8%8E%B7%E8%81%984200%E4%BA%BF%E9%93%B6%E8%A1%8C%E5%89%AF%E8%A1%8C%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "官方回应献血屋不让市民入内躲雨",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8C%AE%E8%A1%80%E5%B1%8B%E4%B8%8D%E8%AE%A9%E5%B8%82%E6%B0%91%E5%85%A5%E5%86%85%E8%BA%B2%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "伊朗总统：最高领袖决策过程遭人利用",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "认错比谁都快 这届用户被AI气笑了",
-      "url": "https://www.baidu.com/s?wd=%E8%AE%A4%E9%94%99%E6%AF%94%E8%B0%81%E9%83%BD%E5%BF%AB+%E8%BF%99%E5%B1%8A%E7%94%A8%E6%88%B7%E8%A2%ABAI%E6%B0%94%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "眼镜王蛇筑窝产下38枚蛋 村民报警",
-      "url": "https://www.baidu.com/s?wd=%E7%9C%BC%E9%95%9C%E7%8E%8B%E8%9B%87%E7%AD%91%E7%AA%9D%E4%BA%A7%E4%B8%8B38%E6%9E%9A%E8%9B%8B+%E6%9D%91%E6%B0%91%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "曝《蜘蛛侠》替身“河南弟”造假抢功",
-      "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%E3%80%8B%E6%9B%BF%E8%BA%AB%E2%80%9C%E6%B2%B3%E5%8D%97%E5%BC%9F%E2%80%9D%E9%80%A0%E5%81%87%E6%8A%A2%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "母子在“天津之眼”海河边游玩时溺亡",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E5%AD%90%E5%9C%A8%E2%80%9C%E5%A4%A9%E6%B4%A5%E4%B9%8B%E7%9C%BC%E2%80%9D%E6%B5%B7%E6%B2%B3%E8%BE%B9%E6%B8%B8%E7%8E%A9%E6%97%B6%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "泰国一女公务员妆容引争议 本人回应",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%A5%B3%E5%85%AC%E5%8A%A1%E5%91%98%E5%A6%86%E5%AE%B9%E5%BC%95%E4%BA%89%E8%AE%AE+%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -132,8 +132,8 @@
       "url": "https://b23.tv/BV1R53R6rE7a"
     },
     {
-      "title": "《漫画群星：大集结》首曝PV——「终章」将至，热血重燃。",
-      "url": "https://b23.tv/BV1hTuw6UExD"
+      "title": "周 处 除 三 害 现实版",
+      "url": "https://b23.tv/BV1bpM16eEAk"
     },
     {
       "title": "《别接我，我改！》",
@@ -144,10 +144,6 @@
       "url": "https://b23.tv/BV1LDM16LEfU"
     },
     {
-      "title": "周 处 除 三 害 现实版",
-      "url": "https://b23.tv/BV1bpM16eEAk"
-    },
-    {
       "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
       "url": "https://b23.tv/BV17vuw68E58"
     },
@@ -156,16 +152,20 @@
       "url": "https://b23.tv/BV1wZMy6DE31"
     },
     {
-      "title": "“这照片是你吗”",
-      "url": "https://b23.tv/BV1S5Mr6pEgE"
+      "title": "我好像出了个假国！中国人在纽约建了个新县城？",
+      "url": "https://b23.tv/BV1LPMr6cE6u"
     },
     {
-      "title": "生活中最阴的概念神实力排行（2）",
-      "url": "https://b23.tv/BV1LcMr6AESQ"
+      "title": "拍铃铛四人版~",
+      "url": "https://b23.tv/BV13eMk6bESU"
     },
     {
-      "title": "本想简单吃个见手青小炒，却被云南厨师火焰魔法吓晕了...",
-      "url": "https://b23.tv/BV1e8Mk6wEWZ"
+      "title": "【萌黄速报】9月高招S忍宇智波鼬[晓·朱]，忍法帖情报抢先看！",
+      "url": "https://b23.tv/BV1Tgun68EBd"
+    },
+    {
+      "title": "我最爱吃黄焖鸡了！",
+      "url": "https://b23.tv/BV1zEMk6zEJk"
     }
   ],
   "weibo": [
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "儿子举报身价上亿父亲说家已破碎",
+      "title": "陈熠张本美和爆分",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,7 +182,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "人在北京的夜生活",
+      "title": "享界G9预售43.98万起",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "怀疑自己比例不好都没怀疑过镜子",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,108 +194,104 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "宇树科技发行价150.8元",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "工作其实是很养人的",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "用惯拼多多发现很多东西不该这么贵",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "苏泊尔 擦边",
       "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "千山茶客 来日有信",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "小米徐洁云回应孩go言论",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "曝Bin回BLG基地",
-      "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "80后女柜员逆袭成4200亿银行副行长",
-      "url": "https://www.toutiao.com/trending/7670734565728272447/"
+      "title": "中国“五箭齐发”反制美国",
+      "url": "https://www.toutiao.com/trending/7670706969024184358/"
     },
     {
-      "title": "伊朗总统：最高领袖决策过程遭人利用",
-      "url": "https://www.toutiao.com/trending/7670008339098750483/"
+      "title": "美退还1000亿美元关税特朗普输了吗",
+      "url": "https://www.toutiao.com/trending/7670860336727068203/"
     },
     {
-      "title": "知识产权强国建设驶入“快车道”",
-      "url": "https://www.toutiao.com/trending/7670412446506438150/"
+      "title": "我国编制完成新版全月地质图",
+      "url": "https://www.toutiao.com/trending/7670889844792659506/"
     },
     {
-      "title": "女子从行驶货车上跳下 警方介入",
-      "url": "https://www.toutiao.com/trending/7670828645746245695/"
+      "title": "村民2千万拆迁款被分掉8年后才知晓",
+      "url": "https://www.toutiao.com/trending/7670830148002234394/"
+    },
+    {
+      "title": "女子利用漏洞0元薅走3000多件家电",
+      "url": "https://www.toutiao.com/trending/7670546861320732713/"
+    },
+    {
+      "title": "对话重庆地铁吐血女孩",
+      "url": "https://www.toutiao.com/trending/7670863821283806770/"
+    },
+    {
+      "title": "中央气象台发布台风黄色预警",
+      "url": "https://www.toutiao.com/trending/7670860118707146294/"
+    },
+    {
+      "title": "外交部：中国一贯奉行防御性国防政策",
+      "url": "https://www.toutiao.com/trending/7670869076971929663/"
     },
     {
       "title": "日本自卫队3架反潜巡逻机在东海活动",
       "url": "https://www.toutiao.com/trending/7670833787848101382/"
     },
     {
-      "title": "李亚鹏向地铁吐血女孩捐99999元",
-      "url": "https://www.toutiao.com/trending/7670496020695859238/"
-    },
-    {
-      "title": "90后女子自然受孕怀上四胞胎",
-      "url": "https://www.toutiao.com/trending/7670515295626428467/"
-    },
-    {
-      "title": "泰国一女公务员妆容引争议 本人回应",
-      "url": "https://www.toutiao.com/trending/7670782358530342939/"
-    },
-    {
-      "title": "A股重返3900点 情绪修复或近尾声",
-      "url": "https://www.toutiao.com/trending/7670833067421863467/"
-    },
-    {
-      "title": "俄导弹释放子母弹头摧毁基辅物流仓库",
-      "url": "https://www.toutiao.com/trending/7670665235145179145/"
+      "title": "台风逼近养殖户抢收成熟青蟹",
+      "url": "https://www.toutiao.com/trending/7670845551441625129/"
     }
   ],
   "ithome": [
     {
-      "title": "Nextorage 推出雷电 5 线材 NX-CBT12，提供 30cm、50cm、1m 版本",
-      "url": "/0/986/674.htm"
+      "title": "免被套可机洗真方便：网易严选果冻夏凉被 76 元新低，裸睡真的好舒服",
+      "url": "https://lapin.ithome.com/html/digi/986721.htm"
     },
     {
-      "title": "门店 79 元：361° 速干运动短袖 23 元官方再发车（遮肚款可选）",
-      "url": "https://lapin.ithome.com/html/digi/986673.htm"
+      "title": "特朗普科技顾问：部分企业以 AI 为借口实施裁员，这样听起来更好听",
+      "url": "/0/986/720.htm"
     },
     {
-      "title": "华硕 ROG 绝影 27 PLUS 曲面显示器 XG27WCMS 上市：2K 280Hz，2299 元",
-      "url": "/0/986/672.htm"
+      "title": "我国第二代 490 牛发动机圆满完成百发卫星飞行任务",
+      "url": "/0/986/718.htm"
     },
     {
-      "title": "11 部大银幕作品跨越 24 年时光，索尼影业蜘蛛侠系列电影官宣全球票房突破 685 亿人民币",
-      "url": "/0/986/668.htm"
+      "title": "R 星官宣北京时间 8 月 28 日发布《GTA 6》前瞻预告，Netflix 首播",
+      "url": "/0/986/717.htm"
     },
     {
-      "title": "微软要求开发人员优先使用 OpenAI 模型：将 GPT-5.6 Sol 作为默认选择",
-      "url": "/0/986/667.htm"
+      "title": "10.6 万元，索尼 FE 600mm F4 GM OSS 定焦 G 大师镜头国行上架",
+      "url": "/0/986/716.htm"
     },
     {
-      "title": "铭瑄正式推出“偶像瑷珈”主题主板 MS-iCraft B850M CROSS，标价 1299 元",
-      "url": "/0/986/652.htm"
+      "title": "索尼 PS5 Pro 推动 PSSR 2.0 普及：Beta 系统更新后自动启用画质增强选项",
+      "url": "/0/986/715.htm"
     },
     {
-      "title": "英伟达宣布参加 QuakeCon 2026：现场开放 RTX 5090 原价售卖活动，限量供应公版显卡",
-      "url": "/0/986/644.htm"
+      "title": "全新一代 smart 精灵#1 上市：定位新奢 AI 灵动 SUV，限时 14.99 万 / 16.99 万元",
+      "url": "/0/986/714.htm"
     },
     {
-      "title": "美国祖父母热衷将孙辈写进 AI 生成童书，引发父母辈大量反感",
-      "url": "/0/986/634.htm"
+      "title": "兰族推出指握鼠标冥神：雾透外壳，38±2g，活动到手价 849 元",
+      "url": "/0/986/713.htm"
     },
     {
-      "title": "专家辟谣“车市半年发了五六百款新车”，称 2026 年 1-6 月国内全新车型仅约 165 款",
-      "url": "/0/986/624.htm"
+      "title": "高德地图回应将下线武汉实时公交：放心，等公交神器还在",
+      "url": "/0/986/712.htm"
     },
     {
-      "title": "华硕 12.3 英寸 24:9 便携式触控显示器 ROG Strix XG129C 国行上市，1599 元",
-      "url": "/0/986/616.htm"
+      "title": "康宁玻璃：闪魔 iPhone 13~17 系列防爆膜 38 → 10.9 元官方冲量随时结束",
+      "url": "https://lapin.ithome.com/html/digi/986711.htm"
     }
   ],
   "github": [
@@ -308,10 +308,6 @@
       "url": "https://github.com/affaan-m/ECC"
     },
     {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
     },
@@ -324,16 +320,20 @@
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
-    },
-    {
       "title": "anthropics/skills: Public repository for Agent Skills",
       "url": "https://github.com/anthropics/skills"
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
     }
   ],
   "huggingface": [
