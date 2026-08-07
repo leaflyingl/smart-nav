@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-07T03:30:34.126Z",
+  "updatedAt": "2026-08-07T05:42:43.910Z",
   "sina": [
+    {
+      "title": "传58同城启动人员优化，销售团队压缩至6000人，官方暂无回应",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-08-07/doc-inimnkup0028560.shtml"
+    },
+    {
+      "title": "Airbnb爱彼迎：2026年第二季度营收达36亿美元，同比增长17%",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-08-07/doc-inimnenp3352389.shtml"
+    },
+    {
+      "title": "已投资超200家企业，净内部收益率14%，港投公司CEO陈家齐最新发声",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-08-07/doc-inimnenp3344867.shtml"
+    },
     {
       "title": "影石产品将上线AI语音助手，分区域接入阿里千问和Gemini模型",
       "url": "https://finance.sina.com.cn/tech/shenji/2026-08-07/doc-inimnent3218461.shtml"
@@ -28,105 +40,97 @@
     {
       "title": "海辰储能全球首个长时储能一体化产业园量产下线",
       "url": "https://finance.sina.com.cn/roll/2026-08-07/doc-inimmyev3272557.shtml"
-    },
-    {
-      "title": "荣耀MagicOS11启动内测报名，首次公开支撑液态玻璃设计的自研双架构体系",
-      "url": "https://finance.sina.com.cn/tech/shenji/2026-08-07/doc-inimmyem4212500.shtml"
-    },
-    {
-      "title": "曝字节拟训练超5万亿参数大模型 参数规模超Kimi K3",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimmayt2843668.shtml"
-    },
-    {
-      "title": "特斯拉 Terafab 晶圆厂落地得克萨斯州，马斯克豪言“把尖端制造带回美国”",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-07/doc-inimmayt2842505.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "多家光伏龙头回应美国加征关税",
-      "url": "https://wallstreetcn.com/lives/3146417"
+      "title": "沪深两市成交额突破2万亿，较上日此时缩量超70亿。",
+      "url": "https://wallstreetcn.com/lives/3146469"
     },
     {
-      "title": "进出口行发行1年期债券，规模120亿元，发行利率1.3920%，预期1.4100%，投标倍数4.29倍，边际倍数7.96",
-      "url": "https://wallstreetcn.com/lives/3146415"
+      "title": "中国台湾证交所加权股价指数收低0.4%报44,225.91点。",
+      "url": "https://wallstreetcn.com/lives/3146467"
     },
     {
-      "title": "本田7月中国汽车销量25,052辆，同比下降44.1%；1-7月中国汽车销量230,870辆，同比下降35.9%。",
-      "url": "https://wallstreetcn.com/lives/3146414"
+      "title": "广期所多晶硅主力合约大涨6%，报38230元/吨。",
+      "url": "https://wallstreetcn.com/lives/3146464"
     },
     {
-      "title": "隔夜SHIBOR报1.3610%，上涨0.80个基点。",
-      "url": "https://wallstreetcn.com/lives/3146411"
+      "title": "法国二季度ILO失业率 8.3%，预期 8.2%，前值 8.1%。",
+      "url": "https://wallstreetcn.com/lives/3146462"
     },
     {
-      "title": "海关总署公布的数据显示，中国7月集成电路出口金额达387.4亿美元；1-7月累计出口金额达2160亿美元，同比增长99.",
-      "url": "https://wallstreetcn.com/lives/3146408"
+      "title": "中国船舶旗下北海造船手持订单突破100艘",
+      "url": "https://wallstreetcn.com/lives/3146461"
     },
     {
-      "title": "国家统计局：今年前7个月我国出口机电产品11.12万亿元，增长21.2%",
-      "url": "https://wallstreetcn.com/lives/3146405"
+      "title": "国债期货午后涨幅扩大，30年期主力合约涨0.34%，续刷年内新高，10年期主力合约涨0.05%，5年期主力合约涨0.03",
+      "url": "https://wallstreetcn.com/lives/3146460"
     },
     {
-      "title": "中国7月铁矿砂及其精矿进口10,808.5万吨，同比增长3.3%。",
-      "url": "https://wallstreetcn.com/lives/3146404"
+      "title": "中国地震台网正式测定：8月7日13时08分在四川宜宾市高县发生4.9级地震，震源深度6千米。（新华社）",
+      "url": "https://wallstreetcn.com/lives/3146459"
     },
     {
-      "title": "中国7月原油进口3,572.6万吨，同比下降24.3%。",
-      "url": "https://wallstreetcn.com/lives/3146403"
+      "title": "A股CPO概念股再度拉升，中富电路涨超14%，光迅科技、汇绿生态此前涨停，杰普特、联讯仪器、亨通光电涨超6%。",
+      "url": "https://wallstreetcn.com/lives/3146458"
     },
     {
-      "title": "中国7月大豆进口1,147.7万吨，同比下降1.6%。",
-      "url": "https://wallstreetcn.com/lives/3146402"
+      "title": "暑期档票房破80亿",
+      "url": "https://wallstreetcn.com/lives/3146456"
     },
     {
-      "title": "中国7月贸易帐(按人民币计) 7670.7亿人民币，前值 8590.5亿人民币。",
-      "url": "https://wallstreetcn.com/lives/3146399"
+      "title": "A股创新药、CRO概念持续走强，义翘神州午后20cm涨停，药康生物、哈三联、百花医药、普洛药业、凯莱英等十余股封板，皓元",
+      "url": "https://wallstreetcn.com/lives/3146455"
     }
   ],
   "baidu": [
     {
-      "title": "今年是“闭眼秋”",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%98%AF%E2%80%9C%E9%97%AD%E7%9C%BC%E7%A7%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "公司“上四休三”但要降薪1000元",
+      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E2%80%9C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E2%80%9D%E4%BD%86%E8%A6%81%E9%99%8D%E8%96%AA1000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "越来越多高分考生放弃985选警校",
-      "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E9%AB%98%E5%88%86%E8%80%83%E7%94%9F%E6%94%BE%E5%BC%83985%E9%80%89%E8%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "今年是“闭眼秋”",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%98%AF%E2%80%9C%E9%97%AD%E7%9C%BC%E7%A7%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "打破国外垄断！中国重磅科技集中上新",
       "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%9B%BD%E5%A4%96%E5%9E%84%E6%96%AD%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%A3%85%E7%A7%91%E6%8A%80%E9%9B%86%E4%B8%AD%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "这些行为很伤大脑 你却每天都在做",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E8%A1%8C%E4%B8%BA%E5%BE%88%E4%BC%A4%E5%A4%A7%E8%84%91+%E4%BD%A0%E5%8D%B4%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "越来越多高分考生放弃985选警校",
+      "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E9%AB%98%E5%88%86%E8%80%83%E7%94%9F%E6%94%BE%E5%BC%83985%E9%80%89%E8%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "女子开一天一夜空调后二氧化碳中毒",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E4%B8%80%E5%A4%A9%E4%B8%80%E5%A4%9C%E7%A9%BA%E8%B0%83%E5%90%8E%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "四川宜宾市高县发生4.9级地震",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF%E5%8F%91%E7%94%9F4.9%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "内娱第一人 戚薇开放形象AI授权",
-      "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "为何年轻人不愿学医了",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%84%BF%E5%AD%A6%E5%8C%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "日本网红自杀案在韩国引发很大冲击",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E6%A1%88%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%BC%95%E5%8F%91%E5%BE%88%E5%A4%A7%E5%86%B2%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "台风白海豚体型变大近似13个浙江面积",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BD%93%E5%9E%8B%E5%8F%98%E5%A4%A7%E8%BF%91%E4%BC%BC13%E4%B8%AA%E6%B5%99%E6%B1%9F%E9%9D%A2%E7%A7%AF&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "27岁女子成组织卖淫集团主犯被通缉",
+      "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E6%88%90%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E8%A2%AB%E9%80%9A%E7%BC%89&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "泰国校园枪击案死亡人数升至7人",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B37%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "玲花累到不停喝水 曾毅闲到玩猜拳",
       "url": "https://www.baidu.com/s?wd=%E7%8E%B2%E8%8A%B1%E7%B4%AF%E5%88%B0%E4%B8%8D%E5%81%9C%E5%96%9D%E6%B0%B4+%E6%9B%BE%E6%AF%85%E9%97%B2%E5%88%B0%E7%8E%A9%E7%8C%9C%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "父亲劝读师范 女儿偏要考北大",
-      "url": "https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E5%8A%9D%E8%AF%BB%E5%B8%88%E8%8C%83+%E5%A5%B3%E5%84%BF%E5%81%8F%E8%A6%81%E8%80%83%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "泰交通部副部长回应中国游客遭歧视",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E4%BA%A4%E9%80%9A%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%AD%E6%AD%A7%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
+    {
+      "title": "本想简单吃个见手青小炒，却被云南厨师火焰魔法吓晕了...",
+      "url": "https://b23.tv/BV1e8Mk6wEWZ"
+    },
     {
       "title": "《死》死亡是什么？",
       "url": "https://b23.tv/BV115un6dE9a"
@@ -136,45 +140,41 @@
       "url": "https://b23.tv/BV1bpM16eEAk"
     },
     {
-      "title": "欢迎来到研究生的世界",
-      "url": "https://b23.tv/BV1R53R6rE7a"
-    },
-    {
       "title": "【独家】《将夜》第17集 痛其不通【4月国创】",
       "url": "https://b23.tv/BV1LDM16LEfU"
     },
     {
-      "title": "第三集 |🐧赛伊德：“雷斯也变成女孩了？！”🐧",
-      "url": "https://b23.tv/BV1T8uJ6oEqK"
+      "title": "听说洛克王国的精灵原型很难猜？",
+      "url": "https://b23.tv/BV1hTup6uERS"
     },
     {
-      "title": "末世羊毛成了硬通货，奏星造出了全自动刷线机【亡者世界】",
-      "url": "https://b23.tv/BV1U8uH6eE7b"
+      "title": "欢迎来到研究生的世界",
+      "url": "https://b23.tv/BV1R53R6rE7a"
     },
     {
-      "title": "保安从业手册！超好玩儿的奇幻喜剧，上映20年创意依然脑洞大开",
-      "url": "https://b23.tv/BV1GYMk6FEPY"
+      "title": "逆天！1.9元套餐收60元服务费，老板要起诉勇哥并报警！【网络狠人111】",
+      "url": "https://b23.tv/BV1LGuJ6uEvx"
     },
     {
-      "title": "把课本搬进现实，送娃入住有1000个兵马俑的奇葩酒店！他惊呆了！",
-      "url": "https://b23.tv/BV1qyu76BE7F"
+      "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
+      "url": "https://b23.tv/BV1U8MS65Efm"
     },
     {
       "title": "《别接我，我改！》",
       "url": "https://b23.tv/BV1v1Mr6wEiP"
     },
     {
-      "title": "逆天！1.9元套餐收60元服务费，老板要起诉勇哥并报警！【网络狠人111】",
-      "url": "https://b23.tv/BV1LGuJ6uEvx"
+      "title": "你可能不认识我，但是你绝对听过他的歌【网络奇人#1】",
+      "url": "https://b23.tv/BV1JtuF64ENj"
     }
   ],
   "weibo": [
     {
-      "title": "央视网评银行午休",
+      "title": "泸溪河牙冠事件消费者已致歉",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "1岁宝宝碰坏纸巾盒三亚酒店索赔924元",
+      "title": "宜宾地震",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,7 +182,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "iPhone18Pro十二大升级",
+      "title": "喝秋天第一口新上京东外卖",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "提离职被知道要裁员的领导硬留下",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,7 +194,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "今年是闭眼秋",
+      "title": "星巴克 秋天第一场商战",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,100 +202,96 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "结婚8年3娃非亲生司法鉴定已出",
+      "title": "1岁宝宝碰坏纸巾盒三亚酒店索赔924元",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "伊能静自曝不太想录妻旅",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "立秋",
+      "title": "韩国被爆性贿赂世预赛裁判",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "泰交通部副部长回应中国人遭歧视手势",
-      "url": "https://www.toutiao.com/trending/7670847220908605494/"
+      "title": "今年是闭眼秋",
+      "url": "https://www.toutiao.com/trending/7670017499157266475/"
     },
     {
-      "title": "男子结婚8年发现3个女儿均非亲生",
-      "url": "https://www.toutiao.com/trending/7670902198699819049/"
+      "title": "9岁120斤啦啦队女孩跳舞火出圈",
+      "url": "https://www.toutiao.com/trending/7670834349955514409/"
     },
     {
       "title": "服务实体经济 财政金融打出组合拳",
       "url": "https://www.toutiao.com/trending/7671066943114002441/"
     },
     {
-      "title": "今日立秋",
-      "url": "https://www.toutiao.com/trending/7670298640644096019/"
+      "title": "985博士后被曝在妻子孕期出轨后续",
+      "url": "https://www.toutiao.com/trending/7670317592955060278/"
     },
     {
-      "title": "台风白海豚或吞并鲸鱼 登陆地点更新",
-      "url": "https://www.toutiao.com/trending/7670771193105743923/"
+      "title": "四川宜宾市高县发生4.9级地震",
+      "url": "https://www.toutiao.com/trending/7671153460800146982/"
+    },
+    {
+      "title": "男友花15元为女孩手搓“空调”",
+      "url": "https://www.toutiao.com/trending/7670855173081710611/"
     },
     {
       "title": "命案逃犯躲进深山21年活得像野人",
       "url": "https://www.toutiao.com/trending/7670916470163619849/"
     },
     {
-      "title": "游客没网新疆老板：给你开热rrrr点",
-      "url": "https://www.toutiao.com/trending/7670463269527535652/"
+      "title": "70多岁父亲独自坐车到上海看望女儿",
+      "url": "https://www.toutiao.com/trending/7671102765592051763/"
     },
     {
-      "title": "美媒称美国想用战术核武器对抗中俄",
-      "url": "https://www.toutiao.com/trending/7670427362605498387/"
+      "title": "男子赴曼谷收“生意回款”失联58天",
+      "url": "https://www.toutiao.com/trending/7671107139330637843/"
     },
     {
-      "title": "立秋有哪些习俗",
-      "url": "https://www.toutiao.com/trending/7670843836490530826/"
-    },
-    {
-      "title": "宇树科技IPO能让多少人财富自由",
-      "url": "https://www.toutiao.com/trending/7670945660593507894/"
+      "title": "谁是宇树科技背后赢家",
+      "url": "https://www.toutiao.com/trending/7671113266424368678/"
     }
   ],
   "ithome": [
     {
-      "title": "我国科研团队破解超导量子计算“速度与保真度”矛盾",
-      "url": "/0/986/894.htm"
+      "title": "4.5% 驱蚊酯含量：郁美净蜜桃花露水 7.4 元官方发车（京东 13.9 元）",
+      "url": "https://lapin.ithome.com/html/digi/986941.htm"
     },
     {
-      "title": "Omdia 报告 2026Q2 全球平板出货量：苹果同比降 7.5%、三星降 13%、联想增 27.1%、小米降 6.8%、华为降 15.6%",
-      "url": "/0/986/893.htm"
+      "title": "中兴 TOPFLOW 直播神器 8 月 10 日预售，支持多网聚合",
+      "url": "/0/986/940.htm"
     },
     {
-      "title": "赠 2 个月超级大会员升级包：B站大会员 112 元发车，平台补贴随时结束",
-      "url": "/0/986/885.htm"
+      "title": "研究发现广岛原子弹爆炸产生了一种以前未知的合金",
+      "url": "/0/986/939.htm"
     },
     {
-      "title": "上市 135 天，零跑 A10 第 10 万台量产车正式下线、刷新品牌记录",
-      "url": "/0/986/882.htm"
+      "title": "影石产品将上线 AI 语音助手，分区域接入阿里千问和 Gemini 模型",
+      "url": "/0/986/938.htm"
     },
     {
-      "title": "上汽荣威家越 07 内饰首发：AI 极速制冰冷暖两用冰箱、前排双零重力座椅等",
-      "url": "/0/986/880.htm"
+      "title": "别克新 GL8 陆尚动力信息公布：新一代“真龙插混”，综合续航 1500km",
+      "url": "/0/986/937.htm"
     },
     {
-      "title": "用过就回不去了：维达多巴胺湿厕纸 26.9 元 360 片双重补贴（7.5 分 / 张）",
-      "url": "https://lapin.ithome.com/html/digi/986876.htm"
+      "title": "Neon 开源 4B 模型：文档搜索能力超 GPT-5.6 Sol，成本仅为 1/100",
+      "url": "/0/986/936.htm"
     },
     {
-      "title": "本田中国 7 月汽车销量 25052 辆，同比下降 44.1%",
-      "url": "/0/986/875.htm"
+      "title": "任职约 400 天应用排名在 App Store 上升 70 位：X 产品负责人比尔转任顾问",
+      "url": "/0/986/935.htm"
     },
     {
-      "title": "宝马德国慕尼黑工厂启动新一代 i3 系列生产，市场需求旺盛",
-      "url": "/0/986/870.htm"
+      "title": "北汽极狐阿尔法 T7 官宣 8 月 26 日预售，华为乾崑、宁德时代加持",
+      "url": "/0/986/934.htm"
     },
     {
-      "title": "苹果首款家用安防摄像头有望今秋登场：支持 4K，可用 AI 描述画面",
-      "url": "/0/986/869.htm"
+      "title": "又一演员授权 AI 形象，戚薇宣布推出个人官方数字分身、主演 AI 漫剧",
+      "url": "/0/986/933.htm"
     },
     {
-      "title": "小米米家智能电热水器 Pro 净垢双胆 80L 预售：功率 3300W，国补到手价 1954.15 元",
-      "url": "/0/986/868.htm"
+      "title": "2027 款奇瑞风云 A9L 上市：轴距 3000mm，限时红包价 13.99 万元起",
+      "url": "/0/986/932.htm"
     }
   ],
   "github": [
