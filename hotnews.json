@@ -1,13 +1,33 @@
 {
-  "updatedAt": "2026-08-07T12:10:03.528Z",
+  "updatedAt": "2026-08-07T13:50:26.330Z",
   "sina": [
+    {
+      "title": "莫言携新书《人呐》做客京东图书分享会",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimpfxz3054840.shtml"
+    },
     {
       "title": "京东健康上半年首发65款新药，覆盖肿瘤、皮肤等领域",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimnzsc3122641.shtml"
     },
     {
+      "title": "到手价16499元！华硕ROG魔霸9X台式机上新：酷睿Ultra 7+32GB DDR5",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimnvki0012633.shtml"
+    },
+    {
+      "title": "存储暴涨谁也躲不开，iPhone 18 Pro国行或冲击万元门槛",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimnvkf3235069.shtml"
+    },
+    {
+      "title": "华为何刚官宣 FreeClip 2 耳夹耳机配饰上新，和法国珠宝品牌 Les Néréides 达成合作",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-07/doc-inimnvkf3242334.shtml"
+    },
+    {
       "title": "对话西湖数智创始人于开丞：走专用模型老路，具身智能进家庭要等上百年",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimnvkp4794609.shtml"
+    },
+    {
+      "title": "网易前主管监守自盗：利用后台权限窃取《梦幻西游》171 个闲置账号，牟利 173 万元获三年缓刑",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-07/doc-inimnvkm3187566.shtml"
     },
     {
       "title": "天工短剧工作台接入Seedance 2.5，定价打三折",
@@ -20,90 +40,70 @@
     {
       "title": "美图RoboNeo接入Seedance 2.5",
       "url": "https://finance.sina.com.cn/tech/it/2026-08-07/doc-inimnvkm3151888.shtml"
-    },
-    {
-      "title": "Seedance 2.5 API上线",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-07/doc-inimnvkh9934281.shtml"
-    },
-    {
-      "title": "对话熠序科技创始人李德辉：给AI打疫苗、发身份证，这家5个月的公司天使轮拿到了15亿估值",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-07/doc-inimnram0033788.shtml"
-    },
-    {
-      "title": "宇树科技王兴兴：公司将并行开展WMA世界模型、VLA视觉-语言-动作具身大模型研发",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-07/doc-inimnrap3208937.shtml"
-    },
-    {
-      "title": "韩政府反驳美方涉新版数字法歧视美企主张",
-      "url": "https://finance.sina.com.cn/world/2026-08-07/doc-inimnrap3188117.shtml"
-    },
-    {
-      "title": "Lazard新兴市场股票基金抄底三星 看好内存芯片上行周期",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-07/doc-inimnrac4108795.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "广东省在澳门成功发行离岸人民币地方政府债券25亿元",
-      "url": "https://wallstreetcn.com/lives/3146709"
+      "title": "租房补贴每月最高5000元 海口人才住房保障新规下月施行",
+      "url": "https://wallstreetcn.com/lives/3146774"
     },
     {
-      "title": "以黎会谈被迫结束 美方声称“进展积极”",
-      "url": "https://wallstreetcn.com/lives/3146708"
+      "title": "白宫国家经济委员会主任哈塞特：剔除政府就业和世界杯因素后，美国就业人数增加10万。",
+      "url": "https://wallstreetcn.com/lives/3146772"
     },
     {
-      "title": "民调：半数美国人认为美军行动将破坏中东稳定",
-      "url": "https://wallstreetcn.com/lives/3146707"
+      "title": "全国76个典型地区再生水利用配置试点工作完成",
+      "url": "https://wallstreetcn.com/lives/3146771"
     },
     {
-      "title": "AI相关债券密集发售引发“消化不良”，华尔街被迫重新思考配售策略",
-      "url": "https://wallstreetcn.com/lives/3146706"
+      "title": "北美科技软件股指数ETF涨超2.7%，报102.34美元，逼近8月5日盘中最高位103.72美元和6月1日顶部108.0",
+      "url": "https://wallstreetcn.com/lives/3146770"
     },
     {
-      "title": "寒武纪：2026年上半年净利润23.11亿元，同比增122.61%",
-      "url": "https://wallstreetcn.com/lives/3146703"
+      "title": "“新美联储通讯社”：7月就业报告削弱加息理由，但关键在通胀数据",
+      "url": "https://wallstreetcn.com/lives/3146769"
     },
     {
-      "title": "市场监管总局：我国牵头制定的全球首项卷曲显示器件国际标准发布",
-      "url": "https://wallstreetcn.com/lives/3146701"
+      "title": "西班牙要求意大利取消针对性旅客边检",
+      "url": "https://wallstreetcn.com/lives/3146768"
     },
     {
-      "title": "首周成交逾1.3万手！港交所五年期国债期货运行平稳",
-      "url": "https://wallstreetcn.com/lives/3146698"
+      "title": "Atlassian股价飙升33%，创2015年12月以来最大盘中涨幅。",
+      "url": "https://wallstreetcn.com/lives/3146765"
     },
     {
-      "title": "上海市知识产权局与华为公司座谈交流",
-      "url": "https://wallstreetcn.com/lives/3146696"
+      "title": "美国7月非农超预期下降，美股三大股指集体高开",
+      "url": "https://wallstreetcn.com/lives/3146763"
     },
     {
-      "title": "佰维存储：控股子公司拟增资不超6亿元引入投资者",
-      "url": "https://wallstreetcn.com/lives/3146695"
+      "title": "标普500指数高开25.22点，涨幅0.33%，报7735.18点；",
+      "url": "https://wallstreetcn.com/lives/3146762"
     },
     {
-      "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
-      "url": "https://wallstreetcn.com/lives/3146694"
+      "title": "北京市进一步优化调整房地产政策，优化住房限购政策，完善房屋赠与政策，加大住房公积金支持力度",
+      "url": "https://wallstreetcn.com/lives/3146760"
     }
   ],
   "baidu": [
     {
-      "title": "“今天得有40℃了吧 为啥还不预警”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E5%BE%97%E6%9C%8940%E2%84%83%E4%BA%86%E5%90%A7+%E4%B8%BA%E5%95%A5%E8%BF%98%E4%B8%8D%E9%A2%84%E8%AD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "重磅！北京调整房地产政策",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E5%8C%97%E4%BA%AC%E8%B0%83%E6%95%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "飞机票免费退改真的来了",
-      "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“今天得有40℃了吧 为啥还不预警”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E5%BE%97%E6%9C%8940%E2%84%83%E4%BA%86%E5%90%A7+%E4%B8%BA%E5%95%A5%E8%BF%98%E4%B8%8D%E9%A2%84%E8%AD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "未来五年中国民航重磅规划出炉",
       "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%B0%91%E8%88%AA%E9%87%8D%E7%A3%85%E8%A7%84%E5%88%92%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "河南三支一扶笔试成绩作废 将重考",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F+%E5%B0%86%E9%87%8D%E8%80%83&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "梁文锋 只想用座机",
+      "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "宇树科技中一签需缴款7.54万元",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "窦靖童终于放弃学王菲了",
+      "url": "https://www.baidu.com/s?wd=%E7%AA%A6%E9%9D%96%E7%AB%A5%E7%BB%88%E4%BA%8E%E6%94%BE%E5%BC%83%E5%AD%A6%E7%8E%8B%E8%8F%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "商家称1小时被20条差评后门店倒闭",
@@ -114,54 +114,54 @@
       "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "河南撤回“领导带薪错峰休假”通知",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%92%A4%E5%9B%9E%E2%80%9C%E9%A2%86%E5%AF%BC%E5%B8%A6%E8%96%AA%E9%94%99%E5%B3%B0%E4%BC%91%E5%81%87%E2%80%9D%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "福建泉州市委书记张毅恭被查",
+      "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%B3%89%E5%B7%9E%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%BC%A0%E6%AF%85%E6%81%AD%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "啤酒巨头们正排队“去啤酒化”",
-      "url": "https://www.baidu.com/s?wd=%E5%95%A4%E9%85%92%E5%B7%A8%E5%A4%B4%E4%BB%AC%E6%AD%A3%E6%8E%92%E9%98%9F%E2%80%9C%E5%8E%BB%E5%95%A4%E9%85%92%E5%8C%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "吴碧霞 降维打击",
+      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E7%A2%A7%E9%9C%9E+%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "全国睡眠舒适度地图",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%9D%A1%E7%9C%A0%E8%88%92%E9%80%82%E5%BA%A6%E5%9C%B0%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "河南三支一扶笔试成绩作废 将重考",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F+%E5%B0%86%E9%87%8D%E8%80%83&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
+    {
+      "title": "不要“做”挑战？（第二十一期）",
+      "url": "https://b23.tv/BV18Jub6sECJ"
+    },
     {
       "title": "发烧梗",
       "url": "https://b23.tv/BV1Unub69EpX"
     },
     {
-      "title": "聪明猫在一起久了也会有一些共同点……",
-      "url": "https://b23.tv/BV1Guu46sEkA"
-    },
-    {
-      "title": "不要“做”挑战？（第二十一期）",
-      "url": "https://b23.tv/BV18Jub6sECJ"
+      "title": "《鸣潮》3.6版本PV | 蜃云灯影，凡尘剑心",
+      "url": "https://b23.tv/BV1Jcub6BEqB"
     },
     {
       "title": "【剧情】昭阳公主（2026）18【孔雪儿/李宏毅】（按姓氏笔画排序）",
       "url": "https://b23.tv/BV1bT3v6yEU5"
     },
     {
+      "title": "《鸣潮》3.6版本前瞻通讯 | 回顾影像",
+      "url": "https://b23.tv/BV1cout63E9X"
+    },
+    {
       "title": "《死》死亡是什么？",
       "url": "https://b23.tv/BV115un6dE9a"
+    },
+    {
+      "title": "聪明猫在一起久了也会有一些共同点……",
+      "url": "https://b23.tv/BV1Guu46sEkA"
     },
     {
       "title": "听说洛克王国的精灵原型很难猜？",
       "url": "https://b23.tv/BV1hTup6uERS"
     },
     {
-      "title": "囊 里 有 根 线 ？",
-      "url": "https://b23.tv/BV1AcMS6NEYQ"
-    },
-    {
       "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
       "url": "https://b23.tv/BV1U8MS65Efm"
-    },
-    {
-      "title": "【NCT WISH】《彼得潘 (Peter Pan)》特别Live Clip🧚‍♂️「NCT WISH中文课堂开课哩」先公开｜B站独家",
-      "url": "https://b23.tv/BV1tcut6UESg"
     },
     {
       "title": "【迈克尔·杰克逊：巨星之路】全体起立！是MJ！",
@@ -170,7 +170,23 @@
   ],
   "weibo": [
     {
-      "title": "歌手总决赛",
+      "title": "湖人 詹姆斯",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "一个没有空调外挂机的城市",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "暑期档票房超80亿",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "上淘宝闪购和张凌赫喝秋天第一杯",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "黄子弘凡好稳",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -178,123 +194,111 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "民用航空发展十五五规划",
+      "title": "歌手总决赛",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "喝秋天第一口新上京东外卖",
+      "title": "央视把音乐会开到了珠江上",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "河南三支一扶笔试将重考",
+      "title": "我支持万妮达当歌王",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "国乒男单横滨冠军赛全军覆没",
       "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "三支一扶作弊案",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "稀物集品牌大使黄星邱鼎杰",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "最尊重立秋的城市出现了",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "王者荣耀直播",
-      "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "北京暴雨",
-      "url": "https://www.toutiao.com/trending/7670777290070507583/"
+      "title": "北京出台房地产新政",
+      "url": "https://www.toutiao.com/trending/7670568325163794468/"
     },
     {
-      "title": "泉州市委书记张毅恭被查",
-      "url": "https://www.toutiao.com/trending/7671237921617219108/"
+      "title": "非京籍社保个税缴一年可购房",
+      "url": "https://www.toutiao.com/trending/7671279790707736618/"
     },
     {
       "title": "我国外贸延续良好增长态势",
       "url": "https://www.toutiao.com/trending/7671257847044427314/"
     },
     {
-      "title": "女儿卖房定价9000被母亲7500签约",
-      "url": "https://www.toutiao.com/trending/7671197679598501942/"
-    },
-    {
-      "title": "今年是闭眼秋",
-      "url": "https://www.toutiao.com/trending/7670017499157266475/"
-    },
-    {
-      "title": "孙宇晨回应在富豪榜上超王健林",
-      "url": "https://www.toutiao.com/trending/7670789431783800895/"
+      "title": "台风白海豚实时路径",
+      "url": "https://www.toutiao.com/trending/7670858062097481770/"
     },
     {
       "title": "河南三支一扶笔试将重考",
       "url": "https://www.toutiao.com/trending/7670910281817227300/"
     },
     {
-      "title": "被误会的节气：立秋到底是个啥",
-      "url": "https://www.toutiao.com/trending/7671213007820557850/"
+      "title": "北京暴雨",
+      "url": "https://www.toutiao.com/trending/7670777290070507583/"
     },
     {
-      "title": "台风白海豚中心风力增强",
-      "url": "https://www.toutiao.com/trending/7671231818850373161/"
+      "title": "地震时老公第一时间紧紧护住老婆",
+      "url": "https://www.toutiao.com/trending/7671229461672640566/"
     },
     {
-      "title": "从731部队交易到海外实验室网络",
-      "url": "https://www.toutiao.com/trending/7671098096596025385/"
+      "title": "泉州市委书记张毅恭被查",
+      "url": "https://www.toutiao.com/trending/7671237921617219108/"
+    },
+    {
+      "title": "今年是闭眼秋",
+      "url": "https://www.toutiao.com/trending/7670017499157266475/"
+    },
+    {
+      "title": "四川宜宾高县4.9级地震致1死",
+      "url": "https://www.toutiao.com/trending/7671262451727339062/"
     }
   ],
   "ithome": [
     {
-      "title": "李斌透露蔚来新车将搭载 120 度三元电池，所有车型都能用",
-      "url": "/0/987/182.htm"
+      "title": "比亚迪 2027 款海豹 06 全新车色官图发布：定位“B 级满配家轿”，首批展车到店",
+      "url": "/0/987/198.htm"
     },
     {
-      "title": "寒武纪 2026 上半年归母净利润 23.11 亿元，同比增长 122.61%",
-      "url": "/0/987/181.htm"
+      "title": "索尼 WH-1000XM4C 耳机曝光：XM4 衍生版本，续航时间略有下降",
+      "url": "/0/987/197.htm"
     },
     {
-      "title": "对标杜比全景声：三星 & 谷歌 Eclipsa Audio 技术细节曝光，原生支持 5.1.2/7.1.4 声道、未来可自定义音频元素",
-      "url": "/0/986/792.htm"
+      "title": "大众高尔夫混动版海外上市，3.58 万欧元起",
+      "url": "/0/987/196.htm"
     },
     {
-      "title": "荣耀 Robot Phone 官宣采用钛合金灵巧云台：电机最大转速 360°/秒，新机 8 月 12 日发布",
-      "url": "/0/987/179.htm"
+      "title": "低过京东超级补贴：天海藏麻辣 / 蒜蓉小龙虾 3 斤 39.5 元解馋大促",
+      "url": "https://lapin.ithome.com/html/digi/987159.htm"
     },
     {
-      "title": "迈从 God 60 磁轴键盘开售：16K 回报率、可选《凡人》动画联名款，999 元-1299 元",
-      "url": "/0/987/178.htm"
+      "title": "Meta 旗下 AI 模型测试时意外入侵第三方企业系统",
+      "url": "/0/987/195.htm"
     },
     {
-      "title": "咔嚓酥脆就是好吃：冻干巧克力 6 块 13 → 6.6 元尝尝鲜，平台补贴随时结束",
-      "url": "https://lapin.ithome.com/html/digi/987177.htm"
+      "title": "华硕破晓 7 Pro 商务本新增酷睿 Ultra 5 325 型号，9999 元起",
+      "url": "/0/987/194.htm"
     },
     {
-      "title": "华硕无畏 Pro14 / 16 新增 16GB 内存版，7499 元起",
-      "url": "/0/987/176.htm"
+      "title": "东风猛士 X700 新车申报：方盒子造型、纯电续航最高 244km，华为乾崑同步上车",
+      "url": "/0/987/193.htm"
     },
     {
-      "title": "长城魏牌高山 9 完成申报，长城汽车谭健透露新增版型与现款飞瀑格栅版型会同时销售",
-      "url": "/0/987/175.htm"
+      "title": "壹号掌机 X2 Mini Pro 国行上市：AMD 锐龙 AI Max+ 388，预售 15599 元起",
+      "url": "/0/987/192.htm"
     },
     {
-      "title": "《沙丘：觉醒》主机版开发完成进入压盘阶段，9 月 22 日准时发售",
-      "url": "/0/987/174.htm"
+      "title": "大疆 Osmo 360 II 全景相机官宣，8 月 13 日见",
+      "url": "/0/987/191.htm"
     },
     {
-      "title": "华为何刚官宣 FreeClip 2 耳夹耳机配饰上新，和法国珠宝品牌 Les Néréides 达成合作",
-      "url": "/0/987/173.htm"
+      "title": "Suno 平台将为 AI 生成音乐添加隐水印，防止滥用现象发生",
+      "url": "/0/987/190.htm"
     }
   ],
   "github": [
+    {
+      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
     {
       "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
@@ -328,12 +332,8 @@
       "url": "https://github.com/anthropics/skills"
     },
     {
-      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code"
-    },
-    {
-      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     }
   ],
   "huggingface": [
