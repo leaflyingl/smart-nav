@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T21:41:34.560Z",
+  "updatedAt": "2026-08-07T22:39:28.873Z",
   "sina": [
     {
       "title": "算力紧缺背景下 亚马逊AWS要求工程师削减CPU资源浪费",
@@ -44,6 +44,18 @@
   ],
   "wallstreet": [
     {
+      "title": "南非兰特非农日涨超1.3%，本周累涨超2.3%",
+      "url": "https://wallstreetcn.com/lives/3146937"
+    },
+    {
+      "title": "受高温干旱影响，法国籽粒玉米产量或创新低",
+      "url": "https://wallstreetcn.com/lives/3146936"
+    },
+    {
+      "title": "大摩对日元转向偏空，干预影响逐渐消退",
+      "url": "https://wallstreetcn.com/lives/3146935"
+    },
+    {
       "title": "三菱日联：建议做多澳元/日元 ，美联储加息押注降温提振套息交易",
       "url": "https://wallstreetcn.com/lives/3146933"
     },
@@ -70,18 +82,6 @@
     {
       "title": "富时A50期指连续夜盘收涨0.23%，报15079点。",
       "url": "https://wallstreetcn.com/lives/3146926"
-    },
-    {
-      "title": "周五（8月7日）纽约尾盘，标普500股指期货最终涨0.56%，道指期货涨0.24%，纳斯达克100股指期货涨1.16%。",
-      "url": "https://wallstreetcn.com/lives/3146925"
-    },
-    {
-      "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，",
-      "url": "https://wallstreetcn.com/lives/3146924"
-    },
-    {
-      "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
-      "url": "https://wallstreetcn.com/lives/3146923"
     }
   ],
   "baidu": [
@@ -114,26 +114,26 @@
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8E%BB%E4%BD%A0%E7%9A%84%E5%B2%9B%E3%80%8B+%E8%A7%82%E4%BC%97%E5%93%AD%E5%B4%A9&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "北京多站点小时雨量下到全国第一",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%9A%E7%AB%99%E7%82%B9%E5%B0%8F%E6%97%B6%E9%9B%A8%E9%87%8F%E4%B8%8B%E5%88%B0%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "美股存储板块集体大跌",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "百花奖开幕式 刘浩存独舞",
       "url": "https://www.baidu.com/s?wd=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F+%E5%88%98%E6%B5%A9%E5%AD%98%E7%8B%AC%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "河南濮阳一女子趁店内无人拿走手机",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E8%B6%81%E5%BA%97%E5%86%85%E6%97%A0%E4%BA%BA%E6%8B%BF%E8%B5%B0%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "北京多站点小时雨量下到全国第一",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%9A%E7%AB%99%E7%82%B9%E5%B0%8F%E6%97%B6%E9%9B%A8%E9%87%8F%E4%B8%8B%E5%88%B0%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "不要“做”挑战？（第二十一期）",
-      "url": "https://b23.tv/BV18Jub6sECJ"
-    },
-    {
       "title": "发烧梗",
       "url": "https://b23.tv/BV1Unub69EpX"
+    },
+    {
+      "title": "不要“做”挑战？（第二十一期）",
+      "url": "https://b23.tv/BV18Jub6sECJ"
     },
     {
       "title": "聪明猫在一起久了也会有一些共同点……",
@@ -144,28 +144,28 @@
       "url": "https://b23.tv/BV1bT3v6yEU5"
     },
     {
-      "title": "《死》死亡是什么？",
-      "url": "https://b23.tv/BV115un6dE9a"
-    },
-    {
       "title": "家里的旧光盘，为什么播不出来了？",
       "url": "https://b23.tv/BV1ymux6BEFU"
     },
     {
-      "title": "周 处 除 三 害 现实版",
-      "url": "https://b23.tv/BV1bpM16eEAk"
+      "title": "《死》死亡是什么？",
+      "url": "https://b23.tv/BV115un6dE9a"
+    },
+    {
+      "title": "《凡应》EP02测试全新PV——与巨兽彼此依存，和鸣共生！",
+      "url": "https://b23.tv/BV1HEGN6UEF7"
     },
     {
       "title": "时停/欧拉！达摩空条承太郎皮肤，三形态白金之星打穿峡谷！自制联动皮肤特效！",
       "url": "https://b23.tv/BV19Yut6oEp7"
     },
     {
-      "title": "住宅低频噪音现场溯源-山东4家",
-      "url": "https://b23.tv/BV19juJ6vEqh"
+      "title": "周 处 除 三 害 现实版",
+      "url": "https://b23.tv/BV1bpM16eEAk"
     },
     {
-      "title": "在东方明珠玩100人躲猫猫！奖金10万元",
-      "url": "https://b23.tv/BV1ocu46fE1z"
+      "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
+      "url": "https://b23.tv/BV1rRut6rEGS"
     }
   ],
   "weibo": [
@@ -178,7 +178,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "民用航空发展十五五规划",
+      "title": "6组数据看我国外贸延续良好增长态势",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,11 +198,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "中餐厅",
+      "title": "专家辟谣车市半年发了五六百款新车",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "歌手排名",
+      "title": "中餐厅",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -216,8 +216,8 @@
       "url": "https://www.toutiao.com/trending/7670846466219622426/"
     },
     {
-      "title": "台风白海豚实时路径",
-      "url": "https://www.toutiao.com/trending/7670858062097481770/"
+      "title": "越来越多高分考生放弃985选警校",
+      "url": "https://www.toutiao.com/trending/7670392664409899058/"
     },
     {
       "title": "我国外贸延续良好增长态势",
@@ -236,20 +236,20 @@
       "url": "https://www.toutiao.com/trending/7670698699731337270/"
     },
     {
-      "title": "中医教你一招提升气血",
-      "url": "https://www.toutiao.com/trending/7670760697856868378/"
-    },
-    {
       "title": "女儿卖房定价9000被母亲7500签约",
       "url": "https://www.toutiao.com/trending/7671197679598501942/"
     },
     {
-      "title": "轮胎飞来撞晕车主 轿车自动停车呼120",
-      "url": "https://www.toutiao.com/trending/7671096540610723876/"
+      "title": "伊朗发视频隐喻美国国运衰落原因",
+      "url": "https://www.toutiao.com/trending/7671188288800899082/"
     },
     {
-      "title": "越来越多高分考生放弃985选警校",
-      "url": "https://www.toutiao.com/trending/7670392664409899058/"
+      "title": "中医教你一招提升气血",
+      "url": "https://www.toutiao.com/trending/7670760697856868378/"
+    },
+    {
+      "title": "台风白海豚实时路径",
+      "url": "https://www.toutiao.com/trending/7670858062097481770/"
     }
   ],
   "ithome": [
@@ -296,6 +296,10 @@
   ],
   "github": [
     {
+      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
       "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
     },
@@ -328,12 +332,8 @@
       "url": "https://github.com/anthropics/skills"
     },
     {
-      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code"
-    },
-    {
-      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     }
   ],
   "huggingface": [
