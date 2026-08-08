@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-08-08T12:54:11.671Z",
+  "updatedAt": "2026-08-08T13:48:31.853Z",
   "sina": [
+    {
+      "title": "16万亿砸向AIDC：AI大时代，电力成最大刚需？",
+      "url": "https://finance.sina.com.cn/roll/2026-08-08/doc-inimrkxi9485548.shtml"
+    },
+    {
+      "title": "吴声：联想AI把绿茵场变成了技术组织能力竞技场",
+      "url": "https://finance.sina.com.cn/roll/2026-08-08/doc-inimrkxf2420140.shtml"
+    },
     {
       "title": "“非计划”空间事件！中国卫星拍到了",
       "url": "https://finance.sina.com.cn/roll/2026-08-08/doc-inimrkxf2404925.shtml"
@@ -32,17 +40,21 @@
     {
       "title": "槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimpfya9879883.shtml"
-    },
-    {
-      "title": "算力紧缺背景下 亚马逊AWS要求工程师削减CPU资源浪费",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-07/doc-inimpfya9842938.shtml"
-    },
-    {
-      "title": "莫言携新书《人呐》做客京东图书分享会",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimpfxz3054840.shtml"
     }
   ],
   "wallstreet": [
+    {
+      "title": "一船只在阿曼以东海域遭袭起火",
+      "url": "https://wallstreetcn.com/lives/3147020"
+    },
+    {
+      "title": "土耳其在袭击激增后推迟黑海船只通行",
+      "url": "https://wallstreetcn.com/lives/3147019"
+    },
+    {
+      "title": "我国多家上市公司宣布收到美国关税退税",
+      "url": "https://wallstreetcn.com/lives/3147014"
+    },
     {
       "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
       "url": "https://wallstreetcn.com/lives/3147013"
@@ -70,18 +82,6 @@
     {
       "title": "浙江省水利厅将水旱灾害防御（防台）应急响应提升至Ⅰ级",
       "url": "https://wallstreetcn.com/lives/3147007"
-    },
-    {
-      "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司",
-      "url": "https://wallstreetcn.com/lives/3147006"
-    },
-    {
-      "title": "楼继伟理事长出席资产盘活课题研讨会",
-      "url": "https://wallstreetcn.com/lives/3147005"
-    },
-    {
-      "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
-      "url": "https://wallstreetcn.com/lives/3147004"
     }
   ],
   "baidu": [
@@ -106,16 +106,16 @@
       "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E9%80%83%E7%AA%9C%E6%97%B6%E4%BC%A4%E5%AE%B3%E5%A4%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "西湖突现狂风暴雨 游客瞬间被浇透",
-      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E7%AA%81%E7%8E%B0%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%A8+%E6%B8%B8%E5%AE%A2%E7%9E%AC%E9%97%B4%E8%A2%AB%E6%B5%87%E9%80%8F&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "“新疆的交警怎么个个像我妈”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E7%96%86%E7%9A%84%E4%BA%A4%E8%AD%A6%E6%80%8E%E4%B9%88%E4%B8%AA%E4%B8%AA%E5%83%8F%E6%88%91%E5%A6%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "伊朗媒体发布伊朗最高领袖视频",
+      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "《欢迎来龙餐馆》口碑",
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%8F%A3%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "永和豆浆创始人林炳生去世",
+      "url": "https://www.baidu.com/s?wd=%E6%B0%B8%E5%92%8C%E8%B1%86%E6%B5%86%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9E%97%E7%82%B3%E7%94%9F%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "梁家辉百花奖演讲落泪",
@@ -144,28 +144,28 @@
       "url": "https://b23.tv/BV1CLuE67Ep9"
     },
     {
-      "title": "哈哈哈哈哈哈哈！！！",
-      "url": "https://b23.tv/BV1NRun6bEgv"
-    },
-    {
       "title": "改画哪有不疯的！（第26期）",
       "url": "https://b23.tv/BV1oxut6hEMH"
     },
     {
-      "title": "【加油TV】你这一辈子有没有想跟谁拼过命……",
-      "url": "https://b23.tv/BV144uM6FEDf"
+      "title": "哈哈哈哈哈哈哈！！！",
+      "url": "https://b23.tv/BV1NRun6bEgv"
     },
     {
       "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
       "url": "https://b23.tv/BV1rRut6rEGS"
     },
     {
-      "title": "杨梅",
-      "url": "https://b23.tv/BV18yuE6tETS"
-    },
-    {
       "title": "在东方明珠玩100人躲猫猫！奖金10万元",
       "url": "https://b23.tv/BV1ocu46fE1z"
+    },
+    {
+      "title": "聪明猫在一起久了也会有一些共同点……",
+      "url": "https://b23.tv/BV1Guu46sEkA"
+    },
+    {
+      "title": "【半佛】小米澎程，让行业睡不着了？",
+      "url": "https://b23.tv/BV1iFMX6aE9b"
     }
   ],
   "weibo": [
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "河南西平刑案嫌犯已落网",
+      "title": "奥德赛",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,23 +182,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "在电影院要小心自己的喝的",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "孙红雷艾特错王玉雯",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "虞书欣古子成大婚路透",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "超舒适的悦野方盒子",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "阿根廷队长父亲去世",
+      "title": "沈腾演技",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -206,7 +190,23 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "刺激之夜cos",
+      "title": "情侣平潭翻墙拍日出坠崖",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "汪汪队大电影3孩子开心家长放心",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "AG对战KSG",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "孙红雷艾特错王玉雯",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "苹果AI 千问",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -236,23 +236,51 @@
       "url": "https://www.toutiao.com/trending/7670462868617445402/"
     },
     {
+      "title": "上半年国内手机销量TOP30出炉",
+      "url": "https://www.toutiao.com/trending/7670854651357904947/"
+    },
+    {
       "title": "河南西平刑案嫌犯逃窜时伤害多人",
       "url": "https://www.toutiao.com/trending/7670835580204518953/"
     },
     {
-      "title": "永和豆浆创始人林炳生逝世",
-      "url": "https://www.toutiao.com/trending/7671601007847489555/"
+      "title": "WTT横滨冠军赛国乒女单三将晋级四强",
+      "url": "https://www.toutiao.com/trending/7670712779452071955/"
     },
     {
-      "title": "银龙鱼离世大哥正伤心妻子问能吃不",
-      "url": "https://www.toutiao.com/trending/7671152814982201395/"
-    },
-    {
-      "title": "日本或正为美国历史性违约做贡献",
-      "url": "https://www.toutiao.com/trending/7671616828153531946/"
+      "title": "警方捣毁为电诈提供服务黑灰产团伙",
+      "url": "https://www.toutiao.com/trending/7671601812075544618/"
     }
   ],
   "ithome": [
+    {
+      "title": "OPPO 首次推出 FatMax 超燃脂模式：自研算法计算专属燃脂心率区间，9 月随 Watch S2 首发上线",
+      "url": "/0/987/440.htm"
+    },
+    {
+      "title": "斯蒂芬 · 库里特别版谷歌 Pixel Watch 5 手表曝光，亮橙色点缀表带",
+      "url": "/0/987/439.htm"
+    },
+    {
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+      "url": "/0/987/438.htm"
+    },
+    {
+      "title": "美国纽约向高速电动自行车宣战，要求亚马逊、沃尔玛停售相关产品",
+      "url": "/0/987/437.htm"
+    },
+    {
+      "title": "250ml 商超 6 元 → 官方 2.3 元限时秒杀：金典全脂 / 低脂纯牛奶刚需闭眼囤",
+      "url": "https://lapin.ithome.com/html/digi/987436.htm"
+    },
+    {
+      "title": "全球最大 AI 算力超级单体：远景乌兰察布星河基地投产，百万卡并行、百万 P 算力",
+      "url": "/0/987/435.htm"
+    },
+    {
+      "title": "GNOME 团队一成员获德国主权技术机构资金支持，帮助该桌面环境提升设计审美",
+      "url": "/0/987/434.htm"
+    },
     {
       "title": "科学新发现：竹节虫经历百万年无性繁殖后仍未退化，挑战“用进废退”假说",
       "url": "/0/987/433.htm"
@@ -262,36 +290,8 @@
       "url": "/0/987/432.htm"
     },
     {
-      "title": "限时买一送一：七色纺 EVA 材质拖鞋 16.8 元 2 双刚需速囤（赠退货宝）",
-      "url": "https://lapin.ithome.com/html/digi/987431.htm"
-    },
-    {
       "title": "北汽集团官宣 8 月 10 日迎第 4000 万名用户新车交付",
       "url": "/0/987/430.htm"
-    },
-    {
-      "title": "阿维塔 07L 大五座 SUV 上市：华为乾崑智驾 ADS 5 + 鸿蒙座舱，限时权益价 21.99 万元起",
-      "url": "/0/987/429.htm"
-    },
-    {
-      "title": "Take-Two CEO 泽尔尼克回应《GTA 6》预告片 Netflix 独家首播：看过就懂",
-      "url": "/0/987/426.htm"
-    },
-    {
-      "title": "最慢 x86 指令“耻辱榜”：fxrstor64 单次执行 62 秒创纪录，相当于 1980 亿个 CPU 周期",
-      "url": "/0/987/425.htm"
-    },
-    {
-      "title": "2026 年度电影总票房突破 240 亿元，《飞驰人生 3》《功夫女足》《给阿嬷的情书》暂列前三",
-      "url": "/0/987/424.htm"
-    },
-    {
-      "title": "双倍遗传：我国科学家破解甘蔗“母本恢复”百年育种谜题",
-      "url": "/0/987/423.htm"
-    },
-    {
-      "title": "摩托罗拉 Moto Pad 70 平板海外发布：天玑 6400 芯片，支持 5G 移动数据网络",
-      "url": "/0/987/422.htm"
     }
   ],
   "github": [
