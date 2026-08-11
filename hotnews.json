@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-11T01:57:43.683Z",
+  "updatedAt": "2026-08-11T03:51:15.309Z",
   "sina": [
+    {
+      "title": "特朗普“真实社交”平台今夏流量大幅下滑",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxewt4412938.shtml"
+    },
+    {
+      "title": "豆包刘星：“豆包推荐酒店要收费”说法不准确，仅在订单成交后支付渠道服务费",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-08-11/doc-inimxewt4412296.shtml"
+    },
+    {
+      "title": "特朗普媒体科技：超十家客户订阅“真实社交”实时数据流",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxewt4396041.shtml"
+    },
+    {
+      "title": "Anthropic冲刺史诗级IPO 路演安抚投资者信心",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxewu5940504.shtml"
+    },
+    {
+      "title": "贝索斯财团即将收购利物浦足球俱乐部少数股权",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxewp0771890.shtml"
+    },
+    {
+      "title": "华尔街六大巨头联手英伟达 敲定5000亿美元AI基建融资计划",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxewt4379292.shtml"
+    },
+    {
+      "title": "Applied Compute洽谈新一轮融资 估值有望翻倍至30亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxewp0761435.shtml"
+    },
+    {
+      "title": "千问开放AI眼镜生态：支持开发者打造导游、教练Skill",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-08-11/doc-inimxewt4373314.shtml"
+    },
     {
       "title": "TVB：拟成立合营公司 在港提供算力服务",
       "url": "https://finance.sina.com.cn/tech/shenji/2026-08-11/doc-inimxewu5879494.shtml"
@@ -8,290 +40,258 @@
     {
       "title": "罗永浩谈费大厨口号争议：营销宣传不老实，挨一些收拾也是活该",
       "url": "https://finance.sina.com.cn/tech/shenji/2026-08-11/doc-inimwyqr0838795.shtml"
-    },
-    {
-      "title": "城市竞争进入AI答案时代",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwyqv4378145.shtml"
-    },
-    {
-      "title": "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相",
-      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml"
-    },
-    {
-      "title": "人工智能催生新需求 金刚石散热材料迎来发展机遇",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwisz7873595.shtml"
-    },
-    {
-      "title": "Meta 扎克伯格：美国若想取得开源 AI 领先，就得减少政策障碍",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwcmc7973642.shtml"
-    },
-    {
-      "title": "美国本土直播带货 长出一头200亿美元巨兽",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-11/doc-inimwcmh6246369.shtml"
-    },
-    {
-      "title": "杰富瑞分析师：因良率不佳，苹果已砍掉 20 周年全玻璃 iPhone 机型",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwcmc7963044.shtml"
-    },
-    {
-      "title": "扎克伯格呼吁美国放宽开源 AI 限制，以应对中国竞争",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwcmh6225641.shtml"
-    },
-    {
-      "title": "传智谱ARR今年将达20亿美元，七月来新增200万API用户",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-10/doc-inimwcmh6217453.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "报道：蓝箭航天朱雀三号遥二运载火箭发射推迟",
-      "url": "https://wallstreetcn.com/lives/3147791"
+      "title": "11时，台风“白海豚”已减弱为热带低压，位于湖北黄冈境内。",
+      "url": "https://wallstreetcn.com/lives/3147846"
     },
     {
-      "title": "新股N超纯大涨超600%，单签盈利超20万，公司是半导体特殊涂层零部件设备商，主要面向芯片制造、精密光学等领域，提供经材",
-      "url": "https://wallstreetcn.com/lives/3147789"
+      "title": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应",
+      "url": "https://wallstreetcn.com/lives/3147845"
     },
     {
-      "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
-      "url": "https://wallstreetcn.com/lives/3147785"
+      "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
+      "url": "https://wallstreetcn.com/lives/3147843"
     },
     {
-      "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%",
-      "url": "https://wallstreetcn.com/lives/3147780"
+      "title": "中指研究院：前7个月全国法拍住宅成交同比增长超四成",
+      "url": "https://wallstreetcn.com/lives/3147842"
     },
     {
-      "title": "报道：苹果以玻璃为主体的iPhone仍将按计划于2027周年纪念日推出",
-      "url": "https://wallstreetcn.com/lives/3147778"
+      "title": "澳洲联储利率决议看点前瞻",
+      "url": "https://wallstreetcn.com/lives/3147839"
     },
     {
-      "title": "中证转债指数开盘下跌0.04%。华懋转债、航宇转债、金威转债、华峰转债、联瑞转债跌幅居前，分别跌2.33%、2.09%、",
-      "url": "https://wallstreetcn.com/lives/3147777"
+      "title": "上证指数早盘收报3964.79点，跌0.05%。",
+      "url": "https://wallstreetcn.com/lives/3147838"
     },
     {
-      "title": "澳大利亚7月NAB商业信心指数 -6，前值 -5。",
-      "url": "https://wallstreetcn.com/lives/3147775"
+      "title": "8月11日午间收评：创业板指半日涨1.41%，MLCC概念集体走强",
+      "url": "https://wallstreetcn.com/lives/3147837"
     },
     {
-      "title": "澳大利亚7月NAB商业景气指数 4，前值 3。",
-      "url": "https://wallstreetcn.com/lives/3147774"
+      "title": "国债期货早盘收盘，30年期主力合约跌0.04%，10年期主力合约跌0.02%，5年期主力合约跌0.02%，2年期主力合约",
+      "url": "https://wallstreetcn.com/lives/3147835"
     },
     {
-      "title": "国债期货开盘，30年期主力合约跌0.16%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.",
-      "url": "https://wallstreetcn.com/lives/3147773"
+      "title": "菲律宾比索跌至1美元兑61.066比索，为8月4日以来最低。",
+      "url": "https://wallstreetcn.com/lives/3147832"
     },
     {
-      "title": "上证指数开盘报3950.71点，跌0.40%。",
-      "url": "https://wallstreetcn.com/lives/3147771"
+      "title": "广东发行10年期一般债地方债，规模75.7482亿元，发行利率1.7400%，边际倍数23.21倍，倍数预期1.74；",
+      "url": "https://wallstreetcn.com/lives/3147830"
     }
   ],
   "baidu": [
     {
-      "title": "曾年销超76万的神车要退场了",
-      "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E5%B9%B4%E9%94%80%E8%B6%8576%E4%B8%87%E7%9A%84%E7%A5%9E%E8%BD%A6%E8%A6%81%E9%80%80%E5%9C%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "沃尔沃S90价格大幅跳水",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E6%B2%83S90%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "上海降水量破纪录 学生舍不得点外卖",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%99%8D%E6%B0%B4%E9%87%8F%E7%A0%B4%E7%BA%AA%E5%BD%95+%E5%AD%A6%E7%94%9F%E8%88%8D%E4%B8%8D%E5%BE%97%E7%82%B9%E5%A4%96%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "苏泊尔 好好卖锅别搞擦边",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%B3%8A%E5%B0%94+%E5%A5%BD%E5%A5%BD%E5%8D%96%E9%94%85%E5%88%AB%E6%90%9E%E6%93%A6%E8%BE%B9&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "农业“变酷”只是第一步",
-      "url": "https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E2%80%9C%E5%8F%98%E9%85%B7%E2%80%9D%E5%8F%AA%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "从一笔账单看60万亿消费KPI的底气",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%80%E7%AC%94%E8%B4%A6%E5%8D%95%E7%9C%8B60%E4%B8%87%E4%BA%BF%E6%B6%88%E8%B4%B9KPI%E7%9A%84%E5%BA%95%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "博物馆“非必要不预约”",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%9C%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E9%A2%84%E7%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "15岁男孩骑电瓶车进藏：去看务工父亲",
+      "url": "https://www.baidu.com/s?wd=15%E5%B2%81%E7%94%B7%E5%AD%A9%E9%AA%91%E7%94%B5%E7%93%B6%E8%BD%A6%E8%BF%9B%E8%97%8F%EF%BC%9A%E5%8E%BB%E7%9C%8B%E5%8A%A1%E5%B7%A5%E7%88%B6%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "不满房东涨租 于东来自掏65亿建商场",
       "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E6%BB%A1%E6%88%BF%E4%B8%9C%E6%B6%A8%E7%A7%9F+%E4%BA%8E%E4%B8%9C%E6%9D%A5%E8%87%AA%E6%8E%8F65%E4%BA%BF%E5%BB%BA%E5%95%86%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "女子花3万全款购入宝鸡40平米住房",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13%E4%B8%87%E5%85%A8%E6%AC%BE%E8%B4%AD%E5%85%A5%E5%AE%9D%E9%B8%A140%E5%B9%B3%E7%B1%B3%E4%BD%8F%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "马丽夫妇包70场支持沈腾新片",
+      "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%B8%BD%E5%A4%AB%E5%A6%87%E5%8C%8570%E5%9C%BA%E6%94%AF%E6%8C%81%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "男子瞒着妻子5年给父母转账50万",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "夫妻结婚40年都AA制 丈夫在家装监控",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%BB%93%E5%A9%9A40%E5%B9%B4%E9%83%BDAA%E5%88%B6+%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6%E8%A3%85%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "母子三人想去郴州结果到了彬州",
       "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E5%AD%90%E4%B8%89%E4%BA%BA%E6%83%B3%E5%8E%BB%E9%83%B4%E5%B7%9E%E7%BB%93%E6%9E%9C%E5%88%B0%E4%BA%86%E5%BD%AC%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "新能源车为何越造越大",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BA%E4%BD%95%E8%B6%8A%E9%80%A0%E8%B6%8A%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "第一次见有人撸台风羊毛",
-      "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%9C%89%E4%BA%BA%E6%92%B8%E5%8F%B0%E9%A3%8E%E7%BE%8A%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "豆包回应“推荐酒店抽取12%佣金”",
-      "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94%E2%80%9C%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%8A%BD%E5%8F%9612%25%E4%BD%A3%E9%87%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "医生问诊27岁女子 妈妈在旁不停打断",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E9%97%AE%E8%AF%8A27%E5%B2%81%E5%A5%B3%E5%AD%90+%E5%A6%88%E5%A6%88%E5%9C%A8%E6%97%81%E4%B8%8D%E5%81%9C%E6%89%93%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "【8-9月笔电散热器推荐】开学季+高温，你的笔电还好吗？压风式、抽风式、支架式 多品类散热器推荐，买前必看！",
-      "url": "https://b23.tv/BV1Zgud6LErr"
+      "title": "7款挂烫机横向测评！！超详细测试！！",
+      "url": "https://b23.tv/BV1UYuY6wEHs"
     },
     {
-      "title": "【头戴式耳机推荐】2026年8月选购攻略！头戴式蓝牙耳机/降噪/耳机推荐！含降噪实测/云视听！通勤/办公/游戏多场景覆盖，全程实测！小白选购指南！建议收藏！",
-      "url": "https://b23.tv/BV1kkud6WEbz"
+      "title": "【实拍实测】2026年8月显示器推荐，游戏/观影/设计全品类，买前必看！ HKC/蚂蚁电竞/KTC/AMZFAST/盛色/微星/ROG/三星/雷鸟/科睿/雷神",
+      "url": "https://b23.tv/BV1p6uY64EXe"
     },
     {
-      "title": "【2026年8月鼠标垫推荐】本期视频分为滑垫、中性垫和涩垫等各种价位，配合大促更实惠，快来看看有没有适合自己的！ 炫彩喵/黑著/赛蝰/虎符/ATK/大寒/",
-      "url": "https://b23.tv/BV1GzuR6qESb"
+      "title": "【2026年八月充电宝推荐】充电宝我只要又好看，容量又大，体积又小的！安克/酷态科/京东京造/西圣",
+      "url": "https://b23.tv/BV1mjui66ELY"
     },
     {
-      "title": "2026年7-8月电脑椅推荐】暑期想买电脑椅？人体工学椅还是电竞椅？不云评，全实拍实测！我将不饶弯子最直接的告诉你：清闲/保友/歌德利/自由家/京东京造/恒林",
-      "url": "https://b23.tv/BV15ouY61EZQ"
+      "title": "童年射击游戏变成这样，真不怕我玩疯啊！",
+      "url": "https://b23.tv/BV1NZuR6sEjD"
     },
     {
-      "title": "2026和平精英刺激之夜完整高清回放",
-      "url": "https://b23.tv/BV1ffuU6bEHj"
+      "title": "“一种开头一个结局，一部动漫一场青春”#02",
+      "url": "https://b23.tv/BV1xuM26wEhR"
     },
     {
-      "title": "你的手机，还好嘛？8月暑期手机散热器推荐，夏天给手机配个专属空调！全品类多价位段，带你找到最适合自己的手机散热器",
-      "url": "https://b23.tv/BV1iPub6vEdX"
+      "title": "[营销漫谈] 无效决斗？大疆影石超长预热漫谈",
+      "url": "https://b23.tv/BV1HWuF6FEUn"
     },
     {
       "title": "“两广人的家具belike：”【Monody-混响】【两广家具の小曲】",
       "url": "https://b23.tv/BV11Xuu6cEiJ"
     },
     {
-      "title": "在墨西哥，你甚至可以和神父摔角?!",
-      "url": "https://b23.tv/BV1Ckud6sEHm"
-    },
-    {
-      "title": "当星际战士降临，被邪神腐化的世界会如何发展？",
-      "url": "https://b23.tv/BV1YXMC6NEXY"
-    },
-    {
       "title": "《人民の少爷》",
       "url": "https://b23.tv/BV1rJuu6XE66"
+    },
+    {
+      "title": "靠这锅沙子烤玉米，他在印度街头撑起了尊严",
+      "url": "https://b23.tv/BV15HuZ62E6R"
+    },
+    {
+      "title": "淀粉：碳基压缩科技",
+      "url": "https://b23.tv/BV1ayuR6PE5V"
     }
   ],
   "weibo": [
     {
-      "title": "黄金",
+      "title": "睡车里被酒店收150元住宿费事件反转",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "白海豚突然大拐弯",
+      "title": "百妖谱官宣开机",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "长江十年行",
+      "title": "两部门紧急预拨1.8亿元救灾资金",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "杨幂 奖缘",
+      "title": "奕境X9全球首秀鸿蒙座舱6",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "旅游发朋友圈为什么要带定位",
+      "title": "艾米百妖谱出妆",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "疑山西一医院实习护士晒患者隐私照",
+      "title": "雅典娜案设局者仍在境外逃亡",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "阎鹤祥挑战大众5S质检标准",
+      "title": "姜小柔去世",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "曾经月销5万的车现在卖不动了",
+      "title": "凶手父母多次热情招待溺亡女孩父母",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "易烊千玺婉拒黄晓明唱歌邀请",
+      "title": "李嘉诚又要套现了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "国乒男单上半区失守",
+      "title": "NBA将放行伦纳德交易",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
+      "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+      "url": "https://www.toutiao.com/trending/7671598956682723379/"
+    },
+    {
       "title": "委内瑞拉强震死亡人数上升至6301人",
       "url": "https://www.toutiao.com/trending/7672078220703449130/"
     },
     {
-      "title": "广东省原省长朱森林逝世 享年96岁",
-      "url": "https://www.toutiao.com/trending/7672561341073145906/"
+      "title": "推动高质量充分就业取得新进展",
+      "url": "https://www.toutiao.com/trending/7672336501028470811/"
     },
     {
-      "title": "我国民营企业创新动能持续增强",
-      "url": "https://www.toutiao.com/trending/7672325725764091910/"
+      "title": "江浙沪多地特大暴雨破纪录",
+      "url": "https://www.toutiao.com/trending/7672447564037230122/"
     },
     {
-      "title": "多地公安机关打掉1000多个犯罪团伙",
-      "url": "https://www.toutiao.com/trending/7672442117175787583/"
-    },
-    {
-      "title": "哥伦比亚因强震进入国家灾难状态",
-      "url": "https://www.toutiao.com/trending/7672416286558653958/"
+      "title": "朱雀三号遥二运载火箭发射推迟",
+      "url": "https://www.toutiao.com/trending/7672584153350540819/"
     },
     {
       "title": "小狗被医院宣布死亡后自己跑回家",
       "url": "https://www.toutiao.com/trending/7672273576690827327/"
     },
     {
-      "title": "伊朗总统称最高领袖健康状况很好",
-      "url": "https://www.toutiao.com/trending/7672040770148417546/"
+      "title": "哥伦比亚华人称以为低血糖原来是地震",
+      "url": "https://www.toutiao.com/trending/7672582656137052202/"
     },
     {
-      "title": "胖东来发布顾客间侵权行为管理公示",
-      "url": "https://www.toutiao.com/trending/7671515837358145542/"
+      "title": "印度人为何拼命向外移民",
+      "url": "https://www.toutiao.com/trending/7672563448751853119/"
     },
     {
-      "title": "如何评价电视剧《重器》",
-      "url": "https://www.toutiao.com/trending/7671879395787898943/"
+      "title": "警方介入调查独闯南太行女子死因",
+      "url": "https://www.toutiao.com/trending/7672386776553406527/"
     },
     {
-      "title": "芬兰警察驾车追捕摩托骑手时发生碰撞",
-      "url": "https://www.toutiao.com/trending/7672010852192993331/"
+      "title": "多地公安机关打掉1000多个犯罪团伙",
+      "url": "https://www.toutiao.com/trending/7672442117175787583/"
     }
   ],
   "ithome": [
     {
-      "title": "2026 款微星泰坦 18 笔记本“Ultra 9 275HX + 16G + 1T + RTX 5070Ti”版本发售，18999 元",
-      "url": "/0/988/137.htm"
+      "title": "为应对 HBM 短缺，消息称英伟达 Rubin Ultra 测试 192GB/256GB HBM4 版本",
+      "url": "/0/988/231.htm"
     },
     {
-      "title": "DeepSeek 被曝偷偷给用户取外号，AI 回应称只是临时“打标签”、不会记忆",
-      "url": "/0/988/136.htm"
+      "title": "Navitas 起诉瑞萨氮化镓 (GaN) 产品侵权，化合物半导体专利战升温",
+      "url": "/0/988/230.htm"
     },
     {
-      "title": "京东自营 23.6 元：蓝怡宝卫生间清洁泡泡 13.5 元 3 瓶大促",
-      "url": "https://lapin.ithome.com/html/digi/988135.htm"
+      "title": "国产大飞机 C919 明日执飞首个国际商业航班，北京首都⇌乌兰巴托",
+      "url": "/0/988/229.htm"
     },
     {
-      "title": "荣耀畅玩 80 手机发售：搭载天玑 6300 处理器，1029 元起",
-      "url": "/0/988/134.htm"
+      "title": "HKC 推出“神盾 27U165B”27 英寸显示器：4K 165Hz / FHD 320Hz 双模 QD-Mini LED，3199 元",
+      "url": "/0/988/228.htm"
     },
     {
-      "title": "开源兼容层 Wine 11.15 发布：修复 Steam 鼠标操作异常等 41 个 Bug",
-      "url": "/0/988/133.htm"
+      "title": "报告称超 70% 美国人反对建设 AI 数据中心，7 月禁令数激增至 500+ 个",
+      "url": "/0/988/227.htm"
     },
     {
-      "title": "Anthropic Claude Sonnet 5 模型将维持首发优惠价，不再恢复原价",
-      "url": "/0/988/132.htm"
+      "title": "九州风神推出 LCD 版 CH690 机箱：集成 7\" 1024×600 LCD，899 元",
+      "url": "/0/988/226.htm"
     },
     {
-      "title": "《无人深空》迎来发售 10 周年，玩家累计游戏时间达数亿小时",
-      "url": "/0/988/131.htm"
+      "title": "小米 REDMI 投影仪 5 标准版发售：1080P 400 CVIA 流明，999 元",
+      "url": "/0/988/225.htm"
     },
     {
-      "title": "爱好者将 V 社 Steam Deck 硬件塞入 GameBoy 尺寸外壳，打造 SteamBoy 掌机",
-      "url": "/0/988/130.htm"
+      "title": "艾克拜尔兄弟品牌：春花邱食酱牛腱 1.8 斤 49 元再发车（京东 69 元）",
+      "url": "https://lapin.ithome.com/html/digi/988224.htm"
     },
     {
-      "title": "罗技第二代 G Pro X2 Superstrike 游戏鼠标曝 9 月发布：Nordic 54H20 微控制器",
-      "url": "/0/988/129.htm"
+      "title": "上千家企业参展、规模再创新高，2026 中国摩博会 9 月 19 日在重庆开幕",
+      "url": "/0/988/222.htm"
     },
     {
-      "title": "前 OpenAI 机器人部门主管 Caitlin Kalinowski 加入 Anthropic，还曾在苹果开发 Mac Pro",
-      "url": "/0/988/128.htm"
+      "title": "三星 Galaxy S26 等手机有望迎原生深色应用图标",
+      "url": "/0/988/221.htm"
     }
   ],
   "github": [
