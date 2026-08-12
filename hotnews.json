@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-12T11:49:45.547Z",
+  "updatedAt": "2026-08-12T13:16:11.377Z",
   "sina": [
+    {
+      "title": "荣耀CEO李健：Robot Phone预定量已超40万台，Magic9系列定档9月",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamih5182816.shtml"
+    },
+    {
+      "title": "美国7月核心通胀表现温和 缓解美联储加息压力",
+      "url": "https://finance.sina.com.cn/world/2026-08-12/doc-ininamim3909537.shtml"
+    },
+    {
+      "title": "美国纽约市对Polymarket与Kalshi展开全面调查",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininamif3497266.shtml"
+    },
+    {
+      "title": "荣耀Robot Phone正式上市：首发YOYO Pro模式，售价9999元起",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamim3898828.shtml"
+    },
+    {
+      "title": "寒武纪董事长谈“存货超82亿”：将持续拓展市场，控制相关风险",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininaezf6823479.shtml"
+    },
     {
       "title": "荣耀CEO李健：12个月前从零组建机器人团队，6个月冲刺马拉松打破人类半马世界纪录",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininaezi3586778.shtml"
@@ -20,68 +40,48 @@
     {
       "title": "REDMI K100 Pro系列发布：全系搭载AI独显、185Hz高刷屏，售价3999元起",
       "url": "https://finance.sina.com.cn/tech/it/2026-08-12/doc-ininaezf6763322.shtml"
-    },
-    {
-      "title": "京东知医全面接入云鹊医，免费赋能百万基层医生",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-12/doc-ininaezf6761479.shtml"
-    },
-    {
-      "title": "2027款海豹06上市：纯电续航最高630km，闪充智驾齐上车，售价9.99万元起",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-inimzytr4052005.shtml"
-    },
-    {
-      "title": "腾讯控股：第二季度录得负自由现金流人民币138亿元",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-inimzytm3651956.shtml"
-    },
-    {
-      "title": "AI没有“干掉”办公软件，反而正引发新一轮竞赛",
-      "url": "https://finance.sina.com.cn/roll/2026-08-12/doc-inimzytn5321561.shtml"
-    },
-    {
-      "title": "华硕 2026 财年半年报归母净利润 288.45 亿新台币",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzytn5317872.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "高盛将以23亿美元收购ETF供应商NEOS。（彭博）",
-      "url": "https://wallstreetcn.com/lives/3148611"
+      "title": "中国主动量化策略首度嵌入境外主动ETF",
+      "url": "https://wallstreetcn.com/lives/3148653"
     },
     {
-      "title": "深圳华强：董事长提议实施2026年半年度现金分红 拟10派3元",
-      "url": "https://wallstreetcn.com/lives/3148609"
+      "title": "腾讯总裁刘炽平谈AI资本开支增加：多款应用表现良好，已看到明显上行空间",
+      "url": "https://wallstreetcn.com/lives/3148651"
     },
     {
-      "title": "三星电子引入Anthropic Claude，芯片验证从一个月压缩至两天",
-      "url": "https://wallstreetcn.com/lives/3148608"
+      "title": "荣耀CEO李健：Robot Phone预定量已超40万台",
+      "url": "https://wallstreetcn.com/lives/3148650"
     },
     {
-      "title": "高盛：美联储或许2026年全年都维持利率不变 通胀将趋于缓和",
-      "url": "https://wallstreetcn.com/lives/3148607"
+      "title": "夜盘期货开盘，沪银涨2%，纸浆涨1%，沪锌、沪锡、沪金涨近1%；玻璃跌逾1%，焦煤、焦炭等下跌。",
+      "url": "https://wallstreetcn.com/lives/3148649"
     },
     {
-      "title": "宁德时代：拟参与投资海南时代绿色产业投资基金，认缴24.75亿元持有49.50%份额",
-      "url": "https://wallstreetcn.com/lives/3148606"
+      "title": "力源信息：上半年代理的村田产品销售额占公司代理产线销售收入接近四分之一",
+      "url": "https://wallstreetcn.com/lives/3148647"
     },
     {
-      "title": "李宁否认与姆巴佩合作：相关传闻不实",
-      "url": "https://wallstreetcn.com/lives/3148605"
+      "title": "兆日科技：控股股东新疆晁骏拟转让14.18%股份，控制权拟发生变更",
+      "url": "https://wallstreetcn.com/lives/3148645"
     },
     {
-      "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币",
-      "url": "https://wallstreetcn.com/lives/3148604"
+      "title": "中国地震台网正式测定：08月12日20时48分在四川阿坝州汶川县（北纬30.93度，东经103.13度）发生3.0级地震",
+      "url": "https://wallstreetcn.com/lives/3148644"
     },
     {
-      "title": "巨轮智能：2025年RV减速器销售收入837.03万元，占营业收入1%",
-      "url": "https://wallstreetcn.com/lives/3148602"
+      "title": "周三美股盘前你需要了解的全球要闻",
+      "url": "https://wallstreetcn.com/lives/3148643"
     },
     {
-      "title": "年内最贵新股频准激光：科创板IPO发行价格186.88元/股",
-      "url": "https://wallstreetcn.com/lives/3148601"
+      "title": "首款机器人手机荣耀Robot Phone价格公布 9999元起",
+      "url": "https://wallstreetcn.com/lives/3148642"
     },
     {
-      "title": "中国央行：下半年投资仍有较大增长空间",
-      "url": "https://wallstreetcn.com/lives/3148600"
+      "title": "美股期货走高，纳斯达克100指数期货上涨1%，标普500指数期货上涨0.5%。",
+      "url": "https://wallstreetcn.com/lives/3148641"
     }
   ],
   "baidu": [
@@ -94,36 +94,36 @@
       "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E6%B0%B8%E5%9E%82%E4%B8%8D%E6%9C%BD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "未来5年 15万亿元或将投向这里",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4+15%E4%B8%87%E4%BA%BF%E5%85%83%E6%88%96%E5%B0%86%E6%8A%95%E5%90%91%E8%BF%99%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "第一视角从中国空间站看地球",
+      "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E4%BB%8E%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%9C%8B%E5%9C%B0%E7%90%83&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "朱镕基同志遗像",
       "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
+      "title": "新闻联播播报：朱镕基同志逝世",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%92%AD%E6%8A%A5%EF%BC%9A%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
       "title": "成都一面馆老板松弛感营业火爆全网",
       "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E6%9D%BE%E5%BC%9B%E6%84%9F%E8%90%A5%E4%B8%9A%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "上半年结婚登记327.5万对",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0327.5%E4%B8%87%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "被薅怕了的酒店开始往死里防",
-      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%96%85%E6%80%95%E4%BA%86%E7%9A%84%E9%85%92%E5%BA%97%E5%BC%80%E5%A7%8B%E5%BE%80%E6%AD%BB%E9%87%8C%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "掉队的格力困在“舒适区”里",
-      "url": "https://www.baidu.com/s?wd=%E6%8E%89%E9%98%9F%E7%9A%84%E6%A0%BC%E5%8A%9B%E5%9B%B0%E5%9C%A8%E2%80%9C%E8%88%92%E9%80%82%E5%8C%BA%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "中国市场不再是BBA的提款机",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8D%E5%86%8D%E6%98%AFBBA%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "黄金剪开里面竟是钨芯 警方抓9人",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%89%AA%E5%BC%80%E9%87%8C%E9%9D%A2%E7%AB%9F%E6%98%AF%E9%92%A8%E8%8A%AF+%E8%AD%A6%E6%96%B9%E6%8A%939%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "被薅怕了的酒店开始往死里防",
+      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%96%85%E6%80%95%E4%BA%86%E7%9A%84%E9%85%92%E5%BA%97%E5%BC%80%E5%A7%8B%E5%BE%80%E6%AD%BB%E9%87%8C%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "“摸到国徽了 我才不害怕”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%91%B8%E5%88%B0%E5%9B%BD%E5%BE%BD%E4%BA%86+%E6%88%91%E6%89%8D%E4%B8%8D%E5%AE%B3%E6%80%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "北京解除暴雨橙色预警",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%A7%A3%E9%99%A4%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -140,28 +140,28 @@
       "url": "https://b23.tv/BV1G2uo66E2J"
     },
     {
-      "title": "《癫佬外传》第一季合集",
-      "url": "https://b23.tv/BV1y1uW6wEAA"
-    },
-    {
-      "title": "这还是CF吗?咋变成这样了?！",
-      "url": "https://b23.tv/BV12iud6tEHL"
-    },
-    {
-      "title": "2026和平精英刺激之夜完整高清回放",
-      "url": "https://b23.tv/BV1ffuU6bEHj"
-    },
-    {
-      "title": "【咒术回战IF】高羽史彦:你觉得未来的英雄来救场会搞笑吗？",
-      "url": "https://b23.tv/BV16Tuv6oEqz"
-    },
-    {
       "title": "恶心套路？情绪共振！细节夯爆！观众比男主先爱上女主！《花开锦绣》",
       "url": "https://b23.tv/BV1mwuz62EPy"
     },
     {
-      "title": "「直到大地变成一颗烂苹果！！」",
-      "url": "https://b23.tv/BV1XXu66hEfT"
+      "title": "这视频等了五年！",
+      "url": "https://b23.tv/BV17WgV6hEdX"
+    },
+    {
+      "title": "这不是黑历史…是23年 我奋斗的开始…差点gg也得拍视频",
+      "url": "https://b23.tv/BV1qVuv6XEBd"
+    },
+    {
+      "title": "⚡泥 肘⚡",
+      "url": "https://b23.tv/BV1TiuZ6TEQw"
+    },
+    {
+      "title": "船新版本新宝岛！这个联动怎么说？",
+      "url": "https://b23.tv/BV1mJuB6jEDj"
+    },
+    {
+      "title": "特朗普挥不动的重拳",
+      "url": "https://b23.tv/BV13XuB69EdA"
     },
     {
       "title": "诺兰2.5亿巨制！看懂奥德赛",
@@ -174,19 +174,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "新闻联播",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "新能源汽车月度新车销量占比首超60%",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "B级满配家轿海豹06上市9.99万起",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "微信群聊可以彻底关闭通知了",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "活力数据感知经济发展稳进好",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "银行能办结婚证了",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "上半年全国结婚登记327.5万对",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -194,19 +194,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "蔡徐坤丸美品牌全球代言人",
+      "title": "银行能办结婚证了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "朱镕基同志永垂不朽",
+      "title": "昌小e教你识别假视频",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "社保实缴严查中",
+      "title": "美国7月CPI数据",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "朱镕基同志享年98岁",
+      "title": "韩雨彤送考曾辉",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -220,120 +220,120 @@
       "url": "https://www.toutiao.com/trending/7673083499741449747/"
     },
     {
-      "title": "从消费账单看中国经济新动能",
-      "url": "https://www.toutiao.com/trending/7672657630905155627/"
+      "title": "新能源汽车新车销量占比首超60%",
+      "url": "https://www.toutiao.com/trending/7673110698733637130/"
     },
     {
       "title": "《新闻联播》播发朱镕基逝世",
       "url": "https://www.toutiao.com/trending/7673096832658132489/"
     },
     {
-      "title": "日全食将上演 最长持续约2分18秒",
-      "url": "https://www.toutiao.com/trending/7672179294160355347/"
+      "title": "中方用孔子一句话送给美方",
+      "url": "https://www.toutiao.com/trending/7672974182912622635/"
     },
     {
-      "title": "河南暴雨",
-      "url": "https://www.toutiao.com/trending/7672919255847272454/"
+      "title": "上半年全国结婚登记327.5万对",
+      "url": "https://www.toutiao.com/trending/7672315775647432723/"
     },
     {
-      "title": "普京：若俄商船被扣押将对等回应",
-      "url": "https://www.toutiao.com/trending/7673070431905267731/"
-    },
-    {
-      "title": "美国在委内瑞拉废墟上操练霸权",
-      "url": "https://www.toutiao.com/trending/7672306293503639578/"
+      "title": "英仙座流星雨将迎来极大",
+      "url": "https://www.toutiao.com/trending/7673106308901224457/"
     },
     {
       "title": "郭兰英1994年将演唱版权无偿捐国家",
       "url": "https://www.toutiao.com/trending/7672949387655400998/"
     },
     {
-      "title": "几块钱的手机壳可能在消耗你的健康",
-      "url": "https://www.toutiao.com/trending/7671708004344922175/"
+      "title": "女子躲雨遇热心店主狂买10件衣服",
+      "url": "https://www.toutiao.com/trending/7673091896931893311/"
+    },
+    {
+      "title": "中印发生新的边境事件？中方回应",
+      "url": "https://www.toutiao.com/trending/7673107791090814506/"
     }
   ],
   "ithome": [
     {
-      "title": "荣耀 Robot Phone 手机搭载 Agentic OS 新一代伙伴型多模态智能操作系统，首发全新 YOYO Pro",
-      "url": "/0/988/946.htm"
+      "title": "荣耀罗巍：Robot Phone 手机预定超过 40 万台",
+      "url": "/0/988/965.htm"
     },
     {
-      "title": "AI 编程语言 Mojo 推出 1.0 正式版，预计年内开源编译器及相关工具链",
-      "url": "/0/988/945.htm"
+      "title": "奇瑞执行副总裁李学用谈“造车慢”：汽车不是快消品，有些时间真的不敢省",
+      "url": "/0/988/964.htm"
     },
     {
-      "title": "在线旅游公司 Booking CEO：希望每个员工掌握 AI 素养，以应对不时之需",
-      "url": "/0/988/944.htm"
+      "title": "荣耀 Magic9 系列手机开启预约，今年 9 月正式发布",
+      "url": "/0/988/963.htm"
     },
     {
-      "title": "全球首款机器人手机：荣耀 Robot Phone 官宣搭载行业最小全钛云台架构",
-      "url": "/0/988/943.htm"
+      "title": "抖音集团副总裁李亮：网暴治理最难处理的是披着玩笑、调侃和玩梗外衣，持续指向某个人的伤害",
+      "url": "/0/988/962.htm"
     },
     {
-      "title": "比亚迪 AI 团队首秀：混合世界模型 HyWorldVLA 获 90.59 分，自研芯片 + 算法闭环成型",
-      "url": "/0/988/942.htm"
+      "title": "9999 元起，荣耀 Robot Phone 手机正式发布",
+      "url": "/0/988/961.htm"
     },
     {
-      "title": "路虎揽胜 SV 4.4 V8 四座长轴重奏系列“翡萃版”上市，建议零售价 371.9 万元",
-      "url": "/0/988/941.htm"
+      "title": "零刻推出 AMD 锐龙 AI 9 HX 470 版 ME Pro NAS 迷你主机，4795 元起",
+      "url": "/0/988/960.htm"
     },
     {
-      "title": "荣耀 Magic9 系列手机外观首曝：大圆镜组、阿莱联名标签 LOGO",
-      "url": "/0/988/940.htm"
+      "title": "考杜拉 500 耐磨耐造：京东京造战术裤 159 → 119 元新低，通勤户外都好穿",
+      "url": "https://lapin.ithome.com/html/digi/988959.htm"
     },
     {
-      "title": "吉利银河“AI 全地形硬核 SUV”战舰 700 年内上市，展车本月中旬陆续到店",
-      "url": "/0/988/939.htm"
+      "title": "FBI 警告：黑客正设法窃取用户的“露骨色情内容”",
+      "url": "/0/988/957.htm"
     },
     {
-      "title": "奇瑞风云 T7 开启预售：600km 续航，10.99 万-12.99 万元",
-      "url": "/0/988/938.htm"
+      "title": "联想来酷 14（酷睿版）轻薄本上架：搭载 i5-13420H，到手价 3399.15 元",
+      "url": "/0/988/956.htm"
     },
     {
-      "title": "莲花 ELETRE / EMEYA 900 GOLD 车型预售，91.8 万元起",
-      "url": "/0/988/937.htm"
+      "title": "3999 元影石 X6 正式发布：1/1.1 英寸大底传感器 + AI 三芯架构，支持 8K 50 帧全景视频",
+      "url": "/0/988/955.htm"
     }
   ],
   "github": [
     {
-      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw"
+      "title": "QuipNetwork/ethereum-sdk: 无描述",
+      "url": "https://github.com/QuipNetwork/ethereum-sdk"
     },
     {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
+      "title": "QuipNetwork/cpp-sdk: 无描述",
+      "url": "https://github.com/QuipNetwork/cpp-sdk"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
+      "title": "QuipNetwork/hashsigs-rs: Hash-based post quantum signatures in Rust",
+      "url": "https://github.com/QuipNetwork/hashsigs-rs"
     },
     {
-      "title": "anthropics/skills: Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills"
+      "title": "QuipNetwork/hashsigs-solidity: Solidity contracts implementing hash based post quantum signatures",
+      "url": "https://github.com/QuipNetwork/hashsigs-solidity"
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+      "title": "diet103/claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
+      "url": "https://github.com/diet103/claude-code-infrastructure-showcase"
     },
     {
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+      "title": "bytedance/Dolphin: The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
+      "url": "https://github.com/bytedance/Dolphin"
     },
     {
-      "title": "google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "url": "https://github.com/google-gemini/gemini-cli"
+      "title": "astrid-runtime/book: The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model.",
+      "url": "https://github.com/astrid-runtime/book"
     },
     {
-      "title": "Graphify-Labs/graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "url": "https://github.com/Graphify-Labs/graphify"
+      "title": "astrid-runtime/handbook: Contributor handbook for Astrid: the polyrepo, public contracts, contribution process, and release workflow.",
+      "url": "https://github.com/astrid-runtime/handbook"
     },
     {
-      "title": "karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch"
+      "title": "ultraworkers/claw-code-parity: Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration",
+      "url": "https://github.com/ultraworkers/claw-code-parity"
     },
     {
-      "title": "thedotmack/claude-mem: Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "url": "https://github.com/thedotmack/claude-mem"
+      "title": "simplescaling/s1: s1: Simple test-time scaling",
+      "url": "https://github.com/simplescaling/s1"
     }
   ],
   "huggingface": [
