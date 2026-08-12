@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-08-12T14:36:53.251Z",
+  "updatedAt": "2026-08-12T16:00:43.244Z",
   "sina": [
+    {
+      "title": "荣耀CEO李健谈Robot Phone定价：成本压力非常大，希望能让更多用户体验到",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininarri3834772.shtml"
+    },
     {
       "title": "谷歌全新Pixel 11以Gemini为核心 打响与苹果的AI手机之战",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarrc3413857.shtml"
@@ -36,52 +40,48 @@
     {
       "title": "荣耀Robot Phone正式上市：首发YOYO Pro模式，售价9999元起",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamim3898828.shtml"
-    },
-    {
-      "title": "寒武纪董事长谈“存货超82亿”：将持续拓展市场，控制相关风险",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininaezf6823479.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "咖啡期货涨价近40% ！全球食品价格飙至近3年最高，150年最强厄尔尼诺来袭",
-      "url": "https://wallstreetcn.com/lives/3148691"
+      "title": "Jane Street发行146亿美元债券 10年期收益率逾8%",
+      "url": "https://wallstreetcn.com/lives/3148710"
     },
     {
-      "title": "特朗普：美国完全控制霍尔木兹海峡。",
-      "url": "https://wallstreetcn.com/lives/3148690"
+      "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
+      "url": "https://wallstreetcn.com/lives/3148708"
     },
     {
-      "title": "美国8月7日当周EIA库欣地区原油库存变动 161.1万桶，前值 235.6万桶。",
-      "url": "https://wallstreetcn.com/lives/3148689"
+      "title": "渣打牵头的Anchorpoint推出港元稳定币",
+      "url": "https://wallstreetcn.com/lives/3148706"
     },
     {
-      "title": "美国8月7日当周EIA精炼厂设备利用率变化 -0.3%，预期 -0.4%，前值 -0.7%。",
-      "url": "https://wallstreetcn.com/lives/3148688"
+      "title": "瑞士拟立法强制延迟银行高管奖金发放 最长可达五年",
+      "url": "https://wallstreetcn.com/lives/3148705"
     },
     {
-      "title": "美国8月7日当周EIA汽油库存变动 -96.8万桶，预期 -110万桶，前值 -164.3万桶。",
-      "url": "https://wallstreetcn.com/lives/3148687"
+      "title": "欧洲斯托克50指数收盘跌0.2%，德国DAX指数跌0.2%，英国富时100指数跌0.12%，法国CAC 40指数跌0.4",
+      "url": "https://wallstreetcn.com/lives/3148704"
     },
     {
-      "title": "美国8月7日当周EIA原油库存变动 1742.3万桶，预期 -180万桶，前值 247.9万桶。",
-      "url": "https://wallstreetcn.com/lives/3148686"
+      "title": "美国银行将以约19亿美元收购Jio金融子公司49.9%的股份。（彭博）",
+      "url": "https://wallstreetcn.com/lives/3148702"
     },
     {
-      "title": "美国8月7日当周EIA精炼油库存变动 -1万桶，预期 -200万桶，前值 -347.3万桶。",
-      "url": "https://wallstreetcn.com/lives/3148685"
+      "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
+      "url": "https://wallstreetcn.com/lives/3148701"
     },
     {
-      "title": "俄罗斯称其对敖德萨港内船只实施了打击。（国际文传电讯社）",
-      "url": "https://wallstreetcn.com/lives/3148684"
+      "title": "泽璟制药递表港交所",
+      "url": "https://wallstreetcn.com/lives/3148700"
     },
     {
-      "title": "欧洲央行倾向于批准裕信银行对德国商业银行的收购。（路透）",
-      "url": "https://wallstreetcn.com/lives/3148683"
+      "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
+      "url": "https://wallstreetcn.com/lives/3148699"
     },
     {
-      "title": "特朗普考虑削减资本利得税以提升共和党支持率",
-      "url": "https://wallstreetcn.com/lives/3148682"
+      "title": "摩根资产管理：美国的“特氟龙式通胀”黏不住 美联储无需加息",
+      "url": "https://wallstreetcn.com/lives/3148697"
     }
   ],
   "baidu": [
@@ -106,42 +106,38 @@
       "url": "https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%92%AD%E6%8A%A5%EF%BC%9A%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "荣耀发布首款机器人手机 9999元起售",
-      "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "胖东来关一家店为何全民关注",
+      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%85%B3%E4%B8%80%E5%AE%B6%E5%BA%97%E4%B8%BA%E4%BD%95%E5%85%A8%E6%B0%91%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "英仙座流星雨",
       "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "中国市场不再是BBA的提款机",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8D%E5%86%8D%E6%98%AFBBA%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "荣耀发布首款机器人手机 9999元起售",
+      "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "天坛公园保洁用海绵吸地上的水引热议",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%9D%9B%E5%85%AC%E5%9B%AD%E4%BF%9D%E6%B4%81%E7%94%A8%E6%B5%B7%E7%BB%B5%E5%90%B8%E5%9C%B0%E4%B8%8A%E7%9A%84%E6%B0%B4%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "泰国失联女孩发作品称已回国引质疑",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%8F%91%E4%BD%9C%E5%93%81%E7%A7%B0%E5%B7%B2%E5%9B%9E%E5%9B%BD%E5%BC%95%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "北京全市大雨到暴雨 8区现大暴雨",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%85%A8%E5%B8%82%E5%A4%A7%E9%9B%A8%E5%88%B0%E6%9A%B4%E9%9B%A8+8%E5%8C%BA%E7%8E%B0%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "云南一民船侧翻6人落水 其中1人获救",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E6%B0%91%E8%88%B9%E4%BE%A7%E7%BF%BB6%E4%BA%BA%E8%90%BD%E6%B0%B4+%E5%85%B6%E4%B8%AD1%E4%BA%BA%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
-    {
-      "title": "《顽童戏老叟》",
-      "url": "https://b23.tv/BV1EAuk6CEfw"
-    },
     {
       "title": "《影之刃零》预购开启，11分钟实机预告公开",
       "url": "https://b23.tv/BV1Hmuv68EWW"
     },
     {
-      "title": "百米赛道高难度闯关、只有上过的才知道含金量有多高！",
-      "url": "https://b23.tv/BV1G2uo66E2J"
+      "title": "《顽童戏老叟》",
+      "url": "https://b23.tv/BV1EAuk6CEfw"
     },
     {
-      "title": "血糖真相：高血糖是如何钝刀割肉，腐蚀数亿人的血管和神经的？",
-      "url": "https://b23.tv/BV1jPgG6xEJw"
+      "title": "百米赛道高难度闯关、只有上过的才知道含金量有多高！",
+      "url": "https://b23.tv/BV1G2uo66E2J"
     },
     {
       "title": "这视频等了五年！",
@@ -152,20 +148,24 @@
       "url": "https://b23.tv/BV1ffuU6bEHj"
     },
     {
-      "title": "【TF家族练习生】《突围II破局》EP07：加更",
-      "url": "https://b23.tv/BV1PYg56VEE2"
+      "title": "「直到大地变成一颗烂苹果！！」",
+      "url": "https://b23.tv/BV1XXu66hEfT"
     },
     {
       "title": "船新版本新宝岛！这个联动怎么说？",
       "url": "https://b23.tv/BV1mJuB6jEDj"
     },
     {
-      "title": "我们造了1000颗流星！！！",
-      "url": "https://b23.tv/BV1qeuC63EPE"
+      "title": "🐧当你打游戏时父母进你房间蹭空调🐧",
+      "url": "https://b23.tv/BV1nngV6YEzr"
     },
     {
-      "title": "全程随意发挥挑战，感到尴尬奖励1000",
-      "url": "https://b23.tv/BV17Tu966EXs"
+      "title": "⚡泥 肘⚡",
+      "url": "https://b23.tv/BV1TiuZ6TEQw"
+    },
+    {
+      "title": "【TF家族练习生】《突围II破局》EP07：加更",
+      "url": "https://b23.tv/BV1PYg56VEE2"
     }
   ],
   "weibo": [
@@ -178,11 +178,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "新能源汽车月度新车销量占比首超60%",
+      "title": "60万亿元消费蓝海要来了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "B级满配家轿海豹06上市9.99万起",
+      "title": "湖人售价120亿美元",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,7 +190,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "英仙座流星雨",
+      "title": "龙餐馆",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,15 +198,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "昌小e教你识别假视频",
+      "title": "英仙座流星雨",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "银行能办结婚证了",
+      "title": "JDG战胜BLG",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "泰国失联女孩祁萌更新社媒",
+      "title": "流星雨 许愿",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -240,8 +240,8 @@
       "url": "https://www.toutiao.com/trending/7673106308901224457/"
     },
     {
-      "title": "郭兰英1994年将演唱版权无偿捐国家",
-      "url": "https://www.toutiao.com/trending/7672949387655400998/"
+      "title": "C919圆满完成首次国际商业航班飞行",
+      "url": "https://www.toutiao.com/trending/7671931619742613540/"
     },
     {
       "title": "中印发生新的边境事件？中方回应",
@@ -254,86 +254,86 @@
   ],
   "ithome": [
     {
+      "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
+      "url": "/0/988/999.htm"
+    },
+    {
+      "title": "DeepSeek 官网 API 文档新增“DeepSeek-V4-Pro-0813”模型",
+      "url": "/0/988/998.htm"
+    },
+    {
+      "title": "微软发布《战争机器：事变日》主题 XBOX 控制器：将“开裂的沥青路面”铺上手柄",
+      "url": "/0/988/997.htm"
+    },
+    {
+      "title": "索尼宣布《羊蹄山之魂：完全版》10 月 2 日发售：追加全新剧情扩展内容，原版玩家可花 108 港币升级",
+      "url": "/0/988/996.htm"
+    },
+    {
+      "title": "电动方程式 Formula E 与迪士尼达成多年转播协议，2026/27 赛季起 Disney+ 全球独家流媒体直播",
+      "url": "/0/988/995.htm"
+    },
+    {
+      "title": "考杜拉 500 耐磨耐造：京东京造战术裤 159 → 119 元新低，通勤户外都好穿",
+      "url": "https://lapin.ithome.com/html/digi/988959.htm"
+    },
+    {
+      "title": "到 2030 年全国算力用电量将达 8000 亿度，届时 6 万亿度绿电奔涌入网",
+      "url": "/0/988/994.htm"
+    },
+    {
+      "title": "谷歌 Pixel 11 相机应用新增创作者套件：内置提词器、人声增强，专为单人自媒体打造",
+      "url": "/0/988/993.htm"
+    },
+    {
       "title": "《侏罗纪世界: 进化 3》游戏扩展包“鳄潮海岸”上线，Steam 国区售价 69 元",
       "url": "/0/988/992.htm"
     },
     {
       "title": "谷歌 Pixel Buds Pro 2 耳机升级：主动降噪、同声传译功能均获增强",
       "url": "/0/988/991.htm"
-    },
-    {
-      "title": "20 支玫瑰 17.9 元包邮：京东鲜花七夕官方直降，昆明发货损坏包赔",
-      "url": "https://lapin.ithome.com/html/digi/988990.htm"
-    },
-    {
-      "title": "漫威索尼《蜘蛛侠：崭新之日》上映两周杀入影史票房 TOP10，暂列 2026 年度冠军",
-      "url": "/0/988/989.htm"
-    },
-    {
-      "title": "谷歌首款追踪器 Pixel Tag 发布：UWB 超宽带 + 防尘防水 + 可更换电池",
-      "url": "/0/988/988.htm"
-    },
-    {
-      "title": "全球首款机器人手机荣耀 Robot Phone 正式发布，天马宣布独家供屏",
-      "url": "/0/988/986.htm"
-    },
-    {
-      "title": "谷歌 Pixel 11 系列正式发布：全系 256GB 起步 899 美元起，8 月 20 日开售",
-      "url": "/0/988/985.htm"
-    },
-    {
-      "title": "英特尔 Nova Lake 缓存策略调整：部分型号削减 E 核但仍保留完整 L3 缓存",
-      "url": "/0/988/984.htm"
-    },
-    {
-      "title": "5499 → 3466 元：小米 · 米家巨省电 Pro 大 3 匹空调远低 618，配大双排冷凝器",
-      "url": "/0/988/983.htm"
-    },
-    {
-      "title": "鸿蒙智行享界品牌首款 MPV，享界 V8 将亮相 2026 成都车展",
-      "url": "/0/988/982.htm"
     }
   ],
   "github": [
     {
-      "title": "nexu-io/open-design: 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
-      "url": "https://github.com/nexu-io/open-design"
+      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack"
     },
     {
-      "title": "usestrix/strix: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "url": "https://github.com/usestrix/strix"
+      "title": "Egonex-AI/Understand-Anything: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "url": "https://github.com/Egonex-AI/Understand-Anything"
     },
     {
-      "title": "stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "url": "https://github.com/stablyai/orca"
+      "title": "666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "url": "https://github.com/666ghj/MiroFish"
     },
     {
-      "title": "Imbad0202/academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "url": "https://github.com/Imbad0202/academic-research-skills"
+      "title": "pbakaus/impeccable: The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable"
     },
     {
-      "title": "anthropics/claude-plugins-official: Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "url": "https://github.com/anthropics/claude-plugins-official"
+      "title": "jamiepine/voicebox: The open-source AI voice studio. Clone, dictate, create.",
+      "url": "https://github.com/jamiepine/voicebox"
     },
     {
-      "title": "Leey21/awesome-ai-research-writing: Elevate your AI research writing, no more tedious polishing ✨ ",
-      "url": "https://github.com/Leey21/awesome-ai-research-writing"
+      "title": "ChromeDevTools/chrome-devtools-mcp: Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
-      "title": "iOfficeAI/AionUi: Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
-      "url": "https://github.com/iOfficeAI/AionUi"
+      "title": "rohitg00/ai-engineering-from-scratch: Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
-      "title": "huggingface/agents-course: This repository contains the Hugging Face Agents Course. ",
-      "url": "https://github.com/huggingface/agents-course"
+      "title": "abhigyanpatwari/GitNexus: GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
-      "title": "simstudioai/sim: Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "url": "https://github.com/simstudioai/sim"
+      "title": "Hmbown/CodeWhale: Open-source, community-driven agent harness",
+      "url": "https://github.com/Hmbown/CodeWhale"
     },
     {
-      "title": "volcengine/OpenViking: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "url": "https://github.com/volcengine/OpenViking"
+      "title": "google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "url": "https://github.com/google/langextract"
     }
   ],
   "huggingface": [
