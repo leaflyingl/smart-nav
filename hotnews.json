@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-12T13:16:11.377Z",
+  "updatedAt": "2026-08-12T14:36:53.251Z",
   "sina": [
+    {
+      "title": "谷歌全新Pixel 11以Gemini为核心 打响与苹果的AI手机之战",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarrc3413857.shtml"
+    },
+    {
+      "title": "全文|腾讯Q2业绩会实录：AI是长期赛道 不准备出租算力",
+      "url": "https://finance.sina.com.cn/tech/2026-08-12/doc-ininarrc3408590.shtml"
+    },
+    {
+      "title": "荣耀CEO李健：上半年荣耀全球销量增长9%，收入增长11%，盈利也还不错",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamic6755529.shtml"
+    },
+    {
+      "title": "荣耀CEO李健：很多人找我要Robot Phone的优购码，有人直接想要20台",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamim3934165.shtml"
+    },
+    {
+      "title": "荣耀CEO李健谈内存涨价、竞争压力：不经历磨难的企业不可能走向伟大",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamic6741877.shtml"
+    },
     {
       "title": "荣耀CEO李健：Robot Phone预定量已超40万台，Magic9系列定档9月",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamih5182816.shtml"
@@ -20,68 +40,48 @@
     {
       "title": "寒武纪董事长谈“存货超82亿”：将持续拓展市场，控制相关风险",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininaezf6823479.shtml"
-    },
-    {
-      "title": "荣耀CEO李健：12个月前从零组建机器人团队，6个月冲刺马拉松打破人类半马世界纪录",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininaezi3586778.shtml"
-    },
-    {
-      "title": "荣耀RobotPhone：普通人拍电影的时代真的来了",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/c/2026-08-12/doc-inimzqcr3668942.shtml"
-    },
-    {
-      "title": "可孚与融昕联合研发，大白X3 PRO家用呼吸机上市",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininaezk5244504.shtml"
-    },
-    {
-      "title": "瑞典“氛围式编程”初创企业Lovable估值达130亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininaezp3967542.shtml"
-    },
-    {
-      "title": "REDMI K100 Pro系列发布：全系搭载AI独显、185Hz高刷屏，售价3999元起",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-12/doc-ininaezf6763322.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "中国主动量化策略首度嵌入境外主动ETF",
-      "url": "https://wallstreetcn.com/lives/3148653"
+      "title": "咖啡期货涨价近40% ！全球食品价格飙至近3年最高，150年最强厄尔尼诺来袭",
+      "url": "https://wallstreetcn.com/lives/3148691"
     },
     {
-      "title": "腾讯总裁刘炽平谈AI资本开支增加：多款应用表现良好，已看到明显上行空间",
-      "url": "https://wallstreetcn.com/lives/3148651"
+      "title": "特朗普：美国完全控制霍尔木兹海峡。",
+      "url": "https://wallstreetcn.com/lives/3148690"
     },
     {
-      "title": "荣耀CEO李健：Robot Phone预定量已超40万台",
-      "url": "https://wallstreetcn.com/lives/3148650"
+      "title": "美国8月7日当周EIA库欣地区原油库存变动 161.1万桶，前值 235.6万桶。",
+      "url": "https://wallstreetcn.com/lives/3148689"
     },
     {
-      "title": "夜盘期货开盘，沪银涨2%，纸浆涨1%，沪锌、沪锡、沪金涨近1%；玻璃跌逾1%，焦煤、焦炭等下跌。",
-      "url": "https://wallstreetcn.com/lives/3148649"
+      "title": "美国8月7日当周EIA精炼厂设备利用率变化 -0.3%，预期 -0.4%，前值 -0.7%。",
+      "url": "https://wallstreetcn.com/lives/3148688"
     },
     {
-      "title": "力源信息：上半年代理的村田产品销售额占公司代理产线销售收入接近四分之一",
-      "url": "https://wallstreetcn.com/lives/3148647"
+      "title": "美国8月7日当周EIA汽油库存变动 -96.8万桶，预期 -110万桶，前值 -164.3万桶。",
+      "url": "https://wallstreetcn.com/lives/3148687"
     },
     {
-      "title": "兆日科技：控股股东新疆晁骏拟转让14.18%股份，控制权拟发生变更",
-      "url": "https://wallstreetcn.com/lives/3148645"
+      "title": "美国8月7日当周EIA原油库存变动 1742.3万桶，预期 -180万桶，前值 247.9万桶。",
+      "url": "https://wallstreetcn.com/lives/3148686"
     },
     {
-      "title": "中国地震台网正式测定：08月12日20时48分在四川阿坝州汶川县（北纬30.93度，东经103.13度）发生3.0级地震",
-      "url": "https://wallstreetcn.com/lives/3148644"
+      "title": "美国8月7日当周EIA精炼油库存变动 -1万桶，预期 -200万桶，前值 -347.3万桶。",
+      "url": "https://wallstreetcn.com/lives/3148685"
     },
     {
-      "title": "周三美股盘前你需要了解的全球要闻",
-      "url": "https://wallstreetcn.com/lives/3148643"
+      "title": "俄罗斯称其对敖德萨港内船只实施了打击。（国际文传电讯社）",
+      "url": "https://wallstreetcn.com/lives/3148684"
     },
     {
-      "title": "首款机器人手机荣耀Robot Phone价格公布 9999元起",
-      "url": "https://wallstreetcn.com/lives/3148642"
+      "title": "欧洲央行倾向于批准裕信银行对德国商业银行的收购。（路透）",
+      "url": "https://wallstreetcn.com/lives/3148683"
     },
     {
-      "title": "美股期货走高，纳斯达克100指数期货上涨1%，标普500指数期货上涨0.5%。",
-      "url": "https://wallstreetcn.com/lives/3148641"
+      "title": "特朗普考虑削减资本利得税以提升共和党支持率",
+      "url": "https://wallstreetcn.com/lives/3148682"
     }
   ],
   "baidu": [
@@ -106,66 +106,66 @@
       "url": "https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%92%AD%E6%8A%A5%EF%BC%9A%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "成都一面馆老板松弛感营业火爆全网",
-      "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E6%9D%BE%E5%BC%9B%E6%84%9F%E8%90%A5%E4%B8%9A%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "荣耀发布首款机器人手机 9999元起售",
+      "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "英仙座流星雨",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "中国市场不再是BBA的提款机",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8D%E5%86%8D%E6%98%AFBBA%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "被薅怕了的酒店开始往死里防",
-      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%96%85%E6%80%95%E4%BA%86%E7%9A%84%E9%85%92%E5%BA%97%E5%BC%80%E5%A7%8B%E5%BE%80%E6%AD%BB%E9%87%8C%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "天坛公园保洁用海绵吸地上的水引热议",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%9D%9B%E5%85%AC%E5%9B%AD%E4%BF%9D%E6%B4%81%E7%94%A8%E6%B5%B7%E7%BB%B5%E5%90%B8%E5%9C%B0%E4%B8%8A%E7%9A%84%E6%B0%B4%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“摸到国徽了 我才不害怕”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%91%B8%E5%88%B0%E5%9B%BD%E5%BE%BD%E4%BA%86+%E6%88%91%E6%89%8D%E4%B8%8D%E5%AE%B3%E6%80%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "北京解除暴雨橙色预警",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%A7%A3%E9%99%A4%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "北京全市大雨到暴雨 8区现大暴雨",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%85%A8%E5%B8%82%E5%A4%A7%E9%9B%A8%E5%88%B0%E6%9A%B4%E9%9B%A8+8%E5%8C%BA%E7%8E%B0%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "《影之刃零》预购开启，11分钟实机预告公开",
-      "url": "https://b23.tv/BV1Hmuv68EWW"
-    },
-    {
       "title": "《顽童戏老叟》",
       "url": "https://b23.tv/BV1EAuk6CEfw"
+    },
+    {
+      "title": "《影之刃零》预购开启，11分钟实机预告公开",
+      "url": "https://b23.tv/BV1Hmuv68EWW"
     },
     {
       "title": "百米赛道高难度闯关、只有上过的才知道含金量有多高！",
       "url": "https://b23.tv/BV1G2uo66E2J"
     },
     {
-      "title": "恶心套路？情绪共振！细节夯爆！观众比男主先爱上女主！《花开锦绣》",
-      "url": "https://b23.tv/BV1mwuz62EPy"
+      "title": "血糖真相：高血糖是如何钝刀割肉，腐蚀数亿人的血管和神经的？",
+      "url": "https://b23.tv/BV1jPgG6xEJw"
     },
     {
       "title": "这视频等了五年！",
       "url": "https://b23.tv/BV17WgV6hEdX"
     },
     {
-      "title": "这不是黑历史…是23年 我奋斗的开始…差点gg也得拍视频",
-      "url": "https://b23.tv/BV1qVuv6XEBd"
+      "title": "2026和平精英刺激之夜完整高清回放",
+      "url": "https://b23.tv/BV1ffuU6bEHj"
     },
     {
-      "title": "⚡泥 肘⚡",
-      "url": "https://b23.tv/BV1TiuZ6TEQw"
+      "title": "【TF家族练习生】《突围II破局》EP07：加更",
+      "url": "https://b23.tv/BV1PYg56VEE2"
     },
     {
       "title": "船新版本新宝岛！这个联动怎么说？",
       "url": "https://b23.tv/BV1mJuB6jEDj"
     },
     {
-      "title": "特朗普挥不动的重拳",
-      "url": "https://b23.tv/BV13XuB69EdA"
+      "title": "我们造了1000颗流星！！！",
+      "url": "https://b23.tv/BV1qeuC63EPE"
     },
     {
-      "title": "诺兰2.5亿巨制！看懂奥德赛",
-      "url": "https://b23.tv/BV1qnuq6dEga"
+      "title": "全程随意发挥挑战，感到尴尬奖励1000",
+      "url": "https://b23.tv/BV17Tu966EXs"
     }
   ],
   "weibo": [
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "新闻联播",
+      "title": "微信群聊可以彻底关闭通知了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -186,15 +186,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "微信群聊可以彻底关闭通知了",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "喜欢穿洞洞鞋的人天塌了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "银行能办结婚证了",
+      "title": "英仙座流星雨",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "虞书欣丁禹兮 我欲乘风",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -202,11 +202,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "美国7月CPI数据",
+      "title": "银行能办结婚证了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "韩雨彤送考曾辉",
+      "title": "泰国失联女孩祁萌更新社媒",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -244,96 +244,96 @@
       "url": "https://www.toutiao.com/trending/7672949387655400998/"
     },
     {
-      "title": "女子躲雨遇热心店主狂买10件衣服",
-      "url": "https://www.toutiao.com/trending/7673091896931893311/"
-    },
-    {
       "title": "中印发生新的边境事件？中方回应",
       "url": "https://www.toutiao.com/trending/7673107791090814506/"
+    },
+    {
+      "title": "酒店为何把小瓶洗护换成大瓶",
+      "url": "https://www.toutiao.com/trending/7673008330303111214/"
     }
   ],
   "ithome": [
     {
-      "title": "荣耀罗巍：Robot Phone 手机预定超过 40 万台",
-      "url": "/0/988/965.htm"
+      "title": "《侏罗纪世界: 进化 3》游戏扩展包“鳄潮海岸”上线，Steam 国区售价 69 元",
+      "url": "/0/988/992.htm"
     },
     {
-      "title": "奇瑞执行副总裁李学用谈“造车慢”：汽车不是快消品，有些时间真的不敢省",
-      "url": "/0/988/964.htm"
+      "title": "谷歌 Pixel Buds Pro 2 耳机升级：主动降噪、同声传译功能均获增强",
+      "url": "/0/988/991.htm"
     },
     {
-      "title": "荣耀 Magic9 系列手机开启预约，今年 9 月正式发布",
-      "url": "/0/988/963.htm"
+      "title": "20 支玫瑰 17.9 元包邮：京东鲜花七夕官方直降，昆明发货损坏包赔",
+      "url": "https://lapin.ithome.com/html/digi/988990.htm"
     },
     {
-      "title": "抖音集团副总裁李亮：网暴治理最难处理的是披着玩笑、调侃和玩梗外衣，持续指向某个人的伤害",
-      "url": "/0/988/962.htm"
+      "title": "漫威索尼《蜘蛛侠：崭新之日》上映两周杀入影史票房 TOP10，暂列 2026 年度冠军",
+      "url": "/0/988/989.htm"
     },
     {
-      "title": "9999 元起，荣耀 Robot Phone 手机正式发布",
-      "url": "/0/988/961.htm"
+      "title": "谷歌首款追踪器 Pixel Tag 发布：UWB 超宽带 + 防尘防水 + 可更换电池",
+      "url": "/0/988/988.htm"
     },
     {
-      "title": "零刻推出 AMD 锐龙 AI 9 HX 470 版 ME Pro NAS 迷你主机，4795 元起",
-      "url": "/0/988/960.htm"
+      "title": "全球首款机器人手机荣耀 Robot Phone 正式发布，天马宣布独家供屏",
+      "url": "/0/988/986.htm"
     },
     {
-      "title": "考杜拉 500 耐磨耐造：京东京造战术裤 159 → 119 元新低，通勤户外都好穿",
-      "url": "https://lapin.ithome.com/html/digi/988959.htm"
+      "title": "谷歌 Pixel 11 系列正式发布：全系 256GB 起步 899 美元起，8 月 20 日开售",
+      "url": "/0/988/985.htm"
     },
     {
-      "title": "FBI 警告：黑客正设法窃取用户的“露骨色情内容”",
-      "url": "/0/988/957.htm"
+      "title": "英特尔 Nova Lake 缓存策略调整：部分型号削减 E 核但仍保留完整 L3 缓存",
+      "url": "/0/988/984.htm"
     },
     {
-      "title": "联想来酷 14（酷睿版）轻薄本上架：搭载 i5-13420H，到手价 3399.15 元",
-      "url": "/0/988/956.htm"
+      "title": "5499 → 3466 元：小米 · 米家巨省电 Pro 大 3 匹空调远低 618，配大双排冷凝器",
+      "url": "/0/988/983.htm"
     },
     {
-      "title": "3999 元影石 X6 正式发布：1/1.1 英寸大底传感器 + AI 三芯架构，支持 8K 50 帧全景视频",
-      "url": "/0/988/955.htm"
+      "title": "鸿蒙智行享界品牌首款 MPV，享界 V8 将亮相 2026 成都车展",
+      "url": "/0/988/982.htm"
     }
   ],
   "github": [
     {
-      "title": "QuipNetwork/ethereum-sdk: 无描述",
-      "url": "https://github.com/QuipNetwork/ethereum-sdk"
+      "title": "nexu-io/open-design: 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
+      "url": "https://github.com/nexu-io/open-design"
     },
     {
-      "title": "QuipNetwork/cpp-sdk: 无描述",
-      "url": "https://github.com/QuipNetwork/cpp-sdk"
+      "title": "usestrix/strix: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "url": "https://github.com/usestrix/strix"
     },
     {
-      "title": "QuipNetwork/hashsigs-rs: Hash-based post quantum signatures in Rust",
-      "url": "https://github.com/QuipNetwork/hashsigs-rs"
+      "title": "stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "url": "https://github.com/stablyai/orca"
     },
     {
-      "title": "QuipNetwork/hashsigs-solidity: Solidity contracts implementing hash based post quantum signatures",
-      "url": "https://github.com/QuipNetwork/hashsigs-solidity"
+      "title": "Imbad0202/academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "url": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
-      "title": "diet103/claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
-      "url": "https://github.com/diet103/claude-code-infrastructure-showcase"
+      "title": "anthropics/claude-plugins-official: Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
-      "title": "bytedance/Dolphin: The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
-      "url": "https://github.com/bytedance/Dolphin"
+      "title": "Leey21/awesome-ai-research-writing: Elevate your AI research writing, no more tedious polishing ✨ ",
+      "url": "https://github.com/Leey21/awesome-ai-research-writing"
     },
     {
-      "title": "astrid-runtime/book: The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model.",
-      "url": "https://github.com/astrid-runtime/book"
+      "title": "iOfficeAI/AionUi: Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
+      "url": "https://github.com/iOfficeAI/AionUi"
     },
     {
-      "title": "astrid-runtime/handbook: Contributor handbook for Astrid: the polyrepo, public contracts, contribution process, and release workflow.",
-      "url": "https://github.com/astrid-runtime/handbook"
+      "title": "huggingface/agents-course: This repository contains the Hugging Face Agents Course. ",
+      "url": "https://github.com/huggingface/agents-course"
     },
     {
-      "title": "ultraworkers/claw-code-parity: Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration",
-      "url": "https://github.com/ultraworkers/claw-code-parity"
+      "title": "simstudioai/sim: Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "url": "https://github.com/simstudioai/sim"
     },
     {
-      "title": "simplescaling/s1: s1: Simple test-time scaling",
-      "url": "https://github.com/simplescaling/s1"
+      "title": "volcengine/OpenViking: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "url": "https://github.com/volcengine/OpenViking"
     }
   ],
   "huggingface": [
