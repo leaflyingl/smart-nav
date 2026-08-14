@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-08-14T23:25:04.256Z",
+  "updatedAt": "2026-08-14T23:49:08.311Z",
   "sina": [
+    {
+      "title": "知情人士：英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininiyyw2068780.shtml"
+    },
     {
       "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininicvh2456017.shtml"
@@ -36,10 +40,6 @@
     {
       "title": "独家 | 浪潮集团架构调整：智能终端并入智慧科技，董事长孙业志卸任",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhtfh4123232.shtml"
-    },
-    {
-      "title": "9月机圈群英会：iPhone 18 Pro之外还有这些重磅旗舰",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-14/doc-ininhtfm2851699.shtml"
     }
   ],
   "wallstreet": [
@@ -90,8 +90,8 @@
       "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%80%E6%AC%A1%E6%80%A7%E5%A1%91%E6%96%99%E5%88%B6%E5%93%81%E7%A6%81%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "河南一传染病医院被淹",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E4%BC%A0%E6%9F%93%E7%97%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "朋友圈永远不会有二次编辑功能",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "暴雨洪涝过后 喝水千万别大意",
@@ -106,20 +106,20 @@
       "url": "https://www.baidu.com/s?wd=%E7%AA%81%E7%84%B6%E8%B5%B0%E7%BA%A2%E7%9A%84%E9%9F%A9%E5%9B%BD%E5%86%B0%E5%A5%B6%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%9F%A5%E6%97%A0%E6%AD%A4%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“羊群效应”体现得淋漓尽致",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8A%E7%BE%A4%E6%95%88%E5%BA%94%E2%80%9D%E4%BD%93%E7%8E%B0%E5%BE%97%E6%B7%8B%E6%BC%93%E5%B0%BD%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "郭德纲西安演出取消",
+      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "日本防卫大臣参拜靖国神社",
       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%B2%E5%8D%AB%E5%A4%A7%E8%87%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "郭德纲西安演出取消",
-      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“羊群效应”体现得淋漓尽致",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8A%E7%BE%A4%E6%95%88%E5%BA%94%E2%80%9D%E4%BD%93%E7%8E%B0%E5%BE%97%E6%B7%8B%E6%BC%93%E5%B0%BD%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "王传君19年前就参加过选秀",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "国乒男单连续三站无缘八强",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E8%BF%9E%E7%BB%AD%E4%B8%89%E7%AB%99%E6%97%A0%E7%BC%98%E5%85%AB%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "12对双胞胎考上同一所大学",
@@ -136,36 +136,36 @@
       "url": "https://b23.tv/BV1Hmuv68EWW"
     },
     {
-      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉119/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://b23.tv/BV1BMgj6MEz4"
+      "title": "用MC还原《神的随波逐流》 【B萌应援】",
+      "url": "https://b23.tv/BV1e1gH67EjN"
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第1集 遗忘的过去【8月国创】",
       "url": "https://b23.tv/BV1hyuC6eEwm"
     },
     {
-      "title": "用MC还原《神的随波逐流》 【B萌应援】",
-      "url": "https://b23.tv/BV1e1gH67EjN"
+      "title": "我自驾1300KM，去了一趟世界中心！",
+      "url": "https://b23.tv/BV1z1gA6vEgb"
     },
     {
-      "title": "《下一个是谁》音乐特辑",
-      "url": "https://b23.tv/BV1nLgs6vEX5"
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉119/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://b23.tv/BV1BMgj6MEz4"
     },
     {
       "title": "【火遮眼】浪客剑心武指执导，年度最爽打戏！",
       "url": "https://b23.tv/BV135gG6UEui"
     },
     {
-      "title": "猎哥说打绝航能让人眼前一亮【三角洲动画·勇敢者篇】",
-      "url": "https://b23.tv/BV13Ygn6qEG3"
+      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
+      "url": "https://b23.tv/BV17Hgp6XEaR"
     },
     {
-      "title": "琢磨个把月，用一张纸折出了奥黛塔",
-      "url": "https://b23.tv/BV1QRuB6HEnA"
+      "title": "我实现了我儿时的梦想",
+      "url": "https://b23.tv/BV1iTgA6hENv"
     },
     {
-      "title": "黑白色经典星空喷漆画，划走你就草率了",
-      "url": "https://b23.tv/BV1Mquv6MEEw"
+      "title": "《下一个是谁》音乐特辑",
+      "url": "https://b23.tv/BV1nLgs6vEX5"
     }
   ],
   "weibo": [
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "台风白海豚",
+      "title": "母女被拐卖父亲被骗无偿工作11年",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,11 +182,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "母女被拐卖父亲被骗无偿工作11年",
+      "title": "台风白海豚",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "中央汇金证金公司集体清仓贵州茅台",
+      "title": "国乒男单无缘八强",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "河南暴雨",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "奇瑞捷豹路虎首搭华为乾崑智驾",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -200,20 +208,12 @@
     {
       "title": "王传君体脂率25.5%",
       "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "命好的人本质是主体性强",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "牛来",
-      "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "台风白海豚杀了个“回马枪”",
-      "url": "https://www.toutiao.com/trending/7673088324894015529/"
+      "title": "日本投降81周年",
+      "url": "https://www.toutiao.com/trending/7673620370825674793/"
     },
     {
       "title": "中方回应普京首登俄日争议岛屿",
@@ -224,38 +224,66 @@
       "url": "https://www.toutiao.com/trending/7673797019718598698/"
     },
     {
-      "title": "江泽民诞辰100周年纪念币将发行",
-      "url": "https://www.toutiao.com/trending/7673478082126741555/"
+      "title": "国乒男单连续三站无缘八强",
+      "url": "https://www.toutiao.com/trending/7673434886017384489/"
     },
     {
       "title": "浙江省博一周内两次道歉",
       "url": "https://www.toutiao.com/trending/7672852322451459627/"
     },
     {
+      "title": "印尼发生7.7级强震",
+      "url": "https://www.toutiao.com/trending/7674031219033787914/"
+    },
+    {
+      "title": "林诗栋蒯曼混双夺冠",
+      "url": "https://www.toutiao.com/trending/7673067301227151396/"
+    },
+    {
+      "title": "专访2034杯重庆足球小将团队",
+      "url": "https://www.toutiao.com/trending/7673151955581812790/"
+    },
+    {
       "title": "《牛来》演职人员仅两人导演兼数职",
       "url": "https://www.toutiao.com/trending/7673687081688252459/"
     },
     {
-      "title": "抹黑中国的菲防长曾带队抓扣中国人",
-      "url": "https://www.toutiao.com/trending/7673855381147238436/"
-    },
-    {
-      "title": "国乒男单连续三站无缘八强",
-      "url": "https://www.toutiao.com/trending/7673434886017384489/"
-    },
-    {
-      "title": "五粮液禁止终端价低于800释放何信号",
-      "url": "https://www.toutiao.com/trending/7673833974686289444/"
-    },
-    {
-      "title": "乌军为何能4小时摧毁俄装甲集群",
-      "url": "https://www.toutiao.com/trending/7673711940689989163/"
+      "title": "台风白海豚杀了个“回马枪”",
+      "url": "https://www.toutiao.com/trending/7673088324894015529/"
     }
   ],
   "ithome": [
     {
+      "title": "上市近 70 年来首次年度亏损后，曝本田搁置 3 款纯电汽车项目",
+      "url": "/0/989/980.htm"
+    },
+    {
+      "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
+      "url": "/0/989/979.htm"
+    },
+    {
+      "title": "曝小米澎湃 HyperOS 4“浏览器”支持插件功能",
+      "url": "/0/989/978.htm"
+    },
+    {
+      "title": "美团：无锡、上海、杭州等城市评估“红灯停表”功能，预计今年内覆盖超百万骑手",
+      "url": "/0/989/977.htm"
+    },
+    {
+      "title": "便宜约 15%：苹果美国扩充官翻阵容，新增 iPhone 16 Plus 和多款 MacBook Pro 等",
+      "url": "/0/989/976.htm"
+    },
+    {
+      "title": "9440 亿韩元分割额，韩国 SK 集团会长崔泰源天价离婚案将再次重审",
+      "url": "/0/989/975.htm"
+    },
+    {
       "title": "荣耀罗巍：明年还有一款大家没见过甚至没有想过的产品面世",
       "url": "/0/989/974.htm"
+    },
+    {
+      "title": "低过京东超级补贴：巴马百年弱碱性天然矿泉水 24 瓶 28 元双重补贴新低",
+      "url": "https://lapin.ithome.com/html/digi/989936.htm"
     },
     {
       "title": "微软推送 Win11 26x00.9267 RP 预览版：自由指定任务栏停靠位置",
@@ -264,40 +292,16 @@
     {
       "title": "微软发布 Win11 26H1 RP 28000.2796 预览版：文件管理器适配 KB / MB / GB 单位",
       "url": "/0/989/969.htm"
-    },
-    {
-      "title": "小米汽车详解澎程门把手三重安全冗余设计，覆盖车外 / 车内开启、门锁供电三个环节",
-      "url": "/0/989/972.htm"
-    },
-    {
-      "title": "国家邮政局：1-7 月快递业务量累计完成 1174.7 亿件，同比增长 4.8%",
-      "url": "/0/989/971.htm"
-    },
-    {
-      "title": "硅光新时代来了？英伟达全面投产 Spectrum-X，全球首款量产 200G/lane CPO 交换机",
-      "url": "/0/989/970.htm"
-    },
-    {
-      "title": "低过京东超级补贴：巴马百年弱碱性天然矿泉水 24 瓶 28 元双重补贴新低",
-      "url": "https://lapin.ithome.com/html/digi/989936.htm"
-    },
-    {
-      "title": "翻新工厂、淘汰“祖宗之法”，福特斥 20 亿美元推进经济型纯电皮卡 Fathom 项目",
-      "url": "/0/989/967.htm"
-    },
-    {
-      "title": "微信鸿蒙版灰度测试朋友圈自选视频封面，且支持查看好友视频封面",
-      "url": "/0/989/966.htm"
-    },
-    {
-      "title": "钞能力？特斯拉出手“买断”瑞典罢工员工，近三年拉锯战告一段落",
-      "url": "/0/989/965.htm"
     }
   ],
   "github": [
     {
       "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
       "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers"
     },
     {
       "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -328,12 +332,8 @@
       "url": "https://github.com/anthropics/skills"
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-    },
-    {
-      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code"
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
     }
   ],
   "huggingface": [
