@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:28:20.997Z",
+  "updatedAt": "2026-08-15T16:53:03.902Z",
   "sina": [
     {
       "title": "魏牌V8X上市：搭载双VLA原生AI舱驾智能体，限时权益价22.68万元起",
@@ -132,12 +132,12 @@
       "url": "https://b23.tv/BV1hbgu66EyA"
     },
     {
-      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
-      "url": "https://b23.tv/BV1RYbk6QE9o"
-    },
-    {
       "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
       "url": "https://b23.tv/BV1FRgn6pEph"
+    },
+    {
+      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
+      "url": "https://b23.tv/BV1RYbk6QE9o"
     },
     {
       "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方(下)",
@@ -148,20 +148,20 @@
       "url": "https://b23.tv/BV1fTb16KEDk"
     },
     {
-      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://b23.tv/BV1BMgj6MEz4"
-    },
-    {
-      "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方（上）",
-      "url": "https://b23.tv/BV1Ccb163E7t"
-    },
-    {
       "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
       "url": "https://b23.tv/BV15xgn6GEjH"
     },
     {
-      "title": "制作糖果的流程—解压",
-      "url": "https://b23.tv/BV1MzGc6UEzT"
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://b23.tv/BV1BMgj6MEz4"
+    },
+    {
+      "title": "（补档）雷霆牛来，绷得住的可以去乐山当大佛了",
+      "url": "https://b23.tv/BV1nSgT6EEsj"
+    },
+    {
+      "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
+      "url": "https://b23.tv/BV1y5gP61E6m"
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第2集 困兽【8月国创】",
@@ -194,19 +194,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "补钙防骨折可能是个误区",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "山西挖眼案男孩高考721分选了中医学",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "Bin 回归",
+      "title": "生活中如何分辨善妒的人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "张本美和早田希娜瑞典大满贯夺冠",
+      "title": "看似吃个大鸡排其实就吃了个鸡蛋",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "Bin 回归",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -244,12 +244,12 @@
       "url": "https://www.toutiao.com/trending/7674088709628821531/"
     },
     {
-      "title": "无人快递车堵住马路被叉车叉走",
-      "url": "https://www.toutiao.com/trending/7673235687138787378/"
+      "title": "男童走失4天找回 父亲设宴200桌答谢",
+      "url": "https://www.toutiao.com/trending/7673461817784877098/"
     },
     {
-      "title": "为何说旺旺最大竞争对手是糖",
-      "url": "https://www.toutiao.com/trending/7673020164364484618/"
+      "title": "无人快递车堵住马路被叉车叉走",
+      "url": "https://www.toutiao.com/trending/7673235687138787378/"
     }
   ],
   "ithome": [
@@ -296,44 +296,44 @@
   ],
   "github": [
     {
-      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
       "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+      "title": "anomalyco/opencode: The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code"
     },
     {
-      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "url": "https://github.com/garrytan/gstack"
+      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
+      "url": "https://github.com/github/spec-kit"
     },
     {
-      "title": "google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "url": "https://github.com/google-gemini/gemini-cli"
+      "title": "farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "url": "https://github.com/farion1231/cc-switch"
     },
     {
-      "title": "openai/codex: Lightweight coding agent that runs in your terminal",
-      "url": "https://github.com/openai/codex"
-    },
-    {
-      "title": "JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "url": "https://github.com/JuliusBrussee/caveman"
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
     }
   ],
   "huggingface": [
