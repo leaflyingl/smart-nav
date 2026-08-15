@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-15T05:53:34.467Z",
+  "updatedAt": "2026-08-15T06:42:20.883Z",
   "sina": [
+    {
+      "title": "澳大利亚出现万事达卡支付遭拒情况",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwq1854272.shtml"
+    },
+    {
+      "title": "视频|人形机器人上岗家政 一小时30刀进入普通家庭",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwp2185843.shtml"
+    },
+    {
+      "title": "视频|美国旧金山企业推出人形机器人保洁服务 每小时30美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwk3457356.shtml"
+    },
     {
       "title": "联想集团刘军：AI PC国内市场销量占比过半",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqs1966380.shtml"
@@ -28,21 +40,17 @@
     {
       "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininicvh2456017.shtml"
-    },
-    {
-      "title": "月之暗面辟谣“老股融资”：从未授权，将追责到底",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininicvh2425980.shtml"
-    },
-    {
-      "title": "发力中国市场！苹果训练了一款“中国定制”大模型 开启AI双轨布局",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-14/doc-ininhxpk2504931.shtml"
-    },
-    {
-      "title": "数据泄露通知数量已远超去年全年 人工智能影响持续扩大",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2498801.shtml"
     }
   ],
   "wallstreet": [
+    {
+      "title": "联想集团刘军：AI PC国内市场销量占比过半",
+      "url": "https://wallstreetcn.com/lives/3149947"
+    },
+    {
+      "title": "英国海事贸易行动办公室（UKMTO）：英国海军收到8月15日发生于霍尔木兹海峡的事件报告，一艘散货船被发射物击中。",
+      "url": "https://wallstreetcn.com/lives/3149946"
+    },
     {
       "title": "以军空袭黎南部致至少7人死亡",
       "url": "https://wallstreetcn.com/lives/3149945"
@@ -74,14 +82,6 @@
     {
       "title": "提前一月破亿！内蒙古陆路口岸货运量稳居全国首位",
       "url": "https://wallstreetcn.com/lives/3149938"
-    },
-    {
-      "title": "韩国总统李在明提出对朝“和平共处蓝图”",
-      "url": "https://wallstreetcn.com/lives/3149936"
-    },
-    {
-      "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
-      "url": "https://wallstreetcn.com/lives/3149935"
     }
   ],
   "baidu": [
@@ -90,40 +90,40 @@
       "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "国防部：敦促日方认罪赎罪",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E8%AE%A4%E7%BD%AA%E8%B5%8E%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "外交部：严正交涉、强烈抗议",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%E3%80%81%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "勿忘历史 吾辈自强",
       "url": "https://www.baidu.com/s?wd=%E5%8B%BF%E5%BF%98%E5%8E%86%E5%8F%B2+%E5%90%BE%E8%BE%88%E8%87%AA%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "《牛来》票房飙涨977% 影院紧急加场",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "60后妈妈与儿子纯手搓5年做出《牛来》",
+      "url": "https://www.baidu.com/s?wd=60%E5%90%8E%E5%A6%88%E5%A6%88%E4%B8%8E%E5%84%BF%E5%AD%90%E7%BA%AF%E6%89%8B%E6%90%935%E5%B9%B4%E5%81%9A%E5%87%BA%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "妈妈带儿子录取通知书给同事看却弄丢",
-      "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E5%84%BF%E5%AD%90%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E7%BB%99%E5%90%8C%E4%BA%8B%E7%9C%8B%E5%8D%B4%E5%BC%84%E4%B8%A2&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "年轻人回村“卷”起了自建房",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%9B%9E%E6%9D%91%E2%80%9C%E5%8D%B7%E2%80%9D%E8%B5%B7%E4%BA%86%E8%87%AA%E5%BB%BA%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "《牛来》票房飙涨977% 影院紧急加场",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "谁“杀死”了驾校",
       "url": "https://www.baidu.com/s?wd=%E8%B0%81%E2%80%9C%E6%9D%80%E6%AD%BB%E2%80%9D%E4%BA%86%E9%A9%BE%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "5万元小车为何卖不动了",
-      "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%83%E5%B0%8F%E8%BD%A6%E4%B8%BA%E4%BD%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "《牛来》总票房已怒破10万",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E5%B7%B2%E6%80%92%E7%A0%B410%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "欢子 情商",
-      "url": "https://www.baidu.com/s?wd=%E6%AC%A2%E5%AD%90+%E6%83%85%E5%95%86&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "宝宝从餐椅跌落 老人不敢告知父母",
       "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E4%BB%8E%E9%A4%90%E6%A4%85%E8%B7%8C%E8%90%BD+%E8%80%81%E4%BA%BA%E4%B8%8D%E6%95%A2%E5%91%8A%E7%9F%A5%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "为了“龙餐馆” 青岛造出“一座城”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E2%80%9C%E9%BE%99%E9%A4%90%E9%A6%86%E2%80%9D+%E9%9D%92%E5%B2%9B%E9%80%A0%E5%87%BA%E2%80%9C%E4%B8%80%E5%BA%A7%E5%9F%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "《牛来》确实牛",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A1%AE%E5%AE%9E%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -132,40 +132,40 @@
       "url": "https://b23.tv/BV1hbgu66EyA"
     },
     {
-      "title": "《千瓷之战》｜一部用1061只瓷瓶拍成的动画",
-      "url": "https://b23.tv/BV1QwgK6aExZ"
-    },
-    {
       "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
       "url": "https://b23.tv/BV15xgn6GEjH"
+    },
+    {
+      "title": "《千瓷之战》｜一部用1061只瓷瓶拍成的动画",
+      "url": "https://b23.tv/BV1QwgK6aExZ"
     },
     {
       "title": "我实现了我儿时的梦想",
       "url": "https://b23.tv/BV1iTgA6hENv"
     },
     {
-      "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
-      "url": "https://b23.tv/BV1y5gP61E6m"
-    },
-    {
       "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
       "url": "https://b23.tv/BV1FRgn6pEph"
-    },
-    {
-      "title": "【火遮眼】浪客剑心武指执导，年度最爽打戏！",
-      "url": "https://b23.tv/BV135gG6UEui"
     },
     {
       "title": "十八载征程，感谢有你，一路相伴。",
       "url": "https://b23.tv/BV19YgP6aEq6"
     },
     {
-      "title": "都什么年代，谁还渡传统通天河？！！",
-      "url": "https://b23.tv/BV1CDgw6GEQ2"
+      "title": "【火遮眼】浪客剑心武指执导，年度最爽打戏！",
+      "url": "https://b23.tv/BV135gG6UEui"
+    },
+    {
+      "title": "《异环》剧情过场 | 雾巢游戏",
+      "url": "https://b23.tv/BV15DgA6wEyF"
     },
     {
       "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉119/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
       "url": "https://b23.tv/BV1BMgj6MEz4"
+    },
+    {
+      "title": "用MC还原《神的随波逐流》 【B萌应援】",
+      "url": "https://b23.tv/BV1e1gH67EjN"
     }
   ],
   "weibo": [
@@ -174,15 +174,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "国乒男单全军覆没",
+      "title": "牛来票房破10万",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "中国China成为潮流",
+      "title": "历史未走远吾辈当自强",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "e-tron带你去看球",
+      "title": "豪华旗舰神行者8震撼33.99万元起",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,7 +190,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "牛来票房破10万",
+      "title": "疯狂动物城3官宣",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,15 +198,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "日本 拜鬼",
+      "title": "总在不同时候爱上九门团魂",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "手机涨得快买不起了",
+      "title": "牛来传到韩国了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "终于知道为什么戴眼镜是斜的了",
+      "title": "国乒男单全军覆没",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -228,31 +228,47 @@
       "url": "https://www.toutiao.com/trending/7674070456131174427/"
     },
     {
-      "title": "菲称台海有事不允许美从菲领土攻击",
-      "url": "https://www.toutiao.com/trending/7673727363691204132/"
+      "title": "塔利班喊话美国：可以回来但有条件",
+      "url": "https://www.toutiao.com/trending/7673131742371020810/"
     },
     {
       "title": "为何说旺旺最大竞争对手是糖",
       "url": "https://www.toutiao.com/trending/7673020164364484618/"
     },
     {
-      "title": "日本为何难以正确对待侵略历史",
-      "url": "https://www.toutiao.com/trending/7674065730786037254/"
-    },
-    {
-      "title": "大嫂坚持花七八十万救回小姑子",
-      "url": "https://www.toutiao.com/trending/7672991587056107526/"
-    },
-    {
-      "title": "妈妈路上不慎弄丢儿子录取通知书",
-      "url": "https://www.toutiao.com/trending/7673816327722926116/"
+      "title": "菲称台海有事不允许美从菲领土攻击",
+      "url": "https://www.toutiao.com/trending/7673727363691204132/"
     },
     {
       "title": "小伙穿戚家军盔甲登顶泰山迎日出",
       "url": "https://www.toutiao.com/trending/7674030178292662335/"
+    },
+    {
+      "title": "手搓动画《牛来》丑出圈",
+      "url": "https://www.toutiao.com/trending/7673817279796170294/"
+    },
+    {
+      "title": "妈妈路上不慎弄丢儿子录取通知书",
+      "url": "https://www.toutiao.com/trending/7673816327722926116/"
     }
   ],
   "ithome": [
+    {
+      "title": "真 XL 码大尺寸：心相印悬挂式洗脸巾 180 片 15 元速囤（商超 24.9 元）",
+      "url": "https://lapin.ithome.com/html/digi/990049.htm"
+    },
+    {
+      "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+      "url": "/0/990/048.htm"
+    },
+    {
+      "title": "全球限 150 辆：阿斯顿 · 马丁展示最强前置 V12 超跑 Valen，零百加速 3.1 秒",
+      "url": "/0/990/047.htm"
+    },
+    {
+      "title": "微信员工透露最新微信鸿蒙版 App 已全量功能，含聊天发送实况图片、收藏聊天记录支持复制等",
+      "url": "/0/990/046.htm"
+    },
     {
       "title": "X 战警官宣正式加入漫威电影宇宙：全新演员阵容公开，2028 年 5 月全球献映",
       "url": "/0/990/045.htm"
@@ -276,22 +292,6 @@
     {
       "title": "奕境 X9 旗舰大六座 SUV 预售发布会定档 8 月 18 日，全系搭载华为乾崑智驾 ADS 5",
       "url": "/0/990/040.htm"
-    },
-    {
-      "title": "联想拯救者 Y700 无极平板参数曝光：骁龙 8 Elite Gen5 领先版、8.4 英寸 OLED 屏",
-      "url": "/0/990/039.htm"
-    },
-    {
-      "title": "追光 S 隧道 360° 大回环被疑 AI 造假，岚图汽车宣布发布会一镜到底回应质疑",
-      "url": "/0/990/038.htm"
-    },
-    {
-      "title": "低过京东超级补贴：天海藏麻辣 / 蒜蓉小龙虾 3 斤 35.5 元无需凑单闭眼畅吃",
-      "url": "https://lapin.ithome.com/html/digi/990037.htm"
-    },
-    {
-      "title": "迪士尼动画《疯狂动物城 3》正式官宣，已开始制作",
-      "url": "/0/990/036.htm"
     }
   ],
   "github": [
@@ -332,8 +332,8 @@
       "url": "https://github.com/anthropics/skills"
     },
     {
-      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     }
   ],
   "huggingface": [
