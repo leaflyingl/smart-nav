@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:42:16.636Z",
+  "updatedAt": "2026-08-15T13:32:32.499Z",
   "sina": [
     {
       "title": "魏牌V8X上市：搭载双VLA原生AI舱驾智能体，限时权益价22.68万元起",
@@ -44,6 +44,26 @@
   ],
   "wallstreet": [
     {
+      "title": "印尼7.7级地震死亡人数升至47人",
+      "url": "https://wallstreetcn.com/lives/3150001"
+    },
+    {
+      "title": "美国弗吉尼亚州立大学枪击事件致5人受伤",
+      "url": "https://wallstreetcn.com/lives/3150000"
+    },
+    {
+      "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+      "url": "https://wallstreetcn.com/lives/3149999"
+    },
+    {
+      "title": "美撤销墨前总统之子签证 墨方批“政治色彩”",
+      "url": "https://wallstreetcn.com/lives/3149998"
+    },
+    {
+      "title": "韩国西江大学18万条个人信息泄露 朴槿惠或在其中",
+      "url": "https://wallstreetcn.com/lives/3149997"
+    },
+    {
       "title": "联合国追加资金应对埃博拉疫情",
       "url": "https://wallstreetcn.com/lives/3149996"
     },
@@ -62,74 +82,62 @@
     {
       "title": "多部门会商部署重点地区防汛抢险工作",
       "url": "https://wallstreetcn.com/lives/3149991"
-    },
-    {
-      "title": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行。习近平将出席大会并发表重要讲话。（新华社）",
-      "url": "https://wallstreetcn.com/lives/3149990"
-    },
-    {
-      "title": "巴布亚新几内亚北部海岸发生5.4级地震。（央视）",
-      "url": "https://wallstreetcn.com/lives/3149989"
-    },
-    {
-      "title": "印尼政府调拨5万份援助物资支援地震灾区",
-      "url": "https://wallstreetcn.com/lives/3149988"
-    },
-    {
-      "title": "胡塞武装称沙特袭击也门西北部萨达省",
-      "url": "https://wallstreetcn.com/lives/3149987"
-    },
-    {
-      "title": "印尼7.7级地震死亡人数升至40人",
-      "url": "https://wallstreetcn.com/lives/3149986"
     }
   ],
   "baidu": [
     {
-      "title": "纪念江泽民诞辰100周年大会17日举行",
-      "url": "https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A17%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "纪念江泽民同志诞辰100周年大会",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "加拿大游客用脚投票：不去美国了",
-      "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B8%B8%E5%AE%A2%E7%94%A8%E8%84%9A%E6%8A%95%E7%A5%A8%EF%BC%9A%E4%B8%8D%E5%8E%BB%E7%BE%8E%E5%9B%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "西湖“长大”了",
+      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E2%80%9C%E9%95%BF%E5%A4%A7%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "今年外国人最爱逛哪里",
       "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9C%80%E7%88%B1%E9%80%9B%E5%93%AA%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "父子决裂40年 亲生儿子仍继承9成遗产",
-      "url": "https://www.baidu.com/s?wd=%E7%88%B6%E5%AD%90%E5%86%B3%E8%A3%8240%E5%B9%B4+%E4%BA%B2%E7%94%9F%E5%84%BF%E5%AD%90%E4%BB%8D%E7%BB%A7%E6%89%BF9%E6%88%90%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "父子决裂40年亲生儿子仍继承9成遗产",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B6%E5%AD%90%E5%86%B3%E8%A3%8240%E5%B9%B4%E4%BA%B2%E7%94%9F%E5%84%BF%E5%AD%90%E4%BB%8D%E7%BB%A7%E6%89%BF9%E6%88%90%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "对付骚扰电话新思路：“婴语”对线",
-      "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BB%98%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E6%96%B0%E6%80%9D%E8%B7%AF%EF%BC%9A%E2%80%9C%E5%A9%B4%E8%AF%AD%E2%80%9D%E5%AF%B9%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "保时捷溜车2员工飞身拦车 1人升店长",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%BA%9C%E8%BD%A62%E5%91%98%E5%B7%A5%E9%A3%9E%E8%BA%AB%E6%8B%A6%E8%BD%A6+1%E4%BA%BA%E5%8D%87%E5%BA%97%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "男童走失4天找回 父亲设宴200桌答谢",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B14%E5%A4%A9%E6%89%BE%E5%9B%9E+%E7%88%B6%E4%BA%B2%E8%AE%BE%E5%AE%B4200%E6%A1%8C%E7%AD%94%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "旺旺 重大经营危机",
-      "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA+%E9%87%8D%E5%A4%A7%E7%BB%8F%E8%90%A5%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "河南周口117米溃口成功合龙",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3117%E7%B1%B3%E6%BA%83%E5%8F%A3%E6%88%90%E5%8A%9F%E5%90%88%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "四川一村有33对双胞胎 专家谈成因",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E6%9C%8933%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E+%E4%B8%93%E5%AE%B6%E8%B0%88%E6%88%90%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "男子彩票中598万 没告诉妻儿父母",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "中方：这个人一贯攻击抹黑中国",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%BF%99%E4%B8%AA%E4%BA%BA%E4%B8%80%E8%B4%AF%E6%94%BB%E5%87%BB%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "四川一村有33对双胞胎 专家谈成因",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E6%9C%8933%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E+%E4%B8%93%E5%AE%B6%E8%B0%88%E6%88%90%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "30岁男子患抑郁症被母亲送进特训营",
+      "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%80%81%E8%BF%9B%E7%89%B9%E8%AE%AD%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第11集【总第187集】",
       "url": "https://b23.tv/BV1hbgu66EyA"
+    },
+    {
+      "title": "十八载征程，感谢有你，一路相伴。",
+      "url": "https://b23.tv/BV19YgP6aEq6"
+    },
+    {
+      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
+      "url": "https://b23.tv/BV1RYbk6QE9o"
     },
     {
       "title": "飞机安检模拟器",
@@ -144,24 +152,16 @@
       "url": "https://b23.tv/BV1MzGc6UEzT"
     },
     {
-      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
-      "url": "https://b23.tv/BV1FRgn6pEph"
-    },
-    {
-      "title": "十八载征程，感谢有你，一路相伴。",
-      "url": "https://b23.tv/BV19YgP6aEq6"
-    },
-    {
-      "title": "我实现了我儿时的梦想",
-      "url": "https://b23.tv/BV1iTgA6hENv"
-    },
-    {
       "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
       "url": "https://b23.tv/BV15xgn6GEjH"
     },
     {
-      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
-      "url": "https://b23.tv/BV1RYbk6QE9o"
+      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
+      "url": "https://b23.tv/BV1FRgn6pEph"
+    },
+    {
+      "title": "我实现了我儿时的梦想",
+      "url": "https://b23.tv/BV1iTgA6hENv"
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第2集 困兽【8月国创】",
@@ -170,11 +170,11 @@
   ],
   "weibo": [
     {
-      "title": "汉奸石平参拜靖国神社",
+      "title": "榜一大哥打赏千万后要求陪睡",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "披荆斩棘直播",
+      "title": "汉奸石平参拜靖国神社",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -186,15 +186,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "谁杀死了驾校",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "李雪琴回复汪苏泷",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "曹骏跳操前后对比",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "披荆斩棘初舞台",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -202,11 +198,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "我们的少年时代2",
+      "title": "余文乐 港星的含金量还在上升",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "终于明白减重减肥减脂区别",
+      "title": "披荆斩棘直播",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "DOTA2",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -228,31 +228,43 @@
       "url": "https://www.toutiao.com/trending/7673089074458689572/"
     },
     {
-      "title": "日本人战斗分队在乌成立 与俄军作战",
-      "url": "https://www.toutiao.com/trending/7673804938232922121/"
+      "title": "青海省副省长刘涛发表文学作品",
+      "url": "https://www.toutiao.com/trending/7674218662702268462/"
     },
     {
-      "title": "哆啦A梦和大雄开心大喊：日本战败了",
-      "url": "https://www.toutiao.com/trending/7674091705016025107/"
+      "title": "深圳高校为何集体“强势出圈”",
+      "url": "https://www.toutiao.com/trending/7673971326050418698/"
     },
     {
       "title": "专访无偿捐赠日军侵华史料少年",
       "url": "https://www.toutiao.com/trending/7673737146118127662/"
     },
     {
-      "title": "王曼昱晋级女单四强",
-      "url": "https://www.toutiao.com/trending/7673656638473633835/"
+      "title": "哆啦A梦和大雄开心大喊：日本战败了",
+      "url": "https://www.toutiao.com/trending/7674091705016025107/"
     },
     {
-      "title": "电台播报日本投降：谁敢阻挡就被消灭",
-      "url": "https://www.toutiao.com/trending/7673730252652236329/"
+      "title": "为何说旺旺最大竞争对手是糖",
+      "url": "https://www.toutiao.com/trending/7673020164364484618/"
     },
     {
-      "title": "河南周口溃口封堵现场现“三蹦子”",
-      "url": "https://www.toutiao.com/trending/7673858215548911625/"
+      "title": "苏州暴雨致太湖水倒灌小区车库",
+      "url": "https://www.toutiao.com/trending/7673544808044544042/"
     }
   ],
   "ithome": [
+    {
+      "title": "谷歌安卓负责人萨米尔 · 萨马特畅想未来：只要说清想做什么，系统就能替你完成",
+      "url": "/0/990/172.htm"
+    },
+    {
+      "title": "三星电子 2026 上半年 DRAM 市场份额逼近 40%，智能手机市占率 22%",
+      "url": "/0/990/171.htm"
+    },
+    {
+      "title": "波音 757 万米高空上演网络钓鱼：达美航空遭遇虚假 Wi-Fi 攻击，FBI 已介入调查",
+      "url": "/0/990/170.htm"
+    },
     {
       "title": "真 XL 码大尺寸：心相印悬挂式洗脸巾 180 片 15 元速囤（商超 24.9 元）",
       "url": "https://lapin.ithome.com/html/digi/990049.htm"
@@ -280,18 +292,6 @@
     {
       "title": "番茄小说作者“去世”三年后“复活”：读者斥其消费感情，平台介入调查",
       "url": "/0/990/164.htm"
-    },
-    {
-      "title": "首发 79 元：酷态科 6 号车充「伸缩线」发布，双口 77W MAX 输出",
-      "url": "/0/990/163.htm"
-    },
-    {
-      "title": "低过京东超级补贴：天海藏麻辣 / 蒜蓉小龙虾 3 斤 35.5 元无需凑单闭眼畅吃",
-      "url": "https://lapin.ithome.com/html/digi/990037.htm"
-    },
-    {
-      "title": "为避免被 Meta“变态眼镜”拍到，人们纷纷设法反制",
-      "url": "/0/990/162.htm"
     }
   ],
   "github": [
@@ -308,12 +308,20 @@
       "url": "https://github.com/affaan-m/ECC"
     },
     {
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "title": "anomalyco/opencode: The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode"
     },
     {
       "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
@@ -326,14 +334,6 @@
     {
       "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents"
-    },
-    {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-    },
-    {
-      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code"
     }
   ],
   "huggingface": [
