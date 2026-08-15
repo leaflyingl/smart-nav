@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:47:30.566Z",
+  "updatedAt": "2026-08-15T22:24:50.763Z",
   "sina": [
     {
       "title": "魏牌V8X上市：搭载双VLA原生AI舱驾智能体，限时权益价22.68万元起",
@@ -114,12 +114,12 @@
       "url": "https://www.baidu.com/s?wd=%E6%9D%9C%E5%8D%8E%EF%BC%9A%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%9D%8F%E4%BA%BA%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "张本美和早田希娜瑞典大满贯夺冠",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "小沈阳 东北樱木花道",
       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3+%E4%B8%9C%E5%8C%97%E6%A8%B1%E6%9C%A8%E8%8A%B1%E9%81%93&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "张本美和早田希娜瑞典大满贯夺冠",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "河南周口117米溃口成功合龙",
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "生活中如何分辨善妒的人",
+      "title": "网传追觅大家电解散",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,11 +190,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "网传追觅大家电解散",
+      "title": "生活中如何分辨善妒的人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "曾辉 唱出了飞轮海的感觉",
+      "title": "小沈阳秒了",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "直观看见了女儿奴的诞生",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -202,11 +206,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "新乡胖东来搬走前VS搬走后",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "如何找到自己的天赋",
+      "title": "太干净的饭总有一种没吃的错觉",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -240,16 +240,16 @@
       "url": "https://www.toutiao.com/trending/7674245475667591222/"
     },
     {
-      "title": "年轻人山顶举起国旗与日本投降旗帜",
-      "url": "https://www.toutiao.com/trending/7674088709628821531/"
+      "title": "无人快递车堵住马路被叉车叉走",
+      "url": "https://www.toutiao.com/trending/7673235687138787378/"
     },
     {
       "title": "男童走失4天找回 父亲设宴200桌答谢",
       "url": "https://www.toutiao.com/trending/7673461817784877098/"
     },
     {
-      "title": "无人快递车堵住马路被叉车叉走",
-      "url": "https://www.toutiao.com/trending/7673235687138787378/"
+      "title": "专访无偿捐赠日军侵华史料少年",
+      "url": "https://www.toutiao.com/trending/7673737146118127662/"
     }
   ],
   "ithome": [
@@ -304,36 +304,36 @@
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
-    },
-    {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
-    },
-    {
-      "title": "anthropics/skills: Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills"
-    },
-    {
       "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "title": "google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "url": "https://github.com/google-gemini/gemini-cli"
+    },
+    {
+      "title": "openai/codex: Lightweight coding agent that runs in your terminal",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "title": "JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman"
     }
   ],
   "huggingface": [
