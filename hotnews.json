@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:28:51.966Z",
+  "updatedAt": "2026-08-15T09:52:40.966Z",
   "sina": [
     {
       "title": "荣耀阿尔法全球旗舰店焕新启幕，完成门店IP化与AI场景化全面升级",
@@ -44,6 +44,18 @@
   ],
   "wallstreet": [
     {
+      "title": "国防部新闻发言人蒋斌就日本政要参拜靖国神社答记者问",
+      "url": "https://wallstreetcn.com/lives/3149967"
+    },
+    {
+      "title": "《牛来》爆火，票房一天暴涨超2800%，主创仅2人，没投资纯手搓耗时5年",
+      "url": "https://wallstreetcn.com/lives/3149966"
+    },
+    {
+      "title": "非沪籍居民及境外人士置换性购房政策微调？上海房地产交易中心热线回应",
+      "url": "https://wallstreetcn.com/lives/3149965"
+    },
+    {
       "title": "8月总票房（含预售）突破30亿元",
       "url": "https://wallstreetcn.com/lives/3149964"
     },
@@ -70,60 +82,48 @@
     {
       "title": "德国西部野火引燃二战遗留弹药 大量居民连夜撤离",
       "url": "https://wallstreetcn.com/lives/3149958"
-    },
-    {
-      "title": "日本首相高市早苗遥拜靖国神社",
-      "url": "https://wallstreetcn.com/lives/3149957"
-    },
-    {
-      "title": "网上煽动二次“闯关”休达 西班牙军警严阵以待",
-      "url": "https://wallstreetcn.com/lives/3149956"
-    },
-    {
-      "title": "水利部：太湖流域将发生流域性大洪水",
-      "url": "https://wallstreetcn.com/lives/3149955"
     }
   ],
   "baidu": [
     {
-      "title": "这么糙的《牛来》为什么能公映",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B9%88%E7%B3%99%E7%9A%84%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%85%AC%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "旺旺 重大经营危机",
       "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA+%E9%87%8D%E5%A4%A7%E7%BB%8F%E8%90%A5%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "这么糙的《牛来》为什么能公映",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B9%88%E7%B3%99%E7%9A%84%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%85%AC%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "为什么我们要不断重温这段历史",
       "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%A6%81%E4%B8%8D%E6%96%AD%E9%87%8D%E6%B8%A9%E8%BF%99%E6%AE%B5%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "手机为什么越卖越贵了",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "印尼7.7级强震 海面出现巨大漩涡",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%BC%BA%E9%9C%87+%E6%B5%B7%E9%9D%A2%E5%87%BA%E7%8E%B0%E5%B7%A8%E5%A4%A7%E6%BC%A9%E6%B6%A1&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "男子彩票中598万 没告诉妻子孩子父母",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "船厂爆炸牺牲消防员朋友圈：拼什么命",
+      "url": "https://www.baidu.com/s?wd=%E8%88%B9%E5%8E%82%E7%88%86%E7%82%B8%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E6%9C%8B%E5%8F%8B%E5%9C%88%EF%BC%9A%E6%8B%BC%E4%BB%80%E4%B9%88%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "谁“杀死”了驾校",
       "url": "https://www.baidu.com/s?wd=%E8%B0%81%E2%80%9C%E6%9D%80%E6%AD%BB%E2%80%9D%E4%BA%86%E9%A9%BE%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "《牛来》导演：时间会证明一切",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%97%B6%E9%97%B4%E4%BC%9A%E8%AF%81%E6%98%8E%E4%B8%80%E5%88%87&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "《疯狂动物城3》官宣",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E3%80%8B%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "胖东来首批刑释职工30人无一离职",
       "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "比利时学生打工挖到900万欧元金库",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AD%A6%E7%94%9F%E6%89%93%E5%B7%A5%E6%8C%96%E5%88%B0900%E4%B8%87%E6%AC%A7%E5%85%83%E9%87%91%E5%BA%93&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "男子彩票中598万 没告诉妻子孩子父母",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "高市早苗遥拜靖国神社",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%81%A5%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "《牛来》导演：时间会证明一切",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%97%B6%E9%97%B4%E4%BC%9A%E8%AF%81%E6%98%8E%E4%B8%80%E5%88%87&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -134,6 +134,10 @@
     {
       "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
       "url": "https://b23.tv/BV15xgn6GEjH"
+    },
+    {
+      "title": "制作糖果的流程—解压",
+      "url": "https://b23.tv/BV1MzGc6UEzT"
     },
     {
       "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉119/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
@@ -148,33 +152,29 @@
       "url": "https://b23.tv/BV1iTgA6hENv"
     },
     {
-      "title": "都什么年代，谁还渡传统通天河？！！",
-      "url": "https://b23.tv/BV1CDgw6GEQ2"
-    },
-    {
-      "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
-      "url": "https://b23.tv/BV1cXgp6aESY"
-    },
-    {
-      "title": "用MC还原《神的随波逐流》 【B萌应援】",
-      "url": "https://b23.tv/BV1e1gH67EjN"
-    },
-    {
       "title": "十八载征程，感谢有你，一路相伴。",
       "url": "https://b23.tv/BV19YgP6aEq6"
     },
     {
+      "title": "都什么年代，谁还渡传统通天河？！！",
+      "url": "https://b23.tv/BV1CDgw6GEQ2"
+    },
+    {
       "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
       "url": "https://b23.tv/BV1y5gP61E6m"
+    },
+    {
+      "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
+      "url": "https://b23.tv/BV1cXgp6aESY"
     }
   ],
   "weibo": [
     {
-      "title": "胖东来 刑释人员",
+      "title": "谁杀死了驾校",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "牛来票房暴涨1000倍",
+      "title": "胖东来 刑释人员",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,11 +182,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "e-tron带你去看球",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "谁杀死了驾校",
+      "title": "815京东家电周年庆 低至8.15折",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -194,7 +190,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "牛来导演亲友发声",
+      "title": "终于明白减重减肥减脂区别",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -202,11 +198,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "终于明白减重减肥减脂区别",
+      "title": "一滴瑞珠护眼所营业中",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "李飞说左航没有独立判断能力",
+      "title": "曝田曦薇将演我在废土世界扫垃圾",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "旺旺 配料表",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -216,8 +216,8 @@
       "url": "https://www.toutiao.com/trending/7673858215548911625/"
     },
     {
-      "title": "什么是“984.5高校”",
-      "url": "https://www.toutiao.com/trending/7673947653646696457/"
+      "title": "游客到上海参观四行仓库抗战旧址",
+      "url": "https://www.toutiao.com/trending/7674159402240573476/"
     },
     {
       "title": "推动经济持续向新向优向好发展",
@@ -228,31 +228,43 @@
       "url": "https://www.toutiao.com/trending/7673804938232922121/"
     },
     {
-      "title": "比利时学生挖到价值900万欧元金库",
-      "url": "https://www.toutiao.com/trending/7674018140262711342/"
-    },
-    {
       "title": "为何说旺旺最大竞争对手是糖",
       "url": "https://www.toutiao.com/trending/7673020164364484618/"
+    },
+    {
+      "title": "是谁“杀死”了驾校",
+      "url": "https://www.toutiao.com/trending/7674102219520262182/"
     },
     {
       "title": "东莞随地吐痰最高将罚1000元",
       "url": "https://www.toutiao.com/trending/7673973405817012243/"
     },
     {
-      "title": "原来《恭喜恭喜》是庆祝抗战胜利",
-      "url": "https://www.toutiao.com/trending/7674049039507308586/"
+      "title": "比利时学生挖到价值900万欧元金库",
+      "url": "https://www.toutiao.com/trending/7674018140262711342/"
     },
     {
-      "title": "婴儿在姑姑家失踪 36年后找到家人",
-      "url": "https://www.toutiao.com/trending/7674134403609526314/"
+      "title": "重庆市民纪念日本无条件投降81周年",
+      "url": "https://www.toutiao.com/trending/7673929228525666323/"
     },
     {
-      "title": "宇树科技场外暗盘交易火了 谁在豪赌",
-      "url": "https://www.toutiao.com/trending/7674117012402032178/"
+      "title": "什么是“984.5高校”",
+      "url": "https://www.toutiao.com/trending/7673947653646696457/"
     }
   ],
   "ithome": [
+    {
+      "title": "8.38 元搞定一餐：必品阁煎饺 / 水饺 / 雲包久违发车（商超 10.9 元）",
+      "url": "https://lapin.ithome.com/html/digi/990121.htm"
+    },
+    {
+      "title": "惠普推出全新 OmniBook 5 笔记本：16 寸 OLED 屏幕，至高酷睿 Ultra 9 386H 处理器",
+      "url": "/0/990/120.htm"
+    },
+    {
+      "title": "调查发现美国年轻人普遍不信任 AI，以及主张“拥抱 AI”的科技巨头",
+      "url": "/0/990/119.htm"
+    },
     {
       "title": "智能体成“逃课神器”？部分美国学生用 AI 代替自己完成整门网络课程",
       "url": "/0/990/115.htm"
@@ -266,10 +278,6 @@
       "url": "/0/990/113.htm"
     },
     {
-      "title": "低过京东超级补贴：天海藏麻辣 / 蒜蓉小龙虾 3 斤 35.5 元无需凑单闭眼畅吃",
-      "url": "https://lapin.ithome.com/html/digi/990037.htm"
-    },
-    {
       "title": "春风动力 450MT 罗马尼亚冠军版即将预售，售价 30580 元",
       "url": "/0/990/112.htm"
     },
@@ -278,20 +286,12 @@
       "url": "/0/990/111.htm"
     },
     {
+      "title": "低过京东超级补贴：天海藏麻辣 / 蒜蓉小龙虾 3 斤 35.5 元无需凑单闭眼畅吃",
+      "url": "https://lapin.ithome.com/html/digi/990037.htm"
+    },
+    {
       "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
       "url": "/0/990/110.htm"
-    },
-    {
-      "title": "截至今年 8 月，科技行业裁员 12.6 万人已超去年全年",
-      "url": "/0/990/109.htm"
-    },
-    {
-      "title": "微软发布 60 天倒计时：Windows Server 2022 及 Win11 24H2 将于 10 月 13 日终止主流支持",
-      "url": "/0/990/108.htm"
-    },
-    {
-      "title": "Ayaneo 展示开发者特别版 KONKR Pocket Advance 掌机，不对外销售",
-      "url": "/0/990/107.htm"
     }
   ],
   "github": [
@@ -332,8 +332,8 @@
       "url": "https://github.com/anthropics/skills"
     },
     {
-      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     }
   ],
   "huggingface": [
