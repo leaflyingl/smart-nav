@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:22:55.411Z",
+  "updatedAt": "2026-08-16T21:46:12.944Z",
   "sina": [
     {
       "title": "开放权重+引入金融，AI建设门槛“双降”？",
@@ -114,8 +114,8 @@
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B%E5%88%9D%E8%88%9E%E5%8F%B0%E6%8E%92%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "加油新规11月起正式实施",
-      "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%8411%E6%9C%88%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "AI正在批量制造“幽灵”",
+      "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "吴艳妮加冕全锦赛100米栏六冠王",
@@ -140,16 +140,16 @@
       "url": "https://b23.tv/BV1Z9gT61EnM"
     },
     {
+      "title": "口技表演《定海神珍铁》",
+      "url": "https://b23.tv/BV1N8gG6qEpm"
+    },
+    {
       "title": "什么⁉Bye bye baby blue翻译竟然是错的✖！",
       "url": "https://b23.tv/BV1tMby62EC4"
     },
     {
       "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
       "url": "https://b23.tv/BV15xgn6GEjH"
-    },
-    {
-      "title": "口技表演《定海神珍铁》",
-      "url": "https://b23.tv/BV1N8gG6qEpm"
     },
     {
       "title": "【独家】牧神记 第96集 延康双雄",
@@ -202,11 +202,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "王曼昱vs王艺迪",
+      "title": "阿森纳3比0曼城",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "恋与深空",
+      "title": "王曼昱vs王艺迪",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -236,20 +236,20 @@
       "url": "https://www.toutiao.com/trending/7674593242356125203/"
     },
     {
-      "title": "央视曝光近150人组团夜爬封禁山峰",
-      "url": "https://www.toutiao.com/trending/7674494013226893362/"
-    },
-    {
-      "title": "扎蟹女工两三秒制服梭子蟹",
-      "url": "https://www.toutiao.com/trending/7674103498824302655/"
-    },
-    {
       "title": "日军在南京每晚至少发生一千起强奸案",
       "url": "https://www.toutiao.com/trending/7674474515069681718/"
     },
     {
-      "title": "胖东来将闭门老店28个收银口排长龙",
-      "url": "https://www.toutiao.com/trending/7674460027406798362/"
+      "title": "央视曝光近150人组团夜爬封禁山峰",
+      "url": "https://www.toutiao.com/trending/7674494013226893362/"
+    },
+    {
+      "title": "请3天假连休13天",
+      "url": "https://www.toutiao.com/trending/7673849414997671982/"
+    },
+    {
+      "title": "17岁少年确诊胃癌一个半月后离世",
+      "url": "https://www.toutiao.com/trending/7674245924323901476/"
     }
   ],
   "ithome": [
@@ -304,12 +304,24 @@
       "url": "https://github.com/obra/superpowers"
     },
     {
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+      "title": "anomalyco/opencode: The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "title": "anthropics/skills: Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills"
     },
     {
       "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
@@ -322,18 +334,6 @@
     {
       "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code"
-    },
-    {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
-    },
-    {
-      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "url": "https://github.com/garrytan/gstack"
-    },
-    {
-      "title": "farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "url": "https://github.com/farion1231/cc-switch"
     }
   ],
   "huggingface": [
