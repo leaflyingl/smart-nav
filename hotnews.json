@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:50:36.157Z",
+  "updatedAt": "2026-08-16T11:22:44.102Z",
   "sina": [
     {
       "title": "七鲜咖啡首家24小时智能无人店开业，机器人1小时供应202杯咖啡成功挑战吉尼斯纪录",
@@ -44,6 +44,18 @@
   ],
   "wallstreet": [
     {
+      "title": "国泰海通：中国股市将逐步迎来“金秋行情” 积极部署",
+      "url": "https://wallstreetcn.com/lives/3150059"
+    },
+    {
+      "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
+      "url": "https://wallstreetcn.com/lives/3150058"
+    },
+    {
+      "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
+      "url": "https://wallstreetcn.com/lives/3150057"
+    },
+    {
       "title": "中信证券：恒生科技指数的调整具有显著事件效应",
       "url": "https://wallstreetcn.com/lives/3150056"
     },
@@ -70,18 +82,6 @@
     {
       "title": "京东旗下24小时智能化无人咖啡店落地北京",
       "url": "https://wallstreetcn.com/lives/3150050"
-    },
-    {
-      "title": "全球粮食危机或于明年上半年爆发",
-      "url": "https://wallstreetcn.com/lives/3150049"
-    },
-    {
-      "title": "2026暑期档票房超100亿",
-      "url": "https://wallstreetcn.com/lives/3150048"
-    },
-    {
-      "title": "华联控股：收到加拿大FIRES通知函 阿根廷锂盐湖项目投资可能触发审查",
-      "url": "https://wallstreetcn.com/lives/3150047"
     }
   ],
   "baidu": [
@@ -90,40 +90,40 @@
       "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "手机壳 医疗垃圾",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "9月起四川正式“依法带娃”",
+      "url": "https://www.baidu.com/s?wd=9%E6%9C%88%E8%B5%B7%E5%9B%9B%E5%B7%9D%E6%AD%A3%E5%BC%8F%E2%80%9C%E4%BE%9D%E6%B3%95%E5%B8%A6%E5%A8%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "本周一批重大工程迎来“高光时刻”",
       "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%80%E6%89%B9%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E2%80%9C%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "独库公路车窗抛物被当场“扔回”",
-      "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E5%BA%93%E5%85%AC%E8%B7%AF%E8%BD%A6%E7%AA%97%E6%8A%9B%E7%89%A9%E8%A2%AB%E5%BD%93%E5%9C%BA%E2%80%9C%E6%89%94%E5%9B%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "手机壳 医疗垃圾",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "韩军向越界朝鲜军人鸣枪警告",
-      "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%86%9B%E5%90%91%E8%B6%8A%E7%95%8C%E6%9C%9D%E9%B2%9C%E5%86%9B%E4%BA%BA%E9%B8%A3%E6%9E%AA%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "沈腾这两句英语跟我同一本教材",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E8%BF%99%E4%B8%A4%E5%8F%A5%E8%8B%B1%E8%AF%AD%E8%B7%9F%E6%88%91%E5%90%8C%E4%B8%80%E6%9C%AC%E6%95%99%E6%9D%90&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "日本人战斗分队在乌成立 与俄军作战",
       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%88%98%E6%96%97%E5%88%86%E9%98%9F%E5%9C%A8%E4%B9%8C%E6%88%90%E7%AB%8B+%E4%B8%8E%E4%BF%84%E5%86%9B%E4%BD%9C%E6%88%98&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "沪上阿姨 涉不正当竞争",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8+%E6%B6%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "旺旺 真听劝",
+      "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA+%E7%9C%9F%E5%90%AC%E5%8A%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "学生暑假跑外卖 三天倒亏700元",
       "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%91%E5%A4%96%E5%8D%96+%E4%B8%89%E5%A4%A9%E5%80%92%E4%BA%8F700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "网红小家电集体吃灰",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "梭子蟹大量上市 中医提醒",
       "url": "https://www.baidu.com/s?wd=%E6%A2%AD%E5%AD%90%E8%9F%B9%E5%A4%A7%E9%87%8F%E4%B8%8A%E5%B8%82+%E4%B8%AD%E5%8C%BB%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "韩军向越界朝鲜军人鸣枪警告",
+      "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%86%9B%E5%90%91%E8%B6%8A%E7%95%8C%E6%9C%9D%E9%B2%9C%E5%86%9B%E4%BA%BA%E9%B8%A3%E6%9E%AA%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "网红小家电集体吃灰了",
+      "title": "王艺迪vs张本美和",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,19 +182,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "沈佳润白到发光",
+      "title": "允许一切结果发生",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "景德镇做的陶瓷还是太超前了",
+      "title": "网红小家电集体吃灰了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "疑似龙餐馆找沈腾演男主的原因",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "这个班的名字都好听",
+      "title": "市民打12345投诉月光太亮影响睡觉",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -202,11 +198,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "秦彻密约",
+      "title": "TMEA节目单",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "TMEA节目单",
+      "title": "景德镇做的陶瓷还是太超前了",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "儿科医生杨国辉去世患儿家属发声",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -228,6 +228,10 @@
       "url": "https://www.toutiao.com/trending/7674567838773808703/"
     },
     {
+      "title": "《新闻联播》正在直播",
+      "url": "https://www.toutiao.com/trending/7673727363703836179/"
+    },
+    {
       "title": "俄火箭航天中心遭乌军袭击起火",
       "url": "https://www.toutiao.com/trending/7674565681299607078/"
     },
@@ -236,16 +240,12 @@
       "url": "https://www.toutiao.com/trending/7673792086998548522/"
     },
     {
-      "title": "广东东莞土地案最新进展",
-      "url": "https://www.toutiao.com/trending/7674289174497214510/"
+      "title": "独库公路抛物被扔回 男子劝阻获赞",
+      "url": "https://www.toutiao.com/trending/7674044414113497124/"
     },
     {
       "title": "梭子蟹大量上市 中医提醒",
       "url": "https://www.toutiao.com/trending/7674237819607121929/"
-    },
-    {
-      "title": "胖东来将闭门老店28个收银口排长龙",
-      "url": "https://www.toutiao.com/trending/7674460027406798362/"
     },
     {
       "title": "新加坡老人轻拍女童头部被家长撂倒",
@@ -253,6 +253,14 @@
     }
   ],
   "ithome": [
+    {
+      "title": "大学生用 AI 人脸伪造视频盗刷超 5 万元，最终获刑一年十个月",
+      "url": "/0/990/369.htm"
+    },
+    {
+      "title": "全球首个因反 AI 入狱者呼吁奥尔特曼、达里奥、扎克伯格“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
+      "url": "/0/990/368.htm"
+    },
     {
       "title": "微信 7 月下架数十部违规微短剧，同步处置违规小程序",
       "url": "/0/990/367.htm"
@@ -282,58 +290,50 @@
       "url": "/0/990/359.htm"
     },
     {
-      "title": "艾克拜尔兄弟品牌，春花邱食糖醋锅包牛肉半成品 2.4 斤 59.9 → 22.7 元轻松搞定一餐",
-      "url": "https://lapin.ithome.com/html/digi/990341.htm"
-    },
-    {
       "title": "全国首家 AI 家庭机器人旗舰店落地青岛，用户可现场试穿外骨骼机器人",
       "url": "/0/990/337.htm"
-    },
-    {
-      "title": "小米米家质量工程师总结新洗衣机震动大常见原因，含运输螺栓没拆、底角没调平等",
-      "url": "/0/990/336.htm"
     }
   ],
   "github": [
     {
-      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills"
     },
     {
       "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
-      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
-      "url": "https://github.com/github/spec-kit"
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
     },
     {
-      "title": "JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "url": "https://github.com/JuliusBrussee/caveman"
+      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack"
     },
     {
-      "title": "thedotmack/claude-mem: Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "url": "https://github.com/thedotmack/claude-mem"
+      "title": "deepseek-ai/DeepSeek-R1: 无描述",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1"
     },
     {
-      "title": "ruvnet/RuView: π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "url": "https://github.com/ruvnet/RuView"
+      "title": "datawhalechina/hello-agents: 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
-      "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
-      "url": "https://github.com/addyosmani/agent-skills"
+      "title": "666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "url": "https://github.com/666ghj/MiroFish"
     },
     {
-      "title": "OpenCut-app/OpenCut: The open-source CapCut alternative",
-      "url": "https://github.com/OpenCut-app/OpenCut"
+      "title": "asgeirtj/system_prompts_leaks: Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "title": "sansan0/TrendRadar: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "url": "https://github.com/sansan0/TrendRadar"
+    },
+    {
+      "title": "upstash/context7: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+      "url": "https://github.com/upstash/context7"
     }
   ],
   "huggingface": [
