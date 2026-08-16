@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:46:12.944Z",
+  "updatedAt": "2026-08-16T22:24:19.897Z",
   "sina": [
     {
       "title": "开放权重+引入金融，AI建设门槛“双降”？",
@@ -44,6 +44,34 @@
   ],
   "wallstreet": [
     {
+      "title": "A股科技修复行情延续，机构：结构性轮动或成主旋律",
+      "url": "https://wallstreetcn.com/lives/3150088"
+    },
+    {
+      "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
+      "url": "https://wallstreetcn.com/lives/3150084"
+    },
+    {
+      "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+      "url": "https://wallstreetcn.com/lives/3150083"
+    },
+    {
+      "title": "周一亚市盘初，国际油价小幅走高，WTI原油期货现涨0.4%。",
+      "url": "https://wallstreetcn.com/lives/3150082"
+    },
+    {
+      "title": "埃及总统会见库什纳 呼吁各方落实加沙停火",
+      "url": "https://wallstreetcn.com/lives/3150085"
+    },
+    {
+      "title": "哈马斯政治局主席访问埃及 讨论加沙地带局势",
+      "url": "https://wallstreetcn.com/lives/3150086"
+    },
+    {
+      "title": "以军袭击已致黎巴嫩4346人死亡",
+      "url": "https://wallstreetcn.com/lives/3150087"
+    },
+    {
       "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
       "url": "https://wallstreetcn.com/lives/3150079"
     },
@@ -54,34 +82,6 @@
     {
       "title": "新能源冷藏车销量快速增长，冷链绿色转型提速",
       "url": "https://wallstreetcn.com/lives/3150076"
-    },
-    {
-      "title": "五角大楼平民伤亡估算报告被斥“彻头彻尾的骗局”",
-      "url": "https://wallstreetcn.com/lives/3150075"
-    },
-    {
-      "title": "乌称已使俄电商巨头“野莓”多个物流中心停运",
-      "url": "https://wallstreetcn.com/lives/3150074"
-    },
-    {
-      "title": "深圳机场暑期通关客流创新高",
-      "url": "https://wallstreetcn.com/lives/3150073"
-    },
-    {
-      "title": "全球开源AI大洗牌 中国开源模型加速崛起",
-      "url": "https://wallstreetcn.com/lives/3150072"
-    },
-    {
-      "title": "德国上半年对美直接投资额跌至3年来新低",
-      "url": "https://wallstreetcn.com/lives/3150071"
-    },
-    {
-      "title": "伊朗议会通过反渗透法案",
-      "url": "https://wallstreetcn.com/lives/3150070"
-    },
-    {
-      "title": "伊朗称美军已被驱逐不得进入海峡",
-      "url": "https://wallstreetcn.com/lives/3150068"
     }
   ],
   "baidu": [
@@ -114,8 +114,8 @@
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B%E5%88%9D%E8%88%9E%E5%8F%B0%E6%8E%92%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "AI正在批量制造“幽灵”",
-      "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "男子与老婆吵架跳江第二天又游回来",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E8%80%81%E5%A9%86%E5%90%B5%E6%9E%B6%E8%B7%B3%E6%B1%9F%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%8F%88%E6%B8%B8%E5%9B%9E%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "吴艳妮加冕全锦赛100米栏六冠王",
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "王曼昱瑞典大满贯冠军",
+      "title": "女主播希望停止榜一大哥病态折磨",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -186,11 +186,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "王俊凯口误了",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "张睿披哥下沉市场口碑",
+      "title": "王曼昱瑞典大满贯冠军",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,15 +194,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "王俊凯口误了",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "盗墓笔记",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "阿森纳3比0曼城",
+      "title": "邓紫棋",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "王曼昱vs王艺迪",
+      "title": "阿森纳3比0曼城",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -216,8 +216,8 @@
       "url": "https://www.toutiao.com/trending/7673402891508908042/"
     },
     {
-      "title": "莫斯科遭乌方600架无人机袭击",
-      "url": "https://www.toutiao.com/trending/7674445226401890358/"
+      "title": "市民打12345投诉月光太亮影响睡觉",
+      "url": "https://www.toutiao.com/trending/7674150180756750355/"
     },
     {
       "title": "一组数据看中国经济的澎湃动能",
@@ -228,28 +228,28 @@
       "url": "https://www.toutiao.com/trending/7674162628880518699/"
     },
     {
-      "title": "市民打12345投诉月光太亮影响睡觉",
-      "url": "https://www.toutiao.com/trending/7674150180756750355/"
-    },
-    {
-      "title": "如何看待美军舰因故障在南海滞留4天",
-      "url": "https://www.toutiao.com/trending/7674593242356125203/"
+      "title": "莫斯科遭乌方600架无人机袭击",
+      "url": "https://www.toutiao.com/trending/7674445226401890358/"
     },
     {
       "title": "日军在南京每晚至少发生一千起强奸案",
       "url": "https://www.toutiao.com/trending/7674474515069681718/"
     },
     {
-      "title": "央视曝光近150人组团夜爬封禁山峰",
-      "url": "https://www.toutiao.com/trending/7674494013226893362/"
+      "title": "县委大院69间土坯房用了69年",
+      "url": "https://www.toutiao.com/trending/7674557882335215652/"
     },
     {
-      "title": "请3天假连休13天",
-      "url": "https://www.toutiao.com/trending/7673849414997671982/"
+      "title": "胖东来将闭门老店28个收银口排长龙",
+      "url": "https://www.toutiao.com/trending/7674460027406798362/"
     },
     {
       "title": "17岁少年确诊胃癌一个半月后离世",
       "url": "https://www.toutiao.com/trending/7674245924323901476/"
+    },
+    {
+      "title": "央视曝光近150人组团夜爬封禁山峰",
+      "url": "https://www.toutiao.com/trending/7674494013226893362/"
     }
   ],
   "ithome": [
@@ -316,8 +316,16 @@
       "url": "https://github.com/mattpocock/skills"
     },
     {
+      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
       "title": "anomalyco/opencode: The open source coding agent.",
       "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "title": "anthropics/skills: Public repository for Agent Skills",
@@ -326,14 +334,6 @@
     {
       "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents"
-    },
-    {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-    },
-    {
-      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code"
     }
   ],
   "huggingface": [
