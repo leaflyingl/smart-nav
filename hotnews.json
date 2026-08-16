@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:30:01.971Z",
+  "updatedAt": "2026-08-16T09:54:08.866Z",
   "sina": [
     {
       "title": "七鲜咖啡首家24小时智能无人店开业，机器人1小时供应202杯咖啡成功挑战吉尼斯纪录",
@@ -44,6 +44,18 @@
   ],
   "wallstreet": [
     {
+      "title": "印尼7.7级地震已造成53人死亡",
+      "url": "https://wallstreetcn.com/lives/3150052"
+    },
+    {
+      "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
+      "url": "https://wallstreetcn.com/lives/3150051"
+    },
+    {
+      "title": "京东旗下24小时智能化无人咖啡店落地北京",
+      "url": "https://wallstreetcn.com/lives/3150050"
+    },
+    {
       "title": "全球粮食危机或于明年上半年爆发",
       "url": "https://wallstreetcn.com/lives/3150049"
     },
@@ -70,18 +82,6 @@
     {
       "title": "盛科通信：与关联方签超1亿元日常经营重大合同",
       "url": "https://wallstreetcn.com/lives/3150043"
-    },
-    {
-      "title": "频准激光：将于8月18日科创板上市",
-      "url": "https://wallstreetcn.com/lives/3150042"
-    },
-    {
-      "title": "中微半导：2026年上半年净利润1.72亿元 同比增98.48%",
-      "url": "https://wallstreetcn.com/lives/3150041"
-    },
-    {
-      "title": "乌克兰基辅市响起爆炸声",
-      "url": "https://wallstreetcn.com/lives/3150040"
     }
   ],
   "baidu": [
@@ -98,32 +98,32 @@
       "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%80%E6%89%B9%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E2%80%9C%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "侵华日军家信：每天杀两三千中国人",
-      "url": "https://www.baidu.com/s?wd=%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%EF%BC%9A%E6%AF%8F%E5%A4%A9%E6%9D%80%E4%B8%A4%E4%B8%89%E5%8D%83%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "网红小家电集体吃灰",
+      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "沪上阿姨 涉不正当竞争",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8+%E6%B6%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "多部经典老片重映 业内：不为赚钱",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E9%83%A8%E7%BB%8F%E5%85%B8%E8%80%81%E7%89%87%E9%87%8D%E6%98%A0+%E4%B8%9A%E5%86%85%EF%BC%9A%E4%B8%8D%E4%B8%BA%E8%B5%9A%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "日本人战斗分队在乌成立 与俄军作战",
       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%88%98%E6%96%97%E5%88%86%E9%98%9F%E5%9C%A8%E4%B9%8C%E6%88%90%E7%AB%8B+%E4%B8%8E%E4%BF%84%E5%86%9B%E4%BD%9C%E6%88%98&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "童年动画三巨头给00后发公开信",
-      "url": "https://www.baidu.com/s?wd=%E7%AB%A5%E5%B9%B4%E5%8A%A8%E7%94%BB%E4%B8%89%E5%B7%A8%E5%A4%B4%E7%BB%9900%E5%90%8E%E5%8F%91%E5%85%AC%E5%BC%80%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "请3天假连休13天",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "新加坡老人轻拍小女孩头部被家长撂倒",
       "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%80%81%E4%BA%BA%E8%BD%BB%E6%8B%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%92%82%E5%80%92&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "胖东来将闭门老店28个收银口排长龙",
-      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%B0%86%E9%97%AD%E9%97%A8%E8%80%81%E5%BA%9728%E4%B8%AA%E6%94%B6%E9%93%B6%E5%8F%A3%E6%8E%92%E9%95%BF%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "39岁知名儿科医生去世 市民献花送别",
+      "url": "https://www.baidu.com/s?wd=39%E5%B2%81%E7%9F%A5%E5%90%8D%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96+%E5%B8%82%E6%B0%91%E7%8C%AE%E8%8A%B1%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "沪上阿姨 涉不正当竞争",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8+%E6%B6%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "手机壳 医疗垃圾",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -136,32 +136,32 @@
       "url": "https://b23.tv/BV1fTb16KEDk"
     },
     {
-      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
-      "url": "https://b23.tv/BV1Z9gT61EnM"
+      "title": "这台车曾经拯救了濒临破产的宝马",
+      "url": "https://b23.tv/BV1v6b26YEF4"
     },
     {
       "title": "【独家】牧神记 第96集 延康双雄",
       "url": "https://b23.tv/BV1Mjgg6BEjx"
     },
     {
+      "title": "【隂十娘】第52集",
+      "url": "https://b23.tv/BV1xubk6MEvV"
+    },
+    {
+      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
+      "url": "https://b23.tv/BV1Z9gT61EnM"
+    },
+    {
       "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
       "url": "https://b23.tv/BV1BMgj6MEz4"
     },
     {
+      "title": "我实现了我儿时的梦想",
+      "url": "https://b23.tv/BV1iTgA6hENv"
+    },
+    {
       "title": "轮  回  跑  酷",
       "url": "https://b23.tv/BV1EWbk6ZE6d"
-    },
-    {
-      "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
-      "url": "https://b23.tv/BV15xgn6GEjH"
-    },
-    {
-      "title": "口技表演《定海神珍铁》",
-      "url": "https://b23.tv/BV1N8gG6qEpm"
-    },
-    {
-      "title": "三星堆：是谁杀死了他们的神？",
-      "url": "https://b23.tv/BV1o7bm6TEMY"
     },
     {
       "title": "财神窦占龙 第1集 家宴【8月国创】",
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "沪上阿姨 涉不正当竞争",
+      "title": "牛来从7700元到1800万发生了啥",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -186,6 +186,14 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "沪上阿姨 涉不正当竞争",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "疑似龙餐馆找沈腾演男主的原因",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "景德镇做的陶瓷还是太超前了",
       "url": "https://weibo.com/hot/undefined"
     },
@@ -194,19 +202,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "3X3黄金联赛",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "王橹杰哭戏",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "真的建议要从源头减少家务",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "马正阳声音侵权声明",
+      "title": "央视调查幼小衔接超前学",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -232,27 +232,35 @@
       "url": "https://www.toutiao.com/trending/7674460027406798362/"
     },
     {
-      "title": "梭子蟹大量上市 中医提醒",
-      "url": "https://www.toutiao.com/trending/7674237819607121929/"
+      "title": "女子泼水到别人门前 回去时摔倒了",
+      "url": "https://www.toutiao.com/trending/7674439079534133257/"
     },
     {
-      "title": "日军在南京每晚至少发生一千起强奸案",
-      "url": "https://www.toutiao.com/trending/7674474515069681718/"
+      "title": "梭子蟹大量上市 中医提醒",
+      "url": "https://www.toutiao.com/trending/7674237819607121929/"
     },
     {
       "title": "沪上阿姨或构成不正当竞争",
       "url": "https://www.toutiao.com/trending/7674542459803799078/"
     },
     {
-      "title": "女子泼水到别人门前 回去时摔倒了",
-      "url": "https://www.toutiao.com/trending/7674439079534133257/"
-    },
-    {
       "title": "台当局查扣首辆张雪机车在怕什么",
       "url": "https://www.toutiao.com/trending/7673863415043997759/"
+    },
+    {
+      "title": "陕西志丹县居民称发生原油泄漏事件",
+      "url": "https://www.toutiao.com/trending/7673674742520528959/"
     }
   ],
   "ithome": [
+    {
+      "title": "全国首家 AI 家庭机器人旗舰店落地青岛，用户可现场试穿外骨骼机器人",
+      "url": "/0/990/337.htm"
+    },
+    {
+      "title": "小米米家质量工程师总结新洗衣机震动大常见原因，含运输螺栓没拆、底角没调平等",
+      "url": "/0/990/336.htm"
+    },
     {
       "title": "海尔周云杰：预计 2035 年我国脑机接口市场规模将突破千亿",
       "url": "/0/990/335.htm"
@@ -284,14 +292,6 @@
     {
       "title": "消息称诺基亚计划关闭中国杭州研发中心，裁员 1600 人",
       "url": "/0/990/306.htm"
-    },
-    {
-      "title": "百元价位穿出千元质感：京造高知松弛感衬衫 159 元首发，限量赠 39 元 T 恤",
-      "url": "https://lapin.ithome.com/html/digi/990305.htm"
-    },
-    {
-      "title": "《DOTA2》TI15 上海：中国战队 TR、VG、XG 折戟沉沙，无缘八强",
-      "url": "/0/990/301.htm"
     }
   ],
   "github": [
@@ -300,8 +300,20 @@
       "url": "https://github.com/obra/superpowers"
     },
     {
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
       "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
       "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
     },
     {
       "title": "JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
@@ -320,20 +332,8 @@
       "url": "https://github.com/OpenCut-app/OpenCut"
     },
     {
-      "title": "Egonex-AI/Understand-Anything: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "url": "https://github.com/Egonex-AI/Understand-Anything"
-    },
-    {
       "title": "rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "url": "https://github.com/rtk-ai/rtk"
-    },
-    {
-      "title": "datawhalechina/hello-agents: 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "url": "https://github.com/datawhalechina/hello-agents"
-    },
-    {
-      "title": "ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     }
   ],
   "huggingface": [
