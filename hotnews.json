@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:33:04.572Z",
+  "updatedAt": "2026-08-16T19:22:36.602Z",
   "sina": [
     {
       "title": "开放权重+引入金融，AI建设门槛“双降”？",
@@ -194,10 +194,6 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "王曼昱vs王艺迪",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "王曼昱瑞典大满贯冠军",
       "url": "https://weibo.com/hot/undefined"
     },
@@ -206,7 +202,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "阿森纳3比0曼城",
+      "title": "恋与深空",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "居民存款7月又少了6300亿",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -216,32 +216,28 @@
       "url": "https://www.toutiao.com/trending/7673402891508908042/"
     },
     {
-      "title": "问界儿童车即将上市",
-      "url": "https://www.toutiao.com/trending/7674162628880518699/"
+      "title": "莫斯科遭乌方600架无人机袭击",
+      "url": "https://www.toutiao.com/trending/7674445226401890358/"
     },
     {
       "title": "一组数据看中国经济的澎湃动能",
       "url": "https://www.toutiao.com/trending/7674370501220991012/"
     },
     {
-      "title": "莫斯科遭乌方600架无人机袭击",
-      "url": "https://www.toutiao.com/trending/7674445226401890358/"
+      "title": "问界儿童车即将上市",
+      "url": "https://www.toutiao.com/trending/7674162628880518699/"
+    },
+    {
+      "title": "市民打12345投诉月光太亮影响睡觉",
+      "url": "https://www.toutiao.com/trending/7674150180756750355/"
     },
     {
       "title": "媒体：中方16问后菲防长路只剩一条",
       "url": "https://www.toutiao.com/trending/7673937315869409343/"
     },
     {
-      "title": "央视曝光近150人组团夜爬封禁山峰",
-      "url": "https://www.toutiao.com/trending/7674494013226893362/"
-    },
-    {
-      "title": "胖东来将闭门老店28个收银口排长龙",
-      "url": "https://www.toutiao.com/trending/7674460027406798362/"
-    },
-    {
-      "title": "17岁少年确诊胃癌一个半月后离世",
-      "url": "https://www.toutiao.com/trending/7674245924323901476/"
+      "title": "伊朗称逮捕或消灭美军者将获奖励",
+      "url": "https://www.toutiao.com/trending/7674484727768301577/"
     },
     {
       "title": "请3天假连休13天",
@@ -250,6 +246,10 @@
     {
       "title": "如何看待美军舰因故障在南海滞留4天",
       "url": "https://www.toutiao.com/trending/7674593242356125203/"
+    },
+    {
+      "title": "央视曝光近150人组团夜爬封禁山峰",
+      "url": "https://www.toutiao.com/trending/7674494013226893362/"
     }
   ],
   "ithome": [
@@ -296,44 +296,44 @@
   ],
   "github": [
     {
-      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
       "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills"
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "title": "anomalyco/opencode: The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "title": "anthropics/skills: Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills"
     },
     {
       "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
     },
     {
-      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code"
-    },
-    {
-      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "url": "https://github.com/garrytan/gstack"
-    },
-    {
-      "title": "farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "url": "https://github.com/farion1231/cc-switch"
-    },
-    {
-      "title": "google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "url": "https://github.com/google-gemini/gemini-cli"
-    },
-    {
-      "title": "karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch"
+      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
+      "url": "https://github.com/github/spec-kit"
     }
   ],
   "huggingface": [
