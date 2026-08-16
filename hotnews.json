@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T20:49:15.496Z",
+  "updatedAt": "2026-08-16T21:22:55.411Z",
   "sina": [
     {
       "title": "开放权重+引入金融，AI建设门槛“双降”？",
@@ -114,8 +114,8 @@
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B%E5%88%9D%E8%88%9E%E5%8F%B0%E6%8E%92%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "C罗结婚仪式画面曝光",
-      "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A%E4%BB%AA%E5%BC%8F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "加油新规11月起正式实施",
+      "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%8411%E6%9C%88%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "吴艳妮加冕全锦赛100米栏六冠王",
@@ -186,15 +186,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "张睿披哥下沉市场口碑",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "王俊凯口误了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "盗墓笔记",
+      "title": "张睿披哥下沉市场口碑",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -202,11 +198,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "阿森纳3比0曼城",
+      "title": "盗墓笔记",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "王曼昱vs王艺迪",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "恋与深空",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -232,24 +232,24 @@
       "url": "https://www.toutiao.com/trending/7674150180756750355/"
     },
     {
-      "title": "哈尔滨把街道当自己家客厅拖",
-      "url": "https://www.toutiao.com/trending/7673442612552040490/"
+      "title": "如何看待美军舰因故障在南海滞留4天",
+      "url": "https://www.toutiao.com/trending/7674593242356125203/"
+    },
+    {
+      "title": "央视曝光近150人组团夜爬封禁山峰",
+      "url": "https://www.toutiao.com/trending/7674494013226893362/"
+    },
+    {
+      "title": "扎蟹女工两三秒制服梭子蟹",
+      "url": "https://www.toutiao.com/trending/7674103498824302655/"
+    },
+    {
+      "title": "日军在南京每晚至少发生一千起强奸案",
+      "url": "https://www.toutiao.com/trending/7674474515069681718/"
     },
     {
       "title": "胖东来将闭门老店28个收银口排长龙",
       "url": "https://www.toutiao.com/trending/7674460027406798362/"
-    },
-    {
-      "title": "中国博主发布进入靖国神社视频",
-      "url": "https://www.toutiao.com/trending/7674164987845820435/"
-    },
-    {
-      "title": "请3天假连休13天",
-      "url": "https://www.toutiao.com/trending/7673849414997671982/"
-    },
-    {
-      "title": "如何看待美军舰因故障在南海滞留4天",
-      "url": "https://www.toutiao.com/trending/7674593242356125203/"
     }
   ],
   "ithome": [
@@ -296,44 +296,44 @@
   ],
   "github": [
     {
+      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
       "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills"
     },
     {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
+      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
-      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
-      "url": "https://github.com/github/spec-kit"
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
-      "title": "JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "url": "https://github.com/JuliusBrussee/caveman"
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
-      "title": "thedotmack/claude-mem: Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "url": "https://github.com/thedotmack/claude-mem"
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
     },
     {
-      "title": "OpenCut-app/OpenCut: The open-source CapCut alternative",
-      "url": "https://github.com/OpenCut-app/OpenCut"
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
     },
     {
-      "title": "rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "url": "https://github.com/rtk-ai/rtk"
+      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack"
     },
     {
-      "title": "datawhalechina/hello-agents: 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "url": "https://github.com/datawhalechina/hello-agents"
-    },
-    {
-      "title": "ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+      "title": "farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "url": "https://github.com/farion1231/cc-switch"
     }
   ],
   "huggingface": [
