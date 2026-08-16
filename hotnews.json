@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-08-16T11:22:44.102Z",
+  "updatedAt": "2026-08-16T11:46:36.076Z",
   "sina": [
+    {
+      "title": "开放权重+引入金融，AI建设门槛“双降”？",
+      "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnzcp7785606.shtml"
+    },
     {
       "title": "七鲜咖啡首家24小时智能无人店开业，机器人1小时供应202杯咖啡成功挑战吉尼斯纪录",
       "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnzcm1365749.shtml"
@@ -36,13 +40,25 @@
     {
       "title": "追觅大家电解散？知情人士：业务正常做",
       "url": "https://finance.sina.com.cn/tob/2026-08-16/doc-ininnkft1586046.shtml"
-    },
-    {
-      "title": "岚图董事长卢放：有车型说自己的座椅比迈巴赫多1度，我们比它多2度",
-      "url": "https://finance.sina.com.cn/tob/2026-08-16/doc-ininnkfw9962024.shtml"
     }
   ],
   "wallstreet": [
+    {
+      "title": "伊朗称逮捕或消灭美军者将获奖励",
+      "url": "https://wallstreetcn.com/lives/3150063"
+    },
+    {
+      "title": "中信建投：新政后首周北京一二手房成交环比上涨",
+      "url": "https://wallstreetcn.com/lives/3150062"
+    },
+    {
+      "title": "商汤：预计2026年上半年录得期内利润约5亿元至7亿元",
+      "url": "https://wallstreetcn.com/lives/3150061"
+    },
+    {
+      "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
+      "url": "https://wallstreetcn.com/lives/3150060"
+    },
     {
       "title": "国泰海通：中国股市将逐步迎来“金秋行情” 积极部署",
       "url": "https://wallstreetcn.com/lives/3150059"
@@ -66,22 +82,6 @@
     {
       "title": "兆威机电：2026年上半年净利润7464.57万元，同比减少34.10%",
       "url": "https://wallstreetcn.com/lives/3150054"
-    },
-    {
-      "title": "特朗普再促参议院通过全年采用夏令时法案",
-      "url": "https://wallstreetcn.com/lives/3150053"
-    },
-    {
-      "title": "印尼7.7级地震已造成53人死亡",
-      "url": "https://wallstreetcn.com/lives/3150052"
-    },
-    {
-      "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
-      "url": "https://wallstreetcn.com/lives/3150051"
-    },
-    {
-      "title": "京东旗下24小时智能化无人咖啡店落地北京",
-      "url": "https://wallstreetcn.com/lives/3150050"
     }
   ],
   "baidu": [
@@ -98,70 +98,70 @@
       "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%80%E6%89%B9%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E2%80%9C%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "手机壳 医疗垃圾",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "A股又见大肉签",
+      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%88%E8%A7%81%E5%A4%A7%E8%82%89%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "沈腾这两句英语跟我同一本教材",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E8%BF%99%E4%B8%A4%E5%8F%A5%E8%8B%B1%E8%AF%AD%E8%B7%9F%E6%88%91%E5%90%8C%E4%B8%80%E6%9C%AC%E6%95%99%E6%9D%90&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "王艺迪4-2复仇张本美和",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%89%BA%E8%BF%AA4-2%E5%A4%8D%E4%BB%87%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "日本人战斗分队在乌成立 与俄军作战",
       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%88%98%E6%96%97%E5%88%86%E9%98%9F%E5%9C%A8%E4%B9%8C%E6%88%90%E7%AB%8B+%E4%B8%8E%E4%BF%84%E5%86%9B%E4%BD%9C%E6%88%98&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "旺旺 真听劝",
-      "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA+%E7%9C%9F%E5%90%AC%E5%8A%9D&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "学生暑假跑外卖 三天倒亏700元",
       "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%91%E5%A4%96%E5%8D%96+%E4%B8%89%E5%A4%A9%E5%80%92%E4%BA%8F700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "网红小家电集体吃灰",
+      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "梭子蟹大量上市 中医提醒",
       "url": "https://www.baidu.com/s?wd=%E6%A2%AD%E5%AD%90%E8%9F%B9%E5%A4%A7%E9%87%8F%E4%B8%8A%E5%B8%82+%E4%B8%AD%E5%8C%BB%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "韩军向越界朝鲜军人鸣枪警告",
-      "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%86%9B%E5%90%91%E8%B6%8A%E7%95%8C%E6%9C%9D%E9%B2%9C%E5%86%9B%E4%BA%BA%E9%B8%A3%E6%9E%AA%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "旺旺 真听劝",
+      "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA+%E7%9C%9F%E5%90%AC%E5%8A%9D&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "飞机安检模拟器",
-      "url": "https://b23.tv/BV1fTb16KEDk"
+      "title": "《干噎砒霜》",
+      "url": "https://b23.tv/BV1LrbU66E1G"
     },
     {
       "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
       "url": "https://b23.tv/BV18Tby67EG9"
     },
     {
-      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
-      "url": "https://b23.tv/BV1Z9gT61EnM"
+      "title": "飞机安检模拟器",
+      "url": "https://b23.tv/BV1fTb16KEDk"
     },
     {
       "title": "【独家】牧神记 第96集 延康双雄",
       "url": "https://b23.tv/BV1Mjgg6BEjx"
     },
     {
-      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
-      "url": "https://b23.tv/BV1FRgn6pEph"
+      "title": "ASMR 当憋了半个月没洗头的你去做头疗（绝望的“单王”）",
+      "url": "https://b23.tv/BV1bXb26sEGu"
     },
     {
-      "title": "《干噎砒霜》",
-      "url": "https://b23.tv/BV1LrbU66E1G"
+      "title": "什么⁉Bye bye baby blue翻译竟然是错的✖！",
+      "url": "https://b23.tv/BV1tMby62EC4"
     },
     {
-      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://b23.tv/BV1BMgj6MEz4"
+      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
+      "url": "https://b23.tv/BV1Z9gT61EnM"
     },
     {
-      "title": "三星堆：是谁杀死了他们的神？",
-      "url": "https://b23.tv/BV1o7bm6TEMY"
+      "title": "【隂十娘】第52集",
+      "url": "https://b23.tv/BV1xubk6MEvV"
     },
     {
-      "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
-      "url": "https://b23.tv/BV15xgn6GEjH"
+      "title": "热播剧《来自河南的你 》",
+      "url": "https://b23.tv/BV1JLgp6oEAs"
     },
     {
       "title": "财神窦占龙 第1集 家宴【8月国创】",
@@ -182,7 +182,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "允许一切结果发生",
+      "title": "市民打12345投诉月光太亮影响睡觉",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "旺旺 真听劝",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,11 +194,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "市民打12345投诉月光太亮影响睡觉",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "龙餐馆未被采纳的海报",
+      "title": "3X3黄金联赛",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -202,11 +202,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "景德镇做的陶瓷还是太超前了",
+      "title": "请3天假连休13天",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "儿科医生杨国辉去世患儿家属发声",
+      "title": "龙餐馆未被采纳的海报",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -228,12 +228,20 @@
       "url": "https://www.toutiao.com/trending/7674567838773808703/"
     },
     {
-      "title": "《新闻联播》正在直播",
-      "url": "https://www.toutiao.com/trending/7673727363703836179/"
-    },
-    {
       "title": "俄火箭航天中心遭乌军袭击起火",
       "url": "https://www.toutiao.com/trending/7674565681299607078/"
+    },
+    {
+      "title": "王艺迪胜张本美和 国乒锁定女单冠军",
+      "url": "https://www.toutiao.com/trending/7674585115275562539/"
+    },
+    {
+      "title": "胖东来将闭门老店28个收银口排长龙",
+      "url": "https://www.toutiao.com/trending/7674460027406798362/"
+    },
+    {
+      "title": "31名青岛学子奔赴清华大学",
+      "url": "https://www.toutiao.com/trending/7674510267339194378/"
     },
     {
       "title": "侵华日军家信：每天杀两三千中国人",
@@ -242,17 +250,21 @@
     {
       "title": "独库公路抛物被扔回 男子劝阻获赞",
       "url": "https://www.toutiao.com/trending/7674044414113497124/"
-    },
-    {
-      "title": "梭子蟹大量上市 中医提醒",
-      "url": "https://www.toutiao.com/trending/7674237819607121929/"
-    },
-    {
-      "title": "新加坡老人轻拍女童头部被家长撂倒",
-      "url": "https://www.toutiao.com/trending/7674458401706983460/"
     }
   ],
   "ithome": [
+    {
+      "title": "时擎智能推出全国产化 USB 千兆网卡芯片 PT153S，具备 USB 3.2 Gen 1 接口、速率可达 5Gbps",
+      "url": "/0/990/372.htm"
+    },
+    {
+      "title": "Anthropic 自曝安全漏洞：生物武器过滤器曾失效近一年，涉及 1.33 亿次对话",
+      "url": "/0/990/371.htm"
+    },
+    {
+      "title": "含 16G 小猴 U 盘：学而思便利贴套装 49.9 → 13.9 元官方大清仓",
+      "url": "https://lapin.ithome.com/html/digi/990370.htm"
+    },
     {
       "title": "大学生用 AI 人脸伪造视频盗刷超 5 万元，最终获刑一年十个月",
       "url": "/0/990/369.htm"
@@ -264,10 +276,6 @@
     {
       "title": "微信 7 月下架数十部违规微短剧，同步处置违规小程序",
       "url": "/0/990/367.htm"
-    },
-    {
-      "title": "0 糖含气青柠味：元气森林苏打水 500ml 阿里 1.9 元低过矿泉水",
-      "url": "https://lapin.ithome.com/html/digi/990366.htm"
     },
     {
       "title": "岚图追光 S 隧道大回环挑战暗藏“彩蛋”，华为乾崑智驾 ADS 在隧道顶触发 AEB",
@@ -284,56 +292,48 @@
     {
       "title": "用户曝光华硕电源 RMA 返修后根本没修：直接用导线短接保险丝，导致家中跳闸",
       "url": "/0/990/362.htm"
-    },
-    {
-      "title": "华为 MateBook Pro S 鸿蒙笔记本通过星闪测试列名，预计将支持星闪音频功能",
-      "url": "/0/990/359.htm"
-    },
-    {
-      "title": "全国首家 AI 家庭机器人旗舰店落地青岛，用户可现场试穿外骨骼机器人",
-      "url": "/0/990/337.htm"
     }
   ],
   "github": [
+    {
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers"
+    },
     {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
+      "url": "https://github.com/github/spec-kit"
     },
     {
-      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code"
-    },
-    {
-      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "url": "https://github.com/garrytan/gstack"
+      "title": "JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman"
     },
     {
       "title": "deepseek-ai/DeepSeek-R1: 无描述",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1"
     },
     {
-      "title": "datawhalechina/hello-agents: 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "url": "https://github.com/datawhalechina/hello-agents"
+      "title": "thedotmack/claude-mem: Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
-      "title": "666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "url": "https://github.com/666ghj/MiroFish"
+      "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills"
     },
     {
-      "title": "asgeirtj/system_prompts_leaks: Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+      "title": "OpenCut-app/OpenCut: The open-source CapCut alternative",
+      "url": "https://github.com/OpenCut-app/OpenCut"
     },
     {
-      "title": "sansan0/TrendRadar: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-      "url": "https://github.com/sansan0/TrendRadar"
+      "title": "Egonex-AI/Understand-Anything: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "url": "https://github.com/Egonex-AI/Understand-Anything"
     },
     {
-      "title": "upstash/context7: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
-      "url": "https://github.com/upstash/context7"
+      "title": "rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "url": "https://github.com/rtk-ai/rtk"
     }
   ],
   "huggingface": [
