@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-08-17T22:52:59.772Z",
+  "updatedAt": "2026-08-17T23:26:01.041Z",
   "sina": [
+    {
+      "title": "存储与逻辑芯片迭代升级 CMP市场迎来新风口",
+      "url": "https://finance.sina.com.cn/roll/2026-08-18/doc-ininsfpx9865589.shtml"
+    },
     {
       "title": "吉利汽车桂生悦：上半年业绩亮眼但还有极大提升空间，公司正从创业期和发展期迈向成熟期",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-17/doc-ininruyh9033238.shtml"
@@ -36,13 +40,17 @@
     {
       "title": "释放数据价值，今年全国智慧医保大赛有何亮点",
       "url": "https://finance.sina.com.cn/roll/2026-08-17/doc-ininrqsh0106668.shtml"
-    },
-    {
-      "title": "OPPO副总裁唐凯：AI出现以来最焦虑的点在于如何将自身产品的定位和愿景变成现实",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-17/doc-ininrqsh0080327.shtml"
     }
   ],
   "wallstreet": [
+    {
+      "title": "华尔街见闻早餐 | 2026年8月18日",
+      "url": "https://wallstreetcn.com/lives/3150725"
+    },
+    {
+      "title": "三星Samsung Display将建设额外的OLED显示设施。（韩国每日经济新闻Maeil）",
+      "url": "https://wallstreetcn.com/lives/3150723"
+    },
     {
       "title": "年内289只基金提前结束募集，同比增长逾17%",
       "url": "https://wallstreetcn.com/lives/3150722"
@@ -74,32 +82,24 @@
     {
       "title": "PCB产业链半年报亮眼，高端产品供需偏紧或延续至2028年",
       "url": "https://wallstreetcn.com/lives/3150716"
-    },
-    {
-      "title": "民调显示特朗普支持率创第二任期内新低",
-      "url": "https://wallstreetcn.com/lives/3150715"
-    },
-    {
-      "title": "美国要求韩国将存储芯片作为第一批对美投资。（韩国“中央日报”Joongang）",
-      "url": "https://wallstreetcn.com/lives/3150713"
     }
   ],
   "baidu": [
     {
-      "title": "泡面 突然又行了",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E9%9D%A2+%E7%AA%81%E7%84%B6%E5%8F%88%E8%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "天安门下半旗悼念朱镕基同志逝世",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "公积金用途又变多",
-      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E7%94%A8%E9%80%94%E5%8F%88%E5%8F%98%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "中方回应100余名中国公民在巴被拘留",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94100%E4%BD%99%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "石油天然气发展“十五五”规划印发",
       "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E6%B2%B9%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8F%91%E5%B1%95%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E5%8D%B0%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "中方回应100余名中国公民在巴被拘留",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94100%E4%BD%99%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "公积金用途又变多",
+      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E7%94%A8%E9%80%94%E5%8F%88%E5%8F%98%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "多地商场外墙广告“C位”让给科学家",
@@ -110,20 +110,20 @@
       "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“所长 有人送来个大冰箱”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E9%95%BF+%E6%9C%89%E4%BA%BA%E9%80%81%E6%9D%A5%E4%B8%AA%E5%A4%A7%E5%86%B0%E7%AE%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "大家为啥不借钱了",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AE%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E5%80%9F%E9%92%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "闪过念头就刷到广告 是手机在偷听吗",
       "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "车越来越多 考驾照的人反而少了",
       "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A+%E8%80%83%E9%A9%BE%E7%85%A7%E7%9A%84%E4%BA%BA%E5%8F%8D%E8%80%8C%E5%B0%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "中国男篮又输了 对手仅集训5天",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8F%88%E8%BE%93%E4%BA%86+%E5%AF%B9%E6%89%8B%E4%BB%85%E9%9B%86%E8%AE%AD5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "德国男子家中厕所过于豪华被强拆",
+      "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8E%95%E6%89%80%E8%BF%87%E4%BA%8E%E8%B1%AA%E5%8D%8E%E8%A2%AB%E5%BC%BA%E6%8B%86&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -182,6 +182,10 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "1.68吃京东外卖还送高定礼",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "榴莲价格彻底崩了",
       "url": "https://weibo.com/hot/undefined"
     },
@@ -191,10 +195,6 @@
     },
     {
       "title": "只有中国人才能识别的加密暗号",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "湖北一大学用专机接新生不实",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -212,24 +212,24 @@
   ],
   "toutiao": [
     {
-      "title": "中方回应上百中国公民在巴基斯坦被拘",
-      "url": "https://www.toutiao.com/trending/7674494369386364969/"
-    },
-    {
       "title": "谁贡献了俄罗斯上半年734亿美元顺差",
       "url": "https://www.toutiao.com/trending/7675008125698575918/"
+    },
+    {
+      "title": "中方回应上百中国公民在巴基斯坦被拘",
+      "url": "https://www.toutiao.com/trending/7674494369386364969/"
     },
     {
       "title": "全国铁路完成固定资产投资4406亿元",
       "url": "https://www.toutiao.com/trending/7674395943756070975/"
     },
     {
-      "title": "BBA集体大降价：宝马5系跌至28万",
-      "url": "https://www.toutiao.com/trending/7674820864836239396/"
-    },
-    {
       "title": "女患者报警称“被男医生猥亵揉胸”",
       "url": "https://www.toutiao.com/trending/7674928434282151955/"
+    },
+    {
+      "title": "BBA集体大降价：宝马5系跌至28万",
+      "url": "https://www.toutiao.com/trending/7674820864836239396/"
     },
     {
       "title": "爸爸内急让娃代钓 结果钓上9斤大鱼",
@@ -240,19 +240,51 @@
       "url": "https://www.toutiao.com/trending/7674214170217725978/"
     },
     {
-      "title": "五角大楼为何建议避免与中国航母对决",
-      "url": "https://www.toutiao.com/trending/7674218628133797924/"
-    },
-    {
       "title": "“极少数巨婴碰瓷了大量公共资源”",
       "url": "https://www.toutiao.com/trending/7674795397122113572/"
     },
     {
       "title": "网友晒出清华大学宿舍环境",
       "url": "https://www.toutiao.com/trending/7674861852521660457/"
+    },
+    {
+      "title": "五角大楼为何建议避免与中国航母对决",
+      "url": "https://www.toutiao.com/trending/7674218628133797924/"
     }
   ],
   "ithome": [
+    {
+      "title": "苹果 iOS 27 改善跨平台互联，iPhone 17 等可直接回复安卓绿色气泡信息",
+      "url": "/0/990/877.htm"
+    },
+    {
+      "title": "漫威确认《恶灵骑士》2028 年 7 月 28 日上映，瑞恩 · 高斯林主演",
+      "url": "/0/990/876.htm"
+    },
+    {
+      "title": "谷歌为 Wear OS 引入“查找联系人”功能，LTE 手表机型可独立共享位置",
+      "url": "/0/990/875.htm"
+    },
+    {
+      "title": "GitHub 服务中断同一天，Cursor 推出内置代码托管平台 Origin",
+      "url": "/0/990/874.htm"
+    },
+    {
+      "title": "《湮灭之潮》实机画面女主面容变化引争议，官方称为灯光优化所致",
+      "url": "/0/990/873.htm"
+    },
+    {
+      "title": "苹果发布 iOS / iPadOS 27 第 4 个公测版：更新通知动画等",
+      "url": "/0/990/872.htm"
+    },
+    {
+      "title": "谷歌向 Pixel 系列手机推送安卓 17 QPR1 Beta 9 更新：修复“圈选即搜”等功能 Bug",
+      "url": "/0/990/871.htm"
+    },
+    {
+      "title": "10~20cm 够长够鲜够便宜：京东自营白虾 19.8 元 / 斤起七夕全家吃到爽",
+      "url": "https://lapin.ithome.com/html/digi/990843.htm"
+    },
     {
       "title": "《星际公民》开发商 CIG 直播游戏“翻车”遇大量 Bug，玩家质疑项目进展",
       "url": "/0/990/870.htm"
@@ -260,38 +292,6 @@
     {
       "title": "苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金",
       "url": "/0/990/869.htm"
-    },
-    {
-      "title": "微软发布 Win11 Experimental 频道预览版：改进文件管理器与右键菜单",
-      "url": "/0/990/867.htm"
-    },
-    {
-      "title": "苹果发布 iOS / iPadOS 26.6.1 及 macOS 26.6.2：聚焦安全漏洞修复",
-      "url": "/0/990/868.htm"
-    },
-    {
-      "title": "微软发布 Win11 Beta / Experimental 频道预览版：更新右键菜单、支持 Emoji 17.0",
-      "url": "/0/990/866.htm"
-    },
-    {
-      "title": "10~20cm 够长够鲜够便宜：京东自营白虾 19.8 元 / 斤起七夕全家吃到爽",
-      "url": "https://lapin.ithome.com/html/digi/990843.htm"
-    },
-    {
-      "title": "苹果 visionOS 26.6.1 正式版发布",
-      "url": "/0/990/865.htm"
-    },
-    {
-      "title": "苹果 visionOS 27.0 开发者预览版 Beta 6 发布",
-      "url": "/0/990/863.htm"
-    },
-    {
-      "title": "苹果 macOS 27.0 开发者预览版 Beta 6 发布：新增两款金门大桥主体壁纸、“红绿灯”按钮新增液态玻璃效果",
-      "url": "/0/990/862.htm"
-    },
-    {
-      "title": "苹果 watchOS 27.0 开发者预览版 Beta 6 发布",
-      "url": "/0/990/864.htm"
     }
   ],
   "github": [
@@ -304,6 +304,14 @@
       "url": "https://github.com/obra/superpowers"
     },
     {
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
       "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
@@ -312,12 +320,12 @@
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
+      "title": "anthropics/skills: Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills"
     },
     {
-      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
@@ -326,14 +334,6 @@
     {
       "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
       "url": "https://github.com/github/spec-kit"
-    },
-    {
-      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "url": "https://github.com/garrytan/gstack"
-    },
-    {
-      "title": "farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "url": "https://github.com/farion1231/cc-switch"
     }
   ],
   "huggingface": [
