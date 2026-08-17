@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T23:26:01.041Z",
+  "updatedAt": "2026-08-17T23:48:32.524Z",
   "sina": [
     {
       "title": "存储与逻辑芯片迭代升级 CMP市场迎来新风口",
@@ -44,6 +44,10 @@
   ],
   "wallstreet": [
     {
+      "title": "专家料隔夜逆回购有可能成中国央行短期流动性核心政策工具",
+      "url": "https://wallstreetcn.com/lives/3150727"
+    },
+    {
       "title": "华尔街见闻早餐 | 2026年8月18日",
       "url": "https://wallstreetcn.com/lives/3150725"
     },
@@ -78,10 +82,6 @@
     {
       "title": "提醒：日内请重点关注（以下均为北京时间）",
       "url": "https://wallstreetcn.com/lives/3150712"
-    },
-    {
-      "title": "PCB产业链半年报亮眼，高端产品供需偏紧或延续至2028年",
-      "url": "https://wallstreetcn.com/lives/3150716"
     }
   ],
   "baidu": [
@@ -114,16 +114,16 @@
       "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "车越来越多 考驾照的人反而少了",
-      "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A+%E8%80%83%E9%A9%BE%E7%85%A7%E7%9A%84%E4%BA%BA%E5%8F%8D%E8%80%8C%E5%B0%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "中国男篮又输了 对手仅集训5天",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8F%88%E8%BE%93%E4%BA%86+%E5%AF%B9%E6%89%8B%E4%BB%85%E9%9B%86%E8%AE%AD5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "3孩非亲生案庭审结束 男方发声",
+      "url": "https://www.baidu.com/s?wd=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%BA%AD%E5%AE%A1%E7%BB%93%E6%9D%9F+%E7%94%B7%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "德国男子家中厕所过于豪华被强拆",
       "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8E%95%E6%89%80%E8%BF%87%E4%BA%8E%E8%B1%AA%E5%8D%8E%E8%A2%AB%E5%BC%BA%E6%8B%86&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "美股收盘：3大利好推动AI板块逆势走强",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -132,20 +132,24 @@
       "url": "https://b23.tv/BV1wrba6iE56"
     },
     {
-      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
-      "url": "https://b23.tv/BV18Tby67EG9"
+      "title": "危！秘境最终奖励竟然亮起了血条？！【小明修仙传EP9】【AI全民制作人】",
+      "url": "https://b23.tv/BV1uAbh6CEwg"
     },
     {
-      "title": "我们不欢迎这样的客人，也不赚这种米",
-      "url": "https://b23.tv/BV1Neba63EDK"
+      "title": "忍术回战   26分钟沉浸式观看",
+      "url": "https://b23.tv/BV1GNbv6ZE1N"
     },
     {
       "title": "【独家】《记忆管理局》第5集 主角光环【8月国创】",
       "url": "https://b23.tv/BV1N2gp6iEn8"
     },
     {
-      "title": "忍术回战   26分钟沉浸式观看",
-      "url": "https://b23.tv/BV1GNbv6ZE1N"
+      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+      "url": "https://b23.tv/BV18Tby67EG9"
+    },
+    {
+      "title": "我们不欢迎这样的客人，也不赚这种米",
+      "url": "https://b23.tv/BV1Neba63EDK"
     },
     {
       "title": "极品金灵根各峰主都想收我为徒#meme剧场",
@@ -160,12 +164,8 @@
       "url": "https://b23.tv/BV1gMgM6KEUM"
     },
     {
-      "title": "危！秘境最终奖励竟然亮起了血条？！【小明修仙传EP9】【AI全民制作人】",
-      "url": "https://b23.tv/BV1uAbh6CEwg"
-    },
-    {
-      "title": "什么⁉Bye bye baby blue翻译竟然是错的✖！",
-      "url": "https://b23.tv/BV1tMby62EC4"
+      "title": "这个旅游包活吗？？？【听天由命1】",
+      "url": "https://b23.tv/BV1SBbS6hEHa"
     }
   ],
   "weibo": [
@@ -190,7 +190,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "曹骏初舞台人气票数倒挂",
+      "title": "3孩非亲生案女方当庭承认出轨",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,26 +198,26 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "曹骏初舞台人气票数倒挂",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "急性子小姐和慢吞吞先生",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "特朗普将宣布霍尔木兹为美国领土",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "高铁咸猪手男子被拘留",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "3孩非亲生案女方当庭承认出轨",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "谁贡献了俄罗斯上半年734亿美元顺差",
-      "url": "https://www.toutiao.com/trending/7675008125698575918/"
-    },
-    {
       "title": "中方回应上百中国公民在巴基斯坦被拘",
       "url": "https://www.toutiao.com/trending/7674494369386364969/"
+    },
+    {
+      "title": "BBA集体大降价：宝马5系跌至28万",
+      "url": "https://www.toutiao.com/trending/7674820864836239396/"
     },
     {
       "title": "全国铁路完成固定资产投资4406亿元",
@@ -228,70 +228,70 @@
       "url": "https://www.toutiao.com/trending/7674928434282151955/"
     },
     {
-      "title": "BBA集体大降价：宝马5系跌至28万",
-      "url": "https://www.toutiao.com/trending/7674820864836239396/"
+      "title": "网友晒出清华大学宿舍环境",
+      "url": "https://www.toutiao.com/trending/7674861852521660457/"
     },
     {
       "title": "爸爸内急让娃代钓 结果钓上9斤大鱼",
       "url": "https://www.toutiao.com/trending/7674975030547415081/"
     },
     {
-      "title": "夫妻听劝砌一堵墙救了自己命",
-      "url": "https://www.toutiao.com/trending/7674214170217725978/"
-    },
-    {
       "title": "“极少数巨婴碰瓷了大量公共资源”",
       "url": "https://www.toutiao.com/trending/7674795397122113572/"
     },
     {
-      "title": "网友晒出清华大学宿舍环境",
-      "url": "https://www.toutiao.com/trending/7674861852521660457/"
+      "title": "夫妻听劝砌一堵墙救了自己命",
+      "url": "https://www.toutiao.com/trending/7674214170217725978/"
     },
     {
-      "title": "五角大楼为何建议避免与中国航母对决",
-      "url": "https://www.toutiao.com/trending/7674218628133797924/"
+      "title": "美股收盘：3大利好推动AI板块逆势走强",
+      "url": "https://www.toutiao.com/trending/7675142828237786670/"
+    },
+    {
+      "title": "胖东来员工回应工资及闭店后安置",
+      "url": "https://www.toutiao.com/trending/7674910145792462342/"
     }
   ],
   "ithome": [
     {
+      "title": "幸运用户捡到可正常工作的英伟达 RTX 2080 SUPER 显卡，更换导热硅脂和导热垫后待机温度约 35℃",
+      "url": "/0/990/886.htm"
+    },
+    {
+      "title": "Model S/X 停产后，特斯拉拍卖过剩零部件",
+      "url": "/0/990/885.htm"
+    },
+    {
+      "title": "美国 2 名女子起诉苹果公司，称 AirTag 反跟踪警报未能提供有效保护",
+      "url": "/0/990/884.htm"
+    },
+    {
+      "title": "代码显示谷歌计划调整 Google Messages“置顶聊天”功能：可快速显示消息内容",
+      "url": "/0/990/883.htm"
+    },
+    {
+      "title": "Nothing 子品牌 CMF 放出耳机新品预告，或为 CMF Buds 3",
+      "url": "/0/990/882.htm"
+    },
+    {
+      "title": "Spotify 上线“播放列表备注”功能，用户可为播客节目、有声书添加文字说明",
+      "url": "/0/990/881.htm"
+    },
+    {
+      "title": "入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra",
+      "url": "/0/990/880.htm"
+    },
+    {
+      "title": "苹果新版“外部支付佣金方案”遭 Epic 驳回，App Store 支付渠道诉讼仍在继续",
+      "url": "/0/990/879.htm"
+    },
+    {
+      "title": "Mini 推出 Rooftop Editions 特别版车型，基于 Cooper S 打造",
+      "url": "/0/990/878.htm"
+    },
+    {
       "title": "苹果 iOS 27 改善跨平台互联，iPhone 17 等可直接回复安卓绿色气泡信息",
       "url": "/0/990/877.htm"
-    },
-    {
-      "title": "漫威确认《恶灵骑士》2028 年 7 月 28 日上映，瑞恩 · 高斯林主演",
-      "url": "/0/990/876.htm"
-    },
-    {
-      "title": "谷歌为 Wear OS 引入“查找联系人”功能，LTE 手表机型可独立共享位置",
-      "url": "/0/990/875.htm"
-    },
-    {
-      "title": "GitHub 服务中断同一天，Cursor 推出内置代码托管平台 Origin",
-      "url": "/0/990/874.htm"
-    },
-    {
-      "title": "《湮灭之潮》实机画面女主面容变化引争议，官方称为灯光优化所致",
-      "url": "/0/990/873.htm"
-    },
-    {
-      "title": "苹果发布 iOS / iPadOS 27 第 4 个公测版：更新通知动画等",
-      "url": "/0/990/872.htm"
-    },
-    {
-      "title": "谷歌向 Pixel 系列手机推送安卓 17 QPR1 Beta 9 更新：修复“圈选即搜”等功能 Bug",
-      "url": "/0/990/871.htm"
-    },
-    {
-      "title": "10~20cm 够长够鲜够便宜：京东自营白虾 19.8 元 / 斤起七夕全家吃到爽",
-      "url": "https://lapin.ithome.com/html/digi/990843.htm"
-    },
-    {
-      "title": "《星际公民》开发商 CIG 直播游戏“翻车”遇大量 Bug，玩家质疑项目进展",
-      "url": "/0/990/870.htm"
-    },
-    {
-      "title": "苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金",
-      "url": "/0/990/869.htm"
     }
   ],
   "github": [
@@ -304,8 +304,8 @@
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
@@ -316,12 +316,12 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
+      "title": "anomalyco/opencode: The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode"
     },
     {
-      "title": "anthropics/skills: Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills"
+      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
@@ -332,8 +332,8 @@
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
-      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
-      "url": "https://github.com/github/spec-kit"
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
     }
   ],
   "huggingface": [
