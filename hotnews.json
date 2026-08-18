@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:52:13.252Z",
+  "updatedAt": "2026-08-18T20:27:21.275Z",
   "sina": [
     {
       "title": "iQOO Neo11至尊版发布：搭载2K屏与9100mAh电池，国补到手价2899元起",
@@ -44,44 +44,44 @@
   ],
   "wallstreet": [
     {
+      "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情",
+      "url": "https://wallstreetcn.com/lives/3151329"
+    },
+    {
+      "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
+      "url": "https://wallstreetcn.com/lives/3151328"
+    },
+    {
+      "title": "北美科技软件股指数ETF跌0.03%，Global X网络安全ETF涨0.5%，纳斯达克网络安全ETF跌0.36%，ET",
+      "url": "https://wallstreetcn.com/lives/3151326"
+    },
+    {
+      "title": "标普能源板块创收盘历史新高",
+      "url": "https://wallstreetcn.com/lives/3151325"
+    },
+    {
+      "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌",
+      "url": "https://wallstreetcn.com/lives/3151324"
+    },
+    {
+      "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。",
+      "url": "https://wallstreetcn.com/lives/3151323"
+    },
+    {
+      "title": "标普连跌三天",
+      "url": "https://wallstreetcn.com/lives/3151321"
+    },
+    {
+      "title": "纳斯达克金龙中国指数初步收跌1%。",
+      "url": "https://wallstreetcn.com/lives/3151319"
+    },
+    {
+      "title": "委内瑞拉央行：二季度石油活动同比增长9.1%。",
+      "url": "https://wallstreetcn.com/lives/3151316"
+    },
+    {
       "title": "委内瑞拉央行：二季度GDP同比增长7.14%。",
       "url": "https://wallstreetcn.com/lives/3151315"
-    },
-    {
-      "title": "美国10年期国债收益率跌约1.6个基点，脱离近期最高位",
-      "url": "https://wallstreetcn.com/lives/3151314"
-    },
-    {
-      "title": "纽约金日内跌幅达1.5%，报4406.07美元/盎司。",
-      "url": "https://wallstreetcn.com/lives/3151313"
-    },
-    {
-      "title": "美国财政部对两名国际刑事法院人员实施制裁",
-      "url": "https://wallstreetcn.com/lives/3151312"
-    },
-    {
-      "title": "美国宾夕法尼亚州州长乔什·沙皮罗将限制新建数据中心",
-      "url": "https://wallstreetcn.com/lives/3151310"
-    },
-    {
-      "title": "Aco Brasil：巴西7月钢铁进口同比下滑37.8%、出口同比下降2.6%，粗钢产量同比增长0.1%。",
-      "url": "https://wallstreetcn.com/lives/3151309"
-    },
-    {
-      "title": "周二（8月18日）纽约尾盘，美元兑日元涨0.09%，报159.61日元，日内交投区间为159.30-159.78日元。",
-      "url": "https://wallstreetcn.com/lives/3151308"
-    },
-    {
-      "title": "阿联酋国防部：从伊朗发射的两枚弹道导弹以海上航运为攻击目标。",
-      "url": "https://wallstreetcn.com/lives/3151307"
-    },
-    {
-      "title": "委内瑞拉国家石油公司（PDVSA）：委内瑞拉原油产量到月底将达到124.5万桶/日。",
-      "url": "https://wallstreetcn.com/lives/3151306"
-    },
-    {
-      "title": "美国外交官：土耳其可以合理回应以色列空袭",
-      "url": "https://wallstreetcn.com/lives/3151305"
     }
   ],
   "baidu": [
@@ -122,11 +122,15 @@
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E6%8A%AC%E5%A4%B4%E4%BB%A5%E4%B8%BA%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%BB%99%E6%88%91%E6%8C%91%E6%B0%B4%E6%9E%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "餐馆未打码曝光逃单顾客照片引争议",
-      "url": "https://www.baidu.com/s?wd=%E9%A4%90%E9%A6%86%E6%9C%AA%E6%89%93%E7%A0%81%E6%9B%9D%E5%85%89%E9%80%83%E5%8D%95%E9%A1%BE%E5%AE%A2%E7%85%A7%E7%89%87%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "游泳警惕腺病毒 暂无特效药",
+      "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E6%B3%B3%E8%AD%A6%E6%83%95%E8%85%BA%E7%97%85%E6%AF%92+%E6%9A%82%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
+    {
+      "title": "【问苍生】我这一生最大的罪，是把人写成了妖……",
+      "url": "https://b23.tv/BV1rHbY6MEB9"
+    },
     {
       "title": "《影之刃零》专场 State of Play 全程回顾",
       "url": "https://b23.tv/BV1Zdbi6rER9"
@@ -136,12 +140,12 @@
       "url": "https://b23.tv/BV1GNbv6ZE1N"
     },
     {
-      "title": "我们不欢迎这样的客人，也不赚这种米",
-      "url": "https://b23.tv/BV1Neba63EDK"
-    },
-    {
       "title": "【独家】《百日成王》第17集 每一场应援就像一场战斗！【7月国创】",
       "url": "https://b23.tv/BV1ndgp68EVE"
+    },
+    {
+      "title": "我们不欢迎这样的客人，也不赚这种米",
+      "url": "https://b23.tv/BV1Neba63EDK"
     },
     {
       "title": "《商务柔道》",
@@ -162,10 +166,6 @@
     {
       "title": "《鸣潮》共鸣者「清宵」PV | 修行",
       "url": "https://b23.tv/BV1GFbk6LEVm"
-    },
-    {
-      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://b23.tv/BV1BMgj6MEz4"
     }
   ],
   "weibo": [
@@ -182,7 +182,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "启境GX7首发一键纯平大床",
+      "title": "做事千万不要有状态洁癖",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,15 +190,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "做事千万不要有状态洁癖",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "何炅因年龄大被密室拒绝",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "爽爽爽爽空枪爽爽爽爽",
+      "title": "好的七夕有标准答案吗",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -206,7 +202,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "现在该不该换手机",
+      "title": "吴泽林曾在现场情绪失控",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "公积金新规 通俗解读",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -228,28 +228,28 @@
       "url": "https://www.toutiao.com/trending/7674909815030120454/"
     },
     {
+      "title": "小米汽车赌向澎程",
+      "url": "https://www.toutiao.com/trending/7675377822067592745/"
+    },
+    {
       "title": "外交部直接把靖国神社称作战犯神社",
       "url": "https://www.toutiao.com/trending/7675173070823718939/"
     },
     {
-      "title": "旅客自带充气床入住酒店",
-      "url": "https://www.toutiao.com/trending/7675302507261853732/"
+      "title": "天安门下半旗悼念朱镕基同志",
+      "url": "https://www.toutiao.com/trending/7674420762769702954/"
     },
     {
-      "title": "如何看待“泔水喂猪”被写入禁令",
-      "url": "https://www.toutiao.com/trending/7675360953654840882/"
+      "title": "女子凭基因认出十几年前同学的儿子",
+      "url": "https://www.toutiao.com/trending/7675325062584696851/"
     },
     {
-      "title": "吃花生能为我们身体带来哪些好处",
-      "url": "https://www.toutiao.com/trending/7674836777509158950/"
+      "title": "方程豹钛9官宣成都车展全球首秀",
+      "url": "https://www.toutiao.com/trending/7675312500044369454/"
     },
     {
-      "title": "研究：蛋黄吃对了痴呆风险降27%",
-      "url": "https://www.toutiao.com/trending/7674857513262563334/"
-    },
-    {
-      "title": "75岁王石再创业",
-      "url": "https://www.toutiao.com/trending/7674608437980024361/"
+      "title": "84岁夫妻结婚56年还像热恋小情侣",
+      "url": "https://www.toutiao.com/trending/7675010995707068459/"
     }
   ],
   "ithome": [
@@ -304,14 +304,6 @@
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
     },
@@ -320,20 +312,28 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
-    },
-    {
       "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
-      "title": "anthropics/skills: Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack"
     }
   ],
   "huggingface": [
