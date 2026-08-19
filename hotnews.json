@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:53:38.417Z",
+  "updatedAt": "2026-08-19T18:39:06.858Z",
   "sina": [
     {
       "title": "驭势科技吴甘沙：99.9分安全=0分，天山国际机场无人车队160万公里运营零主责事故",
@@ -44,7 +44,35 @@
   ],
   "wallstreet": [
     {
-      "title": "据The Information：英伟达正在讨论以200亿美元的估值为其人工智能数据供应商Mercor提供资金。",
+      "title": "芯片企业Fractile与Anthropic达成交易后寻求65亿美元估值",
+      "url": "https://wallstreetcn.com/lives/3151900"
+    },
+    {
+      "title": "原油期货主力合约夜盘收跌0.70%，报581.2元人民币/桶。",
+      "url": "https://wallstreetcn.com/lives/3151899"
+    },
+    {
+      "title": "花旗建议买入20年期美国国债，称增加回购预示着收益率见顶",
+      "url": "https://wallstreetcn.com/lives/3151898"
+    },
+    {
+      "title": "“朱雀”归来实现哪些突破，如何更好实现火箭复用？",
+      "url": "https://wallstreetcn.com/lives/3151897"
+    },
+    {
+      "title": "优步、VERNE和小马智行在克罗地亚萨格勒布推出自动驾驶出行服务。",
+      "url": "https://wallstreetcn.com/lives/3151896"
+    },
+    {
+      "title": "美联储会议纪要：许多与会者表示，如果通胀不下降，可能需要加息",
+      "url": "https://wallstreetcn.com/lives/3151894"
+    },
+    {
+      "title": "Meta：面向小型企业推出全新Meta AI功能。",
+      "url": "https://wallstreetcn.com/lives/3151893"
+    },
+    {
+      "title": "英伟达拟对其AI数据供应商Mercor进行投资，估值达200亿美元",
       "url": "https://wallstreetcn.com/lives/3151892"
     },
     {
@@ -54,34 +82,6 @@
     {
       "title": "lululemon通讯主管离职，管理层出走潮加剧",
       "url": "https://wallstreetcn.com/lives/3151890"
-    },
-    {
-      "title": "标普：将美光科技评级上调至“BBB+”，因对公司近期需求前景的信心增强。展望为“正面”。",
-      "url": "https://wallstreetcn.com/lives/3151889"
-    },
-    {
-      "title": "伊拉克领导人会见伊朗议长，聚焦双边关系和地区局势",
-      "url": "https://wallstreetcn.com/lives/3151888"
-    },
-    {
-      "title": "特朗普称可能在“某个时候”恢复与伊朗谈判",
-      "url": "https://wallstreetcn.com/lives/3151887"
-    },
-    {
-      "title": "OpenAI宣布将于9月推出面向前沿模型的“私有安全处理”服务，并承诺对客户数据实行“零留存”政策，相关数据不会被保留或",
-      "url": "https://wallstreetcn.com/lives/3151886"
-    },
-    {
-      "title": "支付巨头Stripe同意收购AI路由公司OpenRouter。",
-      "url": "https://wallstreetcn.com/lives/3151885"
-    },
-    {
-      "title": "美国财政部20年期国债拍卖得标利率5.204%，高于前次的5.163%，间接投标者获配比例62.9%，低于前次比例69.",
-      "url": "https://wallstreetcn.com/lives/3151884"
-    },
-    {
-      "title": "委内瑞拉石油部长：已准备好签署石油协议",
-      "url": "https://wallstreetcn.com/lives/3151883"
     }
   ],
   "baidu": [
@@ -110,12 +110,12 @@
       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "女孩买空座放零食 大姐想坐遭拒",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B9%B0%E7%A9%BA%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F+%E5%A4%A7%E5%A7%90%E6%83%B3%E5%9D%90%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "宇树上市首日 青岛巨头赚了40亿",
       "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5+%E9%9D%92%E5%B2%9B%E5%B7%A8%E5%A4%B4%E8%B5%9A%E4%BA%8640%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "女孩买空座放零食 大姐想坐遭拒",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B9%B0%E7%A9%BA%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F+%E5%A4%A7%E5%A7%90%E6%83%B3%E5%9D%90%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "国产综艺为什么总是出现各种“学”",
@@ -144,28 +144,28 @@
       "url": "https://b23.tv/BV1q28V6VEYU"
     },
     {
-      "title": "《鸡来》一个半小时超长电影！！！",
-      "url": "https://b23.tv/BV1NBbe6jEzz"
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://b23.tv/BV1Zdbi6rER9"
     },
     {
-      "title": "70亿Token，B站网友教我做了个AI军官来监督学习【B站AI创造公开赛】",
-      "url": "https://b23.tv/BV1XUgg61E3G"
+      "title": "《鸡来》一个半小时超长电影！！！",
+      "url": "https://b23.tv/BV1NBbe6jEzz"
     },
     {
       "title": "时空列车",
       "url": "https://b23.tv/BV1CUbS69EAs"
     },
     {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://b23.tv/BV1Zdbi6rER9"
+      "title": "怪谈逃生指南第一期：《恶魔法典》",
+      "url": "https://b23.tv/BV1iv8j6EE77"
     },
     {
-      "title": "跟着学，你在家也能做出红亮油润、香辣扑鼻的辣椒油#热门 #美食",
-      "url": "https://b23.tv/BV1928u6oEw3"
+      "title": "一种很“嘉豪”的合成方式",
+      "url": "https://b23.tv/BV18obz6BEiR"
     },
     {
-      "title": "永 动 机 豌 豆",
-      "url": "https://b23.tv/BV1sJ8u6jEvd"
+      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
+      "url": "https://b23.tv/BV1BS876oEwP"
     }
   ],
   "weibo": [
@@ -182,10 +182,6 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "连续值了5年夜班 只愿你健健康康",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "空枪 李嘉诚儿子绑架案",
       "url": "https://weibo.com/hot/undefined"
     },
@@ -198,11 +194,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "和孙颖莎韧劲控场",
+      "title": "黄金",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "黄金",
+      "title": "笔试前13名全淘汰 倒数5名全逆袭",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "为什么七夕朋友圈秀恩爱的变少了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -224,8 +224,8 @@
       "url": "https://www.toutiao.com/trending/7675177245153201706/"
     },
     {
-      "title": "北大报到日校园满是扛床垫的爸",
-      "url": "https://www.toutiao.com/trending/7675285820756721707/"
+      "title": "10台摩托车组团冲卡上高速 1人死亡",
+      "url": "https://www.toutiao.com/trending/7675672787419430975/"
     },
     {
       "title": "博主：乌导弹撕裂俄航天工业命脉",
@@ -236,20 +236,20 @@
       "url": "https://www.toutiao.com/trending/7675752603866631723/"
     },
     {
+      "title": "北大报到日校园满是扛床垫的爸",
+      "url": "https://www.toutiao.com/trending/7675285820756721707/"
+    },
+    {
+      "title": "河北卡友称进山西就得睡半小时午觉",
+      "url": "https://www.toutiao.com/trending/7675278548928839721/"
+    },
+    {
+      "title": "95后新郎把婚前房子财产全给了新娘",
+      "url": "https://www.toutiao.com/trending/7675613166087274537/"
+    },
+    {
       "title": "大学生一个月给多少生活费合适",
       "url": "https://www.toutiao.com/trending/7675733233962631231/"
-    },
-    {
-      "title": "人民日报：腐败案“两个80%”的警示",
-      "url": "https://www.toutiao.com/trending/7675325636307664934/"
-    },
-    {
-      "title": "媒体：请放过一个努力的蓝发女孩",
-      "url": "https://www.toutiao.com/trending/7675399883272224787/"
-    },
-    {
-      "title": "王毅：中韩是持久的合作伙伴",
-      "url": "https://www.toutiao.com/trending/7674827835916894244/"
     }
   ],
   "ithome": [
@@ -300,10 +300,6 @@
       "url": "https://github.com/openclaw/openclaw"
     },
     {
-      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
       "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -334,6 +330,10 @@
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
     }
   ],
   "huggingface": [
