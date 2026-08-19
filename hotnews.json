@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-08-19T22:53:32.959Z",
+  "updatedAt": "2026-08-19T23:25:26.265Z",
   "sina": [
+    {
+      "title": "尽管出现泄密 苹果带摄像头AirPods仍定于2027年推出",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxeiu8087822.shtml"
+    },
+    {
+      "title": "一文看清美国扩大长债回购：贝森特意欲何为 交易员如何应对",
+      "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininxeix6811315.shtml"
+    },
     {
       "title": "OpenAI首席财务官：公司或将在2027年上市，甚至更早",
       "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwyae2277597.shtml"
@@ -32,17 +40,21 @@
     {
       "title": "莫德纳股价盘前一度飙升逾85% 黑色素瘤疫苗研究取得成功",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwawq2581076.shtml"
-    },
-    {
-      "title": "直击WRC丨心言集团携旗下主动智能陪伴机器人心言巴布亮相",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininwawr9324551.shtml"
-    },
-    {
-      "title": "直击WRC丨大晓机器人携开悟世界模型3.1、环境式数采方案及三大行业解决方案亮相",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-19/doc-ininwawr9310822.shtml"
     }
   ],
   "wallstreet": [
+    {
+      "title": "太湖流域性较大洪水将持续到月底 全国仍处于主汛期",
+      "url": "https://wallstreetcn.com/lives/3151964"
+    },
+    {
+      "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+      "url": "https://wallstreetcn.com/lives/3151960"
+    },
+    {
+      "title": "特朗普：宣布对伊朗实施最严厉的经济行动。",
+      "url": "https://wallstreetcn.com/lives/3151959"
+    },
     {
       "title": "黄金理财产品净值回暖，理财公司看重黄金压舱石价值",
       "url": "https://wallstreetcn.com/lives/3151958"
@@ -70,18 +82,6 @@
     {
       "title": "乌空军称俄军对基辅发动大规模弹道导弹袭击",
       "url": "https://wallstreetcn.com/lives/3151952"
-    },
-    {
-      "title": "财富管理转型与股东回报双向发力，多家券商上半年营收净利双增",
-      "url": "https://wallstreetcn.com/lives/3151951"
-    },
-    {
-      "title": "哥伦比亚强震已致314人死亡",
-      "url": "https://wallstreetcn.com/lives/3151950"
-    },
-    {
-      "title": "上证报：激活民间投资，财政金融一揽子政策将发力",
-      "url": "https://wallstreetcn.com/lives/3151949"
     }
   ],
   "baidu": [
@@ -102,28 +102,28 @@
       "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E8%B4%B9%E5%90%88%E9%80%82&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "网红猪油渣别当零食吃",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%8C%AA%E6%B2%B9%E6%B8%A3%E5%88%AB%E5%BD%93%E9%9B%B6%E9%A3%9F%E5%90%83&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "男子直肠癌手术三年后喝酒 医生提醒",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%B4%E8%82%A0%E7%99%8C%E6%89%8B%E6%9C%AF%E4%B8%89%E5%B9%B4%E5%90%8E%E5%96%9D%E9%85%92+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "宇树上市首日 青岛巨头赚了40亿",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5+%E9%9D%92%E5%B2%9B%E5%B7%A8%E5%A4%B4%E8%B5%9A%E4%BA%8640%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "女孩买空座放零食 大姐想坐遭拒",
       "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B9%B0%E7%A9%BA%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F+%E5%A4%A7%E5%A7%90%E6%83%B3%E5%9D%90%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
+      "title": "12306回应买票放零食这座位能让吗",
+      "url": "https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%A5%A8%E6%94%BE%E9%9B%B6%E9%A3%9F%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%83%BD%E8%AE%A9%E5%90%97&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
       "title": "日本民众排队5小时买中国相机",
       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "国产综艺为什么总是出现各种“学”",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BB%BC%E8%89%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%87%BA%E7%8E%B0%E5%90%84%E7%A7%8D%E2%80%9C%E5%AD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "《空枪》 李嘉诚儿子被绑架案",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%A9%BA%E6%9E%AA%E3%80%8B+%E6%9D%8E%E5%98%89%E8%AF%9A%E5%84%BF%E5%AD%90%E8%A2%AB%E7%BB%91%E6%9E%B6%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“AI剧像喂猪一样 实在吃不下了”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E5%89%A7%E5%83%8F%E5%96%82%E7%8C%AA%E4%B8%80%E6%A0%B7+%E5%AE%9E%E5%9C%A8%E5%90%83%E4%B8%8D%E4%B8%8B%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "男子直肠癌手术三年后喝酒 医生提醒",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%B4%E8%82%A0%E7%99%8C%E6%89%8B%E6%9C%AF%E4%B8%89%E5%B9%B4%E5%90%8E%E5%96%9D%E9%85%92+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "难怪瘦的时候容易觉得疼",
+      "title": "女子凌晨倒掉24瓶爱心水被拍下",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -186,7 +186,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "黄金",
+      "title": "难怪瘦的时候容易觉得疼",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,15 +198,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "肖战张凌赫周深 湾区升明月",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "为什么七夕朋友圈秀恩爱的变少了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "姜珮瑶找凌玲像AI一样丝滑",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "苏翊鸣七夕晒9图",
+      "title": "新郎称不共财产不共心",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -232,30 +232,58 @@
       "url": "https://www.toutiao.com/trending/7675549514434609188/"
     },
     {
-      "title": "官方通报笔试前13名淘汰倒数5名逆袭",
-      "url": "https://www.toutiao.com/trending/7675667566118833710/"
-    },
-    {
       "title": "10台摩托车组团冲卡上高速 1人死亡",
       "url": "https://www.toutiao.com/trending/7675672787419430975/"
     },
     {
-      "title": "“龙餐馆”走红谁又“破防”了",
-      "url": "https://www.toutiao.com/trending/7674486853181571123/"
+      "title": "官方通报笔试前13名淘汰倒数5名逆袭",
+      "url": "https://www.toutiao.com/trending/7675667566118833710/"
     },
     {
-      "title": "男子因12字评论被错误拘留5天案后续",
-      "url": "https://www.toutiao.com/trending/7675636329697034267/"
+      "title": "美国一女子直接在警车前吸食冰毒",
+      "url": "https://www.toutiao.com/trending/7675196276580958217/"
     },
     {
       "title": "95后新郎把婚前房子财产全给了新娘",
       "url": "https://www.toutiao.com/trending/7675613166087274537/"
+    },
+    {
+      "title": "大学生一个月给多少生活费合适",
+      "url": "https://www.toutiao.com/trending/7675733233962631231/"
     }
   ],
   "ithome": [
     {
+      "title": "Valve Steam Frame VR 头显官方教学视频泄露：佩戴、登录与配件细节曝光",
+      "url": "/0/991/873.htm"
+    },
+    {
+      "title": "三星宣布将于 8 月 27 日举办 Galaxy 发布会，有望推出 S26 FE",
+      "url": "/0/991/872.htm"
+    },
+    {
+      "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
+      "url": "/0/991/871.htm"
+    },
+    {
+      "title": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
+      "url": "/0/991/870.htm"
+    },
+    {
+      "title": "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势",
+      "url": "/0/991/869.htm"
+    },
+    {
+      "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
+      "url": "/0/991/868.htm"
+    },
+    {
       "title": "苹果 Beats 360 头戴式耳机偷跑：主动降噪最高达 Beats Studio Pro 的 1.75 倍",
       "url": "/0/991/867.htm"
+    },
+    {
+      "title": "老哥反馈还不错：喜美诺 100W 快充 C-C 数据线 29.9 → 6.3 元探底清仓",
+      "url": "https://lapin.ithome.com/html/digi/991771.htm"
     },
     {
       "title": "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
@@ -264,34 +292,6 @@
     {
       "title": "特斯拉过度宣传智驾遭反噬：Robotaxi 撞穿路障后继续行驶，此前高管宣称安全记录“无可挑剔”",
       "url": "/0/991/865.htm"
-    },
-    {
-      "title": "《漫威斗魂》PC 版发售 11 天即遭破解，玩家称破解版明显更流畅",
-      "url": "/0/991/864.htm"
-    },
-    {
-      "title": "赵长江详解智界 RX 智能环抱座椅：98 个压力传感器 +27 个气袋，能做到“千人千面”",
-      "url": "/0/991/863.htm"
-    },
-    {
-      "title": "老哥反馈还不错：喜美诺 100W 快充 C-C 数据线 29.9 → 6.3 元探底清仓",
-      "url": "https://lapin.ithome.com/html/digi/991771.htm"
-    },
-    {
-      "title": "中国科大领衔团队首次利用“暗腔”实现超导无接触增强，成果登上《自然》",
-      "url": "/0/991/862.htm"
-    },
-    {
-      "title": "红魔游戏平板 5 PRO「氘锋透明银翼」本月 21 日开售，产品总经理称产能限制只能先满足一部分",
-      "url": "/0/991/861.htm"
-    },
-    {
-      "title": "599 元起芒米 AIR Y 系列竖版掌机开售：高通骁龙 865 版 999~1199 元",
-      "url": "/0/991/860.htm"
-    },
-    {
-      "title": "原价 19.99 美元 / 月的 AI 助手免费送，亚马逊 Alexa+ 登陆全美所有受支持的 Fire TV",
-      "url": "/0/991/859.htm"
     }
   ],
   "github": [
@@ -304,8 +304,8 @@
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC"
     },
     {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
@@ -314,10 +314,6 @@
     {
       "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
     },
     {
       "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
@@ -334,6 +330,10 @@
     {
       "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     }
   ],
   "huggingface": [
