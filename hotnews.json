@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-08-19T19:28:34.283Z",
+  "updatedAt": "2026-08-19T19:52:41.278Z",
   "sina": [
+    {
+      "title": "OpenAI首席财务官：公司或将在2027年上市，甚至更早",
+      "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwyae2277597.shtml"
+    },
     {
       "title": "驭势科技吴甘沙：99.9分安全=0分，天山国际机场无人车队160万公里运营零主责事故",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininwiep9277635.shtml"
@@ -36,52 +40,48 @@
     {
       "title": "直击WRC丨大晓机器人携开悟世界模型3.1、环境式数采方案及三大行业解决方案亮相",
       "url": "https://finance.sina.com.cn/tech/it/2026-08-19/doc-ininwawr9310822.shtml"
-    },
-    {
-      "title": "Momenta、XHEART与QNX宣布达成合作，打造全球安全标准自动驾驶平台",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-19/doc-ininwawr9302851.shtml"
     }
   ],
   "wallstreet": [
     {
+      "title": "现货黄金突破4510美元/盎司，日内涨4.07%。",
+      "url": "https://wallstreetcn.com/lives/3151923"
+    },
+    {
+      "title": "内塔尼亚胡警告土耳其勿在叙利亚扩大军事部署",
+      "url": "https://wallstreetcn.com/lives/3151922"
+    },
+    {
+      "title": "特朗普谈及债券市场：美国人无需担忧市场波动。",
+      "url": "https://wallstreetcn.com/lives/3151921"
+    },
+    {
+      "title": "Marvell因AI芯片交易协议大涨8%，该协议允许谷歌购买至多122亿美元股份",
+      "url": "https://wallstreetcn.com/lives/3151920"
+    },
+    {
+      "title": "特朗普谈及伊朗：目前海峡处于开放状态，大量船只通行。媒体并未报道这件事。",
+      "url": "https://wallstreetcn.com/lives/3151919"
+    },
+    {
+      "title": "OpenAI首席财务官：公司“将在2027年上市”或更早",
+      "url": "https://wallstreetcn.com/lives/3151918"
+    },
+    {
+      "title": "皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业",
+      "url": "https://wallstreetcn.com/lives/3151917"
+    },
+    {
+      "title": "特朗普：美国已就储备 “大规模” 比特币及其他加密货币的相关计划展开讨论。",
+      "url": "https://wallstreetcn.com/lives/3151916"
+    },
+    {
+      "title": "特朗普：下周将与 “AI 行业人士” 举行会晤。",
+      "url": "https://wallstreetcn.com/lives/3151915"
+    },
+    {
       "title": "周三（8月19日）纽约尾盘，ICE美元指数下跌0.83%，刷新日高至98.662点，整体持续下挫。",
       "url": "https://wallstreetcn.com/lives/3151914"
-    },
-    {
-      "title": "报道：美国开展行动通过霍尔木兹海峡运输石油",
-      "url": "https://wallstreetcn.com/lives/3151913"
-    },
-    {
-      "title": "伦敦基本金属多数上涨，LME期铜涨0.46%报14051.5美元/吨。",
-      "url": "https://wallstreetcn.com/lives/3151912"
-    },
-    {
-      "title": "税务部门为机器人企业提供全生命周期的涉税辅导，通过合规申报释放政策红利，帮助企业解决复杂的涉税难题，已成为助推机器人产业",
-      "url": "https://wallstreetcn.com/lives/3151911"
-    },
-    {
-      "title": "特朗普：国会需要通过《清晰法案》。",
-      "url": "https://wallstreetcn.com/lives/3151910"
-    },
-    {
-      "title": "美国商品期货交易委员会主席：明天我将在会议上就后续监管路径公布更多细节。",
-      "url": "https://wallstreetcn.com/lives/3151909"
-    },
-    {
-      "title": "美国总统特朗普：非常希望利率能够下降。",
-      "url": "https://wallstreetcn.com/lives/3151908"
-    },
-    {
-      "title": "现货白银日内涨幅4.74%，现报66.32美元/盎司。",
-      "url": "https://wallstreetcn.com/lives/3151907"
-    },
-    {
-      "title": "现货黄金站上4500美元/盎司，为6月4日以来首次，日内上涨3.89%。",
-      "url": "https://wallstreetcn.com/lives/3151906"
-    },
-    {
-      "title": "伊朗央行行长：目前尚未有任何被冻结的资金解冻",
-      "url": "https://wallstreetcn.com/lives/3151904"
     }
   ],
   "baidu": [
@@ -114,8 +114,8 @@
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%B4%E8%82%A0%E7%99%8C%E6%89%8B%E6%9C%AF%E4%B8%89%E5%B9%B4%E5%90%8E%E5%96%9D%E9%85%92+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "日本民众排队5小时买中国相机",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%9B%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "华为“天才少年”回应离职后卖玉米",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C%E5%90%8E%E5%8D%96%E7%8E%89%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "国产综艺为什么总是出现各种“学”",
@@ -132,12 +132,12 @@
       "url": "https://b23.tv/BV1rHbY6MEB9"
     },
     {
-      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
-      "url": "https://b23.tv/BV1hY8g6xEwE"
-    },
-    {
       "title": "多人游戏实机预告片 | 《使命召唤：现代战争4》",
       "url": "https://b23.tv/BV1m58n6EE4X"
+    },
+    {
+      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
+      "url": "https://b23.tv/BV1hY8g6xEwE"
     },
     {
       "title": "七夕节老番茄就和自己玩游戏",
@@ -152,20 +152,20 @@
       "url": "https://b23.tv/BV1NBbe6jEzz"
     },
     {
-      "title": "时空列车",
-      "url": "https://b23.tv/BV1CUbS69EAs"
-    },
-    {
-      "title": "怪谈逃生指南第一期：《恶魔法典》",
-      "url": "https://b23.tv/BV1iv8j6EE77"
-    },
-    {
       "title": "一种很“嘉豪”的合成方式",
       "url": "https://b23.tv/BV18obz6BEiR"
     },
     {
-      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
-      "url": "https://b23.tv/BV1BS876oEwP"
+      "title": "时空列车",
+      "url": "https://b23.tv/BV1CUbS69EAs"
+    },
+    {
+      "title": "《如常运转｜正常運転》MV：全世界都会震惊于日本的灾后重建速度",
+      "url": "https://b23.tv/BV1h88g6tEQv"
+    },
+    {
+      "title": "跟着学，你在家也能做出红亮油润、香辣扑鼻的辣椒油#热门 #美食",
+      "url": "https://b23.tv/BV1928u6oEw3"
     }
   ],
   "weibo": [
@@ -198,15 +198,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "女孩买空座放零食大姐求坐被拒绝",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "笔试前13名全淘汰 倒数5名全逆袭",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "七夕 去情人节化",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "汪苏泷说雨爱没报批",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -228,12 +228,20 @@
       "url": "https://www.toutiao.com/trending/7675672787419430975/"
     },
     {
+      "title": "高管接私活赚千万被发现后全捐公司",
+      "url": "https://www.toutiao.com/trending/7675643073670955027/"
+    },
+    {
+      "title": "朱雀三号成功回收",
+      "url": "https://www.toutiao.com/trending/7674774683141308422/"
+    },
+    {
       "title": "人民日报：腐败案“两个80%”的警示",
       "url": "https://www.toutiao.com/trending/7675325636307664934/"
     },
     {
-      "title": "95后新郎把婚前房子财产全给了新娘",
-      "url": "https://www.toutiao.com/trending/7675613166087274537/"
+      "title": "男子因12字评论被错误拘留5天案后续",
+      "url": "https://www.toutiao.com/trending/7675636329697034267/"
     },
     {
       "title": "北大报到日校园满是扛床垫的爸",
@@ -242,14 +250,6 @@
     {
       "title": "博主：美国财政部开始下场救市了",
       "url": "https://www.toutiao.com/trending/7675752603866631723/"
-    },
-    {
-      "title": "中央巡查组怒斥企业连糊弄都懒得糊弄",
-      "url": "https://www.toutiao.com/trending/7675549514434609188/"
-    },
-    {
-      "title": "大学生一个月给多少生活费合适",
-      "url": "https://www.toutiao.com/trending/7675733233962631231/"
     }
   ],
   "ithome": [
@@ -304,36 +304,36 @@
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
     },
     {
       "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
-      "title": "anthropics/skills: Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills"
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "title": "VoltAgent/awesome-design-md: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "url": "https://github.com/VoltAgent/awesome-design-md"
+    },
+    {
+      "title": "openai/codex: Lightweight coding agent that runs in your terminal",
+      "url": "https://github.com/openai/codex"
     }
   ],
   "huggingface": [
