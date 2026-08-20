@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-20T11:29:22.335Z",
+  "updatedAt": "2026-08-20T11:56:16.817Z",
   "sina": [
+    {
+      "title": "泡泡玛特司德：乐园新区域开放后客流环比增长超过一倍",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininyncn1903887.shtml"
+    },
+    {
+      "title": "吴泳铭：阿里AI年化收入突破495亿元",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininynce7933855.shtml"
+    },
+    {
+      "title": "直击WRC丨北京人形发布具身大脑模型Pelican-VL 2.0，已正式商用",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininynce7931749.shtml"
+    },
     {
       "title": "泡泡玛特：下半年预计移位改造几十家门店",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininynce7916136.shtml"
@@ -28,21 +40,37 @@
     {
       "title": "阿里财报：云收入增长45%创新高、利润暴增133%",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininyfvm6754533.shtml"
-    },
-    {
-      "title": "泡泡玛特王宁：公司今年大概率完不成年初既定的 20%营收增长目标",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininyfvh8022057.shtml"
-    },
-    {
-      "title": "泡泡玛特王宁：公司将在未来6个月内启动20-50亿人民币的股份回购计划",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininyfvq1972789.shtml"
-    },
-    {
-      "title": "星辰微光：上半年营收达9亿元，积极推进赴港上市",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininyfvq1967412.shtml"
     }
   ],
   "wallstreet": [
+    {
+      "title": "富士康紧急招工冲刺iPhone18量产",
+      "url": "https://wallstreetcn.com/lives/3152375"
+    },
+    {
+      "title": "现货白银日内跌幅达1.0%，报66.3美元/盎司。",
+      "url": "https://wallstreetcn.com/lives/3152374"
+    },
+    {
+      "title": "现货黄金日内跌幅达1%，报4477.33美元/盎司。",
+      "url": "https://wallstreetcn.com/lives/3152373"
+    },
+    {
+      "title": "阿里巴巴吴泳铭：平头哥AI芯片下半年将持续放量",
+      "url": "https://wallstreetcn.com/lives/3152372"
+    },
+    {
+      "title": "美债回吐回购计划宣布后的部分涨幅 30年期收益率重回5.2%上方",
+      "url": "https://wallstreetcn.com/lives/3152371"
+    },
+    {
+      "title": "阿里巴巴吴泳铭：阿里AI年化收入突破495亿元",
+      "url": "https://wallstreetcn.com/lives/3152369"
+    },
+    {
+      "title": "德国5年期国债收益率上涨1个基点，2008年以来首次触及3%。",
+      "url": "https://wallstreetcn.com/lives/3152366"
+    },
     {
       "title": "泡泡玛特回应毛利率微降",
       "url": "https://wallstreetcn.com/lives/3152365"
@@ -54,34 +82,6 @@
     {
       "title": "华策影视：2026年上半年净利润1.67亿元，同比增长41.98%",
       "url": "https://wallstreetcn.com/lives/3152361"
-    },
-    {
-      "title": "越南外交部：欢迎中方将越南纳入过境免签政策范围",
-      "url": "https://wallstreetcn.com/lives/3152360"
-    },
-    {
-      "title": "中金公司：换股吸收合并东兴证券、信达证券，将于8月27日上会审核",
-      "url": "https://wallstreetcn.com/lives/3152359"
-    },
-    {
-      "title": "网易有道：二季度净收入达14.7亿元，同比增长3.5%",
-      "url": "https://wallstreetcn.com/lives/3152357"
-    },
-    {
-      "title": "泡泡玛特褚音：中国市场上半年移位焕新超20家门店，店销实现双位数增长",
-      "url": "https://wallstreetcn.com/lives/3152355"
-    },
-    {
-      "title": "新易盛：拟推2026年限制性股票激励计划，向激励对象授予的限制性股票总量为648.12万股，本激励计划首次及预留授予的限",
-      "url": "https://wallstreetcn.com/lives/3152354"
-    },
-    {
-      "title": "【兆易创新：拟以10亿元-20亿元回购公司股份】兆易创新公告，拟以不低于人民币10亿元（含）且不超过人民币20亿元（含）",
-      "url": "https://wallstreetcn.com/lives/3152353"
-    },
-    {
-      "title": "WTI原油日内涨3%，报86.94美元/桶。布伦特原油日内涨2.6%，报94.10美元/桶。",
-      "url": "https://wallstreetcn.com/lives/3152352"
     }
   ],
   "baidu": [
@@ -102,24 +102,24 @@
       "url": "https://www.baidu.com/s?wd=%E7%BB%9D%E5%AF%B9%E7%9A%84%E2%80%9C%E5%A5%B3%E6%B1%89%E5%AD%90%E2%80%9D%E4%BB%BB%E4%B8%8A%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“孩子化疗不要辣” 老板悄悄塞了钱",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%AD%A9%E5%AD%90%E5%8C%96%E7%96%97%E4%B8%8D%E8%A6%81%E8%BE%A3%E2%80%9D+%E8%80%81%E6%9D%BF%E6%82%84%E6%82%84%E5%A1%9E%E4%BA%86%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "存钱重要还是趁年轻看世界重要",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%98%E9%92%B1%E9%87%8D%E8%A6%81%E8%BF%98%E6%98%AF%E8%B6%81%E5%B9%B4%E8%BD%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "今年秋裤可能真的不用穿了",
       "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%A7%8B%E8%A3%A4%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E7%94%A8%E7%A9%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "存钱重要还是趁年轻看世界重要",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%98%E9%92%B1%E9%87%8D%E8%A6%81%E8%BF%98%E6%98%AF%E8%B6%81%E5%B9%B4%E8%BD%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "陈雨菲1-2不敌李美妙止步16强",
-      "url": "https://www.baidu.com/s?wd=%E9%99%88%E9%9B%A8%E8%8F%B21-2%E4%B8%8D%E6%95%8C%E6%9D%8E%E7%BE%8E%E5%A6%99%E6%AD%A2%E6%AD%A516%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "华为阔直板手机",
       "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "那英身材管理好牛",
+      "url": "https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%E5%A5%BD%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "女子婚前收到手搓的2斤重凤冠",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%89%8D%E6%94%B6%E5%88%B0%E6%89%8B%E6%90%93%E7%9A%842%E6%96%A4%E9%87%8D%E5%87%A4%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "《黑神话：钟馗》15分钟视频满屏来了",
@@ -132,10 +132,6 @@
       "url": "https://b23.tv/BV1kS8H6VERt"
     },
     {
-      "title": "我这一生最大的罪，是把人写成了妖……",
-      "url": "https://b23.tv/BV1rHbY6MEB9"
-    },
-    {
       "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
       "url": "https://b23.tv/BV1bM8E6yEYd"
     },
@@ -144,20 +140,24 @@
       "url": "https://b23.tv/BV1BS876oEwP"
     },
     {
-      "title": "【IGN】《黑神话：钟馗》实机演示",
-      "url": "https://b23.tv/BV1SDbZ6sETi"
+      "title": "【独家】时光代理人 第三季 PartOne 第3集 血洗缅挝【8月国创】",
+      "url": "https://b23.tv/BV1bX8u6XEWm"
     },
     {
-      "title": "好专业的煎饼果子来一套",
-      "url": "https://b23.tv/BV18UgK6cEX8"
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "url": "https://b23.tv/BV1rHbY6MEB9"
+    },
+    {
+      "title": "【IGN】《黑神话：钟馗》实机演示",
+      "url": "https://b23.tv/BV1SDbZ6sETi"
     },
     {
       "title": "知道为啥这乐队没主唱了吧",
       "url": "https://b23.tv/BV1vF8n6ZEUz"
     },
     {
-      "title": "我的蚊子生病了，带它去看病",
-      "url": "https://b23.tv/BV1Dx876VEXe"
+      "title": "好专业的煎饼果子来一套",
+      "url": "https://b23.tv/BV18UgK6cEX8"
     },
     {
       "title": "《影之刃零》专场 State of Play 全程回顾",
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "日本旅游业凉了",
+      "title": "小米扫拖机器人损坏百万家具",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,7 +182,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "享界G9发布会",
+      "title": "连续值了5年夜班 只愿你健健康康",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "日本旅游业凉了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,23 +194,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "小米扫拖机器人损坏百万家具",
+      "title": "合肥外卖店 我上网就是为了看这些",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "1100元买宇树200股一度亏4万多",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "和孙颖莎韧劲控场",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "房东发现租客怀孕要求其1周搬走",
+      "title": "蔡徐坤起亚品牌代言人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "黑神话钟馗主角脸模说很兴奋",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "樊振东将亮相杜塞尔多夫发布会",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -224,35 +224,63 @@
       "url": "https://www.toutiao.com/trending/7675005936658071562/"
     },
     {
-      "title": "美国制裁赤根智子 日本网民炸锅",
-      "url": "https://www.toutiao.com/trending/7675698055794019890/"
-    },
-    {
-      "title": "《新闻联播》正在直播",
-      "url": "https://www.toutiao.com/trending/7676012592032173631/"
-    },
-    {
       "title": "女子发现孩子没出地铁强行往车厢挤",
       "url": "https://www.toutiao.com/trending/7675546185725181978/"
+    },
+    {
+      "title": "“绝对的女汉子”任上落马",
+      "url": "https://www.toutiao.com/trending/7676068317874081331/"
+    },
+    {
+      "title": "10后小朋友分享心中最好看的女性",
+      "url": "https://www.toutiao.com/trending/7675926264846696489/"
     },
     {
       "title": "正厅级何雄被查 曾任郑州市市长",
       "url": "https://www.toutiao.com/trending/7676027601470770697/"
     },
     {
-      "title": "青海1分钟内连发2次4级及以上地震",
-      "url": "https://www.toutiao.com/trending/7675500937263464489/"
-    },
-    {
-      "title": "特朗普为何打起“朝鲜牌”",
-      "url": "https://www.toutiao.com/trending/7676045082549554726/"
-    },
-    {
       "title": "中方：欧盟涉华调查构成不当域外管辖",
       "url": "https://www.toutiao.com/trending/7674815405248446500/"
+    },
+    {
+      "title": "女孩极端节食致神经不可逆损伤",
+      "url": "https://www.toutiao.com/trending/7676017247052120127/"
+    },
+    {
+      "title": "朝美领导人接触？外交部：不作评论",
+      "url": "https://www.toutiao.com/trending/7674921759977390134/"
     }
   ],
   "ithome": [
+    {
+      "title": "奕境曾清林谈 X9 新车定价：卖 40 万以上是更轻松的商业选择，但高端科技不该是少数人的特权",
+      "url": "/0/992/328.htm"
+    },
+    {
+      "title": "尝尝千年口碑绿茶：中华老字号“徽六”一级六安瓜片 4 两 30 元 3 期免息",
+      "url": "https://lapin.ithome.com/html/digi/992327.htm"
+    },
+    {
+      "title": "泰坦军团 49 英寸 5K 240Hz 曲面带鱼屏 QD-OLED 显示器上市，售价 5999 元",
+      "url": "/0/992/326.htm"
+    },
+    {
+      "title": "打折还是 MOVA 猛：P70S 活水洗地扫拖机器人 3299 → 999 元 20:00 开抢",
+      "url": "/0/992/083.htm"
+    },
+    {
+      "title": "奕境 X9 旗舰 SUV 订单破 2 万台，官方称预售首日平台承压问题已处理",
+      "url": "/0/992/325.htm"
+    },
+    {
+      "title": "方正推出 15.6 英寸鲲鹏笔记本：赛扬 N5095A 处理器，16+256GB 存储 2799 元",
+      "url": "/0/992/324.htm"
+    },
+    {
+      "title": "Omdia 预测：折叠屏智能手机 2028 年出货量将达 2025 年的 2 倍",
+      "url": "/0/992/323.htm"
+    },
     {
       "title": "DC 独立超英电影《新蝙蝠侠 2》路透画面曝光，全新一代蝙蝠车亮相",
       "url": "/0/992/322.htm"
@@ -264,37 +292,13 @@
     {
       "title": "又要到周五啦：20:00 速领 60 元叠加神券，京东黑五赛博抢鸡蛋",
       "url": "/0/989/428.htm"
-    },
-    {
-      "title": "周末看场电影连炫三袋：抱抱堂焦糖爆米花 4.97 元商超 3 折发车",
-      "url": "https://lapin.ithome.com/html/digi/992320.htm"
-    },
-    {
-      "title": "小米米家智能吸油烟机 3 欧式开售：25m³/min 大吸力，首发 1499 元",
-      "url": "/0/992/319.htm"
-    },
-    {
-      "title": "20:00 限量 699 元：追觅 H20 Ultra 旋锋版洗地机 2 年质保",
-      "url": "/0/992/318.htm"
-    },
-    {
-      "title": "微软重金招聘首席法律工程师，“懂 AI 的律师”最高可获近 28 万美元年薪",
-      "url": "/0/992/317.htm"
-    },
-    {
-      "title": "全球首款阔直板手机首发亮相，曝华为 Pura X View 预计搭载麒麟 9030S 处理器",
-      "url": "/0/992/316.htm"
-    },
-    {
-      "title": "享界 G9 及鸿蒙智行新品发布会一文汇总：华为首款阔直板惊喜亮相，余承东狂甩“四张车牌”",
-      "url": "/0/992/315.htm"
-    },
-    {
-      "title": "森海塞尔 MOMENTUM True Wireless 5 旗舰真无线耳机发布，耳机和充电盒都能更换电池",
-      "url": "/0/992/305.htm"
     }
   ],
   "github": [
+    {
+      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
     {
       "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
@@ -304,36 +308,32 @@
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
-    },
-    {
       "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code"
     },
     {
+      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
       "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack"
     },
     {
-      "title": "VoltAgent/awesome-design-md: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "url": "https://github.com/VoltAgent/awesome-design-md"
+      "title": "Graphify-Labs/graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "url": "https://github.com/Graphify-Labs/graphify"
     },
     {
-      "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    },
-    {
-      "title": "earendil-works/pi: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "url": "https://github.com/earendil-works/pi"
-    },
-    {
-      "title": "deepseek-ai/DeepSeek-R1: 无描述",
-      "url": "https://github.com/deepseek-ai/DeepSeek-R1"
+      "title": "google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "url": "https://github.com/google-gemini/gemini-cli"
     }
   ],
   "huggingface": [
