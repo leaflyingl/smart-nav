@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:47:56.383Z",
+  "updatedAt": "2026-08-23T07:35:42.198Z",
   "sina": [
     {
       "title": "世界人形机器人运动会400米大型组田径决赛：天工队以38.15秒位列第一",
@@ -44,6 +44,26 @@
   ],
   "wallstreet": [
     {
+      "title": "中国石化：上半年净利润256.27亿元，同比增长19.3%。",
+      "url": "https://wallstreetcn.com/lives/3153441"
+    },
+    {
+      "title": "伊朗总统说正全力克服美带来的困难",
+      "url": "https://wallstreetcn.com/lives/3153439"
+    },
+    {
+      "title": "阿里宣布800亿港元新股配售，即获超额认购",
+      "url": "https://wallstreetcn.com/lives/3153438"
+    },
+    {
+      "title": "陈茂波：香港特区政府全方位推动AI落地和普及应用",
+      "url": "https://wallstreetcn.com/lives/3153436"
+    },
+    {
+      "title": "i茅台增加贵州茅台酒产品上午投放时段",
+      "url": "https://wallstreetcn.com/lives/3153434"
+    },
+    {
       "title": "小米：将在明天14点以图文直播形式举办玄戒芯片技术沟通会。届时，芯片负责人朱丹将带来最新进展。",
       "url": "https://wallstreetcn.com/lives/3153433"
     },
@@ -62,71 +82,55 @@
     {
       "title": "蔚来李斌：中国汽车行业正在进入四个新阶段",
       "url": "https://wallstreetcn.com/lives/3153429"
-    },
-    {
-      "title": "魔法原子WRC 2026首发轻工业四足机器人，物理AI驱动三大场景实景落地",
-      "url": "https://wallstreetcn.com/lives/3153428"
-    },
-    {
-      "title": "上纬新材消费级机器人正式开启预订，预计首批发货最早9月",
-      "url": "https://wallstreetcn.com/lives/3153427"
-    },
-    {
-      "title": "匈牙利保克什核电站3号机组恢复发电",
-      "url": "https://wallstreetcn.com/lives/3153425"
-    },
-    {
-      "title": "报道：英伟达客户被告知AI相关涨价幅度超过15%",
-      "url": "https://wallstreetcn.com/lives/3153422"
-    },
-    {
-      "title": "霍尔果斯压气首站累计输气突破6000亿立方米",
-      "url": "https://wallstreetcn.com/lives/3153421"
     }
   ],
   "baidu": [
     {
-      "title": "“饮料大王”卖不动了",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%A5%AE%E6%96%99%E5%A4%A7%E7%8E%8B%E2%80%9D%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "8月鸡蛋因何涨价",
+      "url": "https://www.baidu.com/s?wd=8%E6%9C%88%E9%B8%A1%E8%9B%8B%E5%9B%A0%E4%BD%95%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "韦东奕39.8元练习册已下架",
-      "url": "https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%9C%E5%A5%9539.8%E5%85%83%E7%BB%83%E4%B9%A0%E5%86%8C%E5%B7%B2%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“未成年小鼻嘎”机器人萌翻全场",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%AA%E6%88%90%E5%B9%B4%E5%B0%8F%E9%BC%BB%E5%98%8E%E2%80%9D%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%90%8C%E7%BF%BB%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "本周中国科技再达新里程碑",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%86%8D%E8%BE%BE%E6%96%B0%E9%87%8C%E7%A8%8B%E7%A2%91&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "中国秋意地图来了",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%8B%E6%84%8F%E5%9C%B0%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "多名农民称莫名成法人 被贷千万元",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%86%9C%E6%B0%91%E7%A7%B0%E8%8E%AB%E5%90%8D%E6%88%90%E6%B3%95%E4%BA%BA+%E8%A2%AB%E8%B4%B7%E5%8D%83%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "超强台风沙德尔已睁眼",
+      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E5%B7%B2%E7%9D%81%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "上市公司要求应届生离职、打螺丝2选1",
       "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%A6%81%E6%B1%82%E5%BA%94%E5%B1%8A%E7%94%9F%E7%A6%BB%E8%81%8C%E3%80%81%E6%89%93%E8%9E%BA%E4%B8%9D2%E9%80%891&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "孩子打翻饮料 妈妈第一时间上前拥抱",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%93%E7%BF%BB%E9%A5%AE%E6%96%99+%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8A%E5%89%8D%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "老人进店休息离世店家帮扶遭索赔10万",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%97%E4%BC%91%E6%81%AF%E7%A6%BB%E4%B8%96%E5%BA%97%E5%AE%B6%E5%B8%AE%E6%89%B6%E9%81%AD%E7%B4%A2%E8%B5%9410%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "世界人形机器人运动会",
       "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“甲醛白菜”手法14年前曾被曝光",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E6%89%8B%E6%B3%9514%E5%B9%B4%E5%89%8D%E6%9B%BE%E8%A2%AB%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "女子遭船撞击溺亡 丈夫瘦到脸颊内凹",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E8%88%B9%E6%92%9E%E5%87%BB%E6%BA%BA%E4%BA%A1+%E4%B8%88%E5%A4%AB%E7%98%A6%E5%88%B0%E8%84%B8%E9%A2%8A%E5%86%85%E5%87%B9&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "公务员车库碾死醉汉 被认定过失致死",
-      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%A1%E5%91%98%E8%BD%A6%E5%BA%93%E7%A2%BE%E6%AD%BB%E9%86%89%E6%B1%89+%E8%A2%AB%E8%AE%A4%E5%AE%9A%E8%BF%87%E5%A4%B1%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "合肥“跳预言家”的20年",
+      "url": "https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E2%80%9C%E8%B7%B3%E9%A2%84%E8%A8%80%E5%AE%B6%E2%80%9D%E7%9A%8420%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "台风 三带一",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E+%E4%B8%89%E5%B8%A6%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "空姐给“巨大豆荚”系安全带",
+      "url": "https://www.baidu.com/s?wd=%E7%A9%BA%E5%A7%90%E7%BB%99%E2%80%9C%E5%B7%A8%E5%A4%A7%E8%B1%86%E8%8D%9A%E2%80%9D%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
+    {
+      "title": "\"复活吧！我的（ ）\"",
+      "url": "https://b23.tv/BV1G48M6XEBt"
+    },
     {
       "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
       "url": "https://b23.tv/BV1VH8K67ENH"
@@ -134,10 +138,6 @@
     {
       "title": "我正在烧烤…哦不是..思考..",
       "url": "https://b23.tv/BV1RT816FEYe"
-    },
-    {
-      "title": "\"复活吧！我的（ ）\"",
-      "url": "https://b23.tv/BV1G48M6XEBt"
     },
     {
       "title": "【独家】牧神记 第97集 登基",
@@ -152,16 +152,16 @@
       "url": "https://b23.tv/BV1rHbY6MEB9"
     },
     {
-      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
-      "url": "https://b23.tv/BV1ra8C6NEDh"
+      "title": "原来我是只蚊子！",
+      "url": "https://b23.tv/BV1Br8m6yEaS"
     },
     {
-      "title": "【纪录片TV】大乾乾被撞成两半了……",
-      "url": "https://b23.tv/BV1db8x6VE73"
+      "title": "原创民俗AI短片《槐灯》",
+      "url": "https://b23.tv/BV15B8z61EbV"
     },
     {
-      "title": "全 网 最 骇 人 的 动 画 教 程 4.0",
-      "url": "https://b23.tv/BV1x68y6UESE"
+      "title": "护理：一把斩向死亡的温柔刀",
+      "url": "https://b23.tv/BV1Jv8p6kEJw"
     },
     {
       "title": "【独家】《记忆管理局》第6集 空洞【8月国创】",
@@ -170,15 +170,19 @@
   ],
   "weibo": [
     {
-      "title": "老人进店休息离世店家帮扶遭索赔10万",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "什么时候看到凌玲梗能不笑",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "中国人形机器人跑出加速度",
+      "title": "网红温婉偷税被罚后换号复活",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "处暑撞上出伏这几件事记得做",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "秋天的河南是五彩斑斓的",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,7 +194,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "张智霖儿子担任演唱会吉他手",
+      "title": "韦东奕练习册下架原因",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -198,100 +202,96 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "网红温婉偷税被罚后换号复活",
+      "title": "张智霖儿子担任演唱会吉他手",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "多国印度移民拒签率飙升",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "巫哲回应好帅",
+      "title": "一张成人票困住独自乘车的孩子",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "BBC报道中国人形机器人运动会",
-      "url": "https://www.toutiao.com/trending/7677085636570041906/"
+      "title": "“最害羞”机器人出现了",
+      "url": "https://www.toutiao.com/trending/7677107313030762030/"
     },
     {
-      "title": "普京：在最困难情况下俄仍会举行选举",
-      "url": "https://www.toutiao.com/trending/7677017668641112614/"
+      "title": "官方回应甲醛白菜运输司机称运往宿迁",
+      "url": "https://www.toutiao.com/trending/7677110306706820650/"
     },
     {
-      "title": "中国是世界经济增长的贡献者和稳定锚",
-      "url": "https://www.toutiao.com/trending/7677050885721345545/"
-    },
-    {
-      "title": "老人进店休息离世 店家帮扶遭索赔",
-      "url": "https://www.toutiao.com/trending/7677074107955298346/"
-    },
-    {
-      "title": "直击世界人形机器人运动会",
-      "url": "https://www.toutiao.com/trending/7677107103336500774/"
-    },
-    {
-      "title": "华为Pura X Max销量突破71万台",
-      "url": "https://www.toutiao.com/trending/7676456915718717483/"
-    },
-    {
-      "title": "两男子飞车抢手机2小时后落网",
-      "url": "https://www.toutiao.com/trending/7676674496669483062/"
+      "title": "高技术产业吸引外资同比增长32.7%",
+      "url": "https://www.toutiao.com/trending/7677084819184828452/"
     },
     {
       "title": "胡麟鹏宣布退役",
       "url": "https://www.toutiao.com/trending/7677060472046112262/"
     },
     {
-      "title": "处暑未出伏 科学平稳过初秋",
-      "url": "https://www.toutiao.com/trending/7677033796013637686/"
+      "title": "直击世界人形机器人运动会",
+      "url": "https://www.toutiao.com/trending/7677107103336500774/"
     },
     {
-      "title": "机器人进任意球后学C罗Siu",
-      "url": "https://www.toutiao.com/trending/7676692618839100947/"
+      "title": "7.48元成本卖到598 企业被罚没3.8亿",
+      "url": "https://www.toutiao.com/trending/7677109306596229147/"
+    },
+    {
+      "title": "普京：在最困难情况下俄仍会举行选举",
+      "url": "https://www.toutiao.com/trending/7677017668641112614/"
+    },
+    {
+      "title": "BBC报道中国人形机器人运动会",
+      "url": "https://www.toutiao.com/trending/7677085636570041906/"
+    },
+    {
+      "title": "日本东京震感强烈有人被玻璃划伤",
+      "url": "https://www.toutiao.com/trending/7676467283191562291/"
+    },
+    {
+      "title": "甲状腺最不喜欢的5件事",
+      "url": "https://www.toutiao.com/trending/7676800825323503659/"
     }
   ],
   "ithome": [
     {
-      "title": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人",
-      "url": "/0/993/186.htm"
+      "title": "莲花 ELETRE / EMEYA 900 GOLD 车型 8 月 31 日上市，预售价 92.8 万 / 91.8 万元起",
+      "url": "/0/993/219.htm"
     },
     {
-      "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
-      "url": "/0/993/185.htm"
+      "title": "高弹力吸汗快干，保罗 & 玖纳森玖男士速干 T 恤 2 件 17 元季末清仓",
+      "url": "https://lapin.ithome.com/html/digi/993215.htm"
     },
     {
-      "title": "阿里拟配售 800 亿港元新股，全部投入 AI 建设",
-      "url": "/0/993/184.htm"
+      "title": "iQOO Z11S 手机首销优惠价延长至 8 月 31 日：品牌首款万级大电池、天玑 7500 满血版，1799 元起",
+      "url": "/0/993/213.htm"
     },
     {
-      "title": "东风日产：车主 App 因服务器机房电力故障导致部分功能无法使用，正在抢修",
-      "url": "/0/993/183.htm"
+      "title": "亚马逊 Kindle 电纸书、Fire TV 电视棒等硬件产品涨价，涨幅最高 60%",
+      "url": "/0/993/194.htm"
     },
     {
-      "title": "蔚来李斌称中国汽车行业进入“决赛最残酷阶段”，接下来三五年最后的玩家差不多尘埃落定",
-      "url": "/0/993/182.htm"
+      "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
+      "url": "/0/993/193.htm"
     },
     {
-      "title": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员",
-      "url": "/0/993/181.htm"
+      "title": "黄仁勋两次亲笔签名，英伟达 RTX Pro 6000 Blackwell 显卡拍出 5.7 万美元",
+      "url": "/0/993/192.htm"
     },
     {
-      "title": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能",
-      "url": "/0/993/180.htm"
+      "title": "山灵 CD50 桌面 CD 播放一体机开售：CS43198 DAC、双 SGM8262 运放，1498 元",
+      "url": "/0/993/191.htm"
     },
     {
-      "title": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV",
-      "url": "/0/993/179.htm"
+      "title": "三星 Exynos 2700 工程样片现身 Geekbench，超大核主频达 4.24GHz",
+      "url": "/0/993/189.htm"
     },
     {
-      "title": "内蒙古特产，蒙浓草原酱牛肉 9 两 24.9 元限时秒杀（京东 3 两 19.9 元）",
-      "url": "https://lapin.ithome.com/html/digi/993178.htm"
+      "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+      "url": "/0/993/188.htm"
     },
     {
-      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起",
-      "url": "/0/993/177.htm"
+      "title": "7.8 元 → 2.28 元 / 斤年内闭眼囤好价：超能洗衣液 11 斤 24.9 元送货上门",
+      "url": "https://lapin.ithome.com/html/digi/993190.htm"
     }
   ],
   "github": [
@@ -374,8 +374,8 @@
       "url": "https://huggingface.co/lpiccinelli/unidepth-v2-vitl14"
     },
     {
-      "title": "Model: sentence-transformers/all-mpnet-base-v2",
-      "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2"
+      "title": "Model: Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B"
     }
   ]
 }
