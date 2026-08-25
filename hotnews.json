@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:27:08.883Z",
+  "updatedAt": "2026-08-25T23:51:00.574Z",
   "sina": [
     {
       "title": "小米连发三颗自研芯片 朱丹喊话友商“比一比”",
@@ -8,6 +8,10 @@
     {
       "title": "2026，人形机器人的“新纪录”之年",
       "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipqsyf6416895.shtml"
+    },
+    {
+      "title": "OpenAI自研芯片取得关键突破：响应速度、能效表现击败英伟达GB300",
+      "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipqxhc6292359.shtml"
     },
     {
       "title": "常州通报“星宇股份大规模劝退应届生”:解除107人劳动合同，人力资源总监已被停职处理",
@@ -36,13 +40,25 @@
     {
       "title": "BOSS直聘：2026年第二季度营收23.99亿元，经营利润8.63亿元",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-25/doc-inippvuh9562331.shtml"
-    },
-    {
-      "title": "仰望全系车型亮相成都车展，展示高定工艺与自研技术",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-25/doc-inipprnq5553970.shtml"
     }
   ],
   "wallstreet": [
+    {
+      "title": "日本7月企业服务价格指数同比 3.6%，预期 3.2%，前值 3.2%。",
+      "url": "https://wallstreetcn.com/lives/3154914"
+    },
+    {
+      "title": "日本拟研究区块链结算系统 实现股票和国债24小时交易结算",
+      "url": "https://wallstreetcn.com/lives/3154913"
+    },
+    {
+      "title": "伊朗称霍尔木兹海峡临时航线谅解达成 仅限商船通行",
+      "url": "https://wallstreetcn.com/lives/3154912"
+    },
+    {
+      "title": "中央气象台8月26日6时继续发布台风橙色预警",
+      "url": "https://wallstreetcn.com/lives/3154910"
+    },
     {
       "title": "美国考虑对加拿大的报复采取更多贸易措施，可能包括提高关税和其他贸易行动。",
       "url": "https://wallstreetcn.com/lives/3154908"
@@ -66,22 +82,6 @@
     {
       "title": "报道：韩国总统将会见三星李在镕、现代郑义宣",
       "url": "https://wallstreetcn.com/lives/3154902"
-    },
-    {
-      "title": "生猪价格“磨底”回升 8月以来涨超7.5%",
-      "url": "https://wallstreetcn.com/lives/3154901"
-    },
-    {
-      "title": "投资加码带动业绩释放，电力设备储能产业链迎周期回暖",
-      "url": "https://wallstreetcn.com/lives/3154900"
-    },
-    {
-      "title": "业绩增长添底气，券商中期分红预案纷至沓来",
-      "url": "https://wallstreetcn.com/lives/3154899"
-    },
-    {
-      "title": "周期与科技双线交锋，百亿级私募演绎拉锯战",
-      "url": "https://wallstreetcn.com/lives/3154898"
     }
   ],
   "baidu": [
@@ -98,6 +98,22 @@
       "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E8%B4%AD%E7%A5%A8%E5%92%8C%E6%90%BA%E5%B8%A6%E7%89%A9%E5%93%81%E6%8C%87%E5%8D%97%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
+      "title": "外卖员车祸去世 DNA鉴定儿子非亲生",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96+DNA%E9%89%B4%E5%AE%9A%E5%84%BF%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "《八仙！》再度过海",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%86%8D%E5%BA%A6%E8%BF%87%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "重庆渝中警方：两名行人疑似触电昏迷",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%B8%9D%E4%B8%AD%E8%AD%A6%E6%96%B9%EF%BC%9A%E4%B8%A4%E5%90%8D%E8%A1%8C%E4%BA%BA%E7%96%91%E4%BC%BC%E8%A7%A6%E7%94%B5%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "花2000住希尔顿 腿上出现大片红疹",
+      "url": "https://www.baidu.com/s?wd=%E8%8A%B12000%E4%BD%8F%E5%B8%8C%E5%B0%94%E9%A1%BF+%E8%85%BF%E4%B8%8A%E5%87%BA%E7%8E%B0%E5%A4%A7%E7%89%87%E7%BA%A2%E7%96%B9&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
       "title": "公司批量劝退应届生 江苏常州通报",
       "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E6%89%B9%E9%87%8F%E5%8A%9D%E9%80%80%E5%BA%94%E5%B1%8A%E7%94%9F+%E6%B1%9F%E8%8B%8F%E5%B8%B8%E5%B7%9E%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news"
     },
@@ -106,27 +122,15 @@
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A6%81%E6%AD%A2%E6%AE%B4%E6%89%93%E9%A1%BE%E5%AE%A2+%E9%99%A4%E9%9D%9E%E5%BF%8D%E4%B8%8D%E4%BD%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "30多国宣布：准备向乌克兰派兵",
-      "url": "https://www.baidu.com/s?wd=30%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%87%86%E5%A4%87%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B4%BE%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "瀑布上出现人工喷泉 游客吐槽：太土",
-      "url": "https://www.baidu.com/s?wd=%E7%80%91%E5%B8%83%E4%B8%8A%E5%87%BA%E7%8E%B0%E4%BA%BA%E5%B7%A5%E5%96%B7%E6%B3%89+%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%EF%BC%9A%E5%A4%AA%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "月薪2万因裁员焦虑 每天学到凌晨5点",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E5%9B%A0%E8%A3%81%E5%91%98%E7%84%A6%E8%99%91+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E5%88%B0%E5%87%8C%E6%99%A85%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "贵州中元节震撼场面",
-      "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%AD%E5%85%83%E8%8A%82%E9%9C%87%E6%92%BC%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "辛芷蕾新剧《金色》开播",
-      "url": "https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%96%B0%E5%89%A7%E3%80%8A%E9%87%91%E8%89%B2%E3%80%8B%E5%BC%80%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "美股收盘：英伟达涨2.19%",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A82.19%25&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
+    {
+      "title": "《无限大》定档预告丨27年1月15日全球上线",
+      "url": "https://b23.tv/BV15EhG6qEAg"
+    },
     {
       "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
       "url": "https://b23.tv/BV1oyhM6AETw"
@@ -134,10 +138,6 @@
     {
       "title": "贱谍过家家（8）",
       "url": "https://b23.tv/BV1gLhK6LEcb"
-    },
-    {
-      "title": "《无限大》定档预告丨27年1月15日全球上线",
-      "url": "https://b23.tv/BV15EhG6qEAg"
     },
     {
       "title": "经历四世轮回，只为回到你的身边",
@@ -152,16 +152,16 @@
       "url": "https://b23.tv/BV1AxhK6BE2j"
     },
     {
-      "title": "高中生逃离原生家庭过程（下）",
-      "url": "https://b23.tv/BV1Uy8x6AETG"
-    },
-    {
       "title": "谁能坚持到最后？",
       "url": "https://b23.tv/BV18XhP6GExJ"
     },
     {
-      "title": "【逆天中配】超神人辉夜姬 完整版大电影",
-      "url": "https://b23.tv/BV1v6hP6nE8e"
+      "title": "《昭和米国物语》科隆游戏展实机预告",
+      "url": "https://b23.tv/BV1aUhL6CEBD"
+    },
+    {
+      "title": "高中生逃离原生家庭过程（下）",
+      "url": "https://b23.tv/BV1Uy8x6AETG"
     },
     {
       "title": "全国首测！头文字D主角车，谁最快？",
@@ -182,6 +182,10 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
+      "title": "肖战的鲜奶选择",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "过得好的人最明显的标志",
       "url": "https://weibo.com/hot/undefined"
     },
@@ -194,15 +198,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "网传内蒙古上空飞机飞过散云止雨系谣言",
+      "title": "在嫌疑人住处发现在韩遇害女生遗体",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "这种黑色小飞虫是移动病菌库",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "在嫌疑人住处发现在韩遇害女生遗体",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -212,47 +212,71 @@
   ],
   "toutiao": [
     {
-      "title": "杀害在韩女生嫌疑人曾自称男友报警",
-      "url": "https://www.toutiao.com/trending/7678106156916756006/"
-    },
-    {
-      "title": "“羞辱式”劝退应届生的上市公司致歉",
-      "url": "https://www.toutiao.com/trending/7677968018995007027/"
-    },
-    {
-      "title": "外国游客沉浸式体验“中国酷”",
-      "url": "https://www.toutiao.com/trending/7677603995142225946/"
-    },
-    {
-      "title": "30多国宣布准备向乌派兵",
-      "url": "https://www.toutiao.com/trending/7677267852270583859/"
+      "title": "胖东来许昌新店与老店相隔4公里",
+      "url": "https://www.toutiao.com/trending/7677011223451680810/"
     },
     {
       "title": "少年“自学”考上上海交大姐姐哽咽",
       "url": "https://www.toutiao.com/trending/7677984128369475611/"
     },
     {
+      "title": "外国游客沉浸式体验“中国酷”",
+      "url": "https://www.toutiao.com/trending/7677603995142225946/"
+    },
+    {
+      "title": "“羞辱式”劝退应届生的上市公司致歉",
+      "url": "https://www.toutiao.com/trending/7677968018995007027/"
+    },
+    {
       "title": "A股连续迎来“大肉签”",
       "url": "https://www.toutiao.com/trending/7677928888453988890/"
     },
     {
-      "title": "在韩遇害女生原计划23日回国入职",
-      "url": "https://www.toutiao.com/trending/7677937937215946793/"
+      "title": "美国乡村音乐传奇多莉·帕顿去世",
+      "url": "https://www.toutiao.com/trending/7678106015224562214/"
     },
     {
-      "title": "9月工资发放时间金额或有变化",
-      "url": "https://www.toutiao.com/trending/7677778966694019630/"
+      "title": "大众汽车计划扩大裁员规模至10万人",
+      "url": "https://www.toutiao.com/trending/7677888948789857843/"
     },
     {
-      "title": "央媒评扶老人被索赔：法律不能和稀泥",
-      "url": "https://www.toutiao.com/trending/7677511845232459782/"
+      "title": "官方通报公司被曝批量劝退应届生",
+      "url": "https://www.toutiao.com/trending/7678106688280448558/"
     },
     {
-      "title": "80、90、00后退休时间一览",
-      "url": "https://www.toutiao.com/trending/7677752978062065670/"
+      "title": "曝美中情局局长正在俄罗斯进行会谈",
+      "url": "https://www.toutiao.com/trending/7677981165772472859/"
+    },
+    {
+      "title": "成都蛋烘糕奶奶遭镜头霸凌",
+      "url": "https://www.toutiao.com/trending/7677236121738428435/"
     }
   ],
   "ithome": [
+    {
+      "title": "微软回应必应搜索推广工具争议：不会自动安装，更改设置需用户同意",
+      "url": "/0/994/313.htm"
+    },
+    {
+      "title": "《流放之路 2》1.0 版本将于 12 月 11 日正式上线，新增全新职业 Duelist",
+      "url": "/0/994/312.htm"
+    },
+    {
+      "title": "IT早报 0826：余承东官宣华为新三折叠手机；高通第六代骁龙 8 旗舰 CPU 主频破 5GHz；6999 元起苹果全新 Mac mini 发布；自动驾驶违法由车企担责首次明确...",
+      "url": "/0/994/311.htm"
+    },
+    {
+      "title": "微软盘点 Windows on Arm 进展：英伟达入局，多厂商秋季上线 Arm PC",
+      "url": "/0/994/310.htm"
+    },
+    {
+      "title": "英伟达 RTX Spark 新增支持《Apex 英雄》等 5 款游戏，原生支持 EA Javelin 反作弊系统",
+      "url": "/0/994/309.htm"
+    },
+    {
+      "title": "Steam 喜加一：原价 74 元《微软模拟飞行 2024》游戏数字原声带免费领",
+      "url": "/0/994/308.htm"
+    },
     {
       "title": "Nothing OS 5.0 发布：基于 Android 17 打造，推送计划公布",
       "url": "/0/994/307.htm"
@@ -266,74 +290,8 @@
       "url": "/0/994/305.htm"
     },
     {
-      "title": "斥资 1000 亿美元，SpaceX 拟于路易斯安那建造全球最大火箭发射基地",
-      "url": "/0/994/304.htm"
-    },
-    {
-      "title": "NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能",
-      "url": "/0/994/303.htm"
-    },
-    {
-      "title": "X 发律师函要求关停 Nitter，免登录浏览 X 帖文项目被迫下线",
-      "url": "/0/994/302.htm"
-    },
-    {
-      "title": "V社透露将于 9 月 14 日开启 Steam VR 促销活动，届时有望公布 Steam Frame 头显更多信息",
-      "url": "/0/994/301.htm"
-    },
-    {
-      "title": "安伯尼克 Anbernic RG 55G1 安卓掌机规格曝光：外形酷似任天堂 Switch Lite、搭骁龙 G1 Gen 2 处理器",
-      "url": "/0/994/300.htm"
-    },
-    {
-      "title": "双“绿”联手：雷蛇推出 3 款 XBOX 25 周年纪念版外设",
-      "url": "/0/994/299.htm"
-    },
-    {
-      "title": "苹果 Apple TV+ 原创喜剧《兄弟》定档 9 月 23 日，马修 · 麦康纳和伍迪 · 哈里森联袂主演",
-      "url": "/0/994/298.htm"
-    }
-  ],
-  "github": [
-    {
-      "title": "openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
-      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
-    },
-    {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
-    },
-    {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
-    },
-    {
-      "title": "anthropics/skills: Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills"
+      "title": "京东自营 59.9 元 → 天猫官方 17.9 元：纳爱斯硫磺液体香皂 2 斤大差价",
+      "url": "https://lapin.ithome.com/html/digi/993319.htm"
     }
   ],
   "huggingface": [
