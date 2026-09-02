@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-02T13:48:41.822Z",
+  "updatedAt": "2026-09-02T17:43:39.595Z",
   "sina": [
+    {
+      "title": "追觅将在IFA展示百余款产品，ECHO系列家庭服务机器人将亮相",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqnien1229181.shtml"
+    },
+    {
+      "title": "叶国富喊话名创乐园店业绩要对标泡泡玛特，泡泡玛特暂无回应",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqnawn4575300.shtml"
+    },
     {
       "title": "小米将首次亮相IFA：小米18 Fold真机全球首秀，米家品牌正式进入欧洲",
       "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqnaws2676519.shtml"
@@ -32,56 +40,48 @@
     {
       "title": "伯克希尔CEO阿贝尔：日本债券收益率目前并未对日本商社构成压力",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqu7579893.shtml"
-    },
-    {
-      "title": "伯克希尔CEO阿贝尔：二季度增持后，Alphabet已是AI领域“重要参与者”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqs1308962.shtml"
-    },
-    {
-      "title": "苹果新CEO特努斯时代开启：AI挑战与存储芯片紧缺双重加剧",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqs1299879.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "加拿大央行行长Macklem：通胀上行风险已经增加。",
-      "url": "https://wallstreetcn.com/lives/3159300"
+      "title": "周三（9月2日），美联储隔夜逆回购协议（RRP）使用规模为5.25亿美元（交易对手1家），上个交易日报7.25亿美元。",
+      "url": "https://wallstreetcn.com/lives/3159399"
     },
     {
-      "title": "加拿大央行：通胀上行风险已经增加。",
-      "url": "https://wallstreetcn.com/lives/3159299"
+      "title": "委内瑞拉代总统Rodriguez：今天，我们通过多笔能源协议创造历史。",
+      "url": "https://wallstreetcn.com/lives/3159398"
     },
     {
-      "title": "加拿大央行政策利率 2.25%，预期 2.25%，前值 2.25%。",
-      "url": "https://wallstreetcn.com/lives/3159298"
+      "title": "美国能源部长：与委内瑞拉签署的协议对委内瑞拉人民的和平与繁荣至关重要。",
+      "url": "https://wallstreetcn.com/lives/3159397"
     },
     {
-      "title": "现货黄金日内涨幅达1.0%，报4371.86美元/盎司。",
-      "url": "https://wallstreetcn.com/lives/3159297"
+      "title": "伊朗外交部强烈谴责美军袭击伊朗民用基础设施",
+      "url": "https://wallstreetcn.com/lives/3159396"
     },
     {
-      "title": "俄一架米8直升机在萨哈林迫降",
-      "url": "https://wallstreetcn.com/lives/3159296"
+      "title": "国际铜夜盘收涨0.08%，沪铜收涨0.26%，沪铝收涨0.73%，沪锌收跌0.47%，沪铅收跌0.53%，沪镍收涨1.4",
+      "url": "https://wallstreetcn.com/lives/3159395"
     },
     {
-      "title": "北美科技软件股指数ETF跌1.6%，在美股盘初报104.48美元。",
-      "url": "https://wallstreetcn.com/lives/3159293"
+      "title": "LME期铜收跌59美元，报14216美元/吨。",
+      "url": "https://wallstreetcn.com/lives/3159394"
     },
     {
-      "title": "美股开盘三大指数涨跌不一，道指涨0.37%，标普500指数涨0.09%，纳指跌0.02%。戴尔科技股价上涨12%，创7月",
-      "url": "https://wallstreetcn.com/lives/3159290"
+      "title": "OpenAI的CEO Sam Altman在二十国集团（G20）活动期间会见美国商务部长卢特尼克。",
+      "url": "https://wallstreetcn.com/lives/3159393"
     },
     {
-      "title": "报道：月之暗面向港交所秘密交表，正式启动IPO",
-      "url": "https://wallstreetcn.com/lives/3159289"
+      "title": "据知情人士透露，Barrick考虑将North America Gold的IPO推后至2027年。（彭博）",
+      "url": "https://wallstreetcn.com/lives/3159392"
     },
     {
-      "title": "标普500指数高开3.11点，涨幅0.04%，报7634.58点；",
-      "url": "https://wallstreetcn.com/lives/3159288"
+      "title": "美国铸币局正式推出印有特朗普头像的1美元硬币",
+      "url": "https://wallstreetcn.com/lives/3159391"
     },
     {
-      "title": "美元指数短线下挫，日内跌0.1%，报99.563。",
-      "url": "https://wallstreetcn.com/lives/3159285"
+      "title": "周三（9月2日）欧市尾盘，ICE英国天然气期货涨2.17%，TTF基准荷兰天然气期货涨0.09%，ICE欧盟碳排放交易许",
+      "url": "https://wallstreetcn.com/lives/3159390"
     }
   ],
   "baidu": [
@@ -90,40 +90,40 @@
       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E6%95%99%E5%88%9D%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "房价会上涨吗",
-      "url": "https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E4%BC%9A%E4%B8%8A%E6%B6%A8%E5%90%97&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“口袋空调”卖爆了",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A3%E8%A2%8B%E7%A9%BA%E8%B0%83%E2%80%9D%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "读懂这个“50.9%”的分量",
       "url": "https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E8%BF%99%E4%B8%AA%E2%80%9C50.9%25%E2%80%9D%E7%9A%84%E5%88%86%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "美国地勤暴力损坏中国飞机？国航回应",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9C%B0%E5%8B%A4%E6%9A%B4%E5%8A%9B%E6%8D%9F%E5%9D%8F%E4%B8%AD%E5%9B%BD%E9%A3%9E%E6%9C%BA%EF%BC%9F%E5%9B%BD%E8%88%AA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "重生后的沙德尔即将180°大转向",
-      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%94%9F%E5%90%8E%E7%9A%84%E6%B2%99%E5%BE%B7%E5%B0%94%E5%8D%B3%E5%B0%86180%C2%B0%E5%A4%A7%E8%BD%AC%E5%90%91&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "告别机顶盒",
       "url": "https://www.baidu.com/s?wd=%E5%91%8A%E5%88%AB%E6%9C%BA%E9%A1%B6%E7%9B%92&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "手机涨价以为会疯抢结果询价都没人",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BB%A5%E4%B8%BA%E4%BC%9A%E7%96%AF%E6%8A%A2%E7%BB%93%E6%9E%9C%E8%AF%A2%E4%BB%B7%E9%83%BD%E6%B2%A1%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "人教版语文教材新增这篇课文",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%95%99%E7%89%88%E8%AF%AD%E6%96%87%E6%95%99%E6%9D%90%E6%96%B0%E5%A2%9E%E8%BF%99%E7%AF%87%E8%AF%BE%E6%96%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "泉州一墓园突然坍塌 不少坟墓被毁",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%A2%93%E5%9B%AD%E7%AA%81%E7%84%B6%E5%9D%8D%E5%A1%8C+%E4%B8%8D%E5%B0%91%E5%9D%9F%E5%A2%93%E8%A2%AB%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "吉隆泥石流灾害发现遗物847件",
+      "url": "https://www.baidu.com/s?wd=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8F%91%E7%8E%B0%E9%81%97%E7%89%A9847%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "情况又变 35岁成香饽饽了",
-      "url": "https://www.baidu.com/s?wd=%E6%83%85%E5%86%B5%E5%8F%88%E5%8F%98+35%E5%B2%81%E6%88%90%E9%A6%99%E9%A5%BD%E9%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "为继承母亲手机号 姐弟三人打官司",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E7%BB%A7%E6%89%BF%E6%AF%8D%E4%BA%B2%E6%89%8B%E6%9C%BA%E5%8F%B7+%E5%A7%90%E5%BC%9F%E4%B8%89%E4%BA%BA%E6%89%93%E5%AE%98%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "原来这么多年眼药水都滴错了",
-      "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E7%9C%BC%E8%8D%AF%E6%B0%B4%E9%83%BD%E6%BB%B4%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "李月汝因遗失护照落选女篮大名单",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%9C%88%E6%B1%9D%E5%9B%A0%E9%81%97%E5%A4%B1%E6%8A%A4%E7%85%A7%E8%90%BD%E9%80%89%E5%A5%B3%E7%AF%AE%E5%A4%A7%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "曹骏 断层第一",
+      "url": "https://www.baidu.com/s?wd=%E6%9B%B9%E9%AA%8F+%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "仿生机器人女性偏多",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%B3%E6%80%A7%E5%81%8F%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -132,45 +132,45 @@
       "url": "https://b23.tv/BV1Este6wExx"
     },
     {
-      "title": "直到赛前..我都没想到当教练还得出COS啊???🥹 【bilibilionly同人扶持计划】",
-      "url": "https://b23.tv/BV13QtJ67Eo1"
+      "title": "一个外挂100块，从零挑战四款FPS，会遇到多少挂？",
+      "url": "https://b23.tv/BV1p3t36kEEj"
     },
     {
-      "title": "“用最温柔的方式，体面的告别了这个世界”｜听歌/小曲",
-      "url": "https://b23.tv/BV1P4th6PE81"
+      "title": "这首歌改变了我的人生，并带我走进了中国这个美丽的世界。",
+      "url": "https://b23.tv/BV1vQ4Q6rEFR"
     },
     {
-      "title": "“什么叫程心的威慑度是100%？”",
-      "url": "https://b23.tv/BV1p5t366EuM"
-    },
-    {
-      "title": "炊哥生日加更一期爆蛋炒饭",
-      "url": "https://b23.tv/BV11XtV6HEHc"
-    },
-    {
-      "title": "带华为阔直板出门是什么体验【最难绷的一集】",
-      "url": "https://b23.tv/BV1RRtA6gEZT"
+      "title": "我是怎么说服我爸妈跟我一起吃预制菜的？",
+      "url": "https://b23.tv/BV1RgtG6wEAE"
     },
     {
       "title": "极限挑战——时光大桥",
       "url": "https://b23.tv/BV1BjtE6HExq"
     },
     {
-      "title": "《明日方舟》干员「结城理」技能展示PV",
-      "url": "https://b23.tv/BV1RhtV6iEt3"
+      "title": "“什么叫程心的威慑度是100%？”",
+      "url": "https://b23.tv/BV1p5t366EuM"
     },
     {
-      "title": "把公司当成主题乐园",
-      "url": "https://b23.tv/BV1n1tA67EsT"
+      "title": "每 天 一 遍 🔥 烦 恼 拜 拜！",
+      "url": "https://b23.tv/BV13mt76GEfr"
     },
     {
-      "title": "连英语人都发不明白uygur这个词的音",
-      "url": "https://b23.tv/BV1Datu6JEEi"
+      "title": "韩语版《朋友的酒》【韩国大叔Trot版】（空城计の小曲）",
+      "url": "https://b23.tv/BV1pqtG6CE59"
+    },
+    {
+      "title": "我们进入西藏吉隆救援核心区，中国安能24小时轮班抢通生命通道",
+      "url": "https://b23.tv/BV1V2tJ6DEfH"
+    },
+    {
+      "title": "“用最温柔的方式，体面的告别了这个世界”｜听歌/小曲",
+      "url": "https://b23.tv/BV1P4th6PE81"
     }
   ],
   "weibo": [
     {
-      "title": "吉隆泥石流遇难21人失联541人",
+      "title": "家长在班级群自报干部身份",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -186,27 +186,27 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "富爸爸穷爸爸作者自曝负债12亿美元",
+      "title": "李月汝护照遗失缺席世界杯",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "直观感受到长期大量阅读的好处",
+      "title": "吉隆泥石流遇难21人失联541人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "HLE让二追三T1",
+      "title": "好讨厌需要靠争抢来的东西",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "吾恩见不得粉丝为我难过",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "张雪惊讶97岁李锦记掌门人喝冰可乐",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "花少4开始一个杨幂结束七个杨幂",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "吉隆泥石流灾区发现遗物847件",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "理想发布会",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -216,82 +216,82 @@
       "url": "https://www.toutiao.com/trending/7680517478992219689/"
     },
     {
-      "title": "“梅姨”被提起公诉",
-      "url": "https://www.toutiao.com/trending/7680902764173459497/"
+      "title": "国台办回应郑丽文向西藏灾区捐款",
+      "url": "https://www.toutiao.com/trending/7680517478992186921/"
     },
     {
       "title": "开学季，这份安全手册请查收",
       "url": "https://www.toutiao.com/trending/7680910961741418034/"
     },
     {
-      "title": "国台办回应郑丽文向西藏灾区捐款",
-      "url": "https://www.toutiao.com/trending/7680517478992186921/"
+      "title": "“梅姨”被提起公诉",
+      "url": "https://www.toutiao.com/trending/7680902764173459497/"
     },
     {
       "title": "吉隆泥石流致21人遇难541人失联",
       "url": "https://www.toutiao.com/trending/7680492476662054954/"
     },
     {
-      "title": "伊朗：4名士兵在美军袭击中死亡",
-      "url": "https://www.toutiao.com/trending/7680509153680556086/"
+      "title": "专家：抓住HPV疫苗接种“黄金窗口”",
+      "url": "https://www.toutiao.com/trending/7680160806004850738/"
     },
     {
-      "title": "妈妈火车站为服役12年儿子找姻缘",
-      "url": "https://www.toutiao.com/trending/7680716132311089188/"
+      "title": "业内：大A正从互联网大厂偷偷挖公关",
+      "url": "https://www.toutiao.com/trending/7680936255873355283/"
     },
     {
-      "title": "《富爸爸穷爸爸》作者称负债12亿美元",
-      "url": "https://www.toutiao.com/trending/7680808138097869362/"
+      "title": "吉隆口岸泥石流堆积物最高达16米",
+      "url": "https://www.toutiao.com/trending/7680453390819659305/"
     },
     {
-      "title": "暴雨影响福建多地紧急停课",
-      "url": "https://www.toutiao.com/trending/7680856523513269770/"
+      "title": "媒体：地方税的最大税种来了",
+      "url": "https://www.toutiao.com/trending/7680212511949848617/"
     },
     {
-      "title": "男子飙车炸街被交警上门查获",
-      "url": "https://www.toutiao.com/trending/7680767253969682482/"
+      "title": "安世半导体在华21亿资产被冻结",
+      "url": "https://www.toutiao.com/trending/7680876169931001386/"
     }
   ],
   "ithome": [
     {
-      "title": "微软证实 Xbox 发生大规模服务中断，多平台账号登录受影响",
-      "url": "/0/997/669.htm"
+      "title": "谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护",
+      "url": "/0/997/708.htm"
     },
     {
-      "title": "美光探索近 GPU NAND 闪存，可支撑更大规模 AI 模型",
-      "url": "/0/997/668.htm"
+      "title": "森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版首销，2399 元",
+      "url": "/0/997/707.htm"
     },
     {
-      "title": "研究发现：AI 客服“更像人”未必带来更佳体验",
-      "url": "/0/997/667.htm"
+      "title": "抛弃红帽生态，欧洲核子研究组织（CERN）转投 Debian 系统",
+      "url": "/0/997/706.htm"
     },
     {
-      "title": "【限量补货】五仁才叫月饼嘛：桃李 1.6 斤月饼礼盒 19 元冲量（京东 64.9 元）",
-      "url": "https://lapin.ithome.com/html/digi/997386.htm"
+      "title": "淘金币大额补贴：香港美心流心奶黄月饼 8 枚 258 元发车（日常 325 元）",
+      "url": "https://lapin.ithome.com/html/digi/997679.htm"
     },
     {
-      "title": "网易云音乐鸿蒙尝鲜内测版 App 获 9.5.82 升级，优化后台播放、音频切换等",
-      "url": "/0/997/666.htm"
+      "title": "神谷英树：游戏能否真正保存，比“实体版还是数字版”更重要",
+      "url": "/0/997/705.htm"
     },
     {
-      "title": "英伟达 CEO 黄仁勋呼吁 G20 成员国加快发展、应用 AI，以促进经济增长",
-      "url": "/0/997/665.htm"
+      "title": "黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查",
+      "url": "/0/997/704.htm"
     },
     {
-      "title": "299 元：ANBERNIC 安伯尼克 RG 35 竖版掌机开售，RK3326 芯片、3.5 寸屏幕",
-      "url": "/0/997/664.htm"
+      "title": "大众汽车重组计划曝光：“激进”而“痛苦”，4 家德国工厂、数万名员工或危在旦夕",
+      "url": "/0/997/703.htm"
     },
     {
-      "title": "高通披露新一代 Adreno GPU 细节：矩阵核心强化 AI 算力，有望进一步改善画面升频效果",
-      "url": "/0/997/663.htm"
+      "title": "谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景",
+      "url": "/0/997/702.htm"
     },
     {
-      "title": "倒数 2 小时：海底捞内蒙羔羊肉卷 28 元 / 斤京东冲量，原切无添加",
-      "url": "https://lapin.ithome.com/html/digi/997418.htm"
+      "title": "Adobe 将 Photoshop、Illustrator 等工具接入 Slack 协作平台",
+      "url": "/0/997/701.htm"
     },
     {
-      "title": "中国科学院青岛能源所开发出新型高容量与强选择性海水提铀材料",
-      "url": "/0/997/662.htm"
+      "title": "超万吨级国产豪华邮轮“梦幻一号”将落地香港，成为全新海上名片",
+      "url": "/0/997/690.htm"
     }
   ],
   "github": [
