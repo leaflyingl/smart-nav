@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-09-01T22:28:05.775Z",
+  "updatedAt": "2026-09-02T00:27:55.285Z",
   "sina": [
+    {
+      "title": "戴尔科技集团：2027 财年第二财季营收470亿美元，同比增长 58%",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-09-02/doc-iniqkvce1255538.shtml"
+    },
     {
       "title": "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值",
       "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml"
@@ -36,94 +40,90 @@
     {
       "title": "睿尔曼智能“扎根”朝阳，将推动“真干活机器人”规模化落地",
       "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqipiu1598342.shtml"
-    },
-    {
-      "title": "100元报销必须王兴兴亲自审批？宇树回应：很多内容不实，切勿当真",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqihzt8150823.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "美国财长贝森特：日本应该停止再通胀，安倍经济学结束了。",
-      "url": "https://wallstreetcn.com/lives/3158822"
+      "title": "日本央行行长植田和男：需要更加关注物价上行风险。",
+      "url": "https://wallstreetcn.com/lives/3158880"
     },
     {
-      "title": "不爱“绿鞋”爱“入通”，港股IPO涌现新潮流",
-      "url": "https://wallstreetcn.com/lives/3158821"
+      "title": "日本央行行长植田和男：与美联储主席沃什进行了富有成效的讨论，无法透露与沃什讨论的具体内容。",
+      "url": "https://wallstreetcn.com/lives/3158879"
     },
     {
-      "title": "美国财长贝森特：AI开支最终将产生反通胀效应。",
-      "url": "https://wallstreetcn.com/lives/3158819"
+      "title": "韩国央行：9月通胀率将回落，但核心通胀料续呈上升趋势。",
+      "url": "https://wallstreetcn.com/lives/3158878"
     },
     {
-      "title": "并购重组市场活跃度稳步提升，交易逻辑转向产业价值整合",
-      "url": "https://wallstreetcn.com/lives/3158818"
+      "title": "英伟达本周即将达成以近140亿美元收购Hugging Face的交易。（彭博）",
+      "url": "https://wallstreetcn.com/lives/3158877"
     },
     {
-      "title": "加密货币交易所Coinbase的联合创始人Fred Ehrsam寻求在委内瑞拉获得至少三个油田。",
-      "url": "https://wallstreetcn.com/lives/3158817"
+      "title": "进出口行发行1年期债券，规模20亿元，发行利率0.0000%，预期0.0000%，投标倍数1.00倍，边际倍数1.00倍",
+      "url": "https://wallstreetcn.com/lives/3158876"
     },
     {
-      "title": "个人持有ETF比例半年跃升至43%",
-      "url": "https://wallstreetcn.com/lives/3158816"
+      "title": "日本财务大臣片山皋月：与美联储主席沃什进行了30分钟的谈话。",
+      "url": "https://wallstreetcn.com/lives/3158875"
     },
     {
-      "title": "美国电网运营巨头PJM Interconnection LLC将一级电网应急警报状态延长至9月2日。",
-      "url": "https://wallstreetcn.com/lives/3158815"
+      "title": "日本央行行长植田和男：近期的日本国债收益率上升与全球收益率趋势一致。",
+      "url": "https://wallstreetcn.com/lives/3158874"
     },
     {
-      "title": "美国财长贝森特：伊朗并没有掌控（霍尔木兹）海峡。",
-      "url": "https://wallstreetcn.com/lives/3158814"
+      "title": "秘鲁外交部9月1日发布公报，宣布断绝与伊朗的外交关系。（新华社）",
+      "url": "https://wallstreetcn.com/lives/3158873"
     },
     {
-      "title": "美国财长贝森特：能源价格偏高是暂时的，它们将下跌。",
-      "url": "https://wallstreetcn.com/lives/3158812"
+      "title": "日本财务大臣片山皋月：在G20会议上无人对日本的财政状况表示担忧。",
+      "url": "https://wallstreetcn.com/lives/3158872"
     },
     {
-      "title": "美国财长贝森特谈及债券收益率，声称：最重要的是（实现）更高的增长速度。",
-      "url": "https://wallstreetcn.com/lives/3158811"
+      "title": "俄否认莱比锡机场袭击指控 称德方加剧紧张局势",
+      "url": "https://wallstreetcn.com/lives/3158871"
     }
   ],
   "baidu": [
     {
-      "title": "华为、小米、荣耀回应涨价",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E3%80%81%E5%B0%8F%E7%B1%B3%E3%80%81%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "美国银行副总裁在时报广场被刺身亡",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%89%AF%E6%80%BB%E8%A3%81%E5%9C%A8%E6%97%B6%E6%8A%A5%E5%B9%BF%E5%9C%BA%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "手机一夜涨价！赶紧下手还是等等",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%80%E5%A4%9C%E6%B6%A8%E4%BB%B7%EF%BC%81%E8%B5%B6%E7%B4%A7%E4%B8%8B%E6%89%8B%E8%BF%98%E6%98%AF%E7%AD%89%E7%AD%89&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "秘鲁宣布与伊朗断绝外交关系",
+      "url": "https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%96%AD%E7%BB%9D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "救援救援！再难也要继续",
       "url": "https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E6%95%91%E6%8F%B4%EF%BC%81%E5%86%8D%E9%9A%BE%E4%B9%9F%E8%A6%81%E7%BB%A7%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "人民日报：综艺节目不能“拍完就走”",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E4%B8%8D%E8%83%BD%E2%80%9C%E6%8B%8D%E5%AE%8C%E5%B0%B1%E8%B5%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "金价下跌 油价大涨",
+      "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "于东来痛批明星扎堆直播带货",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E7%97%9B%E6%89%B9%E6%98%8E%E6%98%9F%E6%89%8E%E5%A0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "伊朗多地传出爆炸声",
+      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "中国制造的“机器鸭”卖断货",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E2%80%9C%E6%9C%BA%E5%99%A8%E9%B8%AD%E2%80%9D%E5%8D%96%E6%96%AD%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "男子摸狮子被咬：听到嘶吼没当回事",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%91%B8%E7%8B%AE%E5%AD%90%E8%A2%AB%E5%92%AC%EF%BC%9A%E5%90%AC%E5%88%B0%E5%98%B6%E5%90%BC%E6%B2%A1%E5%BD%93%E5%9B%9E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "校方回应1个班级超80人",
-      "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%941%E4%B8%AA%E7%8F%AD%E7%BA%A7%E8%B6%8580%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "丁俊晖4比0横扫奥沙利文",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%81%E4%BF%8A%E6%99%964%E6%AF%940%E6%A8%AA%E6%89%AB%E5%A5%A5%E6%B2%99%E5%88%A9%E6%96%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "深圳校服真香",
-      "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D%E7%9C%9F%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "搜救犬在吉隆口岸搜救累到趴地",
+      "url": "https://www.baidu.com/s?wd=%E6%90%9C%E6%95%91%E7%8A%AC%E5%9C%A8%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E6%90%9C%E6%95%91%E7%B4%AF%E5%88%B0%E8%B6%B4%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "顶流“傻鸟”承包了全网笑点",
-      "url": "https://www.baidu.com/s?wd=%E9%A1%B6%E6%B5%81%E2%80%9C%E5%82%BB%E9%B8%9F%E2%80%9D%E6%89%BF%E5%8C%85%E4%BA%86%E5%85%A8%E7%BD%91%E7%AC%91%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "找了29年的人已离世24年男子崩溃大哭",
+      "url": "https://www.baidu.com/s?wd=%E6%89%BE%E4%BA%8629%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%A6%BB%E4%B8%9624%E5%B9%B4%E7%94%B7%E5%AD%90%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "唐国强朗诵《出师表》 演绎临表涕零",
-      "url": "https://www.baidu.com/s?wd=%E5%94%90%E5%9B%BD%E5%BC%BA%E6%9C%97%E8%AF%B5%E3%80%8A%E5%87%BA%E5%B8%88%E8%A1%A8%E3%80%8B+%E6%BC%94%E7%BB%8E%E4%B8%B4%E8%A1%A8%E6%B6%95%E9%9B%B6&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "81年前的今天 日本签署投降书",
+      "url": "https://www.baidu.com/s?wd=81%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9+%E6%97%A5%E6%9C%AC%E7%AD%BE%E7%BD%B2%E6%8A%95%E9%99%8D%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -132,61 +132,69 @@
       "url": "https://b23.tv/BV1a3th65EQb"
     },
     {
-      "title": "【何同学】库克时代",
-      "url": "https://b23.tv/BV1G7tG6tEwL"
-    },
-    {
-      "title": "这也能装？给车内塞一套工作站！小米澎程N90 Max用车体验！",
-      "url": "https://b23.tv/BV1k2t86hEuD"
-    },
-    {
-      "title": "【魔女养成计划6】当“中国制造”出现在幻想世界里，嘿嘿 【up动画】",
-      "url": "https://b23.tv/BV1BXjA6HEQ7"
+      "title": "绝活",
+      "url": "https://b23.tv/BV1GStg6oEQe"
     },
     {
       "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
       "url": "https://b23.tv/BV1BLt86QECJ"
     },
     {
-      "title": "有市无价再创记录！世界最大顶级黄油蟹与巨型松茸的完美邂逅！鱼子酱只配当咸菜？！",
-      "url": "https://b23.tv/BV1ZJtu6tEyd"
+      "title": "【蕾米埃尔】：入木三分，原来是字面意思？",
+      "url": "https://b23.tv/BV1bLth6rE1T"
     },
     {
       "title": "来这吃牛肉，格局和肚子都大了…",
       "url": "https://b23.tv/BV1yF8h6BEWL"
     },
     {
-      "title": "绝活",
-      "url": "https://b23.tv/BV1GStg6oEQe"
+      "title": "【何同学】库克时代",
+      "url": "https://b23.tv/BV1G7tG6tEwL"
     },
     {
-      "title": "三年之期已到，恭迎世一上归位！【第6集】",
-      "url": "https://b23.tv/BV1eHt86mErz"
+      "title": "日语版《朋友的酒》citypop remix（空城计の小曲）",
+      "url": "https://b23.tv/BV1AvtW6yEan"
     },
     {
-      "title": "开疆拓土特朗普，可算美国总统GOAT？",
-      "url": "https://b23.tv/BV1n5t366E6q"
+      "title": "“我现在被撞了，你意思是我活该吗？”女子骑电动自行车横穿机动车道，交警：全责！",
+      "url": "https://b23.tv/BV15bt36cERX"
+    },
+    {
+      "title": "为了测试这台7座车，我们找来了最难伺候的6种人！",
+      "url": "https://b23.tv/BV17Jta6oEyE"
+    },
+    {
+      "title": "第二集。",
+      "url": "https://b23.tv/BV1xWtg6yEob"
     }
   ],
   "weibo": [
     {
-      "title": "手机涨价 卖不动",
+      "title": "老款手机集体涨价",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "张一山演技",
+      "title": "曝花少2没有母带了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "上合示范区释放区域经贸合作新动能",
+      "title": "吉隆口岸上游堰塞湖已完全泄洪",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "苹果CEO特努斯入驻微博",
+      "title": "花少2被爆料大量未播细节",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "那个用防窥屏的朋友",
+      "title": "曼城1.46亿欧元签下恩佐",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "深圳校服火了背后是教育边界问题",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "美国银行副总裁时代广场被刺身亡",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -194,104 +202,96 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "于适且初洗护发代言人",
+      "title": "美国遭遇股债汇三杀",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "才知道老一辈做饭比我们更狠",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "花少2分析",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "哪一刻觉得大家拼命卷的东西毫无意义",
+      "title": "早春晴朗第九集抽烟镜头被删了",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "华东地区发现特大铜金矿有何影响",
-      "url": "https://www.toutiao.com/trending/7680480074214166059/"
+      "title": "深圳校服为何让全网感叹真香",
+      "url": "https://www.toutiao.com/trending/7680071437759139391/"
     },
     {
-      "title": "吉隆救援为何不直接炸出泄流通道",
-      "url": "https://www.toutiao.com/trending/7679797932559797802/"
+      "title": "大叔2600元买空调发现是8年前产品",
+      "url": "https://www.toutiao.com/trending/7679731603392577542/"
     },
     {
       "title": "透视暑期消费新变化",
       "url": "https://www.toutiao.com/trending/7680087621669994538/"
     },
     {
-      "title": "大爷遛鱼4小时钓起50斤大青鱼",
-      "url": "https://www.toutiao.com/trending/7679782788736155690/"
+      "title": "男子12年光荣退伍感谢父母妻子支持",
+      "url": "https://www.toutiao.com/trending/7680473780242268201/"
     },
     {
-      "title": "山东一小学新生古风名字惊艳亮相",
-      "url": "https://www.toutiao.com/trending/7680454632263385107/"
-    },
-    {
-      "title": "女生穿高跟鞋机场捧花接退伍男友",
-      "url": "https://www.toutiao.com/trending/7680473087791464486/"
+      "title": "32岁美国银行副总裁时代广场被刺身亡",
+      "url": "https://www.toutiao.com/trending/7680610446210711615/"
     },
     {
       "title": "有银行称办40年房贷需35岁以下",
       "url": "https://www.toutiao.com/trending/7680397088559562806/"
     },
     {
-      "title": "20后入学家长年龄相差近30岁",
-      "url": "https://www.toutiao.com/trending/7680415989095468553/"
+      "title": "退伍老兵回家 父亲举着横幅接站",
+      "url": "https://www.toutiao.com/trending/7680050072580587530/"
     },
     {
-      "title": "女孩起夜如厕误把电视柜当马桶坐塌",
-      "url": "https://www.toutiao.com/trending/7680139506997002278/"
+      "title": "丁俊晖4-0横扫肖恩·奥沙利文",
+      "url": "https://www.toutiao.com/trending/7680708605158379044/"
     },
     {
-      "title": "泰女子因欠钱被酒吧经理当众剃光头",
-      "url": "https://www.toutiao.com/trending/7680024425010987027/"
+      "title": "尼泊尔口岸一侧多个村镇不复存在",
+      "url": "https://www.toutiao.com/trending/7680517478992055849/"
+    },
+    {
+      "title": "苹果新CEO：秋季发布会必将惊艳四座",
+      "url": "https://www.toutiao.com/trending/7680106093347864582/"
     }
   ],
   "ithome": [
     {
-      "title": "戴尔 2027 财年半年报归母净利润 75.71 亿美元，同比增长 256%",
-      "url": "/0/997/191.htm"
+      "title": "Meta 发布首个实时音频感知 AI 模型，支持 20 余人分轨转写",
+      "url": "/0/997/218.htm"
     },
     {
-      "title": "2026 年 8 月汽车销量 / 交付榜出炉：比亚迪超 44 万辆稳居榜首，零跑继续断层领跑新势力",
-      "url": "/0/997/189.htm"
+      "title": "奥尔特曼不喜欢智能眼镜：和戴着摄像机的人讲话很不舒服，Meta 扎克伯克不用担心 OpenAI 来抢生意",
+      "url": "/0/997/217.htm"
     },
     {
-      "title": "2026 年 8 月汽车销量 / 交付汇总（持续更新）：长安汽车 21.88 万辆",
-      "url": "/0/996/723.htm"
+      "title": "江汽集团：尊界 S800 连续 10 个月居百万豪车销冠，累计交付新车本月突破 2 万台",
+      "url": "/0/997/216.htm"
     },
     {
-      "title": "夜半还在刷手机：京造 97% Omega‑3 鱼油 60 粒 111 元，每天 1300mg 特含 DPA",
-      "url": "https://lapin.ithome.com/html/digi/997174.htm"
+      "title": "吉利银河 TT 车型 9 月 10 日上市：定位中大型纯电轿跑，预售 14.59 万元起",
+      "url": "/0/997/215.htm"
     },
     {
-      "title": "长安汽车 8 月交付 21.88 万辆，海外市场 9.24 万辆连续 7 个月同比大涨",
-      "url": "/0/997/188.htm"
+      "title": "最贴合你的耳朵：苹果专利探索 3D 编织定制 AirPods 耳机",
+      "url": "/0/997/214.htm"
     },
     {
-      "title": "苹果新任 CEO 特努斯入驻微博、X 平台，首条博文向网友问好",
-      "url": "/0/997/187.htm"
+      "title": "告别多遥控器时代：中国广电首次集采一体化电视适配器，进入全国规模部署实施阶段",
+      "url": "/0/997/213.htm"
     },
     {
-      "title": "马斯克：预计 AI 将令全球经济规模增加约 20%-30%",
-      "url": "/0/997/186.htm"
+      "title": "Steam 2026 年 8 月软硬件调查：Win11 份额超 70%，大内存、高显存占比提升",
+      "url": "/0/997/211.htm"
     },
     {
-      "title": "高通跃龙 Q-2390、IQ-2390 处理器发布：面向消费级物联网等领域，预计 2027 年初面市",
-      "url": "/0/997/185.htm"
+      "title": "iPhone / iPad 版火狐 Firefox 浏览器现内置广告拦截器",
+      "url": "/0/997/212.htm"
     },
     {
-      "title": "消息称 SpaceX 数据中心出现工程、稳定性问题，马斯克为此换掉多名建设团队高管",
-      "url": "/0/997/184.htm"
+      "title": "IT早报 0902：接替库克，苹果新 CEO 特努斯正式上任；车企 8 月销量 / 交付榜出炉；Anthropic 发布 Fable 5.1；大众针对星宇股份启动专项调查...",
+      "url": "/0/997/210.htm"
     },
     {
-      "title": "驰为推出 NeoBook 笔记本：酷睿 3 100U 处理器，内存硬盘可升级",
-      "url": "/0/997/183.htm"
+      "title": "雷蛇灵猫 Razer Prio 可折叠游戏手柄发布：支持 7 英寸内手机，国行 799 元",
+      "url": "/0/997/209.htm"
     }
   ],
   "github": [
