@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T15:02:06.752Z",
+  "updatedAt": "2026-09-05T17:28:57.039Z",
   "sina": [
     {
       "title": "对话复宏汉霖朱俊：AI不只是效率工具，还将成为重塑新药研发的决定性力量",
@@ -44,6 +44,10 @@
   ],
   "wallstreet": [
     {
+      "title": "俄称击中一艘载有西方国家向乌提供军事物资的干货船",
+      "url": "https://wallstreetcn.com/lives/3160904"
+    },
+    {
       "title": "美军袭击三艘伊朗油轮",
       "url": "https://wallstreetcn.com/lives/3160902"
     },
@@ -78,10 +82,6 @@
     {
       "title": "安徽省委书记梁言顺调研核聚变能发展并主持召开座谈会",
       "url": "https://wallstreetcn.com/lives/3160892"
-    },
-    {
-      "title": "江西遂川通报泥石流灾害情况：失联11人身份基本确认",
-      "url": "https://wallstreetcn.com/lives/3160891"
     }
   ],
   "baidu": [
@@ -106,24 +106,24 @@
       "url": "https://www.baidu.com/s?wd=%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E5%AE%B6%E9%97%A8%E5%8F%A3%E2%80%9C%E8%9B%87%E7%B2%BE%E2%80%9D%E7%9C%9F%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "正颌手术被做反女孩：已达成和解",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%A5%B3%E5%AD%A9%EF%BC%9A%E5%B7%B2%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "DeepSeek被曝将采购16万颗华为芯片",
-      "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E5%B0%86%E9%87%87%E8%B4%AD16%E4%B8%87%E9%A2%97%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
       "title": "阿里巴巴前高管在美失踪后确认身亡",
       "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%89%8D%E9%AB%98%E7%AE%A1%E5%9C%A8%E7%BE%8E%E5%A4%B1%E8%B8%AA%E5%90%8E%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "吴彦祖上海站撞车退赛",
-      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E4%B8%8A%E6%B5%B7%E7%AB%99%E6%92%9E%E8%BD%A6%E9%80%80%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "厄尔尼诺即将达“超强”级别",
+      "url": "https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%8D%B3%E5%B0%86%E8%BE%BE%E2%80%9C%E8%B6%85%E5%BC%BA%E2%80%9D%E7%BA%A7%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "张雪机车法国站第一回合获季军",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E8%8E%B7%E5%AD%A3%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "保洁上门打扫每次偷2万到3万现金",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E4%B8%8A%E9%97%A8%E6%89%93%E6%89%AB%E6%AF%8F%E6%AC%A1%E5%81%B72%E4%B8%87%E5%88%B03%E4%B8%87%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "曾辉果然还是跑调了",
+      "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E8%BE%89%E6%9E%9C%E7%84%B6%E8%BF%98%E6%98%AF%E8%B7%91%E8%B0%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "江西遂川泥石流失联11人身份确认",
+      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%A4%B1%E8%81%9411%E4%BA%BA%E8%BA%AB%E4%BB%BD%E7%A1%AE%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -136,45 +136,45 @@
       "url": "https://b23.tv/BV1Zkty68EAe"
     },
     {
-      "title": "我把汉堡搬到了星星上",
-      "url": "https://b23.tv/BV1Xdt26bECx"
-    },
-    {
-      "title": "【萌黄一槽】幻术吗，什么时候？！宇智波鼬[晓·朱]全技能爆料！",
-      "url": "https://b23.tv/BV1j3t268EPc"
-    },
-    {
       "title": "午夜轮班，伪人超市",
       "url": "https://b23.tv/BV16Htm6rE8n"
+    },
+    {
+      "title": "我把汉堡搬到了星星上",
+      "url": "https://b23.tv/BV1Xdt26bECx"
     },
     {
       "title": "我爱我的废技能",
       "url": "https://b23.tv/BV1jbti6TEtk"
     },
     {
-      "title": "来",
-      "url": "https://b23.tv/BV1sht261Ei1"
+      "title": "【萌黄一槽】幻术吗，什么时候？！宇智波鼬[晓·朱]全技能爆料！",
+      "url": "https://b23.tv/BV1j3t268EPc"
     },
     {
-      "title": "这次是真玩爽了",
-      "url": "https://b23.tv/BV1e8tR6EER5"
+      "title": "【短的发布会】老火靓汤才够正！广汽传祺越7把舒适越野都煲到位，内外全是料",
+      "url": "https://b23.tv/BV157tz6GEhh"
     },
     {
-      "title": "全B站最垃圾的一期视频",
-      "url": "https://b23.tv/BV1sxtk6YEGp"
+      "title": "评分7.1！当太阳升起就把昨天忘记！假面骑士ZZZ完结吐槽！",
+      "url": "https://b23.tv/BV1Yubj6VEpD"
     },
     {
-      "title": "又来新新新人！",
-      "url": "https://b23.tv/BV1F6t266EYV"
+      "title": "万人追更的终南山怪虫，只有我们拍到了真相！",
+      "url": "https://b23.tv/BV1yuto66E8J"
+    },
+    {
+      "title": "【剧情】良医 第七季（2024）01【弗莱迪·海默 / 佩奇·斯巴勒】",
+      "url": "https://b23.tv/BV1MThw6NEv6"
     }
   ],
   "weibo": [
     {
-      "title": "取消英语主科 教育公平争议",
+      "title": "葫芦娃爷爷把葫芦剪掉了目击者发声",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "避孕药 血栓",
+      "title": "郑钦文vs凯斯",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,7 +182,23 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "汤家凤邀请胡锡进公开辩论",
+      "title": "我一个变态的都觉得变态",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "叶润泽淘汰",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "编制不等于绝对稳定",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "华晨宇代言网易云音乐",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "避孕药 血栓",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -190,23 +206,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "医生说坚持为了那8%",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "披荆斩棘二公团魂在燃烧",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "我一个变态的都觉得变态",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "苹果折叠手机价格",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "拖拉机 不公平",
+      "title": "郑钦文凯斯决胜盘",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -216,43 +216,71 @@
       "url": "https://www.toutiao.com/trending/7681201594172244031/"
     },
     {
-      "title": "张雪机车获第三名",
-      "url": "https://www.toutiao.com/trending/7681273063744458282/"
+      "title": "iPhone 18系列售价曝光",
+      "url": "https://www.toutiao.com/trending/7681968641067450930/"
     },
     {
       "title": "未来五年 健康生活“新”在哪",
       "url": "https://www.toutiao.com/trending/7681127730977685545/"
     },
     {
-      "title": "阿里前高管在美国失踪半月后确认身亡",
-      "url": "https://www.toutiao.com/trending/7682030192344433161/"
+      "title": "张雪机车获第三名",
+      "url": "https://www.toutiao.com/trending/7681273063744458282/"
     },
     {
       "title": "超1万册永乐大典副本下落不明",
       "url": "https://www.toutiao.com/trending/7681856234014326826/"
     },
     {
-      "title": "张家齐13岁赚了81万",
-      "url": "https://www.toutiao.com/trending/7681900387439263798/"
+      "title": "江西省委书记尹弘到遂川指挥救援",
+      "url": "https://www.toutiao.com/trending/7681273063744425514/"
     },
     {
-      "title": "泥石流获救中国公民：一度不敢相信",
-      "url": "https://www.toutiao.com/trending/7681681028965285897/"
+      "title": "特斯拉市值一夜蒸发超6000亿",
+      "url": "https://www.toutiao.com/trending/7681750930408226870/"
     },
     {
-      "title": "女子突发“文盲”丧失识字能力",
-      "url": "https://www.toutiao.com/trending/7681878867938181171/"
+      "title": "1岁裸体男童沙漠走失12小时被找到",
+      "url": "https://www.toutiao.com/trending/7681897189991337498/"
     },
     {
-      "title": "iPhone 18系列售价曝光",
-      "url": "https://www.toutiao.com/trending/7681968641067450930/"
+      "title": "菲法院为何下令逮捕副总统",
+      "url": "https://www.toutiao.com/trending/7681143586049523754/"
     },
     {
-      "title": "吉隆泥石流发生23分钟后航拍首公开",
-      "url": "https://www.toutiao.com/trending/7681120394372300846/"
+      "title": "第一批戴运动手环的受害者出现了",
+      "url": "https://www.toutiao.com/trending/7681693452053151807/"
     }
   ],
   "ithome": [
+    {
+      "title": "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存",
+      "url": "/0/998/840.htm"
+    },
+    {
+      "title": "索尼澄清 2028 年 PlayStation 光盘产量相比目前下降 10%，而非降至 10%",
+      "url": "/0/998/839.htm"
+    },
+    {
+      "title": "预售价 31.98 万-38.98 万元，比亚迪腾势 Z9S 展车抵达全国 166 城 334 家门店",
+      "url": "/0/998/838.htm"
+    },
+    {
+      "title": "老哥反馈还不错：喜美诺 100W 快充 C-C 数据线 29.9 → 6.3 元新低清仓",
+      "url": "https://lapin.ithome.com/html/digi/998732.htm"
+    },
+    {
+      "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
+      "url": "/0/998/837.htm"
+    },
+    {
+      "title": "Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘",
+      "url": "/0/998/836.htm"
+    },
+    {
+      "title": "AI 热潮下的韩国：真人秀为三星、SK 海力士员工配对，首尔大学 10 人有 9 人选择计科相关专业",
+      "url": "/0/998/835.htm"
+    },
     {
       "title": "中广核山东招远核电项目 2 号机组主体工程开工，规划建设 6 台“华龙一号”",
       "url": "/0/998/834.htm"
@@ -264,37 +292,17 @@
     {
       "title": "奇瑞风云 T11 第二次 OTA 推送：新增远程一键备车、高速 ETC 自主通行等",
       "url": "/0/998/832.htm"
-    },
-    {
-      "title": "世界最小 CT 在山东济南问世：核心器件实现国产化，仅重 6 公斤",
-      "url": "/0/998/831.htm"
-    },
-    {
-      "title": "老哥反馈还不错：喜美诺 100W 快充 C-C 数据线 29.9 → 6.3 元新低清仓",
-      "url": "https://lapin.ithome.com/html/digi/998732.htm"
-    },
-    {
-      "title": "消息称某厂骁龙旗舰机电池确定 8400mAh，预计为 iQOO 16",
-      "url": "/0/998/830.htm"
-    },
-    {
-      "title": "吉利星越 L PLUS 首发亮相：定位中大型旗舰智混 SUV，近期上市",
-      "url": "/0/998/829.htm"
-    },
-    {
-      "title": "HTC 黄昭颖：手机发展至今很难再找到新的创新突破，眼下资源转向 AI 眼镜",
-      "url": "/0/998/828.htm"
-    },
-    {
-      "title": "联想推出 EY130 头戴式电竞耳机：7.1 虚拟环绕音效，到手价 99 元",
-      "url": "/0/998/827.htm"
-    },
-    {
-      "title": "央视曝光“幽灵外卖”乱象：无资质商家花 500 元就能上线外卖平台",
-      "url": "/0/998/825.htm"
     }
   ],
   "github": [
+    {
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC"
+    },
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness"
@@ -304,36 +312,28 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
-    },
-    {
       "title": "anthropics/skills: Public repository for Agent Skills",
       "url": "https://github.com/anthropics/skills"
     },
     {
-      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
-      "url": "https://github.com/github/spec-kit"
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "title": "farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "url": "https://github.com/farion1231/cc-switch"
+    },
+    {
+      "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "title": "nextlevelbuilder/ui-ux-pro-max-skill: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
-    },
-    {
-      "title": "earendil-works/pi: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "url": "https://github.com/earendil-works/pi"
-    },
-    {
-      "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
-      "url": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "title": "odysseus-dev/odysseus: Self-hosted AI workspace. ",
-      "url": "https://github.com/odysseus-dev/odysseus"
-    },
-    {
-      "title": "Leonxlnx/taste-skill: Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-      "url": "https://github.com/Leonxlnx/taste-skill"
     }
   ],
   "huggingface": [
