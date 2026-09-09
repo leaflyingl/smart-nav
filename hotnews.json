@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-09-09T19:23:06.192Z",
+  "updatedAt": "2026-09-09T21:51:36.715Z",
   "sina": [
+    {
+      "title": "新Apple Watch现场上手：给身体全面打分",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/c/2026-09-10/doc-inirhrra8643804.shtml"
+    },
+    {
+      "title": "iPhone 18 Pro Max 现场上手：勃艮第酒红哑光质感有多高级？",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/c/2026-09-10/doc-inirhrra8640987.shtml"
+    },
+    {
+      "title": "iPhone Duo 现场上手 “多” 屏 iPhone 还用吗？",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/c/2026-09-10/doc-inirhrre5399643.shtml"
+    },
+    {
+      "title": "苹果秋季新品发布会：库克交棒，一部能对折的 iPhone 压轴登场",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-09-10/doc-inirhmik3351975.shtml"
+    },
     {
       "title": "苹果首款折叠屏手机10月开售 iPhone迎来史上最大设计变化",
       "url": "https://finance.sina.com.cn/world/2026-09-10/doc-inirhmie8726897.shtml"
     },
     {
-      "title": "苹果iPhone 18 Pro国行售价9999元起，iPhone 18 Pro Max国行售价10999元起，9月12日开启预购",
+      "title": "苹果iPhone 18 Pro国行售价9999元起，iPhone 18 Pro Max国行售价10999元起，9月12日开启预购，18日发售",
       "url": "https://finance.sina.com.cn/world/2026-09-10/doc-inirhmie8723771.shtml"
     },
     {
@@ -24,64 +40,48 @@
     {
       "title": "苹果发布苹果手表Series 12 和 Ultra 4",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezh8823246.shtml"
-    },
-    {
-      "title": "苹果发布AirPods 5 售价129美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3451970.shtml"
-    },
-    {
-      "title": "苹果iPhone 18 Pro和iPhone 18 Max和前一代相比涨价100美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezk5588964.shtml"
-    },
-    {
-      "title": "苹果：iPhone 18 Pro与iPhone 18 Pro Max电池续航大幅提升",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn8280071.shtml"
-    },
-    {
-      "title": "苹果发布A20Pro芯片",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml"
     }
   ],
   "wallstreet": [
     {
-      "title": "据知情人士透露，加拿大管道公司Enbridge（安桥）接近围绕美国大型输油管线项目达成一份协议。",
-      "url": "https://wallstreetcn.com/lives/3162766"
+      "title": "美伊海上“报复循环”加剧，特朗普预告战事将终结，伊朗开出条件",
+      "url": "https://wallstreetcn.com/lives/3162828"
     },
     {
-      "title": "美国参议院Blumenthal+向OpenAI的CEO Altman质询Hugging Face等问题。",
-      "url": "https://wallstreetcn.com/lives/3162765"
+      "title": "美国能源部长Wright：委内瑞拉石油产量到2027年年底将翻倍。",
+      "url": "https://wallstreetcn.com/lives/3162827"
     },
     {
-      "title": "芝加哥小麦期货跌超2.4%",
-      "url": "https://wallstreetcn.com/lives/3162764"
+      "title": "美国能源部长Wright：通过霍尔木兹海峡输送的石油略微低于1100万桶/日。",
+      "url": "https://wallstreetcn.com/lives/3162826"
     },
     {
-      "title": "刚果（金）埃博拉疫情累计确诊病例超6700例",
-      "url": "https://wallstreetcn.com/lives/3162763"
+      "title": "美国国务卿鲁比奥称，自己目前没有计划参加2028年总统竞选，但不排除未来参选的可能性。",
+      "url": "https://wallstreetcn.com/lives/3162825"
     },
     {
-      "title": "据知情人士透露，Salesforce洽谈按20亿美元收购Listen Labs。（Business Insider）",
-      "url": "https://wallstreetcn.com/lives/3162762"
+      "title": "布伦特原油日内涨幅达4.0%，报101.85美元/桶。",
+      "url": "https://wallstreetcn.com/lives/3162824"
     },
     {
-      "title": "Anthropic：Anthropic：已与大都会铁路公司（METR）签署协议，将对克劳德（Claude）大模型安全事件",
-      "url": "https://wallstreetcn.com/lives/3162761"
+      "title": "伊朗媒体IRNA：伊朗Sirik遭到敌人火力袭击。",
+      "url": "https://wallstreetcn.com/lives/3162823"
     },
     {
-      "title": "沙特称南部多地再遭胡塞武装袭击",
-      "url": "https://wallstreetcn.com/lives/3162758"
+      "title": "AI研究员Andrew Tulloch从Meta离职。（Semafor）",
+      "url": "https://wallstreetcn.com/lives/3162822"
     },
     {
-      "title": "特朗普：可能与俄罗斯举行双边会晤",
-      "url": "https://wallstreetcn.com/lives/3162757"
+      "title": "伊朗方面称格什姆岛传出爆炸声",
+      "url": "https://wallstreetcn.com/lives/3162821"
     },
     {
-      "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7071元，较周二夜盘收盘涨32点。成交量397.47亿美元。",
-      "url": "https://wallstreetcn.com/lives/3162756"
+      "title": "美股加密货币与加密货币关联指数跌2.96%，报73.86点。",
+      "url": "https://wallstreetcn.com/lives/3162820"
     },
     {
-      "title": "恒生指数主连夜盘收跌0.89%，报24982点。",
-      "url": "https://wallstreetcn.com/lives/3162755"
+      "title": "明晟公司MSCI新兴市场股票指数涨0.2%，外汇指数涨0.1%。",
+      "url": "https://wallstreetcn.com/lives/3162818"
     }
   ],
   "baidu": [
@@ -106,12 +106,12 @@
       "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "iPhone Duo 售价公布",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo+%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "爱马仕橙退出历史舞台",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B1%E9%A9%AC%E4%BB%95%E6%A9%99%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "库克：这次不是我了",
-      "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%EF%BC%9A%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%98%AF%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "iPhone Duo 售价公布",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo+%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "iPhone 18 Pro 可变光圈",
@@ -132,6 +132,10 @@
       "url": "https://b23.tv/BV18gtJ6LECq"
     },
     {
+      "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
+      "url": "https://b23.tv/BV1oFY868ETc"
+    },
+    {
       "title": "我 来 同 你 玩  丨 二洲年快乐",
       "url": "https://b23.tv/BV1eqYx6UE9V"
     },
@@ -140,32 +144,28 @@
       "url": "https://b23.tv/BV1KeY466Ekf"
     },
     {
-      "title": "也算是太岁头上动了把土！",
-      "url": "https://b23.tv/BV1LCb563EUG"
+      "title": "第三集上线！《新数码宝贝·全面战争》【15分钟管饱！】",
+      "url": "https://b23.tv/BV19eYH6NEsC"
     },
     {
-      "title": "开学舍友把宿舍改造成了海洋馆",
-      "url": "https://b23.tv/BV13abK62ECA"
-    },
-    {
-      "title": "大巴车上的baby，后面bbox和rap的极致配合",
-      "url": "https://b23.tv/BV1gGbN6rEk9"
-    },
-    {
-      "title": "不是哥们儿，咱宿舍还有正常人嘛？",
-      "url": "https://b23.tv/BV1z7YJ6MEA9"
+      "title": "花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场",
+      "url": "https://b23.tv/BV152b56uEgF"
     },
     {
       "title": "请停留三秒，为毛主席献花，今天9月9日是主席毛泽东逝世50周年的日子，他是中国共产党、中国人民解放军、中华人民共和国的主要缔造者",
       "url": "https://b23.tv/BV1VabK62Ea5"
     },
     {
-      "title": "第三集上线！《新数码宝贝·全面战争》【15分钟管饱！】",
-      "url": "https://b23.tv/BV19eYH6NEsC"
+      "title": "爆肝六个月！40万字详解对越自卫反击战秘闻，我们对越南都做了什么？",
+      "url": "https://b23.tv/BV1WnbG6EENE"
     },
     {
-      "title": "【招笑版】新植物8:嘴巴很大花",
-      "url": "https://b23.tv/BV16Pbn6wEGf"
+      "title": "德国政坛大地震，选择党，前进四！",
+      "url": "https://b23.tv/BV1veYx6DESi"
+    },
+    {
+      "title": "《物业费最贵の一集》",
+      "url": "https://b23.tv/BV1xsYn6pEw4"
     }
   ],
   "weibo": [
@@ -174,7 +174,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "苹果发布会",
+      "title": "iPhoneDuo 屏下摄像头",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,11 +182,19 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "iPhoneDuo 屏下摄像头",
+      "title": "被取消资助女生愿换掉苹果手机",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "被取消资助女生愿换掉苹果手机",
+      "title": "iPhone18Pro颜色",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "郑钦文美网1比2莱巴金娜",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "苹果回应iPhoneDuo是否有折痕",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -194,30 +202,22 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "海氏海诺小黄人联名",
+      "title": "苹果发布会",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "iPhoneDuo价格",
       "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "苹果 涨价",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "郑钦文美网止步八强",
-      "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "资助者回应大二女生被取消资助",
-      "url": "https://www.toutiao.com/trending/7683177865940860947/"
+      "title": "不让上厕所员工裸奔？宁德时代否认",
+      "url": "https://www.toutiao.com/trending/7683415620760715291/"
     },
     {
-      "title": "曝DeepSeek正筹备科创板IPO",
-      "url": "https://www.toutiao.com/trending/7682375308184387610/"
+      "title": "资助者回应大二女生被取消资助",
+      "url": "https://www.toutiao.com/trending/7683177865940860947/"
     },
     {
       "title": "在改善民生中扩大内需",
@@ -228,70 +228,112 @@
       "url": "https://www.toutiao.com/trending/7683456999161479222/"
     },
     {
+      "title": "曝DeepSeek正筹备科创板IPO",
+      "url": "https://www.toutiao.com/trending/7682375308184387610/"
+    },
+    {
       "title": "高考数学132分开学考只有12分",
       "url": "https://www.toutiao.com/trending/7682369162227977747/"
     },
     {
-      "title": "不让上厕所员工裸奔？宁德时代否认",
-      "url": "https://www.toutiao.com/trending/7683415620760715291/"
+      "title": "一家三口吃自助火锅只点一份大闹餐厅",
+      "url": "https://www.toutiao.com/trending/7682206870040264731/"
     },
     {
-      "title": "医生：要多吃肉少喝汤",
-      "url": "https://www.toutiao.com/trending/7683086384269787174/"
+      "title": "福建漳州600岁大榕树成功扶正",
+      "url": "https://www.toutiao.com/trending/7683449570302607387/"
     },
     {
       "title": "全球癌症病例2050年可能激增67%",
       "url": "https://www.toutiao.com/trending/7683014604494159878/"
     },
     {
-      "title": "理想等车企“去宁化”加速",
-      "url": "https://www.toutiao.com/trending/7683449266232102406/"
-    },
-    {
-      "title": "一家三口吃自助火锅只点一份大闹餐厅",
-      "url": "https://www.toutiao.com/trending/7682206870040264731/"
+      "title": "泽连斯基开始求美国为乌克兰止损",
+      "url": "https://www.toutiao.com/trending/7683534658964819510/"
     }
   ],
   "ithome": [
     {
-      "title": "苹果 iOS / iPadOS 27、macOS 27、watchOS 27 和 visionOS 27 定档 9 月 15 日推出",
-      "url": "/1/000/531.htm"
+      "title": "首款支持手写笔的 iPhone：苹果首款折叠 iPhone Duo 显示仅兼容 USB-C 版 Apple Pencil",
+      "url": "/1/000/549.htm"
     },
     {
-      "title": "苹果 watchOS 27.0 RC 发布",
-      "url": "/1/000/529.htm"
+      "title": "苹果 iPhone 18 Pro / Max 升级摄影风格，带来全新质感和颗粒感控制选项",
+      "url": "/1/000/548.htm"
     },
     {
-      "title": "苹果 macOS 27.0 RC 发布",
-      "url": "/1/000/527.htm"
+      "title": "苹果 iPhone 18 Pro / Max 首用 6 叶片可变光圈结构，相机 App 引入 Pro 级控制",
+      "url": "/1/000/547.htm"
     },
     {
-      "title": "苹果 visionOS 27.0 RC 发布",
-      "url": "/1/000/528.htm"
+      "title": "未适配应用也能运行：苹果首款折叠手机 iPhone Duo 提供 3 种兼容模式",
+      "url": "/1/000/546.htm"
     },
     {
-      "title": "稳定版发布进入最后倒计时，苹果 iOS / iPadOS 27 RC 推送",
-      "url": "/1/000/525.htm"
-    },
-    {
-      "title": "苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元",
-      "url": "/1/000/524.htm"
-    },
-    {
-      "title": "【IT之家实拍】苹果 iPhone 18 Pro 系列抢先看：新增可变光圈技术、首发 A20 Pro 芯片",
-      "url": "/1/000/523.htm"
-    },
-    {
-      "title": "苹果上调国行 iPhone Air 售价：8799 元起，最高涨幅约 19%",
-      "url": "/1/000/521.htm"
+      "title": "证明照片不是 AI：苹果 iPhone 18 Pro 支持像素级标注真实图像数据，但又和国内无关",
+      "url": "/1/000/544.htm"
     },
     {
       "title": "每年一检更安心：瑞慈全身体检 242 元、增强版 449 元，彩超 + 肺部螺旋 CT+ 幽门螺杆菌",
       "url": "https://lapin.ithome.com/html/digi/999345.htm"
     },
     {
-      "title": "苹果 iPhone 17 涨价 800 元，现起售价 6799 元",
-      "url": "/1/000/520.htm"
+      "title": "苹果 watchOS 27 升级健康体验：评估训练负荷、计算健康年龄等",
+      "url": "/1/000/543.htm"
+    },
+    {
+      "title": "苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元",
+      "url": "/1/000/542.htm"
+    },
+    {
+      "title": "苹果首款折叠 iPhone Duo 支持 MagSafe，最高 15W 功率",
+      "url": "/1/000/541.htm"
+    },
+    {
+      "title": "苹果发布自研 C2 5G 调制解调器：上传提速 50%，美版 iPhone 18 Pro 支持 mmWave 毫米波",
+      "url": "/1/000/540.htm"
+    }
+  ],
+  "github": [
+    {
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "title": "google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "url": "https://github.com/google-gemini/gemini-cli"
+    },
+    {
+      "title": "karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically",
+      "url": "https://github.com/karpathy/autoresearch"
+    },
+    {
+      "title": "666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "title": "ruvnet/ruflo: 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "title": "tw93/Mole: 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
+      "url": "https://github.com/tw93/Mole"
+    },
+    {
+      "title": "gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "url": "https://github.com/gsd-build/get-shit-done"
+    },
+    {
+      "title": "MemPalace/mempalace: The best-benchmarked open-source AI memory system. And it's free.",
+      "url": "https://github.com/MemPalace/mempalace"
     }
   ],
   "huggingface": [
