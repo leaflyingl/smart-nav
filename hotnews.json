@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T14:17:58.481Z",
+  "updatedAt": "2026-09-12T17:22:13.323Z",
   "sina": [
     {
       "title": "iPhone 17 Pro迎来史上最低价，你会买吗？",
@@ -44,7 +44,27 @@
   ],
   "wallstreet": [
     {
-      "title": "Anthropic首席执行官：必须放慢人工智能模型改进的速度。",
+      "title": "OpenAI的CEO Altman：我同意Dario（Anthropic的CEO Amodei）有关需要控制前沿模型发展",
+      "url": "https://wallstreetcn.com/lives/3164361"
+    },
+    {
+      "title": "Larry Ellison取消关于减持甲骨文股票的10b5-1计划，迄今尚未因该计划而卖出任何甲骨文股票。",
+      "url": "https://wallstreetcn.com/lives/3164360"
+    },
+    {
+      "title": "伊朗总统：目前无法做出与美国直接谈判的决定，美国必须停止封锁",
+      "url": "https://wallstreetcn.com/lives/3164359"
+    },
+    {
+      "title": "马斯克：Anthropic PBC的CEO Amodei关于放慢人工智能（AI）模型发展速度的建议是正确的。",
+      "url": "https://wallstreetcn.com/lives/3164357"
+    },
+    {
+      "title": "Anthropic CEO公开信：呼吁放慢AI模型的发展速度",
+      "url": "https://wallstreetcn.com/lives/3164358"
+    },
+    {
+      "title": "Anthropic首席执行官：必须放慢人工智能模型改进的速度",
       "url": "https://wallstreetcn.com/lives/3164356"
     },
     {
@@ -62,26 +82,6 @@
     {
       "title": "苹果iPhone 18 Pro/Pro Max开启预购",
       "url": "https://wallstreetcn.com/lives/3164351"
-    },
-    {
-      "title": "与谷歌合作智能家居项目是否涵盖AI眼镜相关产品？创维数字回应",
-      "url": "https://wallstreetcn.com/lives/3164350"
-    },
-    {
-      "title": "2026浦江创新论坛在上海启幕",
-      "url": "https://wallstreetcn.com/lives/3164349"
-    },
-    {
-      "title": "中国最北城市漠河正式开栓供暖",
-      "url": "https://wallstreetcn.com/lives/3164348"
-    },
-    {
-      "title": "【习近平会见印度总理莫迪】当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫",
-      "url": "https://wallstreetcn.com/lives/3164347"
-    },
-    {
-      "title": "中国工程院院士邬贺铨：2030年中国算力有望占到全球30%",
-      "url": "https://wallstreetcn.com/lives/3164346"
     }
   ],
   "baidu": [
@@ -90,8 +90,8 @@
       "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E5%91%A8%E4%B8%8A%E7%8F%AD%E6%97%B6%E9%97%B4%E6%9C%89%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "超级厄尔尼诺来袭 中国将面临什么",
-      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%9D%A5%E8%A2%AD+%E4%B8%AD%E5%9B%BD%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "地库接连躺人司机躲过一个又一个",
+      "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E5%BA%93%E6%8E%A5%E8%BF%9E%E8%BA%BA%E4%BA%BA%E5%8F%B8%E6%9C%BA%E8%BA%B2%E8%BF%87%E4%B8%80%E4%B8%AA%E5%8F%88%E4%B8%80%E4%B8%AA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "中国在金砖机制中发挥非常重要作用",
@@ -102,79 +102,79 @@
       "url": "https://www.baidu.com/s?wd=1300%E5%BC%A0%E7%A5%A81000%E5%BC%A0%E9%BB%84%E7%89%9B+%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "高铁车窗玻璃被刻“到此一游”",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%BD%A6%E7%AA%97%E7%8E%BB%E7%92%83%E8%A2%AB%E5%88%BB%E2%80%9C%E5%88%B0%E6%AD%A4%E4%B8%80%E6%B8%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "试驾小米澎程误操作用户已锁单",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%95%E9%A9%BE%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%AF%AF%E6%93%8D%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B7%B2%E9%94%81%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "小米高管称门店客流量暴涨400％",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%A7%B0%E9%97%A8%E5%BA%97%E5%AE%A2%E6%B5%81%E9%87%8F%E6%9A%B4%E6%B6%A8400%EF%BC%85&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "机器狗治沙一天干完三天活",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E7%8B%97%E6%B2%BB%E6%B2%99%E4%B8%80%E5%A4%A9%E5%B9%B2%E5%AE%8C%E4%B8%89%E5%A4%A9%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "iPhone 18 Pro系列开售秒售罄",
-      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro%E7%B3%BB%E5%88%97%E5%BC%80%E5%94%AE%E7%A7%92%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "iPhone18Pro以旧换新政策",
+      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "大衣哥称助农直播给钱都不要",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A1%A3%E5%93%A5%E7%A7%B0%E5%8A%A9%E5%86%9C%E7%9B%B4%E6%92%AD%E7%BB%99%E9%92%B1%E9%83%BD%E4%B8%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "中国人真的能“飞”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%9F%E7%9A%84%E8%83%BD%E2%80%9C%E9%A3%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "雷军来看苏超了",
-      "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%9D%A5%E7%9C%8B%E8%8B%8F%E8%B6%85%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "多地小学改为养老院",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E6%94%B9%E4%B8%BA%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "钟南山：超过90%的肺结节都属良性",
-      "url": "https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%EF%BC%9A%E8%B6%85%E8%BF%8790%25%E7%9A%84%E8%82%BA%E7%BB%93%E8%8A%82%E9%83%BD%E5%B1%9E%E8%89%AF%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "胖东来网红大月饼暂停门店线下销售",
+      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BD%91%E7%BA%A2%E5%A4%A7%E6%9C%88%E9%A5%BC%E6%9A%82%E5%81%9C%E9%97%A8%E5%BA%97%E7%BA%BF%E4%B8%8B%E9%94%80%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "《重返未来：1999》2026箱中巡游·4.0版本PV：应门者",
-      "url": "https://b23.tv/BV18Xb56NEbF"
+      "title": "中国超能，奶奶蔡明能，飞！",
+      "url": "https://b23.tv/BV1P4YX63Emf"
     },
     {
-      "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
-      "url": "https://b23.tv/BV1HUY76uEMJ"
+      "title": "《原神》7.1版本PV：「往冥府的安魂歌」",
+      "url": "https://b23.tv/BV1yuY96rEL7"
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第15集【总第191集】",
       "url": "https://b23.tv/BV1EmYm6HE57"
     },
     {
-      "title": "模仿派对，配音挑战",
-      "url": "https://b23.tv/BV1ZqYX6YEsu"
+      "title": "成名之作，龙凤胎王世佳，王世博，谁能看清楚他叔叔身上的四个字，算您厉害。",
+      "url": "https://b23.tv/BV1QNYt6EE4i"
     },
     {
-      "title": "去了一趟山西。",
-      "url": "https://b23.tv/BV1xVY26dEbz"
+      "title": "《原神》7.1版本「往冥府的安魂歌」前瞻特别节目",
+      "url": "https://b23.tv/BV1znY96NEvn"
     },
     {
-      "title": "校长来啦",
-      "url": "https://b23.tv/BV1odY76aEio"
+      "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
+      "url": "https://b23.tv/BV1HUY76uEMJ"
+    },
+    {
+      "title": "这寝室呆的",
+      "url": "https://b23.tv/BV1ZiYX6PEd5"
     },
     {
       "title": "高糖VS戒糖14天！真的差别很大吗？",
       "url": "https://b23.tv/BV1enYL6SEtU"
     },
     {
-      "title": "21世纪波兰依然被闪击",
-      "url": "https://b23.tv/BV1BdYQ6aEXv"
+      "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+      "url": "https://b23.tv/BV1S5YE6HE9Q"
     },
     {
-      "title": "“为生民而立命，继往圣之绝学.”【我的歌声里DJ-变速】【教书育人の小曲】",
-      "url": "https://b23.tv/BV1DtY76XEfv"
-    },
-    {
-      "title": "你可能不认识我，但或许刷到过我的画…",
-      "url": "https://b23.tv/BV1T7YE6JEei"
+      "title": "当你穿进老钱班《前传》",
+      "url": "https://b23.tv/BV12fYD66EFC"
     }
   ],
   "weibo": [
     {
-      "title": "iPhone18Pro系列抢购火爆",
+      "title": "你们经常换手机的人嘴真严",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "苏超",
+      "title": "TTG夺冠",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -182,31 +182,31 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "20点天猫花呗24期免息买新iPhone",
+      "title": "赵雷当爸爸了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "AL战胜iG",
+      "title": "AI短剧 成瘾",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "茶叶蛋vs白煮蛋",
+      "title": "弹壳说唱巅峰对决总冠军",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "罗永浩谈付航脱口秀禁黄牛票入场",
+      "title": "迪丽热巴在斯维诗的镜头里好美",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "吴宇恒生日会神图有了",
+      "title": "AG 年总",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "一条小团团首播",
+      "title": "刘畊宏参加披哥掉粉近40万",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "肥肉煮熟切片包豆沙一个月卖8万元",
+      "title": "狼队 遗憾",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -216,36 +216,36 @@
       "url": "https://www.toutiao.com/trending/7684437120370851883/"
     },
     {
-      "title": "超级厄尔尼诺来袭中国将面临什么",
-      "url": "https://www.toutiao.com/trending/7684594301015166514/"
+      "title": "雷军为首批小米澎程车主开车门",
+      "url": "https://www.toutiao.com/trending/7684560547068562971/"
     },
     {
       "title": "看懂中国贸易出海新模式",
       "url": "https://www.toutiao.com/trending/7684196213859782163/"
     },
     {
-      "title": "特朗普松口允许中国大厂赴美造车",
-      "url": "https://www.toutiao.com/trending/7684610424217538074/"
+      "title": "男生去年考上北大放弃今年又考进北大",
+      "url": "https://www.toutiao.com/trending/7683701620468072499/"
     },
     {
-      "title": "雷军为车主开车门 现场大人小孩围满",
-      "url": "https://www.toutiao.com/trending/7684560547068562971/"
+      "title": "女子散步被蝙蝠撞脸紧急就医",
+      "url": "https://www.toutiao.com/trending/7684591341343293503/"
     },
     {
-      "title": "马珊珊任沈阳市委副书记",
-      "url": "https://www.toutiao.com/trending/7684620900087369235/"
-    },
-    {
-      "title": "张本美和4-1战胜斯佐科斯晋级四强",
-      "url": "https://www.toutiao.com/trending/7683922769792368682/"
+      "title": "超级厄尔尼诺来袭中国将面临什么",
+      "url": "https://www.toutiao.com/trending/7684594301015166514/"
     },
     {
       "title": "一支拖鞋军正在改写中东格局",
       "url": "https://www.toutiao.com/trending/7683456911715516454/"
     },
     {
-      "title": "女婴在月子中心无呼吸心跳送医后死亡",
-      "url": "https://www.toutiao.com/trending/7683758300848046134/"
+      "title": "房东催租反给租户转账2万",
+      "url": "https://www.toutiao.com/trending/7683469098945806372/"
+    },
+    {
+      "title": "年轻人血管为什么会开始堵了",
+      "url": "https://www.toutiao.com/trending/7684638910902796329/"
     },
     {
       "title": "俄方不排除普京和特朗普在中国会晤",
@@ -254,44 +254,86 @@
   ],
   "ithome": [
     {
-      "title": "特斯拉 FSD v15 将提升主动避险能力：更早的危险预测、更快的反应时间",
-      "url": "/1/001/649.htm"
+      "title": "LG 再次回应“电视待机状态会录音”：不会持续记录或传输用户对话",
+      "url": "/1/001/659.htm"
     },
     {
-      "title": "天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞",
-      "url": "/1/001/648.htm"
+      "title": "惠普星 Desk Mini 迷你主机上架：Ultra 5 325/7 356H，9599 元起",
+      "url": "/1/001/658.htm"
     },
     {
-      "title": "京东自营 49 元：水卫士管道疏通剂 23 元 3 瓶官方大差价",
-      "url": "https://lapin.ithome.com/html/digi/1001583.htm"
+      "title": "荣耀公布 SmallRig 专业视频拓展套件：适配 Magic9 Pro Max，9 月 28 日发布",
+      "url": "/1/001/657.htm"
     },
     {
-      "title": "长安 UNI-V 蓝鲸超擎混动上市，限时 10.99 万-11.39 万元",
-      "url": "/1/001/646.htm"
+      "title": "商超 89.9 元 → 官方 16 元：九阳八珍食养豆浆 480g 淘宝限时秒杀",
+      "url": "https://lapin.ithome.com/html/digi/1001553.htm"
     },
     {
-      "title": "九号 Mz3 闪骑电动自行车开售：五级可调后减震、12 寸满盘电机，首发 6299 元起",
-      "url": "/1/001/645.htm"
+      "title": "算力词元贷加速全国推广，支持机房建设、GPU 服务器集群采购",
+      "url": "/1/001/656.htm"
     },
     {
-      "title": "Debian 发布第 7 个稳定版小版本 13.7，修复 Bug 并更新关键基础设施",
-      "url": "/1/001/644.htm"
+      "title": "大众“史上最大”重组的代价：消息称裁员、关厂将烧掉 160 亿欧元",
+      "url": "/1/001/655.htm"
     },
     {
-      "title": "漫步者花再 Halo PixelBar 桌面音箱强化版开售：支持实时歌词显示，419 元",
-      "url": "/1/001/643.htm"
+      "title": "国家发改委：积极支持大型汽车企业集团开展改革，以市场化、法制化方式推进企业间兼并重组",
+      "url": "/1/001/654.htm"
     },
     {
-      "title": "一句话加油、买电影票，理想汽车联合支付宝升级智舱全场景生态服务",
-      "url": "/1/001/642.htm"
+      "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
+      "url": "/1/001/653.htm"
     },
     {
-      "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
-      "url": "/1/001/641.htm"
+      "title": "中国聚变：正全力推进全球首个高温超导强场稳态燃烧实验平台研发",
+      "url": "/1/001/652.htm"
     },
     {
-      "title": "Counterpoint 预测：2026-2030 年折叠屏手机面板出货将增长 74%",
-      "url": "/1/001/639.htm"
+      "title": "Anthropic CEO 阿莫迪称 AI 行业应当放缓发展速度，并承诺让第三方评估机构获得员工级访问权限",
+      "url": "/1/001/651.htm"
+    }
+  ],
+  "github": [
+    {
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "title": "github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "title": "colbymchenry/codegraph: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks: Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "title": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "title": "Alishahryar1/free-claude-code: Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "title": "hesreallyhim/awesome-claude-code: A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code"
+    },
+    {
+      "title": "hugohe3/ppt-master: AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "title": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "url": "https://github.com/coreyhaines31/marketingskills"
     }
   ],
   "huggingface": [
