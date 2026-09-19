@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-18T23:08:04.250Z",
+  "updatedAt": "2026-09-19T01:28:04.581Z",
   "sina": [
+    {
+      "title": "智谱ZCode回应数据上传争议：功能默认开启致数据上传，将开源代码",
+      "url": "https://finance.sina.com.cn/roll/2026-09-19/doc-inisinhc2626091.shtml"
+    },
+    {
+      "title": "小鹏G9L正式上市，23.18万元起",
+      "url": "https://finance.sina.com.cn/roll/2026-09-19/doc-inisifyf2752566.shtml"
+    },
     {
       "title": "谷歌AI首次“越狱”：Gemini在测试中入侵三家企业",
       "url": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7993750.shtml"
@@ -8,6 +16,14 @@
     {
       "title": "Anthropic推进上市筹备，年化营收料超1000亿美元",
       "url": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvkr0136721.shtml"
+    },
+    {
+      "title": "AI向科研端纵深渗透 重塑传统产业创新范式",
+      "url": "https://finance.sina.com.cn/roll/2026-09-19/doc-inishrap3029819.shtml"
+    },
+    {
+      "title": "具身智能规模化落地 渴望“好数据”",
+      "url": "https://finance.sina.com.cn/roll/2026-09-19/doc-inishrat0201692.shtml"
     },
     {
       "title": "MiniMax 宣布开源 MiniMax Code CLI",
@@ -24,64 +40,48 @@
     {
       "title": "闲鱼发布持续严打色情引流公告：今年已封号9.8万个",
       "url": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisheny8355091.shtml"
-    },
-    {
-      "title": "芯展速董事长孙丹：以存强算，全景覆盖，构建“云、边、端”三级数据基座",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisfyex3509718.shtml"
-    },
-    {
-      "title": "黄酒半年报|古越龙山被会稽山反超 营收加速下滑渠道仍在去库存？",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-09-18/doc-inisfyex3488877.shtml"
-    },
-    {
-      "title": "黄酒半年报|会稽山成为行业龙头 招商驱动收入增长?",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-09-18/doc-inisfyez0258298.shtml"
-    },
-    {
-      "title": "华为发布“SCALE”伙伴支持体系，高级副总裁陈雷：推动更多成功经验走向规模化落地",
-      "url": "https://finance.sina.com.cn/tech/it/2026-09-18/doc-inisfyev3236426.shtml"
     }
   ],
   "baidu": [
     {
-      "title": "养生的风终于吹到了月饼行业",
-      "url": "https://www.baidu.com/s?wd=%E5%85%BB%E7%94%9F%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E6%9C%88%E9%A5%BC%E8%A1%8C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "毛东东随团访朝 向毛岸英铜像祭酒",
+      "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E4%B8%9C%E4%B8%9C%E9%9A%8F%E5%9B%A2%E8%AE%BF%E6%9C%9D+%E5%90%91%E6%AF%9B%E5%B2%B8%E8%8B%B1%E9%93%9C%E5%83%8F%E7%A5%AD%E9%85%92&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "运动员展示亚运房间：全是纸板做的",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%B1%95%E7%A4%BA%E4%BA%9A%E8%BF%90%E6%88%BF%E9%97%B4%EF%BC%9A%E5%85%A8%E6%98%AF%E7%BA%B8%E6%9D%BF%E5%81%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "沙特首都利雅得遭空袭",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E9%81%AD%E7%A9%BA%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "绘就丰收画卷 这四个地方给出答案",
       "url": "https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E4%B8%B0%E6%94%B6%E7%94%BB%E5%8D%B7+%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%9C%B0%E6%96%B9%E7%BB%99%E5%87%BA%E7%AD%94%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "中国男篮不敌日本无缘决赛",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "数学老师投300万拍电影 8天票房2万",
+      "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%A6%E8%80%81%E5%B8%88%E6%8A%95300%E4%B8%87%E6%8B%8D%E7%94%B5%E5%BD%B1+8%E5%A4%A9%E7%A5%A8%E6%88%BF2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "陕西秦王级大墓或为秦始皇嫡祖母",
-      "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E7%A7%A6%E7%8E%8B%E7%BA%A7%E5%A4%A7%E5%A2%93%E6%88%96%E4%B8%BA%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%AB%A1%E7%A5%96%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "中国篮球之队回应负于日本男篮",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AF%AE%E7%90%83%E4%B9%8B%E9%98%9F%E5%9B%9E%E5%BA%94%E8%B4%9F%E4%BA%8E%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "中美经贸磋商",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "恋陪剧本杀 软色情",
+      "url": "https://www.baidu.com/s?wd=%E6%81%8B%E9%99%AA%E5%89%A7%E6%9C%AC%E6%9D%80+%E8%BD%AF%E8%89%B2%E6%83%85&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "美驻日使馆9月18日发帖 日本网民破防",
       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%869%E6%9C%8818%E6%97%A5%E5%8F%91%E5%B8%96+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A0%B4%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "超慢跑是一种更加友好的运动方式",
-      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E6%85%A2%E8%B7%91%E6%98%AF%E4%B8%80%E7%A7%8D%E6%9B%B4%E5%8A%A0%E5%8F%8B%E5%A5%BD%E7%9A%84%E8%BF%90%E5%8A%A8%E6%96%B9%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "百余年来首次 猫科再添现存新物种",
+      "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1+%E7%8C%AB%E7%A7%91%E5%86%8D%E6%B7%BB%E7%8E%B0%E5%AD%98%E6%96%B0%E7%89%A9%E7%A7%8D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "高中生自制综艺走红 邓超李晨也参与",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%87%AA%E5%88%B6%E7%BB%BC%E8%89%BA%E8%B5%B0%E7%BA%A2+%E9%82%93%E8%B6%85%E6%9D%8E%E6%99%A8%E4%B9%9F%E5%8F%82%E4%B8%8E&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "产后失明失聪女子：从不后悔生娃",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E5%90%8E%E5%A4%B1%E6%98%8E%E5%A4%B1%E8%81%AA%E5%A5%B3%E5%AD%90%EF%BC%9A%E4%BB%8E%E4%B8%8D%E5%90%8E%E6%82%94%E7%94%9F%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "高校考试开考9分钟试卷就被外传",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%80%83%E8%AF%95%E5%BC%80%E8%80%839%E5%88%86%E9%92%9F%E8%AF%95%E5%8D%B7%E5%B0%B1%E8%A2%AB%E5%A4%96%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "于东来正被自己的人设绑架",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%AD%A3%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E8%AE%BE%E7%BB%91%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -94,8 +94,8 @@
       "url": "https://b23.tv/BV1ZueH6LEa6"
     },
     {
-      "title": "1s~1h冰冻螺蛳粉挑战",
-      "url": "https://b23.tv/BV1ZbY26yECF"
+      "title": "极寒高温轮番来袭！高空缆车该如何扛过天灾！！「缆车惊变100天#3」",
+      "url": "https://b23.tv/BV1yUeU6YENK"
     },
     {
       "title": "【我在现代当幽差】EP03 因果 【UP动画】【HiShorts!XupdreamAl短片大赛-剧情单元】",
@@ -106,33 +106,33 @@
       "url": "https://b23.tv/BV1PUej65E41"
     },
     {
-      "title": "《篡改正史 | 正史改竄》MV：本案，审查不合格【AI MV大赛】",
-      "url": "https://b23.tv/BV15Be361EbR"
+      "title": "【奥术之贼01】法师vs重甲，原创西幻cg影片",
+      "url": "https://b23.tv/BV1jve36mECs"
+    },
+    {
+      "title": "男生的生活 VS 女生的生活",
+      "url": "https://b23.tv/BV1yJe16dEz2"
     },
     {
       "title": "兵马俑捡到游客手机，结果没想到......",
       "url": "https://b23.tv/BV1Uhey6bET7"
     },
     {
-      "title": "揭秘硫磺竹笋，二氧化硫含量惊人，这样的竹笋能吃吗？恳请当地彻查硫磺竹笋，保障食品安全",
-      "url": "https://b23.tv/BV1T2er6QE4b"
+      "title": "《镜头之后#7》——老八",
+      "url": "https://b23.tv/BV1xKeU6AETz"
     },
     {
-      "title": "【徐静雨】亚运会男篮不敌日本二队，全方位差距，根本打不过！",
-      "url": "https://b23.tv/BV1Uee26NEMy"
-    },
-    {
-      "title": "互相求婚？美国女孩和我为什么要这样做",
-      "url": "https://b23.tv/BV1Nqeg6tEBo"
+      "title": "《埃 及 点 子 王》",
+      "url": "https://b23.tv/BV1H4ew6AErN"
     }
   ],
   "weibo": [
     {
-      "title": "中国的小偷为何断崖式下降",
+      "title": "梅毒越来越困扰年轻人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "乒乓球赛事后勤保障争议",
+      "title": "中国的小偷为何断崖式下降",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -140,11 +140,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "十万级华为乾崑ADSSE星海V6上市",
+      "title": "许兰香被发卖青楼",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "亚运组委会致歉",
+      "title": "中国男篮队长胡明轩赛后发声",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -152,104 +152,104 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "梅毒越来越困扰年轻人",
+      "title": "官方辟谣四川绵阳出租车罢工",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "菲船加速冲撞中国海警船现场视频",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "中国男篮回应不敌日本队",
+      "title": "特朗普称获格陵兰岛永久安全控制权",
       "url": "https://weibo.com/hot/undefined"
     },
     {
       "title": "郑合惠子没有感情全是演技",
       "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "菲船加速冲撞中国海警船现场视频",
+      "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "住建部：4楼及以上住宅都要加装电梯",
-      "url": "https://www.toutiao.com/trending/7685740175528394815/"
+      "title": "沙特首都利雅得遭空袭",
+      "url": "https://www.toutiao.com/trending/7687034148157918758/"
     },
     {
-      "title": "媒体：于东来正被自己的人设绑架",
-      "url": "https://www.toutiao.com/trending/7686262825412759103/"
+      "title": "何立峰将赴美国与美方举行经贸磋商",
+      "url": "https://www.toutiao.com/trending/7687046831995240498/"
     },
     {
       "title": "平陆运河释放多重红利",
       "url": "https://www.toutiao.com/trending/7685989256699052068/"
     },
     {
-      "title": "博主：战争正在逼近日本",
-      "url": "https://www.toutiao.com/trending/7686886503816891958/"
+      "title": "媒体：菲律宾918当天挑衅需掂量后果",
+      "url": "https://www.toutiao.com/trending/7686857734779571753/"
     },
     {
-      "title": "中国男篮大比分不敌日本",
-      "url": "https://www.toutiao.com/trending/7686066691399254043/"
+      "title": "毛东东访朝在毛岸英烈士铜像前祭酒",
+      "url": "https://www.toutiao.com/trending/7686657126189809702/"
     },
     {
-      "title": "猫科动物百年来首现新物种",
-      "url": "https://www.toutiao.com/trending/7686558753701511187/"
+      "title": "媒体：于东来正被自己的人设绑架",
+      "url": "https://www.toutiao.com/trending/7686262825412759103/"
     },
     {
-      "title": "男子高空作业绳子被2楼老人剪断",
-      "url": "https://www.toutiao.com/trending/7686766153797173311/"
+      "title": "局长被查家人花300万找政治骗子捞人",
+      "url": "https://www.toutiao.com/trending/7687014601703407643/"
     },
     {
-      "title": "住建部：支持老旧房屋原拆原建",
-      "url": "https://www.toutiao.com/trending/7686730746681131049/"
+      "title": "郭士强下课冲上热搜",
+      "url": "https://www.toutiao.com/trending/7686443284985806886/"
     },
     {
-      "title": "中国工人为何成为蒙古外籍劳工主力",
-      "url": "https://www.toutiao.com/trending/7686525221112647204/"
+      "title": "黄牛都不看的iPhone 18 Pro谁在买",
+      "url": "https://www.toutiao.com/trending/7687004115678793262/"
     },
     {
-      "title": "生娃失明失聪女子原本是英语老师",
-      "url": "https://www.toutiao.com/trending/7685306681571675691/"
+      "title": "2名外籍游客抱出侧翻被困车中老人",
+      "url": "https://www.toutiao.com/trending/7686820094186094635/"
     }
   ],
   "ithome": [
     {
-      "title": "数毛社公布《控制：共振》PS5/Pro 版性能测试结果：Northlight 引擎面对开放世界环境存在一定性能问题",
-      "url": "/1/004/354.htm"
+      "title": "马里布：苹果首款折叠 iPhone Duo 铰链无松垮感、有信心遏制折痕加深",
+      "url": "/1/004/383.htm"
     },
     {
-      "title": "微软发布 Win11 Beta 和 Experimental 多预览版更新：新增鼠标指示器动画，修复多种 Bug",
-      "url": "/1/004/344.htm"
+      "title": "“机顶盒内置”引发网友热议：专家解读一体化电视到底长什么样，广电总局目标在今年实现数千万规模部署",
+      "url": "/1/004/382.htm"
     },
     {
-      "title": "全球唯一例外：美版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器",
-      "url": "/1/004/353.htm"
+      "title": "不用展开就能读：研究人员开发含铅墨水检测技术，让庞贝古城碳化卷轴文字重现于世",
+      "url": "/1/004/381.htm"
     },
     {
-      "title": "Take-Two 因《NBA 2K》系列游戏遭诉讼，法庭证词暗示公司并未计划开发跨代作品虚拟货币转移功能",
-      "url": "/1/004/352.htm"
+      "title": "苹果推出新音乐视频，聚焦展示 iPhone 18 Pro 可变光圈实力",
+      "url": "/1/004/380.htm"
     },
     {
-      "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
-      "url": "/1/004/351.htm"
+      "title": "CDPR 介绍《巫师 4》弃用 REDengine 引擎转投虚幻 5 真实原因：《赛博朋克 2077》并非主由",
+      "url": "/1/004/379.htm"
     },
     {
-      "title": "七夕煮煮热红酒：张裕半甜红葡萄酒 19.9 元官方发车（官方 108 元）",
-      "url": "https://lapin.ithome.com/html/digi/1004333.htm"
+      "title": "全球首次：清华牵头团队发现超大气泡驱动星系湍流，数十年的科学猜想有了关键证据",
+      "url": "/1/004/378.htm"
     },
     {
-      "title": "中老跨境数字支付互联互通正式启动，数字人民币可在老挝扫码支付",
-      "url": "/1/004/350.htm"
+      "title": "蜜桃乌龙 / 桂花乌龙 / 陈皮普洱等，分分钟三角立体茶包 10 泡 6.9 元白菜价（30 泡 15.9 元）",
+      "url": "https://lapin.ithome.com/html/digi/1004377.htm"
     },
     {
-      "title": "苹果介绍旗下首款折叠屏手机 iPhone Duo 设计理念：灵感源自纸质笔记本尺寸、铰链阻尼拥有“可变扭矩曲线”",
-      "url": "/1/004/349.htm"
+      "title": "Anthropic 自建生物实验室推进 AI 物理实验，此前曾警告 AI 灭绝风险",
+      "url": "/1/004/376.htm"
     },
     {
-      "title": "苹果发布 Xcode 27.1 首个测试版，为 iOS App 开发者带来 iPhone Duo 模拟器支持",
-      "url": "/1/004/348.htm"
+      "title": "网友晒苹果 Apple Watch Series 12 实物对比：表框较 Series 11 更明显",
+      "url": "/1/004/375.htm"
     },
     {
-      "title": "因胎压监测系统存在软件问题，Jeep 宣布在美国市场召回超 20 万辆汽车",
-      "url": "/1/004/347.htm"
+      "title": "苹果 CEO 特努斯：iPhone Duo 是贯彻乔布斯“融合技术和人文”理念的绝佳体现",
+      "url": "/1/004/374.htm"
     }
   ],
   "github": [
