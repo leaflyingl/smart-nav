@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-27T21:06:02.499Z",
+  "updatedAt": "2026-09-27T23:53:47.081Z",
   "sina": [
+    {
+      "title": "一套外骨骼机器人背后的“智造”密码",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-28/doc-initifmt9843291.shtml"
+    },
+    {
+      "title": "机器人赛项技能大比拼 智能制造从赛场走向工厂",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-28/doc-initimtm8934178.shtml"
+    },
     {
       "title": "鸿蒙智行发声：问界合作模式调整，但仍是大家庭成员之一",
       "url": "https://finance.sina.com.cn/roll/2026-09-27/doc-inithqqa0106124.shtml"
@@ -32,28 +40,28 @@
     {
       "title": "AI模型使用超现实方言对话 混合诗意文字与科技圈黑话",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initcqmc3921102.shtml"
-    },
-    {
-      "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initckaz3586127.shtml"
-    },
-    {
-      "title": "AI失控了？OpenAI确认干预3家美国政府网站",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvk8821562.shtml"
     }
   ],
   "baidu": [
     {
-      "title": "王曼昱亚运女单冠军",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "武契奇宣布辞职",
+      "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "戎马半生 归来还是高中生",
-      "url": "https://www.baidu.com/s?wd=%E6%88%8E%E9%A9%AC%E5%8D%8A%E7%94%9F+%E5%BD%92%E6%9D%A5%E8%BF%98%E6%98%AF%E9%AB%98%E4%B8%AD%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "罕见“十七圆”上线",
+      "url": "https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E2%80%9C%E5%8D%81%E4%B8%83%E5%9C%86%E2%80%9D%E4%B8%8A%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "美民众热烈期盼大熊猫重返亚特兰大",
       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%B0%91%E4%BC%97%E7%83%AD%E7%83%88%E6%9C%9F%E7%9B%BC%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%87%8D%E8%BF%94%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "电车 买得起修不起",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%BD%A6+%E4%B9%B0%E5%BE%97%E8%B5%B7%E4%BF%AE%E4%B8%8D%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "女演员突然从高处坠落 景区回应",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%98%E7%AA%81%E7%84%B6%E4%BB%8E%E9%AB%98%E5%A4%84%E5%9D%A0%E8%90%BD+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "贷款中介这几天集体删除朋友圈",
@@ -64,62 +72,54 @@
       "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%BC%BA%E5%86%B7%E7%A9%BA%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "黄友政林诗栋4比2战胜日本夺金",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%942%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "火腿肠也卖不动了",
+      "url": "https://www.baidu.com/s?wd=%E7%81%AB%E8%85%BF%E8%82%A0%E4%B9%9F%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "售价39元 主播抽成9元",
-      "url": "https://www.baidu.com/s?wd=%E5%94%AE%E4%BB%B739%E5%85%83+%E4%B8%BB%E6%92%AD%E6%8A%BD%E6%88%909%E5%85%83&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "戎马半生 归来还是高中生",
+      "url": "https://www.baidu.com/s?wd=%E6%88%8E%E9%A9%AC%E5%8D%8A%E7%94%9F+%E5%BD%92%E6%9D%A5%E8%BF%98%E6%98%AF%E9%AB%98%E4%B8%AD%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "孙颖莎4比1早田希娜",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%941%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "国足热身赛0比3不敌新西兰",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B0%E6%AF%943%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "中国蝉联世界技能大赛金牌榜榜首",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%9D%89%E8%81%94%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B5%9B%E9%87%91%E7%89%8C%E6%A6%9C%E6%A6%9C%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "胡塞武装称24小时内遭沙特空袭26次",
+      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B024%E5%B0%8F%E6%97%B6%E5%86%85%E9%81%AD%E6%B2%99%E7%89%B9%E7%A9%BA%E8%A2%AD26%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
-    {
-      "title": "《纯粹の体育精神》",
-      "url": "https://b23.tv/BV1Kyas6wEuz"
-    },
-    {
-      "title": "钓鱼被鱼揍了",
-      "url": "https://b23.tv/BV1Usat6rEm1"
-    },
     {
       "title": "挑战自助餐最亏本的十类食物！通通吃一遍！",
       "url": "https://b23.tv/BV1tNab65ECw"
     },
     {
-      "title": "【独家】牧神记 第102集 大尊",
-      "url": "https://b23.tv/BV152aA6nEz4"
-    },
-    {
-      "title": "《崩坏：星穹铁道》真珠角色PV——「如何描绘一种希望」",
-      "url": "https://b23.tv/BV1Rmh96ZEXh"
-    },
-    {
-      "title": "中埃混血在河南农村办满月酒是什么体验",
-      "url": "https://b23.tv/BV1twhX66ECR"
-    },
-    {
-      "title": "蛙跳爬泰山",
-      "url": "https://b23.tv/BV1Hxah6BEGy"
+      "title": "十四年的等待，我的世界终于迎来全新第四维度：筛界 Minecraft Live2026",
+      "url": "https://b23.tv/BV1m5aY69E8D"
     },
     {
       "title": "刺激！用胶带捆绑女友全身…让她眼睁睁看我通宵打游戏！",
       "url": "https://b23.tv/BV1sEah6VEBm"
     },
     {
-      "title": "《三角洲行动》群星计划—代号：威龙",
-      "url": "https://b23.tv/BV1fAh96ZELn"
+      "title": "【独家】牧神记 第102集 大尊",
+      "url": "https://b23.tv/BV152aA6nEz4"
+    },
+    {
+      "title": "《纯粹の体育精神》",
+      "url": "https://b23.tv/BV1Kyas6wEuz"
+    },
+    {
+      "title": "一台汽车，凭什么敢说自己是 \"航空级安全\"？",
+      "url": "https://b23.tv/BV1qwhJ6aEAG"
+    },
+    {
+      "title": "我的新能源男友",
+      "url": "https://b23.tv/BV1tuah6JEVC"
+    },
+    {
+      "title": "抄袭者如何把原创者熬成山寨？奥利奥：这事儿我熟",
+      "url": "https://b23.tv/BV11Cht6vE47"
+    },
+    {
+      "title": "泽连斯基联合国直播给李在明送上究极大麻烦",
+      "url": "https://b23.tv/BV18MaY6ZELc"
     },
     {
       "title": "【剧情】长生契（2026）07【方逸伦 / 谢可寅】",
@@ -128,11 +128,11 @@
   ],
   "weibo": [
     {
-      "title": "微微一笑很倾城AI换脸后",
+      "title": "贷款中介集体删除朋友圈",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "兰香如故热度超过长相思",
+      "title": "张家齐妈妈原谅张家齐了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -140,7 +140,11 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "京东101HOME全球首店盛大开业",
+      "title": "原研药和仿制药买对了吗",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "挪威1比2葡萄牙",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -148,34 +152,30 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "原研药和仿制药买对了吗",
+      "title": "猛士X700搭载全栈华为乾崑",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "孙千工作室 烦心事够多了",
+      "title": "电子竞技项目将退出亚运",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "李治廷喊你试驾大众8X",
+      "title": "兰香如故热度超过长相思",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "刘雯 井柏然",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "王祖贤 复出",
+      "title": "林锦岐认出许兰香真身",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "台湾社会要读懂中美元首会晤意义",
-      "url": "https://www.toutiao.com/trending/7689304243416747562/"
+      "title": "国足0-3不敌新西兰",
+      "url": "https://www.toutiao.com/trending/7689672028542910500/"
     },
     {
-      "title": "吴艳妮女子100米栏摘铜",
-      "url": "https://www.toutiao.com/trending/7689382446299627561/"
+      "title": "台湾社会要读懂中美元首会晤意义",
+      "url": "https://www.toutiao.com/trending/7689304243416747562/"
     },
     {
       "title": "美民众热烈期盼大熊猫重返亚特兰大",
@@ -206,50 +206,50 @@
       "url": "https://www.toutiao.com/trending/7690175309672546354/"
     },
     {
-      "title": "国产新型无人机亮剑黄岩岛",
-      "url": "https://www.toutiao.com/trending/7689114987528896521/"
+      "title": "新能源汽车仍然“买得起修不起”吗",
+      "url": "https://www.toutiao.com/trending/7690092497246765092/"
     }
   ],
   "ithome": [
     {
-      "title": "小米米家智能意式半自动咖啡机 Pro 首销，首发国补价 3395.84 元",
-      "url": "/1/007/615.htm"
+      "title": "消息称微软 XBOX 游戏工作室重组波及《帝国时代》开发团队 World's Edge，工作室新作遭取消",
+      "url": "/1/007/630.htm"
     },
     {
-      "title": "iQOO Pad Ultra 平板官宣搭载 9020mAh 蓝海电池，8.8 英寸机身轻至 298g",
-      "url": "/1/007/612.htm"
+      "title": "Kobo 电纸书 6.0 测试版系统固件现严重 Bug：书籍数据无法显示，官方警告勿自行降级",
+      "url": "/1/007/629.htm"
     },
     {
-      "title": "腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》",
-      "url": "/1/007/611.htm"
+      "title": "我国高铁网络再扩容：四条新线今日集中开通运营，多地正式迈入高铁时代",
+      "url": "/1/007/628.htm"
+    },
+    {
+      "title": "安克旗下 eufy 推出“全球首款支持 VR 查看功能的智能门铃”Video Doorbell S4，299.99 美元",
+      "url": "/1/007/627.htm"
+    },
+    {
+      "title": "捷尼赛思 GV90 旗舰 SUV 搭载升降中控屏：停车时自动增加 70% 可用显示面积",
+      "url": "/1/007/626.htm"
+    },
+    {
+      "title": "开发者推出 ProsperoEden 项目，为破解后的索尼 PS5 游戏机引入任天堂 Switch 游戏机模拟器",
+      "url": "/1/007/625.htm"
+    },
+    {
+      "title": "奔驰发力固态电池，将与台企辉能科技深化合作、优先测试第四代电芯",
+      "url": "/1/007/624.htm"
+    },
+    {
+      "title": "曾败诉商标纠纷，Epic Games 再次在欧洲申请注册“Megaverse”商标",
+      "url": "/1/007/623.htm"
     },
     {
       "title": "999 → 249 元：太平鸟男子羽绒服 2.5 折官方清仓，黑色专场温暖又百搭",
       "url": "https://lapin.ithome.com/html/digi/1007528.htm"
     },
     {
-      "title": "第八代宝马 3 系 9 月 30 日全球首发，首次同时覆盖纯电和燃油动力",
-      "url": "/1/007/610.htm"
-    },
-    {
-      "title": "爱奇艺回应网传“请勿眨眼”广告：大过节的，别恶搞造谣了",
-      "url": "/1/007/608.htm"
-    },
-    {
-      "title": "“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整",
-      "url": "/1/007/607.htm"
-    },
-    {
-      "title": "助力我国可控核聚变战略实施，世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量交付",
-      "url": "/1/007/606.htm"
-    },
-    {
-      "title": "部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”",
-      "url": "/1/007/603.htm"
-    },
-    {
-      "title": "国家邮政局：1 至 8 月全国日均揽收快递 5.23 亿件，全力做好中秋国庆假期寄递服务保障工作",
-      "url": "/1/007/602.htm"
+      "title": "消息称苹果 Vision Pro 市场遇冷：门店“月销 1 台就很幸运”、新任 CEO 特努斯对产品线持怀疑态度",
+      "url": "/1/007/622.htm"
     }
   ],
   "github": [
