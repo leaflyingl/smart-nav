@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-08T14:48:25.089Z",
+  "updatedAt": "2026-10-08T20:34:11.944Z",
   "sina": [
+    {
+      "title": "苹果宣布10月13日在纽约举行智能家居新品发布会",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniupxkx3443507.shtml"
+    },
+    {
+      "title": "OPENAI近期向投资者透露 其年化营收接近500亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniupxkx3437947.shtml"
+    },
     {
       "title": "英伟达承诺未来五年投入10亿美元 助力美国科研发展",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniuptaz7478829.shtml"
@@ -32,14 +40,6 @@
     {
       "title": "内存涨价压垮利润！三星手机计划Q4减产高达30%",
       "url": "https://finance.sina.com.cn/tech/discovery/2026-10-08/doc-iniuphpf3681206.shtml"
-    },
-    {
-      "title": "受AI热潮推动 芬兰数据中心项目总投资超670亿欧元",
-      "url": "https://finance.sina.com.cn/world/2026-10-08/doc-iniuphnz4322824.shtml"
-    },
-    {
-      "title": "策略师：AI泡沫或将引发标普500指数出现2008年以来最严重崩盘",
-      "url": "https://finance.sina.com.cn/world/2026-10-08/doc-iniuphpf7615691.shtml"
     }
   ],
   "baidu": [
@@ -56,83 +56,41 @@
       "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E5%88%B7%E6%96%B0%E2%80%9C%E8%BF%9B%E5%BA%A6%E6%9D%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "鼠疫到底是什么",
-      "url": "https://www.baidu.com/s?wd=%E9%BC%A0%E7%96%AB%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“考不上清北就去清北工作”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%80%83%E4%B8%8D%E4%B8%8A%E6%B8%85%E5%8C%97%E5%B0%B1%E5%8E%BB%E6%B8%85%E5%8C%97%E5%B7%A5%E4%BD%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "彭玉从29岁开始演了一辈子老太太",
-      "url": "https://www.baidu.com/s?wd=%E5%BD%AD%E7%8E%89%E4%BB%8E29%E5%B2%81%E5%BC%80%E5%A7%8B%E6%BC%94%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "139万元的药一年半才等到第一个患者",
+      "url": "https://www.baidu.com/s?wd=139%E4%B8%87%E5%85%83%E7%9A%84%E8%8D%AF%E4%B8%80%E5%B9%B4%E5%8D%8A%E6%89%8D%E7%AD%89%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%82%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "新郎婚礼当天去医院看病后离世",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E5%BD%93%E5%A4%A9%E5%8E%BB%E5%8C%BB%E9%99%A2%E7%9C%8B%E7%97%85%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "金戒指遗失在沙漠被找回",
+      "url": "https://www.baidu.com/s?wd=%E9%87%91%E6%88%92%E6%8C%87%E9%81%97%E5%A4%B1%E5%9C%A8%E6%B2%99%E6%BC%A0%E8%A2%AB%E6%89%BE%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "向佐喝蛋白粉把肾喝成70岁",
       "url": "https://www.baidu.com/s?wd=%E5%90%91%E4%BD%90%E5%96%9D%E8%9B%8B%E7%99%BD%E7%B2%89%E6%8A%8A%E8%82%BE%E5%96%9D%E6%88%9070%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "女子开超小养老院只收六人",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E8%B6%85%E5%B0%8F%E5%85%BB%E8%80%81%E9%99%A2%E5%8F%AA%E6%94%B6%E5%85%AD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "诺奖得主获奖后上班欢呼一片",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E8%8E%B7%E5%A5%96%E5%90%8E%E4%B8%8A%E7%8F%AD%E6%AC%A2%E5%91%BC%E4%B8%80%E7%89%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "湖南一女局长被举报婚内出轨多人",
-      "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "101岁老人可乐雪碧整箱囤着喝",
-      "url": "https://www.baidu.com/s?wd=101%E5%B2%81%E8%80%81%E4%BA%BA%E5%8F%AF%E4%B9%90%E9%9B%AA%E7%A2%A7%E6%95%B4%E7%AE%B1%E5%9B%A4%E7%9D%80%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "新郎婚礼当天去医院看病后离世",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E5%BD%93%E5%A4%A9%E5%8E%BB%E5%8C%BB%E9%99%A2%E7%9C%8B%E7%97%85%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
-    }
-  ],
-  "bilibili": [
-    {
-      "title": "《阴阳师》咲耶CG丨拾此一瞬（CV：小泽亚李）",
-      "url": "https://b23.tv/BV1BsHQ6YEQy"
-    },
-    {
-      "title": "妈妈是个超人",
-      "url": "https://b23.tv/BV1tLHv6vEXV"
-    },
-    {
-      "title": "《我到底要怎么救你》",
-      "url": "https://b23.tv/BV1TZH26iEj3"
-    },
-    {
-      "title": "【独家】时光代理人 第三季 PartOne 第10集 错位的救赎【8月国创】",
-      "url": "https://b23.tv/BV1mXak6UEea"
-    },
-    {
-      "title": "矿山上的铜火锅？！特厨来一个沉浸式吃播！",
-      "url": "https://b23.tv/BV1S9H26MEAT"
-    },
-    {
-      "title": "有事没事儿，尽喜欢做点好吃的、新鲜玩意给家里人尝一尝！好好吃饭就是好好生活！【睡个好觉】",
-      "url": "https://b23.tv/BV14aHC6dESP"
-    },
-    {
-      "title": "超市生存挑战后续！4人吃完整个超市赢100万美金！",
-      "url": "https://b23.tv/BV1VeHQ6tEaS"
-    },
-    {
-      "title": "带班主任体验黄毛的一天",
-      "url": "https://b23.tv/BV1X6Hk6hE8v"
-    },
-    {
-      "title": "【男巫ZachKing】2026最佳魔术！",
-      "url": "https://b23.tv/BV1BuHC6rEuX"
-    },
-    {
-      "title": "【剧情】长生契（2026）20【方逸伦 / 谢可寅】",
-      "url": "https://b23.tv/BV13Dem6VEp5"
+      "title": "病房现大面积霉菌 医院称不影响健康",
+      "url": "https://www.baidu.com/s?wd=%E7%97%85%E6%88%BF%E7%8E%B0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%9C%89%E8%8F%8C+%E5%8C%BB%E9%99%A2%E7%A7%B0%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%81%A5%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "weibo": [
     {
-      "title": "尊界通报刹车踏板断裂",
+      "title": "肺鼠疫可飞沫传播",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "王皓王楚钦观战温瑞博莫雷高德比赛",
+      "title": "82岁老姑娘养老规划太有智慧",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -140,116 +98,116 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "湖南一女局长被举报婚内出轨多人",
+      "title": "王楚然请回答",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "温瑞博vs莫雷加德",
+      "title": "肺鼠疫会人传人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "赵丽颖 飞天奖",
+      "title": "原来花千骨当时那么惨啊",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "AIVA首款量产车ME7全球首秀",
+      "title": "崔晋李勒优聊天记录",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "三甲医生回应喝大水",
+      "title": "霸王茶姬全球风味品牌代言人李现",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "烟草局人士称细烟带动女性烟民",
+      "title": "张馨予和老公何捷在讨论给鱼坐月子",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "警方通报小区楼顶发现可疑骨头",
+      "title": "奶奶假牙不见小狗露八颗牙",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "俄出现鼠疫病例 相关个股引关注",
-      "url": "https://www.toutiao.com/trending/7694273692435484201/"
-    },
-    {
-      "title": "张本智和被“满电战神”打没电了",
-      "url": "https://www.toutiao.com/trending/7694224984046341642/"
-    },
-    {
-      "title": "让长征故事代代相传",
-      "url": "https://www.toutiao.com/trending/7694195348361150483/"
+      "title": "如何看待欧洲反华决议高票通过",
+      "url": "https://www.toutiao.com/trending/7694230216553532947/"
     },
     {
       "title": "李子坝地下33米藏一亿现钞",
       "url": "https://www.toutiao.com/trending/7693904813129662490/"
     },
     {
-      "title": "车主就近下高速怒省500元",
-      "url": "https://www.toutiao.com/trending/7694135874977038372/"
+      "title": "让长征故事代代相传",
+      "url": "https://www.toutiao.com/trending/7694195348361150483/"
+    },
+    {
+      "title": "高速免费最后一刻女子淡定缴费",
+      "url": "https://www.toutiao.com/trending/7693486233125273627/"
+    },
+    {
+      "title": "缅北电诈逃脱者的自救建议：别打车",
+      "url": "https://www.toutiao.com/trending/7694188796669234726/"
     },
     {
       "title": "央视披露紧急营救北斗卫星",
       "url": "https://www.toutiao.com/trending/7694196471020749321/"
     },
     {
-      "title": "稳住血压的5个生活习惯",
-      "url": "https://www.toutiao.com/trending/7693434862955954203/"
+      "title": "高血压是最常见的心血管疾病之一",
+      "url": "https://www.toutiao.com/trending/7693822093523992622/"
     },
     {
       "title": "诺奖得主获奖后上班欢呼一片",
       "url": "https://www.toutiao.com/trending/7693358125676576778/"
     },
     {
-      "title": "如何看待欧洲反华决议高票通过",
-      "url": "https://www.toutiao.com/trending/7694230216553532947/"
+      "title": "外交部回应直呼高市早苗名字",
+      "url": "https://www.toutiao.com/trending/7693342745545130025/"
     },
     {
-      "title": "黑龙江鹤岗一秒入冬银装素裹",
-      "url": "https://www.toutiao.com/trending/7694127452448227370/"
+      "title": "倪萍发文悼念彭玉",
+      "url": "https://www.toutiao.com/trending/7694208994314912283/"
     }
   ],
   "ithome": [
     {
-      "title": "酷冷至尊 V8 ACE 3DHP 风冷新增银白款，价格维持 699 元",
-      "url": "/1/010/722.htm"
+      "title": "899 元起雷蛇巴塞利斯蛇 V4 专业版 / 极速版鼠标发布，还有第二代无线充电底座",
+      "url": "/1/010/745.htm"
     },
     {
-      "title": "懂车帝回应尊界 V800 刹车踏板支架断裂争议：网传暴力测试并不存在，百公里刹车实验并非极端工况",
-      "url": "/1/010/721.htm"
+      "title": "消息称华为阔直板机型有多产品线布局动作，nova 中端线也在评估中",
+      "url": "/1/010/744.htm"
     },
     {
-      "title": "澳大利亚政府“整活”，教群众怎么申请无薪假期首发玩上《GTA6》",
-      "url": "/1/010/720.htm"
+      "title": "苹果官宣“欢迎回家”发布会定档 10 月 13 日，暗示首款智能家居中枢产品",
+      "url": "/1/010/743.htm"
     },
     {
       "title": "999 → 251 元：太平鸟男子羽绒服 2.5 折官方清仓，黑色专场温暖又百搭",
       "url": "https://lapin.ithome.com/html/digi/1010281.htm"
     },
     {
-      "title": "铠侠首款 EDSFF E1.L 外形规格固态硬盘 LD4 发布，采用 BiCS8 QLC 闪存",
-      "url": "/1/010/719.htm"
+      "title": "鸿蒙新补丁包惊喜 +1：华为 Mate 80 等系列机型新增隔空手势翻转加密分享功能",
+      "url": "/1/010/742.htm"
     },
     {
-      "title": "华为乾崑 9 月安全出行报告发布，辅助驾驶月活用户占比达 94.6%",
-      "url": "/1/010/718.htm"
+      "title": "NASA SpaceX “龙飞船”Crew-12 在洛杉矶海岸溅落，四名宇航员完成 235 天驻留任务",
+      "url": "/1/010/741.htm"
     },
     {
-      "title": "格芯与台积电签署 20 亿美元协议，在美国建立首个硅中介层生产基地",
-      "url": "/1/010/716.htm"
+      "title": "又一里程碑时刻：深开鸿宣布开鸿开发者注册量突破 20 万",
+      "url": "/1/010/740.htm"
     },
     {
-      "title": "亚马逊发布 Alexa Tablet 平板电脑：接替 Fire Tablet，全面支持 Alexa+ AI",
-      "url": "/1/010/715.htm"
+      "title": "微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra",
+      "url": "/1/010/739.htm"
     },
     {
-      "title": "谷歌为 Pixel 手机开发新人脸解锁算法，改善暗光环境解锁体验",
-      "url": "/1/010/714.htm"
+      "title": "R 星公布《GTA6》六大电台阵容：首次加入播客功能、走路时也能戴耳机收听",
+      "url": "/1/010/738.htm"
     },
     {
-      "title": "比亚迪方程豹钛 9 陨石黑车色官图公布，预计四季度上市",
-      "url": "/1/010/713.htm"
+      "title": "余承东：未来肯定会有更多华为手机采用基于韬定律的逻辑折叠芯片",
+      "url": "/1/010/737.htm"
     }
   ],
   "github": [
@@ -260,10 +218,6 @@
     {
       "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills"
     },
     {
       "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -292,6 +246,10 @@
     {
       "title": "anthropics/skills: Public repository for Agent Skills",
       "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
   "huggingface": [
