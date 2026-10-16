@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-10-16T20:42:27.004Z",
+  "updatedAt": "2026-10-16T23:20:02.683Z",
   "sina": [
+    {
+      "title": "AWS CFO：AI基建投入热潮具备可持续性 投资回报周期不足三年",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnkur6689195.shtml"
+    },
     {
       "title": "双11 iPhone Duo平台大战：预售秒罄，首批现货最高溢价超7000元",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmyff8339502.shtml"
@@ -36,10 +40,6 @@
     {
       "title": "YOYO二度亮相巴黎时装周",
       "url": "https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmprm8371237.shtml"
-    },
-    {
-      "title": "苹果首款折叠屏今日开启预售，京东平台预约近300万人",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmpqz6890120.shtml"
     }
   ],
   "baidu": [
@@ -60,42 +60,46 @@
       "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E5%B0%86%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BB%8E4000%E9%99%8D%E8%87%B32000&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "多家银行严查贷款违规流入股市",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%A5%E6%9F%A5%E8%B4%B7%E6%AC%BE%E8%BF%9D%E8%A7%84%E6%B5%81%E5%85%A5%E8%82%A1%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“最强”厄尔尼诺意味着什么",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E5%BC%BA%E2%80%9D%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "这才是真正的“欲买桂花同载酒”",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E2%80%9C%E6%AC%B2%E4%B9%B0%E6%A1%82%E8%8A%B1%E5%90%8C%E8%BD%BD%E9%85%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“彩电第一股”确定退市",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%BD%A9%E7%94%B5%E7%AC%AC%E4%B8%80%E8%82%A1%E2%80%9D%E7%A1%AE%E5%AE%9A%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "男子凌晨炖鱼睡着 醒来鱼已碳化",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E7%82%96%E9%B1%BC%E7%9D%A1%E7%9D%80+%E9%86%92%E6%9D%A5%E9%B1%BC%E5%B7%B2%E7%A2%B3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "长鑫科技预计前三季度净利超1300亿",
-      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E9%A2%84%E8%AE%A1%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E8%B6%851300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "这才是真正的“欲买桂花同载酒”",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E2%80%9C%E6%AC%B2%E4%B9%B0%E6%A1%82%E8%8A%B1%E5%90%8C%E8%BD%BD%E9%85%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "费德勒李娜vs萨芬兄妹",
-      "url": "https://www.baidu.com/s?wd=%E8%B4%B9%E5%BE%B7%E5%8B%92%E6%9D%8E%E5%A8%9Cvs%E8%90%A8%E8%8A%AC%E5%85%84%E5%A6%B9&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "老人打扑克悔牌被踹后七天离世",
+      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%93%E6%89%91%E5%85%8B%E6%82%94%E7%89%8C%E8%A2%AB%E8%B8%B9%E5%90%8E%E4%B8%83%E5%A4%A9%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“彩电第一股”确定退市",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%BD%A9%E7%94%B5%E7%AC%AC%E4%B8%80%E8%82%A1%E2%80%9D%E7%A1%AE%E5%AE%9A%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "高市早苗向靖国神社献祭品",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%8C%AE%E7%A5%AD%E5%93%81&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "肾里长的石头，医生是怎么取出来的？",
-      "url": "https://b23.tv/BV17YJX6FE6F"
+      "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
+      "url": "https://b23.tv/BV1d5JQ6pEFS"
     },
     {
       "title": "“以善为饵，比恶更恶”",
       "url": "https://b23.tv/BV1q3pS6tE4J"
     },
     {
-      "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
-      "url": "https://b23.tv/BV1d5JQ6pEFS"
+      "title": "我造了一块会飞的滑板...",
+      "url": "https://b23.tv/BV1KiJk67EQ9"
+    },
+    {
+      "title": "真让她成气候了？这可能是全网最通透的⚡️‌雨 爱⚡️‌！",
+      "url": "https://b23.tv/BV1mmJt6kEYW"
     },
     {
       "title": "营销噱头还是黑科技?Roadster 2造车门槛是什么？专利、商业解读",
@@ -106,20 +110,16 @@
       "url": "https://b23.tv/BV1s7JX6gELt"
     },
     {
-      "title": "片酬20万吴孟达为何还要演《流浪地球》？黄金配角的孤注一掷！【大结局】",
-      "url": "https://b23.tv/BV1TXJX6jENT"
-    },
-    {
-      "title": "让人生理性厌恶的两口子黄子韬徐艺洋",
-      "url": "https://b23.tv/BV1ukJD6LE2P"
-    },
-    {
-      "title": "魔君临世！在绝对的力量面前，所有的制衡与套路都白给！",
-      "url": "https://b23.tv/BV1tdJC6pEcs"
+      "title": "肾里长的石头，医生是怎么取出来的？",
+      "url": "https://b23.tv/BV17YJX6FE6F"
     },
     {
       "title": "【绝密大坝】猛攻哥来了！！！",
       "url": "https://b23.tv/BV1SDJC6dEKH"
+    },
+    {
+      "title": "《 官 宣 》",
+      "url": "https://b23.tv/BV1BkJm6mEMf"
     },
     {
       "title": "【纪录片】威尔史密斯的极地纵横 03 厄瓜多尔搜寻水蚺",
@@ -136,7 +136,15 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "中央红军长征路线全览",
+      "title": "大江南北丰收正当时",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "夫妻都忙没人享福",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "女子回应监控取证丈夫出轨不被采用",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -148,11 +156,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "徐艺洋 孩子是我自己生的",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "黄子韬谁欺负我老婆了",
+      "title": "第一次见这么恨女主的男主",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -160,11 +164,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "TVB红果",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "河北卫视靠孙颖莎收视登顶了",
+      "title": "骑电动车下车时务必关闭电源",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -182,35 +182,63 @@
       "url": "https://www.toutiao.com/trending/7697242262857829926/"
     },
     {
-      "title": "多个手机品牌集体宣布降价",
-      "url": "https://www.toutiao.com/trending/7697064393934848019/"
-    },
-    {
-      "title": "人民日报：严打“公考围岗”",
-      "url": "https://www.toutiao.com/trending/7696412224667009066/"
-    },
-    {
       "title": "存款利率普遍上调了",
       "url": "https://www.toutiao.com/trending/7696401739415470121/"
     },
     {
-      "title": "西安街头新疆烤馕10元3个爆火",
-      "url": "https://www.toutiao.com/trending/7696450929935089683/"
+      "title": "多个手机品牌集体宣布降价",
+      "url": "https://www.toutiao.com/trending/7697064393934848019/"
+    },
+    {
+      "title": "加油站应于11月1日前实现交易即开票",
+      "url": "https://www.toutiao.com/trending/7696715434753703945/"
     },
     {
       "title": "中国“飞行汽车”看呆外国学生",
       "url": "https://www.toutiao.com/trending/7697174682281394218/"
     },
     {
-      "title": "中方：中国核力量与美俄不在一个量级",
-      "url": "https://www.toutiao.com/trending/7697036912935354378/"
+      "title": "黄海南部连续47天禁入藏了什么深意",
+      "url": "https://www.toutiao.com/trending/7696851935329075241/"
     },
     {
       "title": "美媒：中国造出了美国人喜欢的车",
       "url": "https://www.toutiao.com/trending/7696926689994162217/"
+    },
+    {
+      "title": "人民日报：严打“公考围岗”",
+      "url": "https://www.toutiao.com/trending/7696412224667009066/"
     }
   ],
   "ithome": [
+    {
+      "title": "交货期排到明年，苹果称 iPhone Duo 市场需求异常旺盛",
+      "url": "/1/014/196.htm"
+    },
+    {
+      "title": "Anthropic 报告：AI 工时已是人类 6 倍，初级程序员岗位骤减，人均雇员创收是 Meta / 谷歌同期的 2 至 4 倍",
+      "url": "/1/014/195.htm"
+    },
+    {
+      "title": "英特尔计划 2028 年面向物理 AI 领域推出 \"Razor Lake AX\" 处理器，平台算力 700 TOPS",
+      "url": "/1/014/194.htm"
+    },
+    {
+      "title": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型",
+      "url": "/1/014/193.htm"
+    },
+    {
+      "title": "马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上",
+      "url": "/1/014/192.htm"
+    },
+    {
+      "title": "Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜",
+      "url": "/1/014/191.htm"
+    },
+    {
+      "title": "微软发布 Win11 多预览通道新版更新：更新 XBOX 游戏界面，Windows Hello 自动调节亮度",
+      "url": "/1/014/189.htm"
+    },
     {
       "title": "暴雪《暗黑破坏神 V》开启首轮动画拍摄，游戏计划于 2029 年春季发售",
       "url": "/1/014/188.htm"
@@ -222,34 +250,6 @@
     {
       "title": "曝英特尔将推 8E + 4Xe 版 \"Panther Lake\" 锐炫 G 掌机处理器",
       "url": "/1/014/184.htm"
-    },
-    {
-      "title": "库克卸任苹果 CEO 后首次中国之行结束：期待下次再见",
-      "url": "/1/014/183.htm"
-    },
-    {
-      "title": "FADU 发布全球首款文件语义固态硬盘，支持加速器直接访问",
-      "url": "/1/014/182.htm"
-    },
-    {
-      "title": "4499 → 3085 元：小米 REDMI K100 Pro Max 旗舰手机官方 11.11 直降",
-      "url": "/1/013/577.htm"
-    },
-    {
-      "title": "中国秦朝背景《刺客信条：命运》早期实机视频曝光：腾讯天美工作室群主导，起步阶段即被取消",
-      "url": "/1/014/181.htm"
-    },
-    {
-      "title": "京东自营 53 元：赛逸二硫化硒洗发水 24 元 / 瓶久违半价发车",
-      "url": "https://lapin.ithome.com/html/digi/1013489.htm"
-    },
-    {
-      "title": "AOC 上架“AGP277QKM”27 英寸显示器：2K 425Hz QD-Mini LED、内置电源，3254 元",
-      "url": "/1/014/180.htm"
-    },
-    {
-      "title": "优派推出 VX27G58-2K-9 显示器：27\" QHD Fast IPS，超频 240Hz",
-      "url": "/1/014/179.htm"
     }
   ],
   "github": [
@@ -258,40 +258,40 @@
       "url": "https://github.com/openclaw/openclaw"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "title": "anomalyco/opencode: The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "title": "anthropics/skills: Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills"
     },
     {
       "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-    },
-    {
-      "title": "VoltAgent/awesome-design-md: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "url": "https://github.com/VoltAgent/awesome-design-md"
-    },
-    {
-      "title": "earendil-works/pi: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "url": "https://github.com/earendil-works/pi"
-    },
-    {
-      "title": "google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "url": "https://github.com/google-gemini/gemini-cli"
-    },
-    {
-      "title": "paperclipai/paperclip: The open-source app everyone uses to manage agents at work",
-      "url": "https://github.com/paperclipai/paperclip"
-    },
-    {
-      "title": "nexu-io/open-design: The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
-      "url": "https://github.com/nexu-io/open-design"
-    },
-    {
-      "title": "karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch"
     }
   ],
   "huggingface": [
