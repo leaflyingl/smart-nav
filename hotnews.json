@@ -1,13 +1,25 @@
 {
-  "updatedAt": "2026-10-21T21:54:32.400Z",
+  "updatedAt": "2026-10-22T00:30:08.401Z",
   "sina": [
+    {
+      "title": "拓展协同边界 陪伴科技企业成长",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzuna4833457.shtml"
+    },
     {
       "title": "Meta Q3营收超预期并宣布1拆2股票分割，上调资本支出加码AI",
       "url": "https://finance.sina.com.cn/world/2026-10-22/doc-inivzumx5957190.shtml"
     },
     {
+      "title": "院线将迎“新面孔” 首部AI电影直面市场检验",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivziwc6084140.shtml"
+    },
+    {
       "title": "SpaceX 盘中暴涨 11% 市值超台积电：与特斯拉合并传闻 + 超预期业绩",
       "url": "https://finance.sina.com.cn/tech/digi/2026-10-21/doc-inivzcqf6114442.shtml"
+    },
+    {
+      "title": "美航空航天局公布月球车最新研发进展及任务规划",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivzcqc5425790.shtml"
     },
     {
       "title": "资助网红飞行滑板博主，股价起飞？影石回应：180万元属创作者扶持，并非股权投资",
@@ -28,60 +40,48 @@
     {
       "title": "记忆张量MemT 1.0发布并开源，长历史推理提速最高近4倍",
       "url": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivyxhi6159564.shtml"
-    },
-    {
-      "title": "iPhone Duo体验：买之前，你一定要知道的几件事",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-21/doc-inivyxhn4885399.shtml"
-    },
-    {
-      "title": "华硕准备出货搭载英伟达HGX Rubin NVL8的服务器系统",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhf5374838.shtml"
-    },
-    {
-      "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利，全行业都该拥抱AI",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhi6096441.shtml"
     }
   ],
   "baidu": [
     {
-      "title": "年轻人盯上养老院里的新职业",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%85%BB%E8%80%81%E9%99%A2%E9%87%8C%E7%9A%84%E6%96%B0%E8%81%8C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "年轻人开始喝水了 超市货架也在变",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%96%9D%E6%B0%B4%E4%BA%86+%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%E4%B9%9F%E5%9C%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "王虹再获大奖",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%99%B9%E5%86%8D%E8%8E%B7%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "地铁站内看书5小时被扣15元",
+      "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E7%AB%99%E5%86%85%E7%9C%8B%E4%B9%A65%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%A315%E5%85%83&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "它们为什么都叫“长征”",
       "url": "https://www.baidu.com/s?wd=%E5%AE%83%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%8F%AB%E2%80%9C%E9%95%BF%E5%BE%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
+      "title": "中国体操女队终结美国7连冠",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD7%E8%BF%9E%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "致敬伟大的胜利",
+      "url": "https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
       "title": "PHP出现严重漏洞 多国紧急下线",
       "url": "https://www.baidu.com/s?wd=PHP%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E+%E5%A4%9A%E5%9B%BD%E7%B4%A7%E6%80%A5%E4%B8%8B%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "红果把观众的时间标好了价",
-      "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E6%8A%8A%E8%A7%82%E4%BC%97%E7%9A%84%E6%97%B6%E9%97%B4%E6%A0%87%E5%A5%BD%E4%BA%86%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "广东一小区疑现大量骨灰房？当地通报",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%96%91%E7%8E%B0%E5%A4%A7%E9%87%8F%E9%AA%A8%E7%81%B0%E6%88%BF%EF%BC%9F%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "重庆：拟追责问责公职人员94人",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%EF%BC%9A%E6%8B%9F%E8%BF%BD%E8%B4%A3%E9%97%AE%E8%B4%A3%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%9894%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "14家银行叫停或限制个人异地存款",
       "url": "https://www.baidu.com/s?wd=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "赵露思被质疑自费购买高定",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%A2%AB%E8%B4%A8%E7%96%91%E8%87%AA%E8%B4%B9%E8%B4%AD%E4%B9%B0%E9%AB%98%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "全国流行“拼大学”",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%B5%81%E8%A1%8C%E2%80%9C%E6%8B%BC%E5%A4%A7%E5%AD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "曝张小斐芭莎红毯救场",
-      "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E5%B0%8F%E6%96%90%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E6%95%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "纪念活动男子吹响冲锋号 全场沸腾",
-      "url": "https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%E7%94%B7%E5%AD%90%E5%90%B9%E5%93%8D%E5%86%B2%E9%94%8B%E5%8F%B7+%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "穿越机一镜贯山河 重读长征壮阔史诗",
+      "url": "https://www.baidu.com/s?wd=%E7%A9%BF%E8%B6%8A%E6%9C%BA%E4%B8%80%E9%95%9C%E8%B4%AF%E5%B1%B1%E6%B2%B3+%E9%87%8D%E8%AF%BB%E9%95%BF%E5%BE%81%E5%A3%AE%E9%98%94%E5%8F%B2%E8%AF%97&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -90,12 +90,16 @@
       "url": "https://b23.tv/BV1xrnz6gEVD"
     },
     {
-      "title": "【2026年双11人体工学椅推荐】【绝不恰饭！】全实拍实测，决赛圈对比讲解！覆盖大小身材+全部新品，全价位人体工学椅、电竞椅、电脑椅推荐，建议收藏！",
-      "url": "https://b23.tv/BV1djnz64Eqh"
-    },
-    {
       "title": "联想词",
       "url": "https://b23.tv/BV1uanE6dErS"
+    },
+    {
+      "title": "抗日神剧逆天剧情！女兵战场睡觉？睡醒还要给她找吃的！",
+      "url": "https://b23.tv/BV1Cfni6cELz"
+    },
+    {
+      "title": "史诗级发现，曼从中间劈开是MAN",
+      "url": "https://b23.tv/BV1Coni6aEiU"
     },
     {
       "title": "入局",
@@ -106,61 +110,57 @@
       "url": "https://b23.tv/BV1iMnv6jEZw"
     },
     {
-      "title": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
-      "url": "https://b23.tv/BV1bKnw6zEsV"
+      "title": "超强台风来了：江浙沪台周末要下台风雨，华南福建先降温后又升温",
+      "url": "https://b23.tv/BV1fjnr6NEyk"
     },
     {
-      "title": "⚡赵本山  《绅士Gentle Man》⚡",
-      "url": "https://b23.tv/BV1NwJZ6dEiF"
-    },
-    {
-      "title": "抗日神剧逆天剧情！女兵战场睡觉？睡醒还要给她找吃的！",
-      "url": "https://b23.tv/BV1Cfni6cELz"
-    },
-    {
-      "title": "PCL出事了？那MC下载和联机，我们先顶上了",
-      "url": "https://b23.tv/BV1nCnA6AEYB"
+      "title": "一起命案竟有三十多个嫌疑人？光天化日行凶，却没人看到？《谜探路德维希》第二季 上",
+      "url": "https://b23.tv/BV1utnq6GEam"
     },
     {
       "title": "开超市到底该不该赊账？",
       "url": "https://b23.tv/BV1kPnz6vEJK"
+    },
+    {
+      "title": "抽象历史人物志——张作霖",
+      "url": "https://b23.tv/BV1Whnc6YEdq"
     }
   ],
   "weibo": [
+    {
+      "title": "中国体操女团时隔20年夺冠",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "问界M9事故系单方事故",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "这台世界顶尖大科学装置首次出光",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "比亚迪第二代海鸥7万级唯一闪充",
+      "url": "https://weibo.com/hot/undefined"
+    },
     {
       "title": "红果短剧自砍摇钱树",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "体操世锦赛女团决赛",
+      "title": "宇树机器人展示举起汽车救人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "长征硬核知识点十问十答",
+      "title": "邱祺缘 体操世锦赛",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "肖战小城良方路人进场",
+      "title": "AIVA汽车AI先锋体验官开启招募",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "泽连斯基愿保留75%领土以达和平",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "原来明星租一次高定这么贵啊",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "曝自费高定艺人名字",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "张小斐 救场",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "芭莎 有人在后台不出来",
+      "title": "中国体操女团12套全顺",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -170,128 +170,128 @@
   ],
   "toutiao": [
     {
-      "title": "人民日报评特斯拉能飞：不必妄自菲薄",
-      "url": "https://www.toutiao.com/trending/7698981088210849318/"
+      "title": "乌克兰接受冻结战线意味着什么",
+      "url": "https://www.toutiao.com/trending/7699256618650701321/"
     },
     {
-      "title": "泽连斯基：愿保留75%领土以达和平",
-      "url": "https://www.toutiao.com/trending/7699090821399711295/"
+      "title": "中国限制盾构机出口对印度影响有多大",
+      "url": "https://www.toutiao.com/trending/7699137678452723254/"
     },
     {
       "title": "中国经济发展绿色化底色愈加鲜明",
       "url": "https://www.toutiao.com/trending/7699023554351988774/"
     },
     {
+      "title": "泽连斯基做出重大让步释放什么信号",
+      "url": "https://www.toutiao.com/trending/7699170841732320822/"
+    },
+    {
+      "title": "人民日报评特斯拉能飞：不必妄自菲薄",
+      "url": "https://www.toutiao.com/trending/7698981088210849318/"
+    },
+    {
       "title": "唐驳虎：中国老板已准备放弃越南了",
       "url": "https://www.toutiao.com/trending/7699071560463683126/"
     },
     {
-      "title": "李胜峰：大陆做好迎接任何挑战的准备",
-      "url": "https://www.toutiao.com/trending/7699055682305163786/"
+      "title": "泽连斯基：愿保留75%领土以达和平",
+      "url": "https://www.toutiao.com/trending/7699090821399711295/"
     },
     {
-      "title": "人类历史上最大的投资泡沫或正在破裂",
-      "url": "https://www.toutiao.com/trending/7698732264695270953/"
+      "title": "中国体操女团时隔20年世锦赛夺冠",
+      "url": "https://www.toutiao.com/trending/7699256509187755570/"
     },
     {
-      "title": "传国玉玺究竟去哪了",
-      "url": "https://www.toutiao.com/trending/7699050649929777206/"
+      "title": "俄方称需要的是和平而非停火",
+      "url": "https://www.toutiao.com/trending/7699032920396366345/"
     },
     {
-      "title": "12306回应Z114次列车开售即售罄",
-      "url": "https://www.toutiao.com/trending/7698315451750891563/"
-    },
-    {
-      "title": "“小天才”就不能安安心心做块表吗",
-      "url": "https://www.toutiao.com/trending/7699010926602620479/"
-    },
-    {
-      "title": "外媒：普京决定释放美国公民哈伯德",
-      "url": "https://www.toutiao.com/trending/7698940758066053161/"
+      "title": "意政府增派军人并批准法令以应对骚乱",
+      "url": "https://www.toutiao.com/trending/7698906334275863091/"
     }
   ],
   "ithome": [
     {
-      "title": "IBM 2026 财年半年报归母净利润 55.71 亿美元，同比增长 11.58%",
-      "url": "/1/016/165.htm"
+      "title": "苹果首款折叠 iPhone Duo 运行温度高吗？海外媒体评测汇总",
+      "url": "/1/016/188.htm"
     },
     {
-      "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
-      "url": "/1/016/160.htm"
+      "title": "Meta CEO 扎克伯格：长期烧钱的 Muse 和 Reality Labs 终于盈利在望",
+      "url": "/1/016/186.htm"
     },
     {
-      "title": "799 元雷蛇北海巨妖萌猫版 V3 有线耳机发布：猫耳 RGB 灯效可随直播互动，支持 7.1 环绕声",
-      "url": "/1/016/158.htm"
+      "title": "EA 启动成本削减计划：裁员 400 人、关闭 BioWare 工作室，并取消《质量效应》新作",
+      "url": "/1/016/185.htm"
     },
     {
-      "title": "苹果公布 Apple Music 全新品牌标识，创作灵感来自声音振动、声波实拍",
-      "url": "/1/016/157.htm"
+      "title": "苹果首款折叠 iPhone Duo 海外媒体评价汇总：外屏处理琐事，内屏留给沉浸",
+      "url": "/1/016/184.htm"
     },
     {
-      "title": "NASA 公布月球探测车最新进展：VIPER 计划 2027 年探测月球南极水冰资源",
-      "url": "/1/016/149.htm"
+      "title": "SpaceX 与特斯拉若合并，马斯克财富有望增加 1100 亿美元",
+      "url": "/1/016/183.htm"
     },
     {
-      "title": "英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%",
-      "url": "/1/016/148.htm"
+      "title": "全国首创：浙江移动率先实现全省范围停机状态 110 双向回拨",
+      "url": "/1/016/182.htm"
     },
     {
-      "title": "OPPO 推出 Find X10 全球版手机：电池相比国行版缩减 850mAh，缺少 16GB+1TB 版本",
-      "url": "/1/016/147.htm"
+      "title": "IT早报 1022：苹果 iPhone Duo 三方应用界面首曝；问界、神木警方回应汽车碰撞起火司机遇难事件；马斯克暗示 SpaceX+ 特斯拉合并；荣耀 WIN 2 手机发布...",
+      "url": "/1/016/181.htm"
     },
     {
-      "title": "美的京东自营：纯钛炒锅 3 代 1122 → 399 元预售，首发赠钛养生壶 + 硅胶铲",
-      "url": "https://lapin.ithome.com/html/digi/1016060.htm"
+      "title": "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半",
+      "url": "/1/016/180.htm"
     },
     {
-      "title": "苹果 iPhone Duo 将于今年晚些时候支持“便捷访问”单手模式",
-      "url": "/1/016/146.htm"
+      "title": "苹果首款折叠 iPhone Duo 屏下摄像头媒体评价：镜头藏住了，画质没跟上",
+      "url": "/1/016/179.htm"
     },
     {
-      "title": "腾讯内测 AI 互动社区“懂了鸭”：一句话生成可玩的动态课件与 3D 演示",
-      "url": "/1/016/145.htm"
+      "title": "应对加州富人税：Meta 向扎克伯格配发 C 类无投票权股份，换其扎根加州 8 年承诺",
+      "url": "/1/016/178.htm"
     }
   ],
   "github": [
     {
-      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills"
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "title": "anomalyco/opencode: The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode"
     },
     {
       "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
-      "title": "VoltAgent/awesome-design-md: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "url": "https://github.com/VoltAgent/awesome-design-md"
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
-      "title": "deepseek-ai/DeepSeek-R1: 无描述",
-      "url": "https://github.com/deepseek-ai/DeepSeek-R1"
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
     },
     {
-      "title": "shareAI-lab/learn-claude-code: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-      "url": "https://github.com/shareAI-lab/learn-claude-code"
+      "title": "Graphify-Labs/graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "url": "https://github.com/Graphify-Labs/graphify"
     },
     {
-      "title": "sansan0/TrendRadar: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-      "url": "https://github.com/sansan0/TrendRadar"
-    },
-    {
-      "title": "bmad-code-org/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development",
-      "url": "https://github.com/bmad-code-org/BMAD-METHOD"
-    },
-    {
-      "title": "multica-ai/multica: Make humans and AI agents work as one team — open-source and self-hostable.",
-      "url": "https://github.com/multica-ai/multica"
-    },
-    {
-      "title": "apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
-      "url": "https://github.com/apple/container"
-    },
-    {
-      "title": "shiyu-coder/Kronos: Kronos: A Foundation Model for the Language of Financial Markets",
-      "url": "https://github.com/shiyu-coder/Kronos"
+      "title": "openai/codex: Lightweight coding agent that runs in your terminal",
+      "url": "https://github.com/openai/codex"
     }
   ],
   "huggingface": [
