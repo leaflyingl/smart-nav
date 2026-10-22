@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-22T10:29:33.494Z",
+  "updatedAt": "2026-10-22T15:33:49.811Z",
   "sina": [
+    {
+      "title": "编程语言PHP严重漏洞引发全球紧急修复 多地网站暂时下线",
+      "url": "https://finance.sina.com.cn/world/2026-10-22/doc-iniwchpc5209421.shtml"
+    },
+    {
+      "title": "电车时 代的加油站！北汽加入宁德时 代换电朋友圈 多款车型接入巧克力换电系统",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwchpf5917477.shtml"
+    },
+    {
+      "title": "SpaceX：下一个伯克希尔，还是一盘乱局？",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchph8220452.shtml"
+    },
+    {
+      "title": "何小鹏：L4 技术落地大概在 2028 年下半年，需要全体系软硬件一起开发",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-22/doc-iniwchpf5902167.shtml"
+    },
+    {
+      "title": "英伟达CEO黄仁勋：新云厂商需求“高到离谱” 但资金紧缺",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwcafk8162857.shtml"
+    },
+    {
+      "title": "PHP高危漏洞曝光：360免费开放图龙锋安全体检服务，主动排查漏洞风险",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwcafk8155857.shtml"
+    },
+    {
+      "title": "小产品叩开大市场",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcafi5873689.shtml"
+    },
     {
       "title": "麻六记回应阿宽食品应收账款：属阶段性账款，非欠款",
       "url": "https://finance.sina.com.cn/tech/it/2026-10-22/doc-iniwavxi5233497.shtml"
@@ -12,251 +40,219 @@
     {
       "title": "花旗：受新云厂商行情波动影响 短期IPO市场趋于谨慎",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwavxi5191543.shtml"
-    },
-    {
-      "title": "宇树科技王兴兴：我很害怕浪费每一天，这代人有希望把人形机器人生产力提升到下一个台阶",
-      "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamiu4932992.shtml"
-    },
-    {
-      "title": "王腾旗下今日宜休布局智能温控领域新赛道",
-      "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamir5909424.shtml"
-    },
-    {
-      "title": "火山引擎启动Seedance 2.5 4K企业试用 第一批定向供应 20 家工作室",
-      "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamir5904634.shtml"
-    },
-    {
-      "title": "宇树科技王兴兴：宇树G1机器人已经累计生产下线约1-2万台",
-      "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamis8046402.shtml"
-    },
-    {
-      "title": "打通论文发布与社区讨论链路 知乎推出“Paper开源计划”",
-      "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamip5163970.shtml"
-    },
-    {
-      "title": "对话谢瑞麟珠宝谢达峰：行业集体“向左走”，我们选择“向右走”",
-      "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwaezr5203258.shtml"
-    },
-    {
-      "title": "无界动力发布并开源 MWA™-Phoenix 隐空间世界模型基座",
-      "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwaezr5192315.shtml"
     }
   ],
   "baidu": [
+    {
+      "title": "西藏那曲市7.0级地震",
+      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%B8%827.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "全球70%网站都危险了",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "红军为何总能绝处逢生",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E5%86%9B%E4%B8%BA%E4%BD%95%E6%80%BB%E8%83%BD%E7%BB%9D%E5%A4%84%E9%80%A2%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "国乒女团2比3日本 获亚锦赛亚军",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A22%E6%AF%943%E6%97%A5%E6%9C%AC+%E8%8E%B7%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "青海玉树4.3级地震",
+      "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E7%8E%89%E6%A0%914.3%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "女子100天零违章获奖1吨汽油",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90100%E5%A4%A9%E9%9B%B6%E8%BF%9D%E7%AB%A0%E8%8E%B7%E5%A5%961%E5%90%A8%E6%B1%BD%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "美股芯片、光通信股深夜跳水",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news"
+    },
     {
       "title": "大火逼近中国 日本道歉岂能只道一半",
       "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%81%AB%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD+%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%E5%B2%82%E8%83%BD%E5%8F%AA%E9%81%93%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "演唱会黄牛一个月获利100万",
-      "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E9%BB%84%E7%89%9B%E4%B8%80%E4%B8%AA%E6%9C%88%E8%8E%B7%E5%88%A9100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "接班贾玲的重任落她身上了",
+      "url": "https://www.baidu.com/s?wd=%E6%8E%A5%E7%8F%AD%E8%B4%BE%E7%8E%B2%E7%9A%84%E9%87%8D%E4%BB%BB%E8%90%BD%E5%A5%B9%E8%BA%AB%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "长征 永远在路上",
-      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E5%BE%81+%E6%B0%B8%E8%BF%9C%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "北京市副市长夏林茂被查",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E5%A4%8F%E6%9E%97%E8%8C%82%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "13岁“老赖之女”出道争议",
-      "url": "https://www.baidu.com/s?wd=13%E5%B2%81%E2%80%9C%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E2%80%9D%E5%87%BA%E9%81%93%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "大叔在农村开拼豆店被嘲后回应",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9C%A8%E5%86%9C%E6%9D%91%E5%BC%80%E6%8B%BC%E8%B1%86%E5%BA%97%E8%A2%AB%E5%98%B2%E5%90%8E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "比亚迪旗下多款车型海外售价在百万级",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%97%97%E4%B8%8B%E5%A4%9A%E6%AC%BE%E8%BD%A6%E5%9E%8B%E6%B5%B7%E5%A4%96%E5%94%AE%E4%BB%B7%E5%9C%A8%E7%99%BE%E4%B8%87%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "王兴兴：做到世界第一要看一些运气",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%EF%BC%9A%E5%81%9A%E5%88%B0%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E8%A6%81%E7%9C%8B%E4%B8%80%E4%BA%9B%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "手握10篇SCI医学生盲猜病情引争议",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%8F%A110%E7%AF%87SCI%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9B%B2%E7%8C%9C%E7%97%85%E6%83%85%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "张萌后悔找马天宇上节目",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%90%8C%E5%90%8E%E6%82%94%E6%89%BE%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%8A%E8%8A%82%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "宁德时代董秘被打？知情人士回应",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E8%91%A3%E7%A7%98%E8%A2%AB%E6%89%93%EF%BC%9F%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
-    {
-      "title": "《影之刃零》最终预告",
-      "url": "https://b23.tv/BV1AHnB6NEhM"
-    },
     {
       "title": "《最绝望の守门员》",
       "url": "https://b23.tv/BV1g5nk6xEWk"
     },
     {
-      "title": "FPS游戏必学两大焚诀，学会胜率直接飙升！",
-      "url": "https://b23.tv/BV1i5nz6ZEZv"
+      "title": "《影之刃零》最终预告",
+      "url": "https://b23.tv/BV1AHnB6NEhM"
     },
     {
-      "title": "韩国要收回美国权力指挥美军",
-      "url": "https://b23.tv/BV1kTnr63EBF"
-    },
-    {
-      "title": "李信！永远的TOP1！！！",
-      "url": "https://b23.tv/BV1ivni6mEwe"
-    },
-    {
-      "title": "全球总决赛回忆挑战，谁是LPL全能王？【开麦了LPL】",
-      "url": "https://b23.tv/BV1QQnk6FEzG"
-    },
-    {
-      "title": "折1万次，会坏吗？iPhone Duo深度评测",
-      "url": "https://b23.tv/BV1xrnz6gEVD"
-    },
-    {
-      "title": "《见面》",
-      "url": "https://b23.tv/BV1CFnz6MEmW"
+      "title": "用寂静岭的画风打开《周处除三害》【AI MV大赛】",
+      "url": "https://b23.tv/BV1Cdni6AEQB"
     },
     {
       "title": "燕云×1818黄金眼 | 长乐未央，天下无诈",
       "url": "https://b23.tv/BV1nHn16EEkL"
     },
     {
-      "title": "小狗如奶油般融化…",
-      "url": "https://b23.tv/BV1Agnr6gEPk"
+      "title": "《代号：神不言》UFSH2026参会实机技术演示&实机特别影像",
+      "url": "https://b23.tv/BV1fNnv6EEon"
+    },
+    {
+      "title": "折1万次，会坏吗？iPhone Duo深度评测",
+      "url": "https://b23.tv/BV1xrnz6gEVD"
+    },
+    {
+      "title": "别点！点了就会变成白毛控！",
+      "url": "https://b23.tv/BV18Unm6qEPo"
+    },
+    {
+      "title": "“锁暝 好高好高哦~”",
+      "url": "https://b23.tv/BV1k7nm6ZEnX"
+    },
+    {
+      "title": "【长征颂歌】90位仪仗兵、90步铿锵正步、90面庄严旗帜，致敬伟大胜利！",
+      "url": "https://b23.tv/BV1s3np6dEPT"
+    },
+    {
+      "title": "韩国要收回美国权力指挥美军",
+      "url": "https://b23.tv/BV1kTnr63EBF"
     }
   ],
   "weibo": [
     {
-      "title": "小城良方辟谣刘铮亮涂美甲",
+      "title": "西藏7级地震",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "北京市副市长夏林茂被查",
+      "title": "国乒女团2比3日本女团",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "在新长征路上阔步前行",
+      "title": "我国面向全球的自贸网络已经初步成型",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "上京东买家电家居折上7折",
+      "title": "后会友期 想请不敢请的都放观察室了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "参与过四级手术",
+      "title": "赵丽颖霍建华 剧播不好别怪妆造",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "李子祺回应自称参加过4级手术",
+      "title": "人民日报评张凌赫申请赴台遭拒",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "日本教练队员都没等张本智和先行离开",
+      "title": "象往的开封之旅",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "麻六记位列阿宽食品第一大欠款方",
+      "title": "人民日报评医学生盲猜病情",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "马嘉祺艾米 偏偏宠爱",
+      "title": "许超医生谈李子祺称参加过4级手术",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "国乒男团3比1中国台北",
+      "title": "在星巴克开会1小时被提醒点单5次",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "演唱会黄牛一个月获利100万",
-      "url": "https://www.toutiao.com/trending/7699364505523929609/"
+      "title": "西藏那曲巴青县发生7.0级地震",
+      "url": "https://www.toutiao.com/trending/7699503642620988966/"
+    },
+    {
+      "title": "人形机器人板块集体涨停释放何信号",
+      "url": "https://www.toutiao.com/trending/7699493765660020262/"
+    },
+    {
+      "title": "新兴领域良性循环加快形成",
+      "url": "https://www.toutiao.com/trending/7698940518893617206/"
+    },
+    {
+      "title": "女子100天零违章获奖1吨汽油",
+      "url": "https://www.toutiao.com/trending/7699338619609399334/"
+    },
+    {
+      "title": "时速400公里的高铁真要来了吗",
+      "url": "https://www.toutiao.com/trending/7699455738569051667/"
+    },
+    {
+      "title": "人民日报评星巴克“消费入座”",
+      "url": "https://www.toutiao.com/trending/7699423398862016041/"
+    },
+    {
+      "title": "亚锦赛国乒女团决赛不敌日本",
+      "url": "https://www.toutiao.com/trending/7699314707970424859/"
+    },
+    {
+      "title": "大火逼近中国 日本道歉岂能只道一半",
+      "url": "https://www.toutiao.com/trending/7698626535502364698/"
+    },
+    {
+      "title": "北京市委就夏林茂被查表态",
+      "url": "https://www.toutiao.com/trending/7699467341230329394/"
     },
     {
       "title": "张本智和被打出0-11惨败",
       "url": "https://www.toutiao.com/trending/7699013794890055731/"
-    },
-    {
-      "title": "薪火相传走好新的长征路",
-      "url": "https://www.toutiao.com/trending/7699379314298474025/"
-    },
-    {
-      "title": "北京市委常委夏林茂被查",
-      "url": "https://www.toutiao.com/trending/7699402537438363689/"
-    },
-    {
-      "title": "张本智和输球后扶桌跪地",
-      "url": "https://www.toutiao.com/trending/7699058822333136937/"
-    },
-    {
-      "title": "泽连斯基对领土态度为什么突然松动",
-      "url": "https://www.toutiao.com/trending/7698971932829564947/"
-    },
-    {
-      "title": "蒋万安宣布暂停一切竞选活动应对台风",
-      "url": "https://www.toutiao.com/trending/7699307820709282342/"
-    },
-    {
-      "title": "欠款未还清 担保人承担连带还款责任",
-      "url": "https://www.toutiao.com/trending/7699350792259633161/"
-    },
-    {
-      "title": "中方回应是否同胡塞武装保持沟通",
-      "url": "https://www.toutiao.com/trending/7699071692290932745/"
-    },
-    {
-      "title": "女子叫顺风车司机竟让她来开",
-      "url": "https://www.toutiao.com/trending/7699376676354146346/"
     }
   ],
   "ithome": [
     {
-      "title": "壹号本 OneXPlayer 3 三合一游戏掌机体验：首发英特尔 Arc G3 Extreme，35W 畅玩百帧黑神话悟空",
-      "url": "/1/016/637.htm"
+      "title": "《GTA6》发售前，R 星悄悄往迈阿密塞入各种游戏元素",
+      "url": "/1/016/750.htm"
     },
     {
-      "title": "3899 → 2399 元：石头 P20 Ultra 活水版扫拖机器人官方新低",
-      "url": "/1/016/636.htm"
+      "title": "华为官网公布乾崑智驾 ADS 5 各版本配置能力差异，Max 独占漫游巡航辅助 RCA、车位到车位等功能",
+      "url": "/1/016/749.htm"
     },
     {
-      "title": "荣耀 MagicOS 11 第三批内测 log 版本今晚推送，覆盖 Robot Phone、Magic5 系列等 28 款机型",
-      "url": "/1/016/635.htm"
+      "title": "中国一汽 — 广汽集团联合工作组成立启动会召开",
+      "url": "/1/016/748.htm"
     },
     {
-      "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，将 Token 消耗降低超 90%",
-      "url": "/1/016/633.htm"
+      "title": "Epic 喜加二：《斯盖尔仪式》《归家》游戏免费领",
+      "url": "/1/016/744.htm"
     },
     {
-      "title": "iPhone Duo 京东 + 1999 元轻享套装蹲点抢，京东淘宝 1.1 元大红包 20:00 不限量发放",
-      "url": "/1/016/631.htm"
+      "title": "红魔授权服务中心售后网点官宣覆盖全国 60 余座城市，持续扩容中",
+      "url": "/1/016/746.htm"
     },
     {
-      "title": "消息称特斯拉与三星电机签署 FC-BGA 基板供应协议，投资 1.1 万亿韩元",
-      "url": "/1/016/630.htm"
+      "title": "Durabook 推出 R12 三防平板：至高酷睿 Ultra 7 366H 处理器、RTX 2000 Ada 显卡",
+      "url": "/1/016/745.htm"
     },
     {
-      "title": "苹果限制调整或影响支付、拉起小程序等，微信发布关于 Xcode 27 与 iOS 27 的 OpenSDK 适配提醒",
-      "url": "/1/016/629.htm"
+      "title": "商务部：将出台加快智能产品在消费领域应用工作方案",
+      "url": "/1/016/743.htm"
     },
     {
-      "title": "179 → 52.9 元：361° 摇粒绒套头绒里卫衣 2.9 折官方发车",
-      "url": "https://lapin.ithome.com/html/digi/1016622.htm"
+      "title": "比尔 · 盖茨：人们要为 AI 带来的二十年颠覆性变革做好准备",
+      "url": "/1/016/742.htm"
     },
     {
-      "title": "苹果首款折叠屏手机 iPhone Duo 京东率先开售：国行 15999 元起，7.6 英寸内屏配 A20 Pro",
-      "url": "/1/016/621.htm"
+      "title": "黑峡谷推出 WEEK 系列全铝三模矮轴机械键盘：84/100 双版本，539 元起",
+      "url": "/1/016/741.htm"
     },
     {
-      "title": "我国再添大科学装置，“模式动物表型与遗传研究”通过国家验收",
-      "url": "/1/016/620.htm"
+      "title": "4.0g 蛋白质！京东自营纯牛奶 1.66 元 / 盒闭眼囤，约合 8 元 / L 原生高钙",
+      "url": "https://lapin.ithome.com/html/digi/1016662.htm"
     }
   ],
   "github": [
-    {
-      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw"
-    },
     {
       "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea"
@@ -268,10 +264,6 @@
     {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
     },
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
@@ -290,8 +282,16 @@
       "url": "https://github.com/anomalyco/opencode"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
+      "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "title": "github/spec-kit: 💫 Toolkit to help you get started with SDD or any other process!",
+      "url": "https://github.com/github/spec-kit"
     }
   ],
   "huggingface": [
