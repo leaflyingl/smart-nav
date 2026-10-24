@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-23T23:56:50.524Z",
+  "updatedAt": "2026-10-24T04:08:43.617Z",
   "sina": [
+    {
+      "title": "英伟达、谷歌加持 B站启动AI创造公开赛新赛季",
+      "url": "https://finance.sina.com.cn/tob/2026-10-24/doc-iniwhxpq8092815.shtml"
+    },
+    {
+      "title": "东风风神L8+上市：搭载700TOPS算力智驾，售价12.99万元起",
+      "url": "https://finance.sina.com.cn/tob/2026-10-24/doc-iniwhtfu4962608.shtml"
+    },
+    {
+      "title": "拼多多紧急捐赠1000万元 驰援西藏那曲抗震救灾",
+      "url": "https://finance.sina.com.cn/tob/2026-10-24/doc-iniwhtfu4953813.shtml"
+    },
     {
       "title": "科大讯飞连发AI新品：涵盖语音、多模态、具身多模交互，推出机器人超脑平台V3.0",
       "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfruh5072367.shtml"
@@ -28,66 +40,78 @@
     {
       "title": "软银加持的Oravel在印度IPO估值遇压",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwffek8227406.shtml"
-    },
-    {
-      "title": "高德宣布全面适配iPhone Duo，将推出全球首个针对可折叠设计iPhone的分屏导航",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwffeq1889926.shtml"
-    },
-    {
-      "title": "周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwffen4974378.shtml"
-    },
-    {
-      "title": "黄仁勋访问哈萨克斯坦之际 英伟达投资AI视频图像生成公司Higgsfield",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwffes2618404.shtml"
     }
   ],
   "baidu": [
     {
-      "title": "西藏7.0级地震救援最新进展",
-      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "数十万辆新能源“孤儿车”谁负责修",
+      "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "LPL首轮全军覆没",
-      "url": "https://www.baidu.com/s?wd=LPL%E9%A6%96%E8%BD%AE%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "人民子弟兵投入西藏巴青抗震救灾",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E6%8A%95%E5%85%A5%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "猕猴桃“最团结的水果”",
-      "url": "https://www.baidu.com/s?wd=%E7%8C%95%E7%8C%B4%E6%A1%83%E2%80%9C%E6%9C%80%E5%9B%A2%E7%BB%93%E7%9A%84%E6%B0%B4%E6%9E%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "S16",
-      "url": "https://www.baidu.com/s?wd=S16&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "未成年人向火锅小便 家长被判赔220万",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%90%91%E7%81%AB%E9%94%85%E5%B0%8F%E4%BE%BF+%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%94220%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "首部龙标AI电影正式上映",
+      "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8%E9%BE%99%E6%A0%87AI%E7%94%B5%E5%BD%B1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "祝贺！中国成功发射一箭六星",
       "url": "https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "黄友政陈熠2比3日本组合获亚军",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%8F%8B%E6%94%BF%E9%99%88%E7%86%A02%E6%AF%943%E6%97%A5%E6%9C%AC%E7%BB%84%E5%90%88%E8%8E%B7%E4%BA%9A%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "全民“戒断”红果 可能吗",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E2%80%9C%E6%88%92%E6%96%AD%E2%80%9D%E7%BA%A2%E6%9E%9C+%E5%8F%AF%E8%83%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“每个班都有学生因心困休学”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%8F%E4%B8%AA%E7%8F%AD%E9%83%BD%E6%9C%89%E5%AD%A6%E7%94%9F%E5%9B%A0%E5%BF%83%E5%9B%B0%E4%BC%91%E5%AD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“订单排到2031年” 重量级国货爆单",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02031%E5%B9%B4%E2%80%9D+%E9%87%8D%E9%87%8F%E7%BA%A7%E5%9B%BD%E8%B4%A7%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "只有369摸到过高地",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%AA%E6%9C%89369%E6%91%B8%E5%88%B0%E8%BF%87%E9%AB%98%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "乡村走秀爆火 女生被夸是第二个刘雯",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E8%B5%B0%E7%A7%80%E7%88%86%E7%81%AB+%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%A4%B8%E6%98%AF%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%88%98%E9%9B%AF&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "官方通报女孩卖掉妈妈金项链被熔化",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%A9%E5%8D%96%E6%8E%89%E5%A6%88%E5%A6%88%E9%87%91%E9%A1%B9%E9%93%BE%E8%A2%AB%E7%86%94%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "毛不易出席多年好友婚礼致辞引争议",
+      "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%87%BA%E5%B8%AD%E5%A4%9A%E5%B9%B4%E5%A5%BD%E5%8F%8B%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "有些癌症真是“胖出来的”",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%9B%E7%99%8C%E7%97%87%E7%9C%9F%E6%98%AF%E2%80%9C%E8%83%96%E5%87%BA%E6%9D%A5%E7%9A%84%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "任泽平微信公众号违规被禁止关注",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E6%B3%BD%E5%B9%B3%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E8%BF%9D%E8%A7%84%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
+      "title": "“大肥鱼适合做女朋友吗？”",
+      "url": "https://b23.tv/BV166nW6REyR"
+    },
+    {
+      "title": "有用版新植物：野狗小喷菇",
+      "url": "https://b23.tv/BV1G1nb6oExa"
+    },
+    {
       "title": "人工耳蜗里的声音，到底是什么样的？",
       "url": "https://b23.tv/BV14Enb6LEDe"
+    },
+    {
+      "title": " 【独家】《凡人修仙传之慕兰之战》第21集【总第197集】",
+      "url": "https://b23.tv/BV1ojn86vEeU"
+    },
+    {
+      "title": "山河旅探团队新作：多人联机游戏《潜梦者》首曝|独行或结伴，潜入梦之海",
+      "url": "https://b23.tv/BV1knns6tEJo"
+    },
+    {
+      "title": "😨\"后室里的乌鲁鲁3\"😰",
+      "url": "https://b23.tv/BV1Honn67ENm"
+    },
+    {
+      "title": "《洛克王国：世界》S5赛季「圣龙宝藏」PV首曝，11月5日冒险启程！",
+      "url": "https://b23.tv/BV1C8nH69Ekq"
     },
     {
       "title": "传统口技表演《大闹天宫》",
@@ -98,200 +122,176 @@
       "url": "https://b23.tv/BV1z9nt6aE5H"
     },
     {
-      "title": "【独家】时光代理人 第三季 PartOne 第12集 欢迎回家【8月国创】",
-      "url": "https://b23.tv/BV14Snw6gEjL"
-    },
-    {
-      "title": "影视飓风员工，开什么车？",
-      "url": "https://b23.tv/BV16inH6SEvM"
-    },
-    {
-      "title": "为了妈妈，全校老师同学最团结的一集",
-      "url": "https://b23.tv/BV1yjnm68Eud"
-    },
-    {
-      "title": "😨\"后室里的乌鲁鲁3\"😰",
-      "url": "https://b23.tv/BV1Honn67ENm"
-    },
-    {
-      "title": "“大肥鱼适合做女朋友吗？”",
-      "url": "https://b23.tv/BV166nW6REyR"
-    },
-    {
-      "title": "《原神》7.2版本「坏灭肇始之时」前瞻特别节目",
-      "url": "https://b23.tv/BV14Enb6LEBX"
-    },
-    {
-      "title": "四人行，必有一怂蛋",
-      "url": "https://b23.tv/BV1M1np6YE8c"
+      "title": "教科书式的优化！蜀面豪杰自来也实战思路",
+      "url": "https://b23.tv/BV1Vdny6KE6D"
     }
   ],
   "weibo": [
     {
-      "title": "独生女继承2亿遗产1年后遭离婚分产",
+      "title": "父亲突发脑梗儿子用AI抢出救命时间",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "lpl瑞士轮首轮全败",
+      "title": "任泽平账号违规被禁止关注",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "红星照耀青春长征路",
+      "title": "高质量发展看重庆",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "13岁女孩卖金项链被金店当面熔化",
+      "title": "跟着披哥上京东健康好物6.8折",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "BLG重量级爆冷",
+      "title": "杜兰特福克斯爆发冲突",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "一个家里只能有一个女主人",
+      "title": "宝爸激动大叫吓得宝宝撤回一个清华",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "众解说看LPL瑞士轮四连败反应",
+      "title": "官方通报13岁女孩卖金项链被熔化",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "王楚钦多次退赛会被赋零分吗",
+      "title": "律师回应独生女继承2亿遭离婚分产",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "GEN翻盘iG",
+      "title": "王志军任湖南省委书记",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "BLG回应不敌MKOI",
+      "title": "年轻人正在抛弃帆布鞋",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "西藏强震成因揭晓",
-      "url": "https://www.toutiao.com/trending/7699809994400599593/"
+      "title": "西藏巴青县地震前后遥感图发布",
+      "url": "https://www.toutiao.com/trending/7700028066122173993/"
+    },
+    {
+      "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐",
+      "url": "https://www.toutiao.com/trending/7699472218053066815/"
+    },
+    {
+      "title": "藏北高原上的生命驰援",
+      "url": "https://www.toutiao.com/trending/7700028066122206761/"
+    },
+    {
+      "title": "湖南麻阳县委书记穿张雪机车服助威",
+      "url": "https://www.toutiao.com/trending/7700053083967062566/"
+    },
+    {
+      "title": "长六改火箭升空画出绝美“水母云”",
+      "url": "https://www.toutiao.com/trending/7699835840075710518/"
     },
     {
       "title": "普京问乌克兰真准备战至最后一人吗",
       "url": "https://www.toutiao.com/trending/7699084264075182134/"
     },
     {
-      "title": "数字看长征 回望英雄路",
-      "url": "https://www.toutiao.com/trending/7699399358781066815/"
-    },
-    {
-      "title": "国乒混双2:3不敌日本 亚锦赛遗憾摘银",
-      "url": "https://www.toutiao.com/trending/7700004464874229302/"
-    },
-    {
-      "title": "许家印被曝曾花13亿港元买艺术品",
-      "url": "https://www.toutiao.com/trending/7699755083384881691/"
-    },
-    {
       "title": "李雪健已无法说话 仅靠表情完成演出",
       "url": "https://www.toutiao.com/trending/7699399358780968511/"
     },
     {
-      "title": "两女生投150万开无烟酒吧倒闭",
-      "url": "https://www.toutiao.com/trending/7699658939898413099/"
+      "title": "郭宁宁任福建省政府党组书记",
+      "url": "https://www.toutiao.com/trending/7700058500340125235/"
     },
     {
-      "title": "评论员：胡塞武装学会了俄军的打法",
-      "url": "https://www.toutiao.com/trending/7699853436719730230/"
+      "title": "任泽平微信公众号违规被禁止关注",
+      "url": "https://www.toutiao.com/trending/7698950270172250150/"
     },
     {
-      "title": "如果金融危机来了哪种资产最保值",
-      "url": "https://www.toutiao.com/trending/7699996218004344374/"
-    },
-    {
-      "title": "海底捞小便案细节：商家索赔2300万",
-      "url": "https://www.toutiao.com/trending/7699622145667760191/"
+      "title": "英伟达蒸发4万亿 AI泡沫来了吗",
+      "url": "https://www.toutiao.com/trending/7700028655807794714/"
     }
   ],
   "ithome": [
     {
-      "title": "苹果推送 iOS 27.1 更新，其首款折叠 iPhone Duo 独享",
-      "url": "/1/017/292.htm"
+      "title": "华硕 ROG：枪神 7 / 魔霸新锐 (2023) 质量符合国标，仍会为主板边缘受损笔电提供免费保修",
+      "url": "/1/017/339.htm"
     },
     {
-      "title": "IT早报 1024：月之暗面发布 Kimi K3.1 Pro；诋毁嘲讽尊界 S800 自媒体博主向尊界道歉；华为 Pura90 Plus 开启预订；iPhone Duo 内屏膜撕下秒变亮面屏...",
-      "url": "/1/017/291.htm"
+      "title": "定位“年轻人的智能零压 SUV”，东风日产 NX7 公布 5 款外观配色",
+      "url": "/1/017/338.htm"
     },
     {
-      "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
-      "url": "/1/017/290.htm"
+      "title": "微软 Win11 预览版优化原生测速体验，不再开浏览器跳转 Bing",
+      "url": "/1/017/337.htm"
     },
     {
-      "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
-      "url": "/1/017/289.htm"
+      "title": "6 套刷头搞定厨房清洁，HOTO 小猴多功能电动清洁刷 399 → 229 元省力不费手（赠美工刀）",
+      "url": "https://lapin.ithome.com/html/digi/1017336.htm"
     },
     {
-      "title": "支付宝官宣适配 iPhone Duo 全场景，支持页面布局自动调整等特性",
-      "url": "/1/017/288.htm"
+      "title": "技嘉展示 B850 AORUS ELITE-P 主板：延续“雕妹”主题，黑色外观",
+      "url": "/1/017/335.htm"
     },
     {
-      "title": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型",
-      "url": "/1/017/287.htm"
+      "title": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”",
+      "url": "/1/017/334.htm"
     },
     {
-      "title": "雷军官宣小米纽北 Workshop 启用，胡峥楠现场实拍曝光全新一代 SU7 Ultra",
-      "url": "/1/017/286.htm"
+      "title": "上海警方大数据精准打击“职业碰瓷大户”：一年多制造交通事故 200 余起，涉案金额达 60 余万元",
+      "url": "/1/017/333.htm"
     },
     {
-      "title": "美国宇航局调整载人登月方案：SpaceX 星舰改在地球附近对接，蓝色起源减少加注环节",
-      "url": "/1/017/285.htm"
+      "title": "LibreOffice 背后公司再掀 18 年前“旧账”，抨击微软操纵 OOXML 标准",
+      "url": "/1/017/332.htm"
     },
     {
-      "title": "Kimi K3.1 Pro 正式发布：月之暗面最强 3 万亿级模型，编程智能体测评超 GPT-6",
-      "url": "/1/017/284.htm"
+      "title": "上汽名爵概念小车 MG Go 量产版谍照曝光，后门把手藏在 C 柱里",
+      "url": "/1/017/331.htm"
     },
     {
-      "title": "32GB 内存可“任性”关闭 Win11 分页文件？微软给出最终答案",
-      "url": "/1/017/283.htm"
+      "title": "梦幻联动：Valve 开发者出手，为任天堂 Switch 2 控制器打造 Linux 驱动",
+      "url": "/1/017/330.htm"
     }
   ],
   "github": [
     {
-      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw"
+      "title": "VoltAgent/awesome-design-md: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "url": "https://github.com/VoltAgent/awesome-design-md"
     },
     {
-      "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "url": "https://github.com/morluto/rea"
+      "title": "Egonex-AI/Understand-Anything: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "url": "https://github.com/Egonex-AI/Understand-Anything"
     },
     {
-      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers"
+      "title": "bmad-code-org/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD"
     },
     {
-      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills"
+      "title": "ChromeDevTools/chrome-devtools-mcp: Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
+      "title": "abhigyanpatwari/GitNexus: GitNexus: The Zero-Server Code Intelligence Engine ",
+      "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
+      "title": "THU-MAIC/OpenMAIC: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "url": "https://github.com/THU-MAIC/OpenMAIC"
     },
     {
-      "title": "NousResearch/hermes-agent: The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent"
+      "title": "codewhale-hq/Codewhale: Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome",
+      "url": "https://github.com/codewhale-hq/Codewhale"
     },
     {
-      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+      "title": "google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "url": "https://github.com/google/langextract"
     },
     {
-      "title": "anomalyco/opencode: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode"
+      "title": "musistudio/claude-code-router: One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.",
+      "url": "https://github.com/musistudio/claude-code-router"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
+      "title": "can1357/oh-my-pi: ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+      "url": "https://github.com/can1357/oh-my-pi"
     }
   ],
   "huggingface": [
