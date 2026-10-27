@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-27T10:49:08.948Z",
+  "updatedAt": "2026-10-27T16:16:43.576Z",
   "sina": [
+    {
+      "title": "苹果发布M6芯片版MacBook Pro与iMac同步升级，AI性能大幅提升",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-27/doc-iniwsses3714190.shtml"
+    },
+    {
+      "title": "红果短剧回应“年收入400亿”传闻：不实信息",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsmww0329690.shtml"
+    },
+    {
+      "title": "红果短剧：网传“红果短剧年收入 400 亿”等为不实信息",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwsmww0325951.shtml"
+    },
+    {
+      "title": "REDMI K100体验：游戏卷王，双芯开大",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/c/2026-10-27/doc-iniwsfqt1281838.shtml"
+    },
+    {
+      "title": "小米 18 Pro 系列全球版机型定价曝光：1549 欧元起",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwsmwr1218837.shtml"
+    },
+    {
+      "title": "影石创新：前三季度实现营收94亿元，同比增长43%",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsmwp4430886.shtml"
+    },
+    {
+      "title": "景嘉微 2026 年前三季度归母净亏损 1.85 亿元，同比由盈转亏",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwsfqr4553859.shtml"
+    },
     {
       "title": "美图RoboNeo新版本发布 聚焦短剧创作者创建IP",
       "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsfqu7072956.shtml"
@@ -12,76 +40,48 @@
     {
       "title": "影石创始人刘靖康财富腰斩，排名下降426位",
       "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsfqw3847563.shtml"
-    },
-    {
-      "title": "泡泡玛特司德：预计中国市场实现全年正增长，长期健康发展仍是集团核心目标",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsfqr4525772.shtml"
-    },
-    {
-      "title": "IDC报告：Q3中国手机市场量跌价升，头部品牌中高端突围",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-27/doc-iniwsfqw3802453.shtml"
-    },
-    {
-      "title": "金山办公WPS for iPhone Duo上线，已支持下载体验",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsfqr4523418.shtml"
-    },
-    {
-      "title": "泡泡玛特王宁家族财富缩水945亿元",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsfqw3801190.shtml"
-    },
-    {
-      "title": "Anthropic大型IPO，澳大利亚散户可投",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqt1290937.shtml"
-    },
-    {
-      "title": "资管机构：2027年末 Anthropic现金储备有望接近4000亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu6990359.shtml"
-    },
-    {
-      "title": "分析：下调Token定价后 Anthropic年度经常收入或突破1000亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqr4503227.shtml"
     }
   ],
   "baidu": [
-    {
-      "title": "人民日报刊文谈《万疆》永久免费授权",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%88%8A%E6%96%87%E8%B0%88%E3%80%8A%E4%B8%87%E7%96%86%E3%80%8B%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E6%8E%88%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news"
-    },
     {
       "title": "外交部回应“姆巴佩遭中国公司解约”",
       "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "把严的基调长期坚持下去",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E4%B8%A5%E7%9A%84%E5%9F%BA%E8%B0%83%E9%95%BF%E6%9C%9F%E5%9D%9A%E6%8C%81%E4%B8%8B%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "中国足协第一时间与皇马严正交涉",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "杀疯的“旋转小火锅”",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%80%E7%96%AF%E7%9A%84%E2%80%9C%E6%97%8B%E8%BD%AC%E5%B0%8F%E7%81%AB%E9%94%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "不断开创新时代管党治党新局面",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“王的猜想”被AI一夜通关",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%8E%8B%E7%9A%84%E7%8C%9C%E6%83%B3%E2%80%9D%E8%A2%ABAI%E4%B8%80%E5%A4%9C%E9%80%9A%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "台风烟花：是的 我又重生回来了",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%EF%BC%9A%E6%98%AF%E7%9A%84+%E6%88%91%E5%8F%88%E9%87%8D%E7%94%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "皇马吧声明：绝不姑息 坚守底线",
-      "url": "https://www.baidu.com/s?wd=%E7%9A%87%E9%A9%AC%E5%90%A7%E5%A3%B0%E6%98%8E%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%A7%91%E6%81%AF+%E5%9D%9A%E5%AE%88%E5%BA%95%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "持证可抵个税3600元",
-      "url": "https://www.baidu.com/s?wd=%E6%8C%81%E8%AF%81%E5%8F%AF%E6%8A%B5%E4%B8%AA%E7%A8%8E3600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "大体老师不是取乐玩物",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E5%8F%96%E4%B9%90%E7%8E%A9%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "比亚迪版“劳斯莱斯”来了",
       "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%89%88%E2%80%9C%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "采购商的行李箱装满中国好物",
-      "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%B4%AD%E5%95%86%E7%9A%84%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%A3%85%E6%BB%A1%E4%B8%AD%E5%9B%BD%E5%A5%BD%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "妻子用米饭炒菜给丈夫做生日蛋糕",
+      "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E7%94%A8%E7%B1%B3%E9%A5%AD%E7%82%92%E8%8F%9C%E7%BB%99%E4%B8%88%E5%A4%AB%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "部委工作人员窃取30万份机密资料",
-      "url": "https://www.baidu.com/s?wd=%E9%83%A8%E5%A7%94%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%AA%83%E5%8F%9630%E4%B8%87%E4%BB%BD%E6%9C%BA%E5%AF%86%E8%B5%84%E6%96%99&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "一家四口在上海地铁扶梯滚落",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%89%B6%E6%A2%AF%E6%BB%9A%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "丰收时节 看稻香里的新品种",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E6%97%B6%E8%8A%82+%E7%9C%8B%E7%A8%BB%E9%A6%99%E9%87%8C%E7%9A%84%E6%96%B0%E5%93%81%E7%A7%8D&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "山东大哥捕获268斤鲅鱼王",
+      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%93%A5%E6%8D%95%E8%8E%B7268%E6%96%A4%E9%B2%85%E9%B1%BC%E7%8E%8B&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
@@ -90,36 +90,36 @@
       "url": "https://b23.tv/BV1kMxM6FECM"
     },
     {
-      "title": "循环歌单【致童年の小曲】“所以呢，你也成为苦瓜大王了吗？”",
-      "url": "https://b23.tv/BV1nbnB68E3E"
+      "title": "《阴阳师》UR大天狗·高天铁羽CG丨飞羽凌云（CV：前野智昭）",
+      "url": "https://b23.tv/BV1KFxK6ZEUk"
     },
     {
-      "title": "最逆天的一集，一号种子16强 一场不胜创造历史【火兰短报15】",
-      "url": "https://b23.tv/BV1SXxN6aEyg"
+      "title": "被人买凶杀死的自媒体人徽剑【热点详解01】",
+      "url": "https://b23.tv/BV1mdxN68E7F"
     },
     {
       "title": "第9期（上）：收官高能局！阿瓦隆烧脑智斗对决【时差五小时3】",
       "url": "https://b23.tv/BV1n4HG6fEXg"
     },
     {
-      "title": "灭霸与钢铁侠的校园生活",
-      "url": "https://b23.tv/BV1bPno6bEBZ"
+      "title": "挑战穿轮滑鞋全程爬武功山登顶后在滑下来",
+      "url": "https://b23.tv/BV1rLxM6sEPk"
     },
     {
-      "title": "张雪米饭问题已经解决，让天下没有难吃的米饭！",
-      "url": "https://b23.tv/BV19HHw6HE68"
+      "title": "根本就没有这种比赛！！",
+      "url": "https://b23.tv/BV1uBnR6tELW"
     },
     {
-      "title": "万字复盘AL惨败北美16强回家！HOPE没有希望，连还手的勇气都没！",
-      "url": "https://b23.tv/BV1yyxK6oEiA"
+      "title": "《信》信仰是什么",
+      "url": "https://b23.tv/BV1TanZ6FEu2"
     },
     {
-      "title": "姆巴佩发表涉华不当言论遭批",
-      "url": "https://b23.tv/BV1UYHF6KEte"
+      "title": "《胡闹厨房》",
+      "url": "https://b23.tv/BV1Xun96tEjo"
     },
     {
-      "title": "【真实锐评】AL一号种子16强：开除必须开除！这简直就是奇耻大辱 ！",
-      "url": "https://b23.tv/BV1rCHF6bEBp"
+      "title": "领导当惯了，谈恋爱也有职业病",
+      "url": "https://b23.tv/BV1A9nR67EhM"
     },
     {
       "title": "财神窦占龙 第13集 杀狼【8月国创】",
@@ -128,139 +128,131 @@
   ],
   "weibo": [
     {
+      "title": "中国足协与皇马俱乐部严正交涉",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
       "title": "外交部回应姆巴佩涉华不当言论",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "姆巴佩涉华不当言论引众怒",
+      "title": "从多组硬核数据透视高质量发展成绩单",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "我国能源绿色转型成绩单",
+      "title": "中国新晋女首富身家1270亿",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "天猫双11和王安宇打开淘宝出发",
+      "title": "皇马反复碰触国人情感红线",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "姆巴佩多平台被禁言",
+      "title": "麒麟9050峰值仅A20Pro一半",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "大唐辟珠记编剧",
+      "title": "西甲",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "迪奥下架姆巴佩内容",
+      "title": "Hope爆料AL井盖工作内容",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "智搜解读玉簟秋丞磊徐若晗暧昧期",
+      "title": "长征中的隐蔽斗争",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "极客湾谈韬芯片轻舟已过万重山",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "一彩民花10元中682万大奖",
+      "title": "小城良方高开颠走",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
+      "title": "中国足协与皇马俱乐部严正交涉",
+      "url": "https://www.toutiao.com/trending/7700913460418265115/"
+    },
+    {
+      "title": "17岁AI研究员被曝获700万年薪邀约",
+      "url": "https://www.toutiao.com/trending/7701221553450598938/"
+    },
+    {
+      "title": "看作风建设如何落到群众身边",
+      "url": "https://www.toutiao.com/trending/7701305657386864182/"
+    },
+    {
       "title": "外交部回应姆巴佩发表不当言论",
       "url": "https://www.toutiao.com/trending/7701273730273513023/"
+    },
+    {
+      "title": "以议会选举或决定内塔尼亚胡政治生涯",
+      "url": "https://www.toutiao.com/trending/7700981317576458778/"
+    },
+    {
+      "title": "男子趁金价下跌给媳妇买金镯子",
+      "url": "https://www.toutiao.com/trending/7700881630416093220/"
     },
     {
       "title": "小米首个住宅小区开售",
       "url": "https://www.toutiao.com/trending/7699854788087025206/"
     },
     {
-      "title": "风清气正暖民心",
-      "url": "https://www.toutiao.com/trending/7700516506915897371/"
+      "title": "男子称在胖东来买酒1年多后被退差价",
+      "url": "https://www.toutiao.com/trending/7701327572806025279/"
     },
     {
-      "title": "卢拉因何实现逆风翻盘",
-      "url": "https://www.toutiao.com/trending/7701133811580505610/"
+      "title": "前9月规上工业企业利润较快增长",
+      "url": "https://www.toutiao.com/trending/7701305657386896950/"
     },
     {
-      "title": "A股市场二次探底信号出现了吗",
-      "url": "https://www.toutiao.com/trending/7700904035004170294/"
-    },
-    {
-      "title": "前苹果工程师谈折叠屏内屏开裂疑因",
-      "url": "https://www.toutiao.com/trending/7701279058968972854/"
-    },
-    {
-      "title": "外交部：高度关注中东海湾局势变化",
-      "url": "https://www.toutiao.com/trending/7701243764760838706/"
-    },
-    {
-      "title": "A股尾盘跳水 反弹窗口如何看",
-      "url": "https://www.toutiao.com/trending/7701276211934154276/"
-    },
-    {
-      "title": "量质齐升 中国外贸何以表现强劲",
-      "url": "https://www.toutiao.com/trending/7701103445457158170/"
-    },
-    {
-      "title": "金价跌破4000美元 谁在“无脑”砸盘",
-      "url": "https://www.toutiao.com/trending/7701240316673658422/"
+      "title": "A股千元股只剩贵州茅台意味着什么",
+      "url": "https://www.toutiao.com/trending/7701323393794051610/"
     }
   ],
   "ithome": [
     {
-      "title": "一碗牛肉一壶酒：蒙浓五香味酱牛肉 21 元 4 袋双重补贴（多多 52 元）",
-      "url": "https://lapin.ithome.com/html/digi/1018600.htm"
+      "title": "京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁",
+      "url": "/1/018/698.htm"
     },
     {
-      "title": "荷兰计划用 AI 取代 2.5 万个政府工作岗位，目标节省 35 亿欧元",
-      "url": "/1/018/599.htm"
+      "title": "ATK RS8 Air / Neo 电竞键盘发布：87 配列，到手价 299 元起",
+      "url": "/1/018/697.htm"
     },
     {
-      "title": "思特威 2026 年前三季度营收 75.61 亿元同比增长 19.70%，归母净利润 8.4 亿元同比增长 20.05%",
-      "url": "/1/018/597.htm"
+      "title": "Meta AI 负责人罗希特 · 帕特尔离职创业，打造微软 Office 替代方案 Ndoc",
+      "url": "/1/018/696.htm"
     },
     {
-      "title": "广西柳州一男子开启汽车智驾后拍摄“玩手机、吃东西”视频炫耀，被警方依法处置",
-      "url": "/1/018/596.htm"
+      "title": "1099 元雷蛇隐蛛迷你版 65% 磁轴键盘发布，三色键帽混搭设计",
+      "url": "/1/018/695.htm"
     },
     {
-      "title": "影石创新 2026 前三季度营收 94.36 亿元同比增长 42.73%，归母净利润 4783.56 万元同比大降 93.96%",
-      "url": "/1/018/593.htm"
+      "title": "古尔曼爆料苹果 OLED MacBook Pro：边框收窄、转轴重新设计，触摸屏幕时不会晃动",
+      "url": "/1/018/692.htm"
     },
     {
-      "title": "景嘉微 2026 年前三季度归母净亏损 1.85 亿元，同比由盈转亏",
-      "url": "/1/018/591.htm"
+      "title": "《三角洲行动》协助警方破获游戏史最大 DMA 外挂案，涉案金额超 2000 万",
+      "url": "/1/018/691.htm"
     },
     {
-      "title": "9~10 月新鲜日期：特仑苏纯牛奶 250ml 1.88 元 / 盒、7.7 元 / L、29.9 元 / 箱闭眼囤",
-      "url": "https://lapin.ithome.com/html/digi/1018180.htm"
+      "title": "富士推出 instax mini Evo 2 拍立得相机：1600 万像素 CMOS、升级 4.5 寸触控屏",
+      "url": "/1/018/690.htm"
     },
     {
-      "title": "比亚迪：智驾等创新业务稳步推进，将踏实做好经营",
-      "url": "/1/018/594.htm"
+      "title": "280g 重磅新疆棉：网易严选纯棉纯色打底衫 99 → 59 元发车",
+      "url": "https://lapin.ithome.com/html/digi/1018694.htm"
     },
     {
-      "title": "魏牌二代蓝山车型全球首秀：方盒子造型，五座 / 六座双版本，2.0T 插混",
-      "url": "/1/018/592.htm"
+      "title": "消息称某厂 S 小迭代测试 6.85 英寸 2K+144Hz 屏，预计 vivo 旗下",
+      "url": "/1/018/689.htm"
     },
     {
-      "title": "三星前副社长因泄露商业机密获刑 3 年，当庭收押",
-      "url": "/1/018/590.htm"
+      "title": "任天堂明日举办新一期 Indie World 独立游戏直面会，时长约 15 分钟",
+      "url": "/1/018/687.htm"
     }
   ],
   "github": [
-    {
-      "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "url": "https://github.com/morluto/rea"
-    },
-    {
-      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw"
-    },
     {
       "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers"
@@ -292,6 +284,14 @@
     {
       "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
       "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
     }
   ],
   "huggingface": [
