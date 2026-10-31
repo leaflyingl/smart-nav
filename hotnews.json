@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-10-31T19:53:45.538Z",
+  "updatedAt": "2026-10-31T23:11:04.890Z",
   "sina": [
+    {
+      "title": "DeepSeek发布全新Agent架构",
+      "url": "https://finance.sina.com.cn/wm/2026-10-31/doc-inixcwwm7197135.shtml"
+    },
     {
       "title": "长鑫科技：基于 4F² 架构的第六代技术平台 DRAM 完成工程样片验证",
       "url": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4704411.shtml"
@@ -36,10 +40,6 @@
     {
       "title": "奇瑞金弋波回应多品牌策略：最关键是每个品牌要做出区隔，做出差异化",
       "url": "https://finance.sina.com.cn/tech/2026-10-31/doc-inixazss4859999.shtml"
-    },
-    {
-      "title": "视频丨“攻击-21”上四川舰，带来哪些关键优势？",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixazsu1633492.shtml"
     }
   ],
   "baidu": [
@@ -72,8 +72,8 @@
       "url": "https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E9%98%9F%E5%A4%BA%E8%8B%8F%E8%B6%85%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "卖650万捐赠房产要缴450万的税",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "女子花3元买彩票中1439万",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "DeepSeek重磅发布：AI开始指挥AI干活",
@@ -98,61 +98,49 @@
       "url": "https://b23.tv/BV1Ntxr6xEjG"
     },
     {
-      "title": "1944滇缅竹林：远征军教盟军吃虎皮笋，油手把风笛吹成妖笛【AI全民制作人】",
-      "url": "https://b23.tv/BV1q8x56uEDU"
-    },
-    {
       "title": "灭建国的超能力",
       "url": "https://b23.tv/BV1ugxq6HEfH"
     },
     {
-      "title": "小时候直肠子就这样讲话",
-      "url": "https://b23.tv/BV1QqxY6jEPY"
-    },
-    {
-      "title": "【泛式/剧情MAD】你我的故事，写作『相互凌迟』......   [薇欧拉/bilibilionly同人扶持计划]",
-      "url": "https://b23.tv/BV1sax16uEXm"
+      "title": "【鬼谷闲谈】沧龙：问君能有几多愁，恰似鳞龙入海流",
+      "url": "https://b23.tv/BV1qfxB6qEjD"
     },
     {
       "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
       "url": "https://b23.tv/BV1Ntxr6xE7Y"
     },
     {
+      "title": "1944滇缅竹林：远征军教盟军吃虎皮笋，油手把风笛吹成妖笛【AI全民制作人】",
+      "url": "https://b23.tv/BV1q8x56uEDU"
+    },
+    {
       "title": "“若神不能理解我，那祂便算不上神！！”",
       "url": "https://b23.tv/BV1wbxr6REXk"
     },
     {
-      "title": "全网搬大润发第一人！！！",
-      "url": "https://b23.tv/BV1sVxv6rEJ7"
+      "title": "《动物声卡驱动异常》",
+      "url": "https://b23.tv/BV1pkxi66EG6"
+    },
+    {
+      "title": "【泛式/剧情MAD】你我的故事，写作『相互凌迟』......   [薇欧拉/bilibilionly同人扶持计划]",
+      "url": "https://b23.tv/BV1sax16uEXm"
     }
   ],
   "weibo": [
+    {
+      "title": "HLE对战BLG",
+      "url": "https://weibo.com/hot/undefined"
+    },
     {
       "title": "苹果Duo中国版被指偷工减料",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "孙颖莎把早田希娜打哭了",
+      "title": "新动能持续释放助力经济稳增长",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "五中全会释放了哪些信号",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "小米龙甲电池一验三连",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "王子璇 文吉儿",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "刘诗诗牵着关晓彤上台",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "侯卓成杨汝晴官宣分手",
+      "title": "国乒男单无缘蒙彼利埃站四强",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -160,22 +148,34 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "后会友期导演好听劝",
+      "title": "肖战刘铮亮差点喜提三个前女友",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "姑娘别哭 真人好年轻",
+      "title": "杨瀚森轮换登场4分钟4篮板",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "林诗栋3比4负莫雷加德",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "孙颖莎把早田希娜打哭了",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "王子璇 文吉儿",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "无锡队苏超夺冠",
-      "url": "https://www.toutiao.com/trending/7702825143822781978/"
-    },
-    {
       "title": "75岁傅成玉被查",
       "url": "https://www.toutiao.com/trending/7702761634955214902/"
+    },
+    {
+      "title": "早田希娜被孙颖莎打哭",
+      "url": "https://www.toutiao.com/trending/7701881980828516402/"
     },
     {
       "title": "以钉钉子精神加强党的作风建设",
@@ -186,16 +186,16 @@
       "url": "https://www.toutiao.com/trending/7702438360152866866/"
     },
     {
-      "title": "“存钱不如存肌肉”的时代来了",
-      "url": "https://www.toutiao.com/trending/7702669335101489203/"
+      "title": "高市屡次引导外国领导人向日旗鞠躬",
+      "url": "https://www.toutiao.com/trending/7702426053759828022/"
     },
     {
       "title": "人民日报评朱之文被“黑粉”举报",
       "url": "https://www.toutiao.com/trending/7701893778017665074/"
     },
     {
-      "title": "孙颖莎4-3险胜早田希娜 晋级4强",
-      "url": "https://www.toutiao.com/trending/7702844114110254628/"
+      "title": "将有两名中国人登陆月球",
+      "url": "https://www.toutiao.com/trending/7702661932407128127/"
     },
     {
       "title": "因吃猪蹄住院女子从170斤瘦到88斤",
@@ -206,11 +206,23 @@
       "url": "https://www.toutiao.com/trending/7702460899273818633/"
     },
     {
-      "title": "将有两名中国人登陆月球",
-      "url": "https://www.toutiao.com/trending/7702661932407128127/"
+      "title": "大批理发店关停10元快剪走红",
+      "url": "https://www.toutiao.com/trending/7701882093835534390/"
     }
   ],
   "ithome": [
+    {
+      "title": "微软 Turn 10 与 Playground Games 游戏工作室合并，《极限竞速》负责人 Dan Greenawalt 辞职",
+      "url": "/1/020/635.htm"
+    },
+    {
+      "title": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画，荣耀、OPPO、vivo、小米联合推动",
+      "url": "/1/020/634.htm"
+    },
+    {
+      "title": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
+      "url": "/1/020/633.htm"
+    },
     {
       "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
       "url": "/1/020/632.htm"
@@ -232,24 +244,12 @@
       "url": "/1/020/627.htm"
     },
     {
-      "title": "国铁集团：2026 年前三季度营收 9143 亿元，净利润盈利 130 亿元",
-      "url": "/1/020/626.htm"
-    },
-    {
-      "title": "苹果 iPad mini 8 电池容量 4900mAh 略低于上一代 5034mAh，机身比前代薄 15% 且更轻",
-      "url": "/1/020/625.htm"
-    },
-    {
       "title": "11.11 囤奶啦：金典纯牛奶 250ml 京东自营 1.9 元 / 盒闭眼囤，新鲜日期手慢无",
       "url": "https://lapin.ithome.com/html/digi/1020554.htm"
     },
     {
-      "title": "iPhone 17 京东 4990 元，11.11 自营 PLUS 补贴后终破五千",
-      "url": "/1/020/624.htm"
-    },
-    {
-      "title": "NOTHING Headphone (1) Pro 头戴式耳机开售：三单元主动降噪，到手价 2999 元",
-      "url": "/1/020/623.htm"
+      "title": "国铁集团：2026 年前三季度营收 9143 亿元，净利润盈利 130 亿元",
+      "url": "/1/020/626.htm"
     }
   ],
   "github": [
