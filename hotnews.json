@@ -1,13 +1,17 @@
 {
-  "updatedAt": "2026-11-02T17:23:35.726Z",
+  "updatedAt": "2026-11-03T00:00:28.046Z",
   "sina": [
     {
-      "title": "创维发布自然光电视QX及酷开电视K6 Pro，主打健康护眼新体验",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-11-03/doc-inixkmaq7074931.shtml"
+      "title": "苹果首份新CEO财报喜忧参半：iPhone强劲、假日季指引超预期，但大中华区和iPad不及预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixkzyk2444834.shtml"
     },
     {
       "title": "Anthropic IPO前营收猛增 第三季度已达上年同期12倍",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixkmat9159848.shtml"
+    },
+    {
+      "title": "创维发布自然光电视QX及酷开电视K6 Pro，主打健康护眼新体验",
+      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-11-03/doc-inixkmaq7074931.shtml"
     },
     {
       "title": "Anthropic Q3营收同比增1127% Claude收入170亿美元",
@@ -36,94 +40,90 @@
     {
       "title": "九识CEO孔旗当选世界互联网大会人工智能专业委员会副主任委员",
       "url": "https://finance.sina.com.cn/tech/it/2026-11-02/doc-inixkeus7112875.shtml"
-    },
-    {
-      "title": "Marvell官宣收购Lumentum：合并打造AI互联领域龙头企业",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixiynt0440244.shtml"
     }
   ],
   "baidu": [
     {
-      "title": "加油新规来了！11月起全国推行",
-      "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%8111%E6%9C%88%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "新华社：国乒男队怎么了",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%80%8E%E4%B9%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "才知道改名可以改姓",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8D%E7%9F%A5%E9%81%93%E6%94%B9%E5%90%8D%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%A7%93&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "中国公务团组人员被瑞典警方拘押",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8A%A1%E5%9B%A2%E7%BB%84%E4%BA%BA%E5%91%98%E8%A2%AB%E7%91%9E%E5%85%B8%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8A%BC&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "乌镇峰会年年刷屏 今年看什么",
       "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%B9%B4%E5%B9%B4%E5%88%B7%E5%B1%8F+%E4%BB%8A%E5%B9%B4%E7%9C%8B%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
+      "title": "“中国最赚钱高铁”今年已经净赚百亿",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E8%B5%9A%E9%92%B1%E9%AB%98%E9%93%81%E2%80%9D%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%BB%8F%E5%87%80%E8%B5%9A%E7%99%BE%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
+      "title": "英国男子1998年从智利出发终于到家",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%901998%E5%B9%B4%E4%BB%8E%E6%99%BA%E5%88%A9%E5%87%BA%E5%8F%91%E7%BB%88%E4%BA%8E%E5%88%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news"
+    },
+    {
       "title": "李佳琦直播间半小时卖出2万亿Token",
       "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA2%E4%B8%87%E4%BA%BFToken&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "终于不用看开机广告了",
-      "url": "https://www.baidu.com/s?wd=%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E7%9C%8B%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "A股将迎千亿级增量资金",
+      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B0%86%E8%BF%8E%E5%8D%83%E4%BA%BF%E7%BA%A7%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "A股再迎奇迹日",
-      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E8%BF%8E%E5%A5%87%E8%BF%B9%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "沈阳保洁大叔回应短剧失忆梗",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%9B%9E%E5%BA%94%E7%9F%AD%E5%89%A7%E5%A4%B1%E5%BF%86%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "央行：再贷款利率由1.25%降至1%",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%94%B11.25%25%E9%99%8D%E8%87%B31%25&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "被叶师傅反复“上课”",
+      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%8F%B6%E5%B8%88%E5%82%85%E5%8F%8D%E5%A4%8D%E2%80%9C%E4%B8%8A%E8%AF%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "《后会友期》大爆 “泼天富贵”砸向谁",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%A4%A7%E7%88%86+%E2%80%9C%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E2%80%9D%E7%A0%B8%E5%90%91%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "文班亚马：少林寺的训练太难了",
-      "url": "https://www.baidu.com/s?wd=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%EF%BC%9A%E5%B0%91%E6%9E%97%E5%AF%BA%E7%9A%84%E8%AE%AD%E7%BB%83%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
-    },
-    {
-      "title": "倪妮考驾照科目三挂了两次",
-      "url": "https://www.baidu.com/s?wd=%E5%80%AA%E5%A6%AE%E8%80%83%E9%A9%BE%E7%85%A7%E7%A7%91%E7%9B%AE%E4%B8%89%E6%8C%82%E4%BA%86%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "“阿姨是世界上第一个离开你的人”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%98%BF%E5%A7%A8%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A6%BB%E5%BC%80%E4%BD%A0%E7%9A%84%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
-      "url": "https://b23.tv/BV14o4F6EELU"
+      "title": "哟西！故乡的樱花开了！",
+      "url": "https://b23.tv/BV1w34A62Eq2"
     },
     {
       "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
       "url": "https://b23.tv/BV1i24P6rEmt"
     },
     {
-      "title": "你从未离去 x 平凡之路",
-      "url": "https://b23.tv/BV1mVxx6SEJ4"
+      "title": "这还能是童年套圈机！？做成世界大赛！",
+      "url": "https://b23.tv/BV16Ux46yEsR"
     },
     {
-      "title": "哟西！故乡的樱花开了！",
-      "url": "https://b23.tv/BV1w34A62Eq2"
-    },
-    {
-      "title": "停停停！别再从电影里学习错误的女性知识啦……！",
-      "url": "https://b23.tv/BV13oxa6yEPx"
-    },
-    {
-      "title": "⚡️⚡️⚡️猫咖倒闭，救救我们⚡️⚡️⚡️",
-      "url": "https://b23.tv/BV1rJxG6ME5x"
-    },
-    {
-      "title": "CPOPwave十大优秀出海案例《鸣潮》",
-      "url": "https://b23.tv/BV1hV4P6PEc3"
+      "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
+      "url": "https://b23.tv/BV14o4F6EELU"
     },
     {
       "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
       "url": "https://b23.tv/BV1REx46NEc4"
     },
     {
-      "title": "MSI冠军16强回家！万字解析BLG零封HLE背后的原因！",
-      "url": "https://b23.tv/BV1JLxh69EgU"
+      "title": "猫咪目前正在恢复，后续还会跟进的~",
+      "url": "https://b23.tv/BV1A14c61ERU"
     },
     {
-      "title": "小黑你爸回你消息了",
-      "url": "https://b23.tv/BV1Lrxt6uEuR"
+      "title": "探访宁夏贺兰山的老矿区，当地还留下了多少人？",
+      "url": "https://b23.tv/BV1MTxc6mEMD"
+    },
+    {
+      "title": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
+      "url": "https://b23.tv/BV1yhxp66Ez8"
+    },
+    {
+      "title": "清理熊患后续，只因西伯利亚棕熊泛滥成灾。",
+      "url": "https://b23.tv/BV13ixh6gEeq"
+    },
+    {
+      "title": "是该让爸妈兑现催生时的承诺了",
+      "url": "https://b23.tv/BV1M5xz64EFq"
     }
   ],
   "weibo": [
@@ -132,124 +132,124 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "2027或是最舒服年",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "在乌镇峰会提前体验未来",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "文吉儿王子璇 诡异",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
       "title": "红果短剧刷到天亮",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "马天宇仅互关评论后的杨幂",
+      "title": "数说进博会新亮点",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "蔡文静父亲全程偏袒无血缘的孙子",
+      "title": "结婚当天离世新郎系心脏压塞死亡",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "后会友期提名",
+      "title": "后会友期到底找过多少人啊",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "玉簟秋",
+      "title": "2027或是最舒服年",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "超20万人看了一场假乒乓球比赛",
+      "title": "官方辟谣乌鲁木齐禁售马肉制品",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "马天宇昨天才感谢孙怡今天就要删",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "沈阳副市长和最帅保洁大叔同框",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "嫁金钗",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "新华社发文：国乒男队怎么了",
-      "url": "https://www.toutiao.com/trending/7703574649028018214/"
+      "title": "伊朗称已组建首支“为伊朗捐躯”旅",
+      "url": "https://www.toutiao.com/trending/7703574929673125907/"
     },
     {
-      "title": "男子彩票中1113万过期2天兑奖被拒",
-      "url": "https://www.toutiao.com/trending/7703435058945802259/"
+      "title": "中国公务团组人员被瑞典警方拘押",
+      "url": "https://www.toutiao.com/trending/7703489065979084809/"
     },
     {
       "title": "一批重大工程建设正酣",
       "url": "https://www.toutiao.com/trending/7702652501526531625/"
     },
     {
-      "title": "伊朗最高领袖赋予政府谈判权限",
-      "url": "https://www.toutiao.com/trending/7703576385864008201/"
+      "title": "新郎结婚当天看病离世 尸检结果披露",
+      "url": "https://www.toutiao.com/trending/7702611601408426022/"
     },
     {
-      "title": "俄3000亿欧元海外资产还能拿回来吗",
-      "url": "https://www.toutiao.com/trending/7703566699894672959/"
+      "title": "美股收盘：三大指数涨跌不一",
+      "url": "https://www.toutiao.com/trending/7703680814925333018/"
     },
     {
-      "title": "导演江小鱼去世 年仅56岁",
-      "url": "https://www.toutiao.com/trending/7703012723939934246/"
+      "title": "男子彩票中1113万过期2天兑奖被拒",
+      "url": "https://www.toutiao.com/trending/7703435058945802259/"
     },
     {
-      "title": "A股将迎千亿级增量资金",
-      "url": "https://www.toutiao.com/trending/7703570400688475689/"
+      "title": "网友称自己秋招面试竟要12轮",
+      "url": "https://www.toutiao.com/trending/7702792598578561050/"
     },
     {
-      "title": "普京批准中俄一项铁路共建协定",
-      "url": "https://www.toutiao.com/trending/7703337778645368859/"
+      "title": "菲发言人到中国使馆留言区撒泼",
+      "url": "https://www.toutiao.com/trending/7702979400052162603/"
     },
     {
-      "title": "牛弹琴：内塔尼亚胡很可能被赶下台",
-      "url": "https://www.toutiao.com/trending/7702474317904445481/"
+      "title": "月嫂最后一次哄睡宝宝让宝妈泪崩",
+      "url": "https://www.toutiao.com/trending/7703433370277232676/"
     },
     {
-      "title": "中国为何不大规模扫货俄罗斯低价粮",
-      "url": "https://www.toutiao.com/trending/7703518629349821994/"
+      "title": "业内：稳市政策次第出台",
+      "url": "https://www.toutiao.com/trending/7703593186781826614/"
     }
   ],
   "ithome": [
     {
-      "title": "消息称 HomeView Ultra 硬件已定型两年，但苹果内部仍存在“分歧”",
-      "url": "/1/021/280.htm"
+      "title": "宝马高管：我们的纯电卖的好，反而有助于继续生产 V8 发动机",
+      "url": "/1/021/301.htm"
     },
     {
-      "title": "起亚汽车 10 月全球总销量达到 29.12 万辆，同比增长 10.3%",
-      "url": "/1/021/279.htm"
+      "title": "苹果 HomeView OS 探秘：支持液态玻璃调节，CarPlay 技术成“临时桥梁”",
+      "url": "/1/021/300.htm"
     },
     {
-      "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
-      "url": "/1/021/277.htm"
+      "title": "科技股暴跌拖累 Anthropic“史上最大 IPO”估值，预期已从 2 万亿美元降至 1.5 万亿区间",
+      "url": "/1/021/299.htm"
     },
     {
-      "title": "一体化电视全国推广部署推进会召开，加快落实终端适配",
-      "url": "/1/021/276.htm"
+      "title": "苹果承认 iPhone Duo 折叠屏手机交货延迟，供货紧张何时缓解仍难以预测",
+      "url": "/1/021/298.htm"
     },
     {
-      "title": "现代汽车 10 月销量为 32.98 万辆同比减少 6.3%，连续 13 个月下降",
-      "url": "/1/021/275.htm"
+      "title": "拿下 17 万台订单：MacBook Neo 成为苹果瞄准教育市场的新王牌",
+      "url": "/1/021/297.htm"
     },
     {
-      "title": "OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀",
-      "url": "/1/021/274.htm"
+      "title": "《GTA 6》发售前索尼回收旧 PS5，光驱版搭配两只手柄以旧换新最高优惠 400 美元",
+      "url": "/1/021/296.htm"
     },
     {
-      "title": "联想“LOQ 25-10”24.5 英寸显示器上市：1080P 280Hz，599 元",
-      "url": "/1/021/273.htm"
+      "title": "OpenAI 喊话 2028 美大选候选人：AI 将是重要的必答题",
+      "url": "/1/021/295.htm"
     },
     {
-      "title": "拿来洗手都不亏：欧诗漫洁面乳 17 元 2 支闭眼囤（多多 54 元）",
-      "url": "https://lapin.ithome.com/html/digi/1020880.htm"
+      "title": "Counterpoint：苹果 iPhone 18 Pro/Max 在中国前 3 周销量同比增 29%，预估 2026 年 iPhone Duo 全球出货 600 万台",
+      "url": "/1/021/289.htm"
     },
     {
-      "title": "市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约",
-      "url": "/1/021/272.htm"
+      "title": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进",
+      "url": "/1/021/294.htm"
     },
     {
-      "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继",
-      "url": "/1/021/271.htm"
+      "title": "苹果最强第四财季：特努斯掌舵后首份财报，交出创纪录成绩单",
+      "url": "/1/021/293.htm"
     }
   ],
   "github": [
@@ -270,10 +270,6 @@
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness"
     },
@@ -292,6 +288,10 @@
     {
       "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
       "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "title": "anthropics/skills: Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills"
     }
   ],
   "huggingface": [
