@@ -1,90 +1,110 @@
 {
-  "updatedAt": "2026-11-03T00:00:28.046Z",
+  "updatedAt": "2026-11-03T06:33:51.827Z",
   "sina": [
+    {
+      "title": "一包卫龙魔芋爽的碳账本和碳足迹：从田间到货架的距离",
+      "url": "https://finance.sina.com.cn/tob/2026-11-03/doc-inixmsvw9971808.shtml"
+    },
+    {
+      "title": "阿里巴巴蔡崇信乌镇谈AI发展：只有开源开放 才能普惠普及",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-03/doc-inixmswc8757509.shtml"
+    },
+    {
+      "title": "小米YU7首付7.99元起？雷军微博写错价格后紧急更正，网友调侃：7.99元交个朋友",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-11-03/doc-inixmswc8750323.shtml"
+    },
+    {
+      "title": "得物App首批适配iPhone Duo，外观、参数与价格可实现同屏对比",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-11-03/doc-inixmsvy6705935.shtml"
+    },
+    {
+      "title": "复星医药两月内核心高管接连离任：副总裁袁方兵辞任，联席总裁张文杰9月底已离开",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-11-03/doc-inixmsvw9922409.shtml"
+    },
+    {
+      "title": "瑞幸与王者荣耀真人新联名被质疑，网友：太丑了",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-11-03/doc-inixmnpz0030839.shtml"
+    },
+    {
+      "title": "福瑞泰克董事长张林：已累计交付500多万件智驾产品",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-11-03/doc-inixmnqe2376954.shtml"
+    },
+    {
+      "title": "蔡崇信、李书福、张朝阳现身，2026年世界互联网大会乌镇峰会今日开幕",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-11-03/doc-inixmnpy9965247.shtml"
+    },
+    {
+      "title": "好发展 在平安 | 顾莹：不在原地等风来，她用行动“开发”人生新版本",
+      "url": "https://finance.sina.com.cn/tob/2026-11-03/doc-inixmnpy9961963.shtml"
+    },
     {
       "title": "苹果首份新CEO财报喜忧参半：iPhone强劲、假日季指引超预期，但大中华区和iPad不及预期",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixkzyk2444834.shtml"
-    },
-    {
-      "title": "Anthropic IPO前营收猛增 第三季度已达上年同期12倍",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixkmat9159848.shtml"
-    },
-    {
-      "title": "创维发布自然光电视QX及酷开电视K6 Pro，主打健康护眼新体验",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-11-03/doc-inixkmaq7074931.shtml"
-    },
-    {
-      "title": "Anthropic Q3营收同比增1127% Claude收入170亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixkeuu2821699.shtml"
-    },
-    {
-      "title": "OpenAI承诺：极端天气下 旗下美国数据中心可削减用电负荷",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixkeur0372896.shtml"
-    },
-    {
-      "title": "李佳琦双十一卖Token，半小时卖出10万份千问办公会员",
-      "url": "https://finance.sina.com.cn/tech/it/2026-11-02/doc-inixkeus7143726.shtml"
-    },
-    {
-      "title": "哈塞特淡化AI融资担忧：不会出现大规模抛售",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixkeus7132223.shtml"
-    },
-    {
-      "title": "全国首个钙钛矿膜结晶制造国家标准编制审定，凯伏光电牵头起草",
-      "url": "https://finance.sina.com.cn/roll/2026-11-02/doc-inixkeus7128825.shtml"
-    },
-    {
-      "title": "RZR北京新办公室正式启用，下一代机器学习模型 “Argus” 已上线",
-      "url": "https://finance.sina.com.cn/tech/it/2026-11-02/doc-inixkeur0337192.shtml"
-    },
-    {
-      "title": "九识CEO孔旗当选世界互联网大会人工智能专业委员会副主任委员",
-      "url": "https://finance.sina.com.cn/tech/it/2026-11-02/doc-inixkeus7112875.shtml"
     }
   ],
   "baidu": [
     {
-      "title": "新华社：国乒男队怎么了",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%80%8E%E4%B9%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "低保户女生赴港看演唱会：低保已取消",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%8E%E4%BF%9D%E6%88%B7%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E4%BD%8E%E4%BF%9D%E5%B7%B2%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "中国公务团组人员被瑞典警方拘押",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8A%A1%E5%9B%A2%E7%BB%84%E4%BA%BA%E5%91%98%E8%A2%AB%E7%91%9E%E5%85%B8%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8A%BC&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "最强厄尔尼诺要来了",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "乌镇峰会年年刷屏 今年看什么",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%B9%B4%E5%B9%B4%E5%88%B7%E5%B1%8F+%E4%BB%8A%E5%B9%B4%E7%9C%8B%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "一组数据看黄河治理80年",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E9%BB%84%E6%B2%B3%E6%B2%BB%E7%90%8680%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“中国最赚钱高铁”今年已经净赚百亿",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E8%B5%9A%E9%92%B1%E9%AB%98%E9%93%81%E2%80%9D%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%BB%8F%E5%87%80%E8%B5%9A%E7%99%BE%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "警方回应九寨沟冲突：年轻一方先动手",
+      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%9D%E5%AF%A8%E6%B2%9F%E5%86%B2%E7%AA%81%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%B8%80%E6%96%B9%E5%85%88%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "英国男子1998年从智利出发终于到家",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%901998%E5%B9%B4%E4%BB%8E%E6%99%BA%E5%88%A9%E5%87%BA%E5%8F%91%E7%BB%88%E4%BA%8E%E5%88%B0%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "长沙烈士公园回应2名女子穿和服拍照",
+      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD%E5%9B%9E%E5%BA%942%E5%90%8D%E5%A5%B3%E5%AD%90%E7%A9%BF%E5%92%8C%E6%9C%8D%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "李佳琦直播间半小时卖出2万亿Token",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA2%E4%B8%87%E4%BA%BFToken&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "水稻专家邓国富被开除党籍",
+      "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E7%A8%BB%E4%B8%93%E5%AE%B6%E9%82%93%E5%9B%BD%E5%AF%8C%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "A股将迎千亿级增量资金",
-      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B0%86%E8%BF%8E%E5%8D%83%E4%BA%BF%E7%BA%A7%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "补办身份证得先刷身份证",
+      "url": "https://www.baidu.com/s?wd=%E8%A1%A5%E5%8A%9E%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%BE%97%E5%85%88%E5%88%B7%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "沈阳保洁大叔回应短剧失忆梗",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%9B%9E%E5%BA%94%E7%9F%AD%E5%89%A7%E5%A4%B1%E5%BF%86%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "《嫁金钗》大结局",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "被叶师傅反复“上课”",
-      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%8F%B6%E5%B8%88%E5%82%85%E5%8F%8D%E5%A4%8D%E2%80%9C%E4%B8%8A%E8%AF%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "科创50跌超5%",
+      "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E8%B7%8C%E8%B6%855%25&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "“阿姨是世界上第一个离开你的人”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%98%BF%E5%A7%A8%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A6%BB%E5%BC%80%E4%BD%A0%E7%9A%84%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "许飞什么都敢回",
+      "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E9%A3%9E%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
+    {
+      "title": "《原神》角色预告-「米提亚：井井有条」",
+      "url": "https://b23.tv/BV19b4A6PECX"
+    },
+    {
+      "title": "一条没下巴的鱼杀穿奥陶纪？",
+      "url": "https://b23.tv/BV1Xx4c6tEKM"
+    },
+    {
+      "title": "《崩坏：星穹铁道》走近星穹——「星神★阿哈：为了拖稿竟说自己是星神？」",
+      "url": "https://b23.tv/BV1mU4u6yEz5"
+    },
+    {
+      "title": "【纪录片】蓝色星球 第三季 01 热带海域",
+      "url": "https://b23.tv/BV13dxa6LEe4"
+    },
+    {
+      "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
+      "url": "https://b23.tv/BV1RA4w6AE74"
+    },
     {
       "title": "哟西！故乡的樱花开了！",
       "url": "https://b23.tv/BV1w34A62Eq2"
@@ -94,169 +114,145 @@
       "url": "https://b23.tv/BV1i24P6rEmt"
     },
     {
-      "title": "这还能是童年套圈机！？做成世界大赛！",
-      "url": "https://b23.tv/BV16Ux46yEsR"
-    },
-    {
       "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
       "url": "https://b23.tv/BV14o4F6EELU"
     },
     {
-      "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
-      "url": "https://b23.tv/BV1REx46NEc4"
+      "title": "世界上最贵的象拔蚌，客人嫌贵不吃，厨师长下班了开个小灶",
+      "url": "https://b23.tv/BV1czxC6dEKu"
     },
     {
-      "title": "猫咪目前正在恢复，后续还会跟进的~",
-      "url": "https://b23.tv/BV1A14c61ERU"
-    },
-    {
-      "title": "探访宁夏贺兰山的老矿区，当地还留下了多少人？",
-      "url": "https://b23.tv/BV1MTxc6mEMD"
-    },
-    {
-      "title": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
-      "url": "https://b23.tv/BV1yhxp66Ez8"
-    },
-    {
-      "title": "清理熊患后续，只因西伯利亚棕熊泛滥成灾。",
-      "url": "https://b23.tv/BV13ixh6gEeq"
-    },
-    {
-      "title": "是该让爸妈兑现催生时的承诺了",
-      "url": "https://b23.tv/BV1M5xz64EFq"
+      "title": "入职鹰角成为卫戍协议策划的一天",
+      "url": "https://b23.tv/BV19P4w6aEk3"
     }
   ],
   "weibo": [
     {
-      "title": "新华社追问国乒男队怎么了",
+      "title": "赴港看演唱会女孩低保已被取消",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "红果短剧刷到天亮",
+      "title": "九寨沟2年轻游客遭老年人打伤",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "数说进博会新亮点",
+      "title": "今年乌镇为何把开源放在C位",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "结婚当天离世新郎系心脏压塞死亡",
+      "title": "嫁金钗大结局",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "后会友期到底找过多少人啊",
+      "title": "iPhoneDuo黄牛亏懵了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "2027或是最舒服年",
+      "title": "嫁金钗红线怀孕了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "官方辟谣乌鲁木齐禁售马肉制品",
+      "title": "上飞猪抢马来西亚酒店大额补贴",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "马天宇昨天才感谢孙怡今天就要删",
+      "title": "华西医院的含金量还在不断上升",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "沈阳副市长和最帅保洁大叔同框",
+      "title": "A股半导体CPO集体大跌",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "嫁金钗",
+      "title": "A股羊字辈集体涨停",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "伊朗称已组建首支“为伊朗捐躯”旅",
-      "url": "https://www.toutiao.com/trending/7703574929673125907/"
+      "title": "警方介入九寨沟打人事件",
+      "url": "https://www.toutiao.com/trending/7703623342925938751/"
     },
     {
-      "title": "中国公务团组人员被瑞典警方拘押",
-      "url": "https://www.toutiao.com/trending/7703489065979084809/"
+      "title": "长沙烈士公园回应两女生穿和服拍照",
+      "url": "https://www.toutiao.com/trending/7703791414773088795/"
     },
     {
-      "title": "一批重大工程建设正酣",
-      "url": "https://www.toutiao.com/trending/7702652501526531625/"
+      "title": "折射产业结构向新向优向好",
+      "url": "https://www.toutiao.com/trending/7703584000337674267/"
     },
     {
-      "title": "新郎结婚当天看病离世 尸检结果披露",
-      "url": "https://www.toutiao.com/trending/7702611601408426022/"
+      "title": "美坠机事故9名遇难者身份曝光",
+      "url": "https://www.toutiao.com/trending/7703554698100031551/"
     },
     {
-      "title": "美股收盘：三大指数涨跌不一",
-      "url": "https://www.toutiao.com/trending/7703680814925333018/"
+      "title": "女子赴港看演出低保已被取消",
+      "url": "https://www.toutiao.com/trending/7703713745633017919/"
     },
     {
-      "title": "男子彩票中1113万过期2天兑奖被拒",
-      "url": "https://www.toutiao.com/trending/7703435058945802259/"
+      "title": "雷军误写小米YU7首付7.99元",
+      "url": "https://www.toutiao.com/trending/7703783465325628937/"
     },
     {
-      "title": "网友称自己秋招面试竟要12轮",
-      "url": "https://www.toutiao.com/trending/7702792598578561050/"
+      "title": "国际油价大幅下跌",
+      "url": "https://www.toutiao.com/trending/7703735791394164274/"
     },
     {
-      "title": "菲发言人到中国使馆留言区撒泼",
-      "url": "https://www.toutiao.com/trending/7702979400052162603/"
+      "title": "沈阳保洁大叔称每天上百号人来合影",
+      "url": "https://www.toutiao.com/trending/7702705828880646163/"
     },
     {
-      "title": "月嫂最后一次哄睡宝宝让宝妈泪崩",
-      "url": "https://www.toutiao.com/trending/7703433370277232676/"
+      "title": "马斯克与赵长鹏在暗战什么",
+      "url": "https://www.toutiao.com/trending/7703802541326208562/"
     },
     {
-      "title": "业内：稳市政策次第出台",
-      "url": "https://www.toutiao.com/trending/7703593186781826614/"
+      "title": "朝中社：日本正快速变为战争国家",
+      "url": "https://www.toutiao.com/trending/7703802808620908563/"
     }
   ],
   "ithome": [
     {
-      "title": "宝马高管：我们的纯电卖的好，反而有助于继续生产 V8 发动机",
-      "url": "/1/021/301.htm"
+      "title": "微软回应 Win11 用户催更：“优化驱动器”工具已列入改造计划",
+      "url": "/1/021/533.htm"
     },
     {
-      "title": "苹果 HomeView OS 探秘：支持液态玻璃调节，CarPlay 技术成“临时桥梁”",
-      "url": "/1/021/300.htm"
+      "title": "减重 62% 免开锅：爱仕达 34cm 轻量化煎炒铁锅带盖 67 元国补探底（京东 199 元）",
+      "url": "https://lapin.ithome.com/html/digi/1021529.htm"
     },
     {
-      "title": "科技股暴跌拖累 Anthropic“史上最大 IPO”估值，预期已从 2 万亿美元降至 1.5 万亿区间",
-      "url": "/1/021/299.htm"
+      "title": "Satechi 推出 USB4 扩展坞 ExtendView：提供双 HDMI，集成线材设计",
+      "url": "/1/021/528.htm"
     },
     {
-      "title": "苹果承认 iPhone Duo 折叠屏手机交货延迟，供货紧张何时缓解仍难以预测",
-      "url": "/1/021/298.htm"
+      "title": "微软 Win11 新增网络“翻译员”：纯 IPv6 网络也能访问 IPv4 服务",
+      "url": "/1/021/527.htm"
     },
     {
-      "title": "拿下 17 万台订单：MacBook Neo 成为苹果瞄准教育市场的新王牌",
-      "url": "/1/021/297.htm"
+      "title": "华为云 openPangu-2.0-Flash / Pro 两款模型 11 月 6 日停售：11 月 30 日正式下线，盘古系列新模型已在规划中",
+      "url": "/1/021/526.htm"
     },
     {
-      "title": "《GTA 6》发售前索尼回收旧 PS5，光驱版搭配两只手柄以旧换新最高优惠 400 美元",
-      "url": "/1/021/296.htm"
+      "title": "小米机器人“双线突破”：成功挑战工厂 8 小时作业、家庭长程任务",
+      "url": "/1/021/525.htm"
     },
     {
-      "title": "OpenAI 喊话 2028 美大选候选人：AI 将是重要的必答题",
-      "url": "/1/021/295.htm"
+      "title": "平均每天上新 7 款：微软 XBOX 十月发行 208 款游戏创年内新高，约 45% 支持 XPA",
+      "url": "/1/021/524.htm"
     },
     {
-      "title": "Counterpoint：苹果 iPhone 18 Pro/Max 在中国前 3 周销量同比增 29%，预估 2026 年 iPhone Duo 全球出货 600 万台",
-      "url": "/1/021/289.htm"
+      "title": "光荣特库摩宣布《信长之野望飞翔》延期发售，11 月 4 日官方直播同步取消",
+      "url": "/1/021/522.htm"
     },
     {
-      "title": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进",
-      "url": "/1/021/294.htm"
+      "title": "摩根大通副董事长 Daniel Pinto：AI 板块估值仍高，预计将出现回调",
+      "url": "/1/021/521.htm"
     },
     {
-      "title": "苹果最强第四财季：特努斯掌舵后首份财报，交出创纪录成绩单",
-      "url": "/1/021/293.htm"
+      "title": "内外纯钛耐酸碱无异味：特美刻双饮保温咖啡杯 239 → 80 元起，送自己送爸妈都划算",
+      "url": "https://lapin.ithome.com/html/digi/1021520.htm"
     }
   ],
   "github": [
-    {
-      "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "url": "https://github.com/morluto/rea"
-    },
     {
       "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
       "url": "https://github.com/openclaw/openclaw"
@@ -270,16 +266,12 @@
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC"
     },
     {
       "title": "NousResearch/hermes-agent: The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
       "title": "anomalyco/opencode: The open source coding agent.",
@@ -292,6 +284,14 @@
     {
       "title": "anthropics/skills: Public repository for Agent Skills",
       "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
     }
   ],
   "huggingface": [
