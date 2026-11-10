@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T17:14:44.443Z",
+  "updatedAt": "2026-11-10T22:29:18.402Z",
   "sina": [
+    {
+      "title": "CoreWeave Q3营收36.6亿美元超预期 上调年度营收展望 缓解业务放缓担忧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyiauh5446328.shtml"
+    },
+    {
+      "title": "Anthropic拟通过IPO和私募配售筹至多904亿美元 有望超SpaceX纪录",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyhwnn2342380.shtml"
+    },
     {
       "title": "AI不只靠GPU：在拉斯维加斯，看AMD如何释放算力潜力",
       "url": "https://finance.sina.com.cn/tech/it/2026-11-11/doc-iniyhfqs5851173.shtml"
@@ -32,14 +40,6 @@
     {
       "title": "华为新型存储系统即将启动试商用，温冷数据存储成为新战场",
       "url": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyhfqu2602440.shtml"
-    },
-    {
-      "title": "高盛领投网络安全初创企业Daylight Security 后者估值达4亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyhfqw9175054.shtml"
-    },
-    {
-      "title": "算力要上天，谁在抢建底座？",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyhfqv2525060.shtml"
     }
   ],
   "baidu": [
@@ -86,26 +86,6 @@
   ],
   "bilibili": [
     {
-      "title": "【1酱赛评四强篇·上】BLG突破LPL对S赛T1不胜历史！几代人的夙愿！14年的等待！终于在S赛战胜T1！爽爽爽爽爽！！！！",
-      "url": "https://b23.tv/BV1QAW36VEWg"
-    },
-    {
-      "title": "Marshall首款回音壁，Heston 120究竟表现如何？",
-      "url": "https://b23.tv/BV1VeWu65EpX"
-    },
-    {
-      "title": "THANK YOU Smoggy",
-      "url": "https://b23.tv/BV1v8WT6uEJH"
-    },
-    {
-      "title": "【纪录片】蓝色星球 第三季 02 辽阔远洋",
-      "url": "https://b23.tv/BV1Lx4t6VEDt"
-    },
-    {
-      "title": "《人皇步》",
-      "url": "https://b23.tv/BV1BjWt6BEJd"
-    },
-    {
       "title": "地牢酒馆-33《日常招待与地下湖》",
       "url": "https://b23.tv/BV1bwWu6KEaS"
     },
@@ -114,16 +94,36 @@
       "url": "https://b23.tv/BV1PDWT6RE3F"
     },
     {
-      "title": "动态视频｜打败许昕，获得iPhone Duo！",
-      "url": "https://b23.tv/BV1JnWT6LEVN"
+      "title": "耗时5个月，5万元成本，我用AI拍了一部68分钟的原创中国科幻长片《灰蚀危机》【ai全民制作人】",
+      "url": "https://b23.tv/BV18GW76hEdg"
     },
     {
-      "title": "真正的手法大帝！最弱的数值凭什么打出最强的战绩？",
-      "url": "https://b23.tv/BV1s9Wu6hE8m"
+      "title": "【纪录片】蓝色星球 第三季 02 辽阔远洋",
+      "url": "https://b23.tv/BV1Lx4t6VEDt"
     },
     {
-      "title": "《虚环》PV03｜致过去与未来的歌",
-      "url": "https://b23.tv/BV1h4WW6LEEv"
+      "title": "如何盗走《蒙娜丽莎》？【硬核狠人92】",
+      "url": "https://b23.tv/BV1i4W86zEUS"
+    },
+    {
+      "title": "【1酱赛评四强篇·上】BLG突破LPL对S赛T1不胜历史！几代人的夙愿！14年的等待！终于在S赛战胜T1！爽爽爽爽爽！！！！",
+      "url": "https://b23.tv/BV1QAW36VEWg"
+    },
+    {
+      "title": "THANK YOU Smoggy",
+      "url": "https://b23.tv/BV1v8WT6uEJH"
+    },
+    {
+      "title": "《人皇步》",
+      "url": "https://b23.tv/BV1BjWt6BEJd"
+    },
+    {
+      "title": "黄仁勋带她吃的饭店，我带你们去看看",
+      "url": "https://b23.tv/BV1JCWM6JEFU"
+    },
+    {
+      "title": "养了大肥鱼以后，家里的米就没够吃过",
+      "url": "https://b23.tv/BV1dGWg67Evr"
     }
   ],
   "weibo": [
@@ -132,7 +132,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "金鸡最佳导演 爆冷",
+      "title": "5个上门维修师傅2个说了实话",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -140,11 +140,7 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "白小纯对着摄像头撒谎",
-      "url": "https://weibo.com/hot/undefined"
-    },
-    {
-      "title": "拼多多送货上门新规11月13日生效",
+      "title": "天猫双11十八岁生日快乐",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -152,19 +148,23 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "金子涵妹妹回复网友",
+      "title": "白小纯对着摄像头撒谎",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "花坛藏尸案凶手审讯画面首度公开",
+      "title": "许飞把和何炅的合照放C位",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "李泽楷公司卖出全球最贵人寿保单",
+      "title": "金鸡最佳导演 爆冷",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "学龄人口达峰 幼儿园小学初中资源优化",
+      "title": "花坛藏尸案动手行凶者为何死缓",
+      "url": "https://weibo.com/hot/undefined"
+    },
+    {
+      "title": "曝平头哥估值200亿至300亿美元",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
@@ -182,20 +182,20 @@
       "url": "https://www.toutiao.com/trending/7706327368055242762/"
     },
     {
-      "title": "高叶金鸡影后",
-      "url": "https://www.toutiao.com/trending/7706433983227265060/"
-    },
-    {
       "title": "立陶宛要求所谓“台湾代表处”改名",
       "url": "https://www.toutiao.com/trending/7705644641064058921/"
     },
     {
-      "title": "溅湿路人强行撞车逃离司机道歉",
-      "url": "https://www.toutiao.com/trending/7706461661040804403/"
+      "title": "女子称住酒店发现被子上有干结粪便",
+      "url": "https://www.toutiao.com/trending/7706446310380667418/"
     },
     {
-      "title": "《给阿嬷的情书》金鸡奖评委会特别奖",
-      "url": "https://www.toutiao.com/trending/7706462216883454515/"
+      "title": "高叶金鸡影后",
+      "url": "https://www.toutiao.com/trending/7706433983227265060/"
+    },
+    {
+      "title": "女子买7元早餐发现卡里近26万没了",
+      "url": "https://www.toutiao.com/trending/7706134341668078130/"
     },
     {
       "title": "伊朗革命卫队新建“导弹城”亮相",
@@ -206,8 +206,8 @@
       "url": "https://www.toutiao.com/trending/7701704345133515273/"
     },
     {
-      "title": "女子称住酒店发现被子上有干结粪便",
-      "url": "https://www.toutiao.com/trending/7706446310380667418/"
+      "title": "路虎为何要在荷兰起诉比亚迪",
+      "url": "https://www.toutiao.com/trending/7706546993849437715/"
     }
   ],
   "ithome": [
@@ -240,12 +240,12 @@
       "url": "/1/025/187.htm"
     },
     {
-      "title": "PS5 Pro 也不例外：R 星确认《GTA 6》所有主机目标帧率都是 30fps",
-      "url": "/1/025/185.htm"
+      "title": "贵州飞天茅台酒 1766 → 1668 元京东自营开放购买，年底将至囤两瓶",
+      "url": "https://lapin.ithome.com/html/digi/1025182.htm"
     },
     {
-      "title": "【倒数 1 小时】1980 → 339 元限今日：25 秒变色 + 2 分钟褪色，依视路 1.60 全视线 GEN S 近视镜探底",
-      "url": "https://lapin.ithome.com/html/digi/1024723.htm"
+      "title": "PS5 Pro 也不例外：R 星确认《GTA 6》所有主机目标帧率都是 30fps",
+      "url": "/1/025/185.htm"
     },
     {
       "title": "2025 年地球能量失衡达 1960 年有观测记录以来最高水平，今年可能再次刷新纪录",
@@ -258,32 +258,8 @@
       "url": "https://github.com/morluto/rea"
     },
     {
-      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
-      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
-    },
-    {
       "title": "NousResearch/hermes-agent: The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "title": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
       "title": "anomalyco/opencode: The open source coding agent.",
@@ -292,6 +268,30 @@
     {
       "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
       "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "title": "Graphify-Labs/graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "title": "openai/codex: Lightweight coding agent that runs in your terminal",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "title": "VoltAgent/awesome-design-md: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "url": "https://github.com/VoltAgent/awesome-design-md"
     }
   ],
   "huggingface": [
