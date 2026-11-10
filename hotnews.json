@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-09T18:31:08.818Z",
+  "updatedAt": "2026-11-10T01:45:03.394Z",
   "sina": [
+    {
+      "title": "A股游戏公司Q3答卷：营收向上利润向下 世纪华通增长降温 三七互娱首次亏损 恺英网络净利失速",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-11-10/doc-iniyfeci2801845.shtml"
+    },
+    {
+      "title": "璇玑动力与五一视界联合方案首次出海，四足机器人巡检启动马来西亚试点",
+      "url": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfece6036907.shtml"
+    },
+    {
+      "title": "联想刘军：首个混合词元母本工厂即将落地河北张家口",
+      "url": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfeck9441489.shtml"
+    },
+    {
+      "title": "菲尔兹奖得主邓煜等北大数学校友聚首TCFA年会，回忆校园时光，共议人才培养",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-10/doc-iniyfece6003733.shtml"
+    },
+    {
+      "title": "AI入选年度热词 科普需与时俱进",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyepfn6250646.shtml"
+    },
     {
       "title": "美团龙猫开源 LongCat-2.5 模型：总参数 1.6 万亿，支持百万上下文",
       "url": "https://finance.sina.com.cn/tech/digi/2026-11-09/doc-iniyearw9878734.shtml"
@@ -20,74 +40,54 @@
     {
       "title": "软银为美国AI数据中心市场可能降温作准备",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzy3301384.shtml"
-    },
-    {
-      "title": "对冲基金以史上最快的速度之一抛售全球科技股",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzz3357271.shtml"
-    },
-    {
-      "title": "唐伟回应卸任希音执行主席：并非许仰天施压",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzy3297964.shtml"
-    },
-    {
-      "title": "鸿蒙智行：问界 M8 上市 19 个月，累计交付突破 19 万台",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-09/doc-iniycrzy3305462.shtml"
-    },
-    {
-      "title": "摩根大通策略师：逢低买入 周期板块有望反弹",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzz3352320.shtml"
-    },
-    {
-      "title": "iPhone Duo发售两周：全球适配应用超10万款 多款国内主流应用跟进大屏优化",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-11-09/doc-iniycrzy3278534.shtml"
     }
   ],
   "baidu": [
     {
-      "title": "养老金要崩盘？有压力≠会崩盘",
-      "url": "https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E9%87%91%E8%A6%81%E5%B4%A9%E7%9B%98%EF%BC%9F%E6%9C%89%E5%8E%8B%E5%8A%9B%E2%89%A0%E4%BC%9A%E5%B4%A9%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "全国陨石猎人扎堆赶赴石家庄",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%99%A8%E7%9F%B3%E7%8C%8E%E4%BA%BA%E6%89%8E%E5%A0%86%E8%B5%B6%E8%B5%B4%E7%9F%B3%E5%AE%B6%E5%BA%84&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "又一地官宣公办普高“愿上尽上”",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%9C%B0%E5%AE%98%E5%AE%A3%E5%85%AC%E5%8A%9E%E6%99%AE%E9%AB%98%E2%80%9C%E6%84%BF%E4%B8%8A%E5%B0%BD%E4%B8%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "鹤岗精品住宅均价超4800元每平方米",
+      "url": "https://www.baidu.com/s?wd=%E9%B9%A4%E5%B2%97%E7%B2%BE%E5%93%81%E4%BD%8F%E5%AE%85%E5%9D%87%E4%BB%B7%E8%B6%854800%E5%85%83%E6%AF%8F%E5%B9%B3%E6%96%B9%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
       "title": "进博“购物车”含“科”量足",
       "url": "https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E2%80%9C%E8%B4%AD%E7%89%A9%E8%BD%A6%E2%80%9D%E5%90%AB%E2%80%9C%E7%A7%91%E2%80%9D%E9%87%8F%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "老人6亿遗产留再婚妻子 原配子女起诉",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA6%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90+%E5%8E%9F%E9%85%8D%E5%AD%90%E5%A5%B3%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "价格大跳水！智利车厘子即将大批上市",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%81%E6%99%BA%E5%88%A9%E8%BD%A6%E5%8E%98%E5%AD%90%E5%8D%B3%E5%B0%86%E5%A4%A7%E6%89%B9%E4%B8%8A%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "东北糖葫芦已进化到“巨无霸”版本",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E7%B3%96%E8%91%AB%E8%8A%A6%E5%B7%B2%E8%BF%9B%E5%8C%96%E5%88%B0%E2%80%9C%E5%B7%A8%E6%97%A0%E9%9C%B8%E2%80%9D%E7%89%88%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "多款“电鸡”被曝无法上牌",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BE%E2%80%9C%E7%94%B5%E9%B8%A1%E2%80%9D%E8%A2%AB%E6%9B%9D%E6%97%A0%E6%B3%95%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "花坛白骨涉案人28年间频繁出国",
-      "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E5%9D%9B%E7%99%BD%E9%AA%A8%E6%B6%89%E6%A1%88%E4%BA%BA28%E5%B9%B4%E9%97%B4%E9%A2%91%E7%B9%81%E5%87%BA%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "男子因亲人去世失联 家属：人不在了",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E4%BA%B2%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%A4%B1%E8%81%94+%E5%AE%B6%E5%B1%9E%EF%BC%9A%E4%BA%BA%E4%B8%8D%E5%9C%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "倪妮穿的旗袍快一百年了",
-      "url": "https://www.baidu.com/s?wd=%E5%80%AA%E5%A6%AE%E7%A9%BF%E7%9A%84%E6%97%97%E8%A2%8D%E5%BF%AB%E4%B8%80%E7%99%BE%E5%B9%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "为什么走散的友情比失恋还难释怀",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E6%95%A3%E7%9A%84%E5%8F%8B%E6%83%85%E6%AF%94%E5%A4%B1%E6%81%8B%E8%BF%98%E9%9A%BE%E9%87%8A%E6%80%80&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "伊朗最高领袖下令结束非战非和状态",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8B%E4%BB%A4%E7%BB%93%E6%9D%9F%E9%9D%9E%E6%88%98%E9%9D%9E%E5%92%8C%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "杨幂在谷爱凌郑钦文面前秀肌肉",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E5%9C%A8%E8%B0%B7%E7%88%B1%E5%87%8C%E9%83%91%E9%92%A6%E6%96%87%E9%9D%A2%E5%89%8D%E7%A7%80%E8%82%8C%E8%82%89&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "王传君：《爱情公寓》只是份工作",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%EF%BC%9A%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B%E5%8F%AA%E6%98%AF%E4%BB%BD%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "血糖刺客被很多人当饭吃",
+      "url": "https://www.baidu.com/s?wd=%E8%A1%80%E7%B3%96%E5%88%BA%E5%AE%A2%E8%A2%AB%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%BD%93%E9%A5%AD%E5%90%83&sa=fyb_news&rsv_dl=fyb_news"
     },
     {
-      "title": "山姆“低价”始祖鸟到底值不值得冲",
-      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E2%80%9C%E4%BD%8E%E4%BB%B7%E2%80%9D%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%88%B0%E5%BA%95%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E5%86%B2&sa=fyb_news&rsv_dl=fyb_news"
+      "title": "德系三巨头的“中国提款机”彻底熄火",
+      "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E7%B3%BB%E4%B8%89%E5%B7%A8%E5%A4%B4%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8F%90%E6%AC%BE%E6%9C%BA%E2%80%9D%E5%BD%BB%E5%BA%95%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news"
     }
   ],
   "bilibili": [
     {
-      "title": "【2026全球总决赛】11月9日 BLG vs T1",
-      "url": "https://b23.tv/BV1TgWp6MEHJ"
+      "title": "On萨勒芬妮大招测试：如果猴子不放分身，能改变时间线吗？",
+      "url": "https://b23.tv/BV1eaW86KEr3"
     },
     {
       "title": "当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【AI全民制作人】",
@@ -98,41 +98,41 @@
       "url": "https://b23.tv/BV1sCWx6GEsH"
     },
     {
-      "title": "选举大败特朗普和马斯克这下惨了",
-      "url": "https://b23.tv/BV1WEWs66EBP"
+      "title": "《虚环》PV03｜致过去与未来的歌",
+      "url": "https://b23.tv/BV1h4WW6LEEv"
+    },
+    {
+      "title": "【2026全球总决赛】11月9日 BLG vs T1",
+      "url": "https://b23.tv/BV1TgWp6MEHJ"
     },
     {
       "title": "《绝区零》赛维里安EP | Gambit",
       "url": "https://b23.tv/BV1xiWW6uESZ"
     },
     {
-      "title": "【神人短剧】🔥最新力作🔥农村大席之抽象盛宴，联动mj宇宙【AI全民制作人】",
-      "url": "https://b23.tv/BV1gcWn6iE9C"
+      "title": "上帝之光：当人类第一次拥有操纵大脑的能力",
+      "url": "https://b23.tv/BV1KpWb6WENA"
     },
     {
-      "title": "Three two one带你去纽约 Let's go！",
-      "url": "https://b23.tv/BV1ZnW86CEaE"
+      "title": "选举大败特朗普和马斯克这下惨了",
+      "url": "https://b23.tv/BV1WEWs66EBP"
     },
     {
-      "title": "宿舍自制密室逃脱9《盗宿笔记》",
-      "url": "https://b23.tv/BV1tEW764Ew5"
+      "title": "给孩子做了一个半飞行的玩具车",
+      "url": "https://b23.tv/BV1QUW46oEuT"
     },
     {
-      "title": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇蓝队】",
-      "url": "https://b23.tv/BV13zWn66EXB"
-    },
-    {
-      "title": "当杀手和律师都以为对方是同行",
-      "url": "https://b23.tv/BV1eNW76KEdJ"
+      "title": "耗时5个月，5万元成本，我用AI拍了一部68分钟的原创中国科幻长片《南天门计划：灰蚀危机》【ai全民制作人】",
+      "url": "https://b23.tv/BV18GW76hEdg"
     }
   ],
   "weibo": [
     {
-      "title": "白小纯 王子璇",
+      "title": "石家庄天降陨石最大单体35公斤",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "老人将6亿遗产留给再婚妻子",
+      "title": "小米四款车全部上榜",
       "url": "https://weibo.com/hot/undefined"
     },
     {
@@ -140,116 +140,116 @@
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "天猫双11疯狂好六夜",
+      "title": "领克07GT帕尔马紫调高定版上市",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "白小纯在发现有人没上车的30秒",
+      "title": "一碗免费面咋把隔壁小店逼到想搬家",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "石家庄天降陨石最大单体35公斤",
+      "title": "BLG到纽约了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "刘诗诗躲了半天还是没躲过",
+      "title": "没有性缘亲缘的综艺也有绯闻",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "疑似自费高定艺人回复网友",
+      "title": "男子搬家遭敲诈威胁除非把房子卖了",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "尚公主官方拆cp",
+      "title": "德牧不是狗是家里人",
       "url": "https://weibo.com/hot/undefined"
     },
     {
-      "title": "W盛典内场",
+      "title": "日本担心高市早苗在APEC被冷落",
       "url": "https://weibo.com/hot/undefined"
     }
   ],
   "toutiao": [
     {
-      "title": "老人立遗嘱将6亿遗产留给再婚妻子",
-      "url": "https://www.toutiao.com/trending/7706132006567968804/"
+      "title": "桂林成立调查组核查天桥扶梯问题",
+      "url": "https://www.toutiao.com/trending/7706049279102485019/"
     },
     {
-      "title": "英伟达巨额货物失踪哪些细节值得推敲",
-      "url": "https://www.toutiao.com/trending/7706117206945304100/"
+      "title": "特朗普称没必要再对伊朗采取军事行动",
+      "url": "https://www.toutiao.com/trending/7705369281621442587/"
     },
     {
       "title": "三大变化折射进博会开放新内涵",
       "url": "https://www.toutiao.com/trending/7706135984835956262/"
     },
     {
+      "title": "美股三大指数集体收涨",
+      "url": "https://www.toutiao.com/trending/7706319612878717466/"
+    },
+    {
+      "title": "特朗普：不希望美在AI领域落后中国",
+      "url": "https://www.toutiao.com/trending/7705984247575626249/"
+    },
+    {
       "title": "山姆为何低价甩卖始祖鸟加拿大鹅",
       "url": "https://www.toutiao.com/trending/7706095473626451510/"
+    },
+    {
+      "title": "猪肉又便宜了",
+      "url": "https://www.toutiao.com/trending/7706168308793376819/"
+    },
+    {
+      "title": "云南昭通农户草莓大棚因积雪倒塌受损",
+      "url": "https://www.toutiao.com/trending/7706054464356188682/"
     },
     {
       "title": "油价预计将大幅下调",
       "url": "https://www.toutiao.com/trending/7705083710051222043/"
     },
     {
-      "title": "中方回应外媒涉60万枚英伟达芯片报道",
-      "url": "https://www.toutiao.com/trending/7706070287443329034/"
-    },
-    {
-      "title": "菲外交部就涉华言论敲打防长",
-      "url": "https://www.toutiao.com/trending/7705275356345712650/"
-    },
-    {
-      "title": "大二女生称AI毁了她的计算机学位",
-      "url": "https://www.toutiao.com/trending/7706100701260156479/"
-    },
-    {
-      "title": "攻击-11无人机：歼20的黄金搭档",
-      "url": "https://www.toutiao.com/trending/7706016207693988379/"
-    },
-    {
-      "title": "猪油被称“心血管杀手”冤不冤",
-      "url": "https://www.toutiao.com/trending/7706064001884569636/"
+      "title": "女子买7元早餐发现卡里近26万没了",
+      "url": "https://www.toutiao.com/trending/7706134341668078130/"
     }
   ],
   "ithome": [
     {
-      "title": "《GTA 6》PS5 版正式开启预载，XBOX Series X｜S 需等到北京时间早上 8 点",
-      "url": "/1/024/566.htm"
+      "title": "消息称三星电子、SK 海力士均将向 ASML EUV 光刻机投资超 10 万亿韩元",
+      "url": "/1/024/619.htm"
     },
     {
-      "title": "英伟达黄仁勋承认出轨，消息称其去年已聘请擅长处理丑闻的危机公关公司",
-      "url": "/1/024/565.htm"
+      "title": "华为官宣 MateBook Fold S 鸿蒙小折叠电脑 11 月 14 日开启预订",
+      "url": "/1/024/618.htm"
     },
     {
-      "title": "欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元",
-      "url": "/1/024/564.htm"
+      "title": "董明珠回应格力电器业绩下滑：因为铜在涨价，宁可损失几十亿利润，也不降低产品品质",
+      "url": "/1/024/617.htm"
     },
     {
-      "title": "FEVM 迷你主机 FNPH1 实物亮相：2cm 超薄，0.4L 体积",
-      "url": "/1/024/563.htm"
+      "title": "快舟六号火箭预计 2027 年完成首飞及回收，运载能力达 20 吨级",
+      "url": "/1/024/616.htm"
     },
     {
-      "title": "何小鹏：希望小鹏明年能成为第一个在欧洲上线智能辅助驾驶的中国品牌",
-      "url": "/1/024/561.htm"
+      "title": "首位英国艺人：Olivia Dean 当选苹果 2026 Apple Music 年度艺人",
+      "url": "/1/024/615.htm"
     },
     {
-      "title": "AOC“U32U4”31.5 英寸显示器发售：4K 120Hz QD-OLED Penta Tandem 五层堆栈面板 + 双扬，6499 元",
-      "url": "/1/024/560.htm"
+      "title": "为了室友喷两下：水卫士鞋子喷雾 7.2 元 / 瓶官方发车（京东 13.3 元）",
+      "url": "https://lapin.ithome.com/html/digi/1024614.htm"
     },
     {
-      "title": "美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”",
-      "url": "/1/024/559.htm"
+      "title": "消息称某厂骁龙 8EE6 超大杯超广角最高测试 LYT-L910，预计为 vivo X500 Ultra",
+      "url": "/1/024/613.htm"
     },
     {
-      "title": "榴莲爱好者 35.8 元 / 斤闭眼囤：佳农泰国金枕榴莲肉京东补贴购",
-      "url": "https://lapin.ithome.com/html/digi/1024567.htm"
+      "title": "董明珠称格力年底有一款能重新定义家电的产品，也许用完 10 年以后可以原价卖掉",
+      "url": "/1/024/612.htm"
     },
     {
-      "title": "微软商店 Microsoft Store《我的世界》PC 版游戏涨价，国区 89 元起 → 110.99 元起",
-      "url": "/1/024/558.htm"
+      "title": "八位堂推出 Ultimate 3C+ XBOX 版手柄，仅支持有线连接",
+      "url": "/1/024/611.htm"
     },
     {
-      "title": "飞利浦“27B2N1500”27 英寸显示器发售：2K 75Hz、内置电源，899 元",
-      "url": "/1/024/557.htm"
+      "title": "10:00~10:15 速抢限时不限量红包：京东红包今日全员加码",
+      "url": "/1/024/610.htm"
     }
   ],
   "github": [
@@ -258,8 +258,12 @@
       "url": "https://github.com/morluto/rea"
     },
     {
-      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers"
+      "title": "openclaw/openclaw: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills"
     },
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
@@ -278,20 +282,16 @@
       "url": "https://github.com/anomalyco/opencode"
     },
     {
-      "title": "ultraworkers/claw-code: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-      "url": "https://github.com/ultraworkers/claw-code"
-    },
-    {
       "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
-      "title": "msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents"
-    },
-    {
       "title": "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "title": "farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "url": "https://github.com/farion1231/cc-switch"
     }
   ],
   "huggingface": [
